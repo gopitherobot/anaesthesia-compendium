@@ -16,33 +16,26 @@
   const empty = document.getElementById("empty");
   let sec = "all", term = "";
 
-  const card = (t) => {
-    const cover = t.cover
-      ? `<img loading="lazy" src="${t.cover}" alt="">`
-      : `<div style="display:grid;place-items:center;height:100%;color:var(--faint)">${t.id}</div>`;
-    return `<article class="card" data-title="${AC.esc(t.title.toLowerCase())}" data-sec="${t.section}">
-      <a class="thumb" href="listen.html?id=${t.id}">
-        ${cover}
-        <span class="num">#${t.id}</span>
-        <span class="sect">${t.section}</span>
-      </a>
-      <div class="body">
-        <h3><a href="listen.html?id=${t.id}">${AC.esc(t.title)}</a></h3>
-        <div class="meta"><span>▶ ${t.durationText || ""}</span><span>${t.questionCount} questions</span></div>
-      </div>
-      <div class="acts">
+  const row = (t) => {
+    return `<div class="trow" data-title="${AC.esc(t.title.toLowerCase())}" data-sec="${t.section}">
+      <span class="tnum">${t.id}</span>
+      <span class="tmain">
+        <span class="ttitle"><a href="listen.html?id=${t.id}">${AC.esc(t.title)}</a></span>
+        <span class="tmeta"><span class="tsec">${t.section}</span>${t.durationText || ""} · ${t.questionCount} questions</span>
+      </span>
+      <span class="tmodes">
         <a href="listen.html?id=${t.id}">Listen</a>
         <a href="watch.html?id=${t.id}">Watch</a>
         <a href="read.html?id=${t.id}">Read</a>
-      </div>
-    </article>`;
+      </span>
+    </div>`;
   };
 
-  grid.innerHTML = topics.map(card).join("");
+  grid.innerHTML = topics.map(row).join("");
 
   const apply = () => {
     let shown = 0;
-    grid.querySelectorAll(".card").forEach(el => {
+    grid.querySelectorAll(".trow").forEach(el => {
       const okSec = sec === "all" || el.dataset.sec === sec;
       const okTerm = !term || el.dataset.title.includes(term);
       const vis = okSec && okTerm;
