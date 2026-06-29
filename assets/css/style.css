@@ -129,19 +129,22 @@ a{color:inherit;text-decoration:none}
 .transcript{height:62vh;min-height:380px;overflow-y:auto;padding:6px 4px;scroll-behavior:smooth}
 .transcript::-webkit-scrollbar{width:10px}
 .transcript::-webkit-scrollbar-thumb{background:var(--line2);border-radius:8px}
-.cue{display:block;padding:7px 12px;margin:2px 0;border-radius:9px;cursor:pointer;
-  color:var(--muted);border-left:3px solid transparent;transition:background .1s,color .1s}
-.cue:hover{background:var(--panel2);color:var(--txt)}
-.cue .who{font-size:10.5px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;
-  margin-right:8px;opacity:.95}
-.cue.E .who{color:var(--examiner)}
-.cue.C .who{color:var(--candidate)}
-.cue.E{border-left-color:rgba(168,67,59,.28)}
-.cue.C{border-left-color:rgba(35,108,122,.28)}
-.cue.active{background:linear-gradient(90deg,rgba(35,108,122,.12),rgba(35,108,122,.03));
-  color:var(--navy);border-left-color:var(--teal);font-weight:600}
-.cue.active.E{background:linear-gradient(90deg,rgba(168,67,59,.13),rgba(168,67,59,.03));
-  border-left-color:var(--brick)}
+/* transcript: flowing paragraphs grouped by speaker turn */
+.turn{margin:0 0 17px}
+.turn .who{display:block;font-size:11px;font-weight:800;letter-spacing:.9px;
+  text-transform:uppercase;margin:0 0 5px 14px}
+.turn.E .who{color:var(--examiner)}
+.turn.C .who{color:var(--candidate)}
+.turn-text{margin:0;color:var(--muted);line-height:1.78;font-size:15.5px;
+  padding-left:14px;border-left:3px solid transparent}
+.turn.E .turn-text{border-left-color:rgba(168,67,59,.22)}
+.turn.C .turn-text{border-left-color:rgba(35,108,122,.22)}
+/* each sentence/cue is an inline highlightable segment */
+.seg{cursor:pointer;border-radius:5px;padding:1px 3px;margin:0 -1px;
+  transition:background .12s,color .12s}
+.seg:hover{background:var(--panel2);color:var(--txt)}
+.seg.active{color:var(--navy);font-weight:600;background:rgba(35,108,122,.18)}
+.turn.E .seg.active{background:rgba(168,67,59,.18)}
 
 .sticky-side{position:sticky;top:84px}
 .side-list{max-height:74vh;overflow-y:auto}

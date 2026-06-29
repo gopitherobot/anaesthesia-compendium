@@ -26,17 +26,12 @@
     if (video.textTracks[0]) video.textTracks[0].mode = "showing";
   });
 
-  // ---- clickable transcript synced to video ----
+  // ---- clickable transcript synced to video (paragraphs, one label per turn) ----
   const box = document.getElementById("transcript");
   const cues = t.cues || [];
-  box.innerHTML = cues.map((c, i) => {
-    const who = c.r === "E" ? "Examiner" : (c.r === "C" ? "Candidate" : "");
-    return `<span class="cue ${c.r || ""}" data-i="${i}" data-s="${c.s}">
-      ${who ? `<span class="who">${who}</span>` : ""}${AC.esc(c.t)}</span>`;
-  }).join("");
-  const nodes = [...box.querySelectorAll(".cue")];
+  const nodes = AC.renderTranscript(box, cues);
   box.addEventListener("click", e => {
-    const el = e.target.closest(".cue"); if (!el) return;
+    const el = e.target.closest(".seg"); if (!el) return;
     video.currentTime = parseFloat(el.dataset.s) + 0.01;
     if (video.paused) video.play();
   });
@@ -47,7 +42,7 @@
     if (nodes[cur]) nodes[cur].classList.remove("active");
     cur = i; const el = nodes[cur]; if (!el) return;
     el.classList.add("active");
-    if (autoscroll) box.scrollTo({ top: el.offsetTop - box.clientHeight / 2 + el.clientHeight / 2, behavior: "smooth" });
+    if (autoscroll) AC.scrollToCenter(box, el);
   }
   video.addEventListener("timeupdate", () => {
     if (!cues.length) return;

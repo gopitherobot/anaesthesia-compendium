@@ -18,23 +18,17 @@
   const audio = document.getElementById("audio");
   audio.src = window.SITE.audioURL(t);
 
-  // ---- transcript ----
+  // ---- transcript (flowing paragraphs, one label per turn) ----
   const box = document.getElementById("transcript");
   const cues = t.cues || [];
-  box.innerHTML = cues.map((c, i) => {
-    const who = c.r === "E" ? "Examiner" : (c.r === "C" ? "Candidate" : "");
-    return `<span class="cue ${c.r || ""}" data-i="${i}" data-s="${c.s}">
-      ${who ? `<span class="who">${who}</span>` : ""}${AC.esc(c.t)}</span>`;
-  }).join("");
-
-  const nodes = [...box.querySelectorAll(".cue")];
+  const nodes = AC.renderTranscript(box, cues);
   box.addEventListener("click", e => {
-    const el = e.target.closest(".cue"); if (!el) return;
+    const el = e.target.closest(".seg"); if (!el) return;
     audio.currentTime = parseFloat(el.dataset.s) + 0.01;
     if (audio.paused) audio.play();
   });
 
-  // ---- sync highlight ----
+  // ---- sync highlight (sentence-level) ----
   let cur = -1, autoscroll = true;
   function highlight(i) {
     if (i === cur || i < 0) return;
@@ -43,10 +37,7 @@
     const el = nodes[cur];
     if (!el) return;
     el.classList.add("active");
-    if (autoscroll) {
-      const top = el.offsetTop - box.clientHeight / 2 + el.clientHeight / 2;
-      box.scrollTo({ top, behavior: "smooth" });
-    }
+    if (autoscroll) AC.scrollToCenter(box, el);
   }
   audio.addEventListener("timeupdate", () => {
     if (!cues.length) return;

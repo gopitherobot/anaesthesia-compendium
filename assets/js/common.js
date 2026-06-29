@@ -61,6 +61,34 @@ const AC = {
     </header>`;
   },
 
+  // Render the transcript as flowing paragraphs grouped by speaker turn.
+  // The Examiner/Candidate label shows ONCE per turn; each cue becomes an
+  // inline .seg that highlights in sync. Returns the ordered .seg nodes
+  // (index === cue index) for the player to drive.
+  renderTranscript(box, cues) {
+    const groups = [];
+    for (const c of cues) {
+      const last = groups[groups.length - 1];
+      if (!last || last.r !== c.r) groups.push({ r: c.r, items: [] });
+      groups[groups.length - 1].items.push(c);
+    }
+    let idx = 0;
+    box.innerHTML = groups.map(g => {
+      const who = g.r === "E" ? "Examiner" : (g.r === "C" ? "Candidate" : "");
+      const segs = g.items.map(c =>
+        `<span class="seg" data-i="${idx++}" data-s="${c.s}">${AC.esc(c.t)}</span>`
+      ).join(" ");
+      return `<div class="turn ${g.r || ""}">${who ? `<span class="who">${who}</span>` : ""}<p class="turn-text">${segs}</p></div>`;
+    }).join("");
+    return [...box.querySelectorAll(".seg")];
+  },
+
+  // Smoothly centre an element within its scroll container.
+  scrollToCenter(box, el) {
+    const br = el.getBoundingClientRect(), cr = box.getBoundingClientRect();
+    box.scrollTo({ top: box.scrollTop + (br.top - cr.top) - box.clientHeight / 2 + br.height / 2, behavior: "smooth" });
+  },
+
   mediaWarning() {
     if (window.SITE.mediaReady()) return "";
     return `<div class="media-warn">Media host not configured yet — audio/video will play once the Cloudflare R2 bucket URL is set in <code>config.js</code>.</div>`;
