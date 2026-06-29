@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/css/style.css?v=8">
+<link rel="stylesheet" href="assets/css/style.css?v=9">
 </head>
 <body>
 <div id="hdr"></div>
@@ -43,42 +43,98 @@
     </div>
   </section>
 
-  <!-- ===== THREE WAYS (Read · Listen · Watch) ===== -->
-  <section class="wrap lp-modes reveal">
-    <h2 class="lp-h2">Three ways to study every topic</h2>
-    <p class="lp-h2sub">Pick how you learn best — the same station, three formats.</p>
-    <div class="mode-cards">
-      <a class="mode-card read" href="read.html">
-        <span class="mc-ico" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M5 4h11l3 3v13H5z"/><path d="M15 4v4h4"/><path d="M8 12h8M8 15.5h8M8 8.5h3"/></svg>
-        </span>
-        <span class="mc-tag">01 · Read</span>
-        <h3>Clean Q&amp;A text</h3>
-        <p>The whole viva as examiner question and candidate answer — skim, search, and revise fast.</p>
-        <span class="mc-go">Read the Q&amp;A →</span>
-      </a>
-      <a class="mode-card listen" href="listen.html">
-        <span class="mc-ico" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 14v-2a8 8 0 0116 0v2"/><rect x="3" y="13" width="4" height="7" rx="1.5"/><rect x="17" y="13" width="4" height="7" rx="1.5"/></svg>
-        </span>
-        <span class="mc-tag">02 · Listen</span>
-        <h3>Audio + live transcript</h3>
-        <p>Hands-free revision. Every sentence highlights in real time as it's spoken — tap to jump.</p>
-        <span class="mc-go">Start listening →</span>
-      </a>
-      <a class="mode-card watch" href="watch.html">
-        <span class="mc-ico" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="2.5" y="4.5" width="19" height="13" rx="2"/><path d="M10 8.5l5 3-5 3z" fill="currentColor" stroke="none"/><path d="M8 21h8"/></svg>
-        </span>
-        <span class="mc-tag">03 · Watch</span>
-        <h3>Lyric-video player</h3>
-        <p>The full station as video with on-screen subtitles and a clickable, synced transcript.</p>
-        <span class="mc-go">Open the player →</span>
-      </a>
-    </div>
-    <div class="lib-cta reveal">
-      <a class="btn-cta ghost big" href="library.html">Browse the full library — all 87 topics, every format →</a>
-    </div>
+  <!-- ===== SHOWCASE SECTIONS ===== -->
+  <div class="sc-intro reveal">
+    <h2 class="lp-h2">Four ways in. One compendium.</h2>
+    <p class="lp-h2sub">Every station works the way you do — pick a format, or get them all in the library.</p>
+  </div>
+
+  <section class="showcases">
+
+    <!-- READING -->
+    <article class="showcase sc-read reveal" id="reading">
+      <div class="wrap sc-row">
+        <div class="sc-media">
+          <figure class="frame read"><img loading="lazy" src="assets/shots/read.jpg" alt="Reading page — full examiner-and-candidate Q&amp;A"></figure>
+        </div>
+        <div class="sc-text">
+          <span class="sc-kicker read">Reading</span>
+          <h2>Read the full Q&amp;A</h2>
+          <p>The entire viva as examiner question and candidate answer — clean, structured text you can move through at your own pace.</p>
+          <ul class="sc-points">
+            <li>Skim a whole station in minutes</li>
+            <li>Every question and model answer, in full</li>
+            <li>Instant find-within-topic search</li>
+            <li>Perfect for last-minute revision and note-making</li>
+          </ul>
+          <a class="btn-cta primary" href="read.html">Open the reading library →</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- LISTENING -->
+    <article class="showcase sc-listen alt reveal" id="listening">
+      <div class="wrap sc-row">
+        <div class="sc-media">
+          <figure class="frame listen"><img loading="lazy" src="assets/shots/listen.jpg" alt="Listening page — audio with a live synced transcript"></figure>
+        </div>
+        <div class="sc-text">
+          <span class="sc-kicker listen">Listening</span>
+          <h2>Listen with a live transcript</h2>
+          <p>Turn dead time into study time. The audio plays while every sentence lights up in sync — your eyes and ears reinforcing each other.</p>
+          <ul class="sc-points">
+            <li>Revise hands-free on the commute or at the gym</li>
+            <li>Live transcript highlights each line as it's spoken</li>
+            <li>Tap any sentence to jump; adjustable playback speed</li>
+            <li>Repetition that builds lasting recall</li>
+          </ul>
+          <a class="btn-cta primary" href="listen.html">Open the listening library →</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- VIDEO -->
+    <article class="showcase sc-watch reveal" id="video">
+      <div class="wrap sc-row">
+        <div class="sc-media">
+          <figure class="frame watch"><img loading="lazy" src="assets/shots/watch.jpg" alt="Video page — lyric video with subtitles and synced transcript"></figure>
+        </div>
+        <div class="sc-text">
+          <span class="sc-kicker watch">Video</span>
+          <h2>Watch the full lyric video</h2>
+          <p>The complete station as video, with on-screen subtitles and a clickable transcript beside it for focused, immersive study.</p>
+          <ul class="sc-points">
+            <li>On-screen subtitles you can toggle on or off</li>
+            <li>Synced transcript next to the video — click to seek</li>
+            <li>Visual pacing that holds your attention</li>
+            <li>Great for distraction-free, deep revision</li>
+          </ul>
+          <a class="btn-cta primary" href="watch.html">Open the video library →</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- LIBRARY -->
+    <article class="showcase sc-library alt reveal" id="library-showcase">
+      <div class="wrap sc-row">
+        <div class="sc-media">
+          <figure class="frame library"><img loading="lazy" src="assets/shots/library.jpg" alt="Library page — all topics in all three formats"></figure>
+        </div>
+        <div class="sc-text">
+          <span class="sc-kicker library">Library</span>
+          <h2>Everything in one library</h2>
+          <p>All 87 topics — and every format — in a single, searchable place. Choose a topic, then read, listen, or watch in one click.</p>
+          <ul class="sc-points">
+            <li>All three formats under every single topic</li>
+            <li>Filter by Pharmacology or Physiology</li>
+            <li>Search the entire catalogue instantly</li>
+            <li>Jump between topics from any page</li>
+          </ul>
+          <a class="btn-cta primary" href="library.html">Open the full library →</a>
+        </div>
+      </div>
+    </article>
+
   </section>
 
   <!-- ===== SUBSCRIBE BAND ===== -->
