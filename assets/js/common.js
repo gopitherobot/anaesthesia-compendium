@@ -42,9 +42,9 @@ const AC = {
   // build the top navigation / mode switcher
   header(activeMode, id) {
     const modes = id ? [
+      ["read.html?id=" + id, "Read", "read"],
       ["listen.html?id=" + id, "Listen", "listen"],
       ["watch.html?id=" + id, "Watch", "watch"],
-      ["read.html?id=" + id, "Read", "read"],
     ] : [];
     return `
     <header class="topbar">
