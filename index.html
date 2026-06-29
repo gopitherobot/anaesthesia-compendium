@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/css/style.css?v=9">
+<link rel="stylesheet" href="assets/css/style.css?v=10">
 </head>
 <body>
 <div id="hdr"></div>
@@ -43,21 +43,19 @@
     </div>
   </section>
 
-  <!-- ===== SHOWCASE SECTIONS ===== -->
   <div class="sc-intro reveal">
     <h2 class="lp-h2">Four ways in. One compendium.</h2>
-    <p class="lp-h2sub">Every station works the way you do — pick a format, or get them all in the library.</p>
+    <p class="lp-h2sub">Scroll through each format — pick how you study, or get them all in the library.</p>
   </div>
 
-  <section class="showcases">
+  <!-- ===== PARALLAX SHOWCASE PANELS ===== -->
+  <div class="px-wrap">
 
-    <!-- READING -->
-    <article class="showcase sc-read reveal" id="reading">
-      <div class="wrap sc-row">
-        <div class="sc-media">
-          <figure class="frame read"><img loading="lazy" src="assets/shots/read.jpg" alt="Reading page — full examiner-and-candidate Q&amp;A"></figure>
-        </div>
-        <div class="sc-text">
+    <a class="parallax sc-read" id="reading" href="read.html">
+      <div class="px-bg" style="background-image:url('assets/shots/read.jpg')"></div>
+      <div class="px-tint"></div>
+      <div class="px-inner wrap">
+        <div class="px-panel">
           <span class="sc-kicker read">Reading</span>
           <h2>Read the full Q&amp;A</h2>
           <p>The entire viva as examiner question and candidate answer — clean, structured text you can move through at your own pace.</p>
@@ -65,41 +63,37 @@
             <li>Skim a whole station in minutes</li>
             <li>Every question and model answer, in full</li>
             <li>Instant find-within-topic search</li>
-            <li>Perfect for last-minute revision and note-making</li>
+            <li>Perfect for last-minute revision and notes</li>
           </ul>
-          <a class="btn-cta primary" href="read.html">Open the reading library →</a>
+          <span class="btn-cta primary px-cta">Open the reading library →</span>
         </div>
       </div>
-    </article>
+    </a>
 
-    <!-- LISTENING -->
-    <article class="showcase sc-listen alt reveal" id="listening">
-      <div class="wrap sc-row">
-        <div class="sc-media">
-          <figure class="frame listen"><img loading="lazy" src="assets/shots/listen.jpg" alt="Listening page — audio with a live synced transcript"></figure>
-        </div>
-        <div class="sc-text">
+    <a class="parallax sc-listen alt" id="listening" href="listen.html">
+      <div class="px-bg" style="background-image:url('assets/shots/listen.jpg')"></div>
+      <div class="px-tint"></div>
+      <div class="px-inner wrap">
+        <div class="px-panel">
           <span class="sc-kicker listen">Listening</span>
           <h2>Listen with a live transcript</h2>
           <p>Turn dead time into study time. The audio plays while every sentence lights up in sync — your eyes and ears reinforcing each other.</p>
           <ul class="sc-points">
             <li>Revise hands-free on the commute or at the gym</li>
             <li>Live transcript highlights each line as it's spoken</li>
-            <li>Tap any sentence to jump; adjustable playback speed</li>
+            <li>Tap any sentence to jump; adjustable speed</li>
             <li>Repetition that builds lasting recall</li>
           </ul>
-          <a class="btn-cta primary" href="listen.html">Open the listening library →</a>
+          <span class="btn-cta primary px-cta">Open the listening library →</span>
         </div>
       </div>
-    </article>
+    </a>
 
-    <!-- VIDEO -->
-    <article class="showcase sc-watch reveal" id="video">
-      <div class="wrap sc-row">
-        <div class="sc-media">
-          <figure class="frame watch"><img loading="lazy" src="assets/shots/watch.jpg" alt="Video page — lyric video with subtitles and synced transcript"></figure>
-        </div>
-        <div class="sc-text">
+    <a class="parallax sc-watch" id="video" href="watch.html">
+      <div class="px-bg" style="background-image:url('assets/shots/watch.jpg')"></div>
+      <div class="px-tint"></div>
+      <div class="px-inner wrap">
+        <div class="px-panel">
           <span class="sc-kicker watch">Video</span>
           <h2>Watch the full lyric video</h2>
           <p>The complete station as video, with on-screen subtitles and a clickable transcript beside it for focused, immersive study.</p>
@@ -109,18 +103,16 @@
             <li>Visual pacing that holds your attention</li>
             <li>Great for distraction-free, deep revision</li>
           </ul>
-          <a class="btn-cta primary" href="watch.html">Open the video library →</a>
+          <span class="btn-cta primary px-cta">Open the video library →</span>
         </div>
       </div>
-    </article>
+    </a>
 
-    <!-- LIBRARY -->
-    <article class="showcase sc-library alt reveal" id="library-showcase">
-      <div class="wrap sc-row">
-        <div class="sc-media">
-          <figure class="frame library"><img loading="lazy" src="assets/shots/library.jpg" alt="Library page — all topics in all three formats"></figure>
-        </div>
-        <div class="sc-text">
+    <a class="parallax sc-library alt" id="library-showcase" href="library.html">
+      <div class="px-bg" style="background-image:url('assets/shots/library.jpg')"></div>
+      <div class="px-tint"></div>
+      <div class="px-inner wrap">
+        <div class="px-panel">
           <span class="sc-kicker library">Library</span>
           <h2>Everything in one library</h2>
           <p>All 87 topics — and every format — in a single, searchable place. Choose a topic, then read, listen, or watch in one click.</p>
@@ -130,12 +122,12 @@
             <li>Search the entire catalogue instantly</li>
             <li>Jump between topics from any page</li>
           </ul>
-          <a class="btn-cta primary" href="library.html">Open the full library →</a>
+          <span class="btn-cta primary px-cta">Open the full library →</span>
         </div>
       </div>
-    </article>
+    </a>
 
-  </section>
+  </div>
 
   <!-- ===== SUBSCRIBE BAND ===== -->
   <section class="lp-subscribe reveal" id="subscribe">
@@ -156,6 +148,6 @@
 
 <script src="config.js"></script>
 <script src="assets/js/common.js?v=8"></script>
-<script src="assets/js/home.js?v=8"></script>
+<script src="assets/js/home.js?v=9"></script>
 </body>
 </html>

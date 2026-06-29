@@ -49,4 +49,25 @@
   } else {
     reveals.forEach(el => el.classList.add("in"));
   }
+
+  // ---- parallax: image scrolls + brightens as each panel reaches focus ----
+  const panels = [...document.querySelectorAll(".parallax")];
+  if (panels.length) {
+    let ticking = false;
+    const update = () => {
+      const vh = window.innerHeight;
+      for (const s of panels) {
+        const r = s.getBoundingClientRect();
+        const prog = (r.top + r.height / 2 - vh / 2) / vh; // 0 when centred
+        const bg = s.querySelector(".px-bg");
+        if (bg) bg.style.transform = `translateY(${(prog * 9).toFixed(2)}%)`;
+        s.classList.toggle("active", Math.abs(prog) < 0.36);
+      }
+      ticking = false;
+    };
+    const onScroll = () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    update();
+  }
 })();
