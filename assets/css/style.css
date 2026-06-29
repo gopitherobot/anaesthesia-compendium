@@ -160,6 +160,8 @@ a{color:inherit;text-decoration:none}
 .hub-hero.read .hub-ico{background:rgba(168,67,59,.10);color:var(--brick)}
 .hub-hero.listen .hub-ico{background:rgba(35,108,122,.10);color:var(--teal)}
 .hub-hero.watch .hub-ico{background:rgba(31,61,79,.10);color:var(--navy)}
+.hub-hero.library .hub-ico{background:rgba(31,61,79,.10);color:var(--navy)}
+.lib-cta{text-align:center;margin-top:30px}
 .hub-hero h1{margin:0 0 6px;color:var(--navy);font-size:clamp(24px,3.6vw,34px);font-weight:800;letter-spacing:-.4px}
 .hub-hero p{color:var(--muted);margin:0 auto;max-width:560px}
 .hub-count{margin-top:12px;color:var(--faint);font-size:13px}

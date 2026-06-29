@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Library — Anaesthesia Compendium</title>
+<meta name="description" content="The full Anaesthesia Compendium library — every viva station in three formats: read, listen, watch.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/css/style.css?v=8">
+</head>
+<body>
+<div id="hdr"></div>
+<main>
+  <section class="hub-hero library">
+    <div class="wrap">
+      <span class="hub-ico" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+      </span>
+      <h1>The full library</h1>
+      <p>Every viva station in all three formats — read the Q&amp;A, listen with a synced transcript, or watch the video.</p>
+      <div class="hub-count"><span id="libcount">87</span> topics · 3 formats each</div>
+    </div>
+  </section>
+  <section class="wrap hub-body">
+    <div class="toolbar">
+      <label class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#5e7280" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Search topics… (e.g. propofol, renal, acid–base)" autocomplete="off">
+      </label>
+      <button class="chip is-active" data-sec="all">All</button>
+      <button class="chip" data-sec="Pharmacology">Pharmacology</button>
+      <button class="chip" data-sec="Physiology">Physiology</button>
+    </div>
+    <div id="grid" class="tlist"></div>
+    <div id="empty" class="empty hide">No topics match your search.</div>
+  </section>
+</main>
+<footer class="foot"><div class="wrap">
+  © <span id="yr"></span> Anaesthesia Compendium · Educational content only — not clinical guidance. Narration is AI-generated.
+</div></footer>
+<script src="config.js"></script>
+<script src="assets/js/common.js?v=8"></script>
+<script src="assets/js/library.js?v=8"></script>
+</body>
+</html>

@@ -65,13 +65,11 @@ const AC = {
   // build the top navigation. With an id → per-topic mode switcher.
   // Without id but a real mode → links to the three mode hubs.
   header(activeMode, id) {
-    let modes = [];
-    if (id) modes = [
+    const modes = id ? [
       ["read.html?id=" + id, "Read", "read"],
       ["listen.html?id=" + id, "Listen", "listen"],
       ["watch.html?id=" + id, "Watch", "watch"],
-    ];
-    else if (this.MODES[activeMode]) modes = [
+    ] : [
       ["read.html", "Read", "read"],
       ["listen.html", "Listen", "listen"],
       ["watch.html", "Watch", "watch"],
@@ -86,7 +84,7 @@ const AC = {
         ${modes.map(([h, l, m]) =>
           `<a href="${h}" class="mode ${m === activeMode ? "is-active" : ""}" data-m="${m}">${l}</a>`
         ).join("")}
-        <a href="index.html" class="mode lib ${activeMode === "library" ? "is-active" : ""}">Library</a>
+        <a href="library.html" class="mode lib ${activeMode === "library" ? "is-active" : ""}">Library</a>
       </nav>
     </header>`;
   },

@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/css/style.css?v=7">
+<link rel="stylesheet" href="assets/css/style.css?v=8">
 </head>
 <body>
 <div id="hdr"></div>
@@ -28,7 +28,7 @@
         <strong>read</strong> the full Q&amp;A, <strong>listen</strong> with a live synced transcript, or <strong>watch</strong> the video.</p>
       <div class="lp-cta">
         <a class="btn-cta primary subscribe-btn" href="#subscribe">Subscribe to the channel</a>
-        <a class="btn-cta ghost" href="#library">Browse the library</a>
+        <a class="btn-cta ghost" href="library.html">Browse the library</a>
       </div>
       <div class="lp-trust">Free · Exam-focused · New stations added regularly</div>
       <div class="lp-stats" id="stats">
@@ -76,25 +76,9 @@
         <span class="mc-go">Open the player →</span>
       </a>
     </div>
-  </section>
-
-  <!-- ===== LIBRARY ===== -->
-  <section class="wrap lp-library" id="library">
-    <div class="lib-head reveal">
-      <h2 class="lp-h2">The full library</h2>
-      <p class="lp-h2sub">Every station, ready to study three ways.</p>
+    <div class="lib-cta reveal">
+      <a class="btn-cta ghost big" href="library.html">Browse the full library — all 87 topics, every format →</a>
     </div>
-    <div class="toolbar reveal">
-      <label class="search">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#5e7280" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-        <input id="q" type="search" placeholder="Search topics… (e.g. propofol, renal, acid–base)" autocomplete="off">
-      </label>
-      <button class="chip is-active" data-sec="all">All</button>
-      <button class="chip" data-sec="Pharmacology">Pharmacology</button>
-      <button class="chip" data-sec="Physiology">Physiology</button>
-    </div>
-    <div id="grid" class="tlist reveal"></div>
-    <div id="empty" class="empty hide">No topics match your search.</div>
   </section>
 
   <!-- ===== SUBSCRIBE BAND ===== -->
@@ -115,7 +99,7 @@
 </div></footer>
 
 <script src="config.js"></script>
-<script src="assets/js/common.js?v=7"></script>
-<script src="assets/js/library.js?v=7"></script>
+<script src="assets/js/common.js?v=8"></script>
+<script src="assets/js/home.js?v=8"></script>
 </body>
 </html>
