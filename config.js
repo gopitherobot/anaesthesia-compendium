@@ -11,7 +11,7 @@
  * or the r2.dev URL "https://pub-xxxxxxxx.r2.dev".
  * (No trailing slash.)
  * ------------------------------------------------------------------------- */
-window.MEDIA_BASE = "https://MEDIA-BASE-NOT-SET";
+window.MEDIA_BASE = "https://pub-0c138a05f38b4967a8fd54e51607fdb8.r2.dev";
 
 window.SITE = {
   title: "Anaesthesia Compendium",
