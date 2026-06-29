@@ -1,0 +1,2470 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.061
+Welcome to Anaesthesia Compendium. Today's viva station: the benzodiazepines.
+
+2
+00:00:06.061 --> 00:00:11.309
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.809 --> 00:00:17.420
+We turn to the benzodiazepines. Introduce the class and its range of actions.
+
+4
+00:00:17.920 --> 00:00:23.406
+The benzodiazepines are a class of drugs acting at the gamma-aminobutyric acid type
+
+5
+00:00:23.406 --> 00:00:28.364
+A receptor to produce a spectrum of related effects: sedation and hypnosis,
+
+6
+00:00:28.364 --> 00:00:31.999
+anxiolysis, anterograde amnesia, anticonvulsant action,
+
+7
+00:00:31.999 --> 00:00:34.709
+and centrally mediated muscle relaxation.
+
+8
+00:00:34.849 --> 00:00:39.482
+They are widely used in anaesthesia and critical care for premedication and
+
+9
+00:00:39.482 --> 00:00:43.498
+anxiolysis, for sedation during procedures and in intensive care,
+
+10
+00:00:43.498 --> 00:00:47.451
+as co-induction agents, for the treatment of status epilepticus,
+
+11
+00:00:47.451 --> 00:00:49.057
+and in alcohol withdrawal.
+
+12
+00:00:49.197 --> 00:00:54.491
+The class includes midazolam, the short-acting water-soluble agent we use most in
+
+13
+00:00:54.491 --> 00:00:57.693
+the perioperative period; diazepam and lorazepam;
+
+14
+00:00:57.693 --> 00:01:02.463
+and the oral agents such as temazepam. A specific competitive antagonist,
+
+15
+00:01:02.463 --> 00:01:05.731
+flumazenil, is available to reverse their effects.
+
+16
+00:01:05.871 --> 00:01:09.759
+Their favourable safety in overdose, relative to the barbiturates,
+
+17
+00:01:09.759 --> 00:01:11.055
+is a defining feature.
+
+18
+00:01:11.555 --> 00:01:16.867
+Describe their structure, and the special feature of midazolam's formulation.
+
+19
+00:01:17.367 --> 00:01:22.452
+The benzodiazepines share a structure of a benzene ring fused to a seven-membered
+
+20
+00:01:22.452 --> 00:01:27.223
+diazepine ring, with substitutions that modify potency and pharmacokinetics.
+
+21
+00:01:27.363 --> 00:01:31.704
+Midazolam is an imidazobenzodiazepine with a clinically useful trick of
+
+22
+00:01:31.704 --> 00:01:36.718
+pH-dependent ring structure: in the acidic medium of its ampoule the ring is open,
+
+23
+00:01:36.718 --> 00:01:41.671
+rendering it water-soluble so that it can be formulated without irritant solvents
+
+24
+00:01:41.671 --> 00:01:45.218
+and given painlessly; at physiological pH the ring closes,
+
+25
+00:01:45.218 --> 00:01:50.232
+making the molecule lipophilic so that it crosses the blood-brain barrier rapidly.
+
+26
+00:01:50.372 --> 00:01:54.372
+Diazepam, by contrast, is lipophilic and poorly water-soluble,
+
+27
+00:01:54.372 --> 00:01:59.533
+so it is formulated in propylene glycol, which causes pain and thrombophlebitis,
+
+28
+00:01:59.533 --> 00:02:01.017
+or as a lipid emulsion.
+
+29
+00:02:01.157 --> 00:02:06.194
+So midazolam's formulation neatly exploits a physicochemical property to combine
+
+30
+00:02:06.194 --> 00:02:10.160
+water solubility in the vial with lipid solubility in the body.
+
+31
+00:02:10.660 --> 00:02:15.439
+What is the mechanism of action, and how does it differ from the barbiturates?
+
+32
+00:02:15.939 --> 00:02:21.158
+Benzodiazepines bind to a specific benzodiazepine site on the gamma-aminobutyric
+
+33
+00:02:21.158 --> 00:02:26.182
+acid type A receptor, distinct from the site at which gamma-aminobutyric acid
+
+34
+00:02:26.182 --> 00:02:30.488
+itself binds, located between particular subunits of the receptor.
+
+35
+00:02:30.628 --> 00:02:35.053
+Binding enhances the affinity of the receptor for gamma-aminobutyric acid and
+
+36
+00:02:35.053 --> 00:02:39.477
+increases the frequency of opening of the chloride channel in response to it.
+
+37
+00:02:39.477 --> 00:02:42.178
+This is the key contrast with the barbiturates,
+
+38
+00:02:42.178 --> 00:02:44.879
+which increase the duration of channel opening.
+
+39
+00:02:45.019 --> 00:02:49.626
+Crucially, benzodiazepines only potentiate the action of gamma-aminobutyric acid
+
+40
+00:02:49.626 --> 00:02:53.427
+that is already present and cannot open the channel by themselves;
+
+41
+00:02:53.427 --> 00:02:55.558
+their effect therefore has a ceiling,
+
+42
+00:02:55.558 --> 00:02:59.359
+which is why they are far safer in overdose than the barbiturates,
+
+43
+00:02:59.359 --> 00:03:01.893
+whose direct channel opening has no ceiling.
+
+44
+00:03:02.033 --> 00:03:06.139
+Different receptor subtypes mediate the different effects — sedation,
+
+45
+00:03:06.139 --> 00:03:07.388
+anxiolysis and so on.
+
+46
+00:03:07.888 --> 00:03:11.899
+Take me through the pharmacokinetics of midazolam.
+
+47
+00:03:12.399 --> 00:03:15.298
+Midazolam, in its lipophilic form at body pH,
+
+48
+00:03:15.298 --> 00:03:19.809
+has a rapid onset and a relatively short duration after a single dose,
+
+49
+00:03:19.809 --> 00:03:21.871
+with recovery by redistribution.
+
+50
+00:03:22.011 --> 00:03:26.835
+It is metabolised in the liver by the cytochrome enzyme CYP3A4 to an active
+
+51
+00:03:26.835 --> 00:03:31.466
+metabolite, one-hydroxymidazolam, which is then conjugated and excreted;
+
+52
+00:03:31.466 --> 00:03:35.776
+the active metabolite contributes to the effect and can accumulate.
+
+53
+00:03:35.776 --> 00:03:39.056
+Its elimination half-life is a few hours in health.
+
+54
+00:03:39.196 --> 00:03:43.922
+Importantly, its context-sensitive half-time rises with prolonged infusion,
+
+55
+00:03:43.922 --> 00:03:49.088
+so that sedation in intensive care leads to accumulation and a prolonged recovery,
+
+56
+00:03:49.088 --> 00:03:53.625
+especially where hepatic metabolism is impaired or the active metabolite
+
+57
+00:03:53.625 --> 00:03:55.452
+accumulates in renal failure.
+
+58
+00:03:55.592 --> 00:04:00.966
+Its metabolism is subject to interactions through CYP3A4 — inhibitors prolong and
+
+59
+00:04:00.966 --> 00:04:02.824
+inducers shorten its effect.
+
+60
+00:04:03.324 --> 00:04:09.489
+Contrast the pharmacokinetics of diazepam and lorazepam with midazolam.
+
+61
+00:04:09.989 --> 00:04:14.263
+Diazepam is long-acting, metabolised to active metabolites including
+
+62
+00:04:14.263 --> 00:04:18.976
+desmethyldiazepam, which has a very long half-life of days and prolongs and
+
+63
+00:04:18.976 --> 00:04:24.004
+accumulates the effect, making diazepam unsuitable where a brief or controllable
+
+64
+00:04:24.004 --> 00:04:25.072
+effect is wanted.
+
+65
+00:04:25.212 --> 00:04:28.304
+Lorazepam is intermediate-acting and, importantly,
+
+66
+00:04:28.304 --> 00:04:33.374
+is metabolised directly by glucuronidation to an inactive conjugate without active
+
+67
+00:04:33.374 --> 00:04:37.826
+metabolites and without dependence on the oxidative cytochrome pathways,
+
+68
+00:04:37.826 --> 00:04:42.401
+so its handling is more predictable and it is relatively spared in hepatic
+
+69
+00:04:42.401 --> 00:04:44.071
+impairment and the elderly.
+
+70
+00:04:44.211 --> 00:04:48.254
+Midazolam is the shortest-acting of the three after a single dose.
+
+71
+00:04:48.254 --> 00:04:53.217
+So the choice between them turns on the desired duration and on hepatic function:
+
+72
+00:04:53.217 --> 00:04:55.545
+midazolam for brief perioperative use,
+
+73
+00:04:55.545 --> 00:04:58.302
+lorazepam where predictable handling matters,
+
+74
+00:04:58.302 --> 00:05:00.936
+diazepam where a long action is acceptable.
+
+75
+00:05:12.449 --> 00:05:16.140
+Describe their effects on the central nervous system.
+
+76
+00:05:16.640 --> 00:05:22.119
+Benzodiazepines produce dose-dependent central depression: anxiolysis at low doses,
+
+77
+00:05:22.119 --> 00:05:27.334
+then sedation, then hypnosis, though they do not reliably produce full surgical
+
+78
+00:05:27.334 --> 00:05:28.523
+anaesthesia alone.
+
+79
+00:05:28.663 --> 00:05:33.693
+They cause anterograde amnesia — impairing the formation of new memories — which is
+
+80
+00:05:33.693 --> 00:05:36.966
+valued for unpleasant procedures and as premedication,
+
+81
+00:05:36.966 --> 00:05:39.329
+midazolam being particularly effective.
+
+82
+00:05:39.469 --> 00:05:42.898
+They are anticonvulsant, raising the seizure threshold,
+
+83
+00:05:42.898 --> 00:05:46.639
+which underlies their first-line role in status epilepticus.
+
+84
+00:05:46.639 --> 00:05:51.814
+They produce centrally mediated skeletal muscle relaxation, useful in muscle spasm.
+
+85
+00:05:51.814 --> 00:05:55.555
+They modestly reduce cerebral metabolic rate and blood flow.
+
+86
+00:05:55.695 --> 00:06:00.580
+They have no analgesic action. And they can cause paradoxical excitation and
+
+87
+00:06:00.580 --> 00:06:03.794
+agitation, especially in children and the elderly.
+
+88
+00:06:03.794 --> 00:06:08.164
+So the central profile is a useful combination of sedation, amnesia,
+
+89
+00:06:08.164 --> 00:06:10.543
+anxiolysis and anticonvulsant action.
+
+90
+00:06:11.043 --> 00:06:14.435
+And their cardiovascular and respiratory effects?
+
+91
+00:06:14.935 --> 00:06:18.400
+The cardiovascular effects of benzodiazepines are modest:
+
+92
+00:06:18.400 --> 00:06:22.473
+a small fall in arterial pressure and systemic vascular resistance,
+
+93
+00:06:22.473 --> 00:06:26.790
+generally well tolerated, which is part of why they are relatively safe
+
+94
+00:06:26.790 --> 00:06:31.532
+haemodynamically and useful as co-induction agents in the compromised patient.
+
+95
+00:06:31.672 --> 00:06:34.233
+The respiratory effects are more important:
+
+96
+00:06:34.233 --> 00:06:37.152
+they cause dose-dependent respiratory depression,
+
+97
+00:06:37.152 --> 00:06:40.547
+reducing tidal volume and the response to carbon dioxide,
+
+98
+00:06:40.547 --> 00:06:42.275
+and they depress airway tone.
+
+99
+00:06:42.415 --> 00:06:47.128
+The critical point is their synergy with opioids — a benzodiazepine and an opioid
+
+100
+00:06:47.128 --> 00:06:50.386
+together depress respiration far more than either alone,
+
+101
+00:06:50.386 --> 00:06:55.216
+and this combination is a frequent cause of serious respiratory events in sedation,
+
+102
+00:06:55.216 --> 00:06:59.289
+particularly in the elderly and those with sleep-disordered breathing.
+
+103
+00:06:59.429 --> 00:07:04.229
+So respiratory depression, especially in combination, is their main acute danger.
+
+104
+00:07:04.729 --> 00:07:10.191
+What are the indications for benzodiazepines in anaesthesia and critical care?
+
+105
+00:07:10.691 --> 00:07:14.193
+They are used for premedication and anxiolysis before surgery,
+
+106
+00:07:14.193 --> 00:07:17.414
+midazolam being favoured for its rapid onset and amnesia;
+
+107
+00:07:17.414 --> 00:07:21.594
+for conscious sedation during procedures performed under local or regional
+
+108
+00:07:21.594 --> 00:07:23.628
+anaesthesia; as co-induction agents,
+
+109
+00:07:23.628 --> 00:07:27.865
+a small dose reducing the dose of the main induction agent through synergy;
+
+110
+00:07:27.865 --> 00:07:31.085
+for sedation of the ventilated patient in intensive care,
+
+111
+00:07:31.085 --> 00:07:35.323
+though this use is now restricted; for the treatment of status epilepticus,
+
+112
+00:07:35.323 --> 00:07:39.164
+where they are first-line; for the management of alcohol withdrawal;
+
+113
+00:07:39.164 --> 00:07:42.328
+for acute behavioural disturbance; and for muscle spasm.
+
+114
+00:07:42.468 --> 00:07:45.105
+Their versatility across sedation, amnesia,
+
+115
+00:07:45.105 --> 00:07:49.399
+anticonvulsant and muscle-relaxant indications makes them widely used,
+
+116
+00:07:49.399 --> 00:07:52.281
+within the limits set by their adverse effects.
+
+117
+00:07:52.781 --> 00:07:56.749
+Give the doses for the common uses of midazolam.
+
+118
+00:07:57.249 --> 00:08:02.169
+For conscious sedation, midazolam is titrated in small increments — commonly one to
+
+119
+00:08:02.169 --> 00:08:04.481
+two milligrams at a time intravenously,
+
+120
+00:08:04.481 --> 00:08:07.741
+with smaller doses and longer intervals in the elderly,
+
+121
+00:08:07.741 --> 00:08:10.231
+waiting for the effect before giving more,
+
+122
+00:08:10.231 --> 00:08:14.380
+since over-rapid dosing risks oversedation and respiratory depression.
+
+123
+00:08:14.520 --> 00:08:19.112
+For premedication it may be given orally or intravenously in a modest dose.
+
+124
+00:08:19.112 --> 00:08:22.785
+For status epilepticus it is given as a defined intravenous,
+
+125
+00:08:22.785 --> 00:08:26.887
+intramuscular or buccal dose. As a co-induction agent a small dose,
+
+126
+00:08:26.887 --> 00:08:30.989
+of the order of a milligram or two, is given before the main agent.
+
+127
+00:08:31.129 --> 00:08:35.606
+The governing principle is careful titration to effect with reduced doses in the
+
+128
+00:08:35.606 --> 00:08:40.082
+elderly and the compromised, because of the synergy with opioids and the risk of
+
+129
+00:08:40.082 --> 00:08:41.369
+respiratory depression.
+
+130
+00:08:41.869 --> 00:08:45.389
+What are the adverse effects of the benzodiazepines?
+
+131
+00:08:45.889 --> 00:08:49.543
+The principal acute adverse effect is respiratory depression,
+
+132
+00:08:49.543 --> 00:08:53.016
+especially in combination with opioids and in the elderly,
+
+133
+00:08:53.016 --> 00:08:55.712
+and oversedation with loss of airway control.
+
+134
+00:08:55.712 --> 00:08:59.784
+They cause paradoxical agitation and disinhibition in some patients,
+
+135
+00:08:59.784 --> 00:09:02.060
+particularly children and the elderly.
+
+136
+00:09:02.200 --> 00:09:04.756
+With prolonged use they produce tolerance,
+
+137
+00:09:04.756 --> 00:09:08.346
+physical dependence and a withdrawal syndrome on cessation.
+
+138
+00:09:08.346 --> 00:09:13.154
+In intensive care, benzodiazepine sedation is associated with delirium and with
+
+139
+00:09:13.154 --> 00:09:17.475
+longer duration of ventilation, which has led to a move away from them.
+
+140
+00:09:17.615 --> 00:09:22.486
+In the elderly they increase the risk of falls, confusion and cognitive impairment.
+
+141
+00:09:22.486 --> 00:09:26.889
+Used in late pregnancy or labour they can cause neonatal depression and the
+
+142
+00:09:26.889 --> 00:09:28.239
+floppy-infant syndrome.
+
+143
+00:09:28.379 --> 00:09:30.957
+So their adverse effects span the respiratory,
+
+144
+00:09:30.957 --> 00:09:34.096
+the neuropsychiatric and the consequences of dependence.
+
+145
+00:09:34.596 --> 00:09:40.535
+Why have benzodiazepines fallen out of favour for routine sedation in intensive
+
+146
+00:09:40.535 --> 00:09:40.911
+care?
+
+147
+00:09:41.411 --> 00:09:46.333
+Because accumulating evidence has linked benzodiazepine-based sedation in the
+
+148
+00:09:46.333 --> 00:09:51.254
+intensive care unit to worse patient-centred outcomes — a higher incidence of
+
+149
+00:09:51.254 --> 00:09:54.578
+delirium, longer duration of mechanical ventilation,
+
+150
+00:09:54.578 --> 00:09:58.541
+and longer stay — compared with non-benzodiazepine strategies.
+
+151
+00:09:58.681 --> 00:10:01.691
+Their long context-sensitive half-time and active,
+
+152
+00:10:01.691 --> 00:10:06.084
+accumulating metabolites contribute to prolonged, unpredictable sedation.
+
+153
+00:10:06.224 --> 00:10:10.578
+Modern critical-care sedation guidelines therefore recommend light,
+
+154
+00:10:10.578 --> 00:10:15.452
+targeted sedation and favour non-benzodiazepine agents such as propofol and
+
+155
+00:10:15.452 --> 00:10:18.376
+dexmedetomidine for most ventilated patients,
+
+156
+00:10:18.376 --> 00:10:23.445
+reserving benzodiazepines for specific indications such as alcohol withdrawal,
+
+157
+00:10:23.445 --> 00:10:27.344
+seizures, deep sedation requirements and procedural amnesia.
+
+158
+00:10:27.484 --> 00:10:32.336
+So their decline reflects a shift towards sedation strategies that reduce delirium
+
+159
+00:10:32.336 --> 00:10:33.756
+and shorten ventilation.
+
+160
+00:10:45.269 --> 00:10:48.213
+What are the contraindications and cautions?
+
+161
+00:10:48.713 --> 00:10:52.075
+They should be used with great caution, and often avoided,
+
+162
+00:10:52.075 --> 00:10:55.553
+in respiratory failure and severe respiratory insufficiency,
+
+163
+00:10:55.553 --> 00:11:00.016
+and in untreated obstructive sleep apnoea, because of respiratory depression.
+
+164
+00:11:00.016 --> 00:11:04.479
+They are cautioned in myasthenia gravis, where muscle relaxation is unwanted.
+
+165
+00:11:04.619 --> 00:11:09.547
+Severe hepatic impairment prolongs the effect of those dependent on oxidative
+
+166
+00:11:09.547 --> 00:11:13.899
+metabolism, so lorazepam, which is glucuronidated, may be preferred.
+
+167
+00:11:14.039 --> 00:11:17.355
+The elderly are highly sensitive and at risk of falls,
+
+168
+00:11:17.355 --> 00:11:19.565
+confusion and paradoxical reactions,
+
+169
+00:11:19.565 --> 00:11:22.636
+so doses are reduced and the drugs used sparingly.
+
+170
+00:11:22.636 --> 00:11:27.180
+They are avoided in late pregnancy and labour because of neonatal effects.
+
+171
+00:11:27.320 --> 00:11:31.973
+And the combination with opioids and other central depressants, including alcohol,
+
+172
+00:11:31.973 --> 00:11:35.661
+is a major caution because of synergistic respiratory depression.
+
+173
+00:11:36.161 --> 00:11:38.273
+Tell me about flumazenil.
+
+174
+00:11:38.773 --> 00:11:44.200
+Flumazenil is a specific competitive antagonist at the benzodiazepine site of the
+
+175
+00:11:44.200 --> 00:11:46.880
+gamma-aminobutyric acid type A receptor,
+
+176
+00:11:46.880 --> 00:11:51.637
+which reverses the sedative and respiratory effects of benzodiazepines.
+
+177
+00:11:51.777 --> 00:11:56.887
+It is used to reverse benzodiazepine sedation, for instance after a procedure,
+
+178
+00:11:56.887 --> 00:12:01.015
+and in the diagnosis and management of benzodiazepine overdose.
+
+179
+00:12:01.155 --> 00:12:06.243
+Its important limitation is that its elimination half-life is shorter than that of
+
+180
+00:12:06.243 --> 00:12:10.835
+most benzodiazepines, so resedation can occur as the antagonist wears off,
+
+181
+00:12:10.835 --> 00:12:13.379
+requiring observation or repeated dosing.
+
+182
+00:12:13.519 --> 00:12:18.092
+It must be used with care, because it can precipitate seizures — in patients
+
+183
+00:12:18.092 --> 00:12:22.906
+dependent on benzodiazepines, in mixed overdoses particularly with proconvulsant
+
+184
+00:12:22.906 --> 00:12:27.479
+drugs, and in those taking benzodiazepines for epilepsy — so it is not given
+
+185
+00:12:27.479 --> 00:12:29.284
+routinely or indiscriminately.
+
+186
+00:12:29.424 --> 00:12:31.984
+It is a valuable but double-edged antidote.
+
+187
+00:12:32.484 --> 00:12:38.543
+Compare midazolam, diazepam and lorazepam, and state when you would choose each.
+
+188
+00:12:39.043 --> 00:12:42.916
+Midazolam is short-acting, water-soluble and painless to inject,
+
+189
+00:12:42.916 --> 00:12:47.878
+with rapid onset and good amnesia, making it the agent of choice for perioperative
+
+190
+00:12:47.878 --> 00:12:50.964
+premedication, conscious sedation and co-induction,
+
+191
+00:12:50.964 --> 00:12:54.232
+accepting that it accumulates with prolonged infusion.
+
+192
+00:12:54.372 --> 00:12:58.972
+Diazepam is long-acting with long-lived active metabolites, giving a prolonged,
+
+193
+00:12:58.972 --> 00:13:03.514
+less controllable effect, now used less in the perioperative period but useful
+
+194
+00:13:03.514 --> 00:13:05.785
+where a sustained action is acceptable.
+
+195
+00:13:05.925 --> 00:13:10.587
+Lorazepam is intermediate-acting with no active metabolites and glucuronide
+
+196
+00:13:10.587 --> 00:13:15.498
+metabolism, giving predictable handling that is relatively preserved in hepatic
+
+197
+00:13:15.498 --> 00:13:20.657
+impairment and the elderly, and it is a first-line agent for status epilepticus and
+
+198
+00:13:20.657 --> 00:13:23.952
+for situations needing a steadier, longer anxiolysis.
+
+199
+00:13:24.092 --> 00:13:27.544
+So I would choose midazolam for brief perioperative use,
+
+200
+00:13:27.544 --> 00:13:30.503
+lorazepam for predictable handling and seizures,
+
+201
+00:13:30.503 --> 00:13:33.031
+and diazepam where its long action suits.
+
+202
+00:13:33.531 --> 00:13:37.883
+Is there a recent development in this class relevant to practice?
+
+203
+00:13:38.383 --> 00:13:42.948
+Yes — remimazolam, a newer benzodiazepine designed as a soft drug.
+
+204
+00:13:43.088 --> 00:13:46.492
+It is an ultra-short-acting agent with an ester linkage,
+
+205
+00:13:46.492 --> 00:13:50.930
+so that it is metabolised by non-specific tissue esterases to an inactive
+
+206
+00:13:50.930 --> 00:13:55.185
+metabolite, independent of hepatic and renal function, giving a rapid,
+
+207
+00:13:55.185 --> 00:14:00.169
+predictable offset and a context-sensitive half-time that remains short even after
+
+208
+00:14:00.169 --> 00:14:04.485
+prolonged infusion — overcoming the accumulation that limits midazolam.
+
+209
+00:14:04.625 --> 00:14:09.649
+It retains the favourable cardiovascular and respiratory profile of the class and,
+
+210
+00:14:09.649 --> 00:14:12.284
+importantly, is reversible with flumazenil.
+
+211
+00:14:12.424 --> 00:14:16.107
+It is licensed for procedural sedation and, in some countries,
+
+212
+00:14:16.107 --> 00:14:20.799
+for general anaesthesia, and is of particular interest for the haemodynamically
+
+213
+00:14:20.799 --> 00:14:25.373
+fragile and for sedation where a clean, organ-independent recovery is wanted.
+
+214
+00:14:25.513 --> 00:14:29.960
+It represents the application of soft-drug design, as with remifentanil,
+
+215
+00:14:29.960 --> 00:14:31.380
+to the benzodiazepines.
+
+216
+00:14:31.880 --> 00:14:36.765
+Pull it together: how do you use the benzodiazepines rationally and safely?
+
+217
+00:14:37.265 --> 00:14:41.613
+I would use them for their genuine strengths — anxiolysis and amnesia for
+
+218
+00:14:41.613 --> 00:14:45.246
+premedication and procedures, synergy as co-induction agents,
+
+219
+00:14:45.246 --> 00:14:47.688
+first-line control of status epilepticus,
+
+220
+00:14:47.688 --> 00:14:52.572
+and management of alcohol withdrawal — choosing the agent by the duration required
+
+221
+00:14:52.572 --> 00:14:56.145
+and the patient's hepatic function, midazolam for brief use,
+
+222
+00:14:56.145 --> 00:14:59.004
+lorazepam for predictable handling and seizures.
+
+223
+00:14:59.144 --> 00:15:01.253
+I would titrate carefully to effect,
+
+224
+00:15:01.253 --> 00:15:04.065
+reduce doses in the elderly and the compromised,
+
+225
+00:15:04.065 --> 00:15:08.868
+and be especially cautious of the synergistic respiratory depression with opioids,
+
+226
+00:15:08.868 --> 00:15:13.203
+monitoring ventilation and having flumazenil and airway support available.
+
+227
+00:15:13.343 --> 00:15:18.067
+I would avoid routine benzodiazepine sedation in the ventilated intensive-care
+
+228
+00:15:18.067 --> 00:15:21.337
+patient because of delirium and prolonged ventilation,
+
+229
+00:15:21.337 --> 00:15:23.759
+reserving them for specific indications,
+
+230
+00:15:23.759 --> 00:15:27.999
+and I would be mindful of tolerance and dependence with prolonged use.
+
+231
+00:15:28.139 --> 00:15:32.201
+Used thus, they are valuable; used carelessly, particularly with opioids,
+
+232
+00:15:32.201 --> 00:15:33.259
+they are dangerous.
+
+233
+00:15:44.772 --> 00:15:49.572
+Tell me about the receptor subtypes and how they relate to the different effects.
+
+234
+00:15:50.072 --> 00:15:55.142
+The gamma-aminobutyric acid type A receptor is a pentamer assembled from various
+
+235
+00:15:55.142 --> 00:16:00.275
+subunits, and the particular combination determines the receptor's properties and
+
+236
+00:16:00.275 --> 00:16:05.472
+its sensitivity to benzodiazepines. The classical benzodiazepine site lies between
+
+237
+00:16:05.472 --> 00:16:07.309
+an alpha and a gamma subunit.
+
+238
+00:16:07.449 --> 00:16:10.458
+Different alpha subunits mediate different effects:
+
+239
+00:16:10.458 --> 00:16:15.119
+receptors containing the alpha-one subunit are thought to mediate the sedative,
+
+240
+00:16:15.119 --> 00:16:17.184
+amnesic and anticonvulsant actions,
+
+241
+00:16:17.184 --> 00:16:21.904
+while those containing alpha-two and alpha-three subunits mediate the anxiolytic
+
+242
+00:16:21.904 --> 00:16:23.556
+and muscle-relaxant actions.
+
+243
+00:16:23.696 --> 00:16:27.586
+This subunit basis explains why the conventional benzodiazepines,
+
+244
+00:16:27.586 --> 00:16:31.296
+acting non-selectively, produce the whole spectrum of effects,
+
+245
+00:16:31.296 --> 00:16:35.665
+and it has driven the search for subunit-selective agents that might give
+
+246
+00:16:35.665 --> 00:16:39.973
+anxiolysis without sedation — a goal not yet fully realised in practice.
+
+247
+00:16:40.473 --> 00:16:44.441
+What are inverse agonists and partial agonists at this site?
+
+248
+00:16:44.941 --> 00:16:49.923
+The benzodiazepine site is unusual in supporting a continuum of activity.
+
+249
+00:16:49.923 --> 00:16:53.199
+A full agonist, the conventional benzodiazepine,
+
+250
+00:16:53.199 --> 00:16:57.293
+enhances the receptor's response to gamma-aminobutyric acid.
+
+251
+00:16:57.433 --> 00:17:02.363
+A neutral antagonist, flumazenil, occupies the site without effect on the channel,
+
+252
+00:17:02.363 --> 00:17:04.047
+simply blocking the agonist.
+
+253
+00:17:04.187 --> 00:17:07.950
+An inverse agonist, such as the experimental beta-carbolines,
+
+254
+00:17:07.950 --> 00:17:10.295
+has the opposite effect to an agonist,
+
+255
+00:17:10.295 --> 00:17:15.046
+reducing the response to gamma-aminobutyric acid and so producing anxiety and
+
+256
+00:17:15.046 --> 00:17:20.167
+convulsions — a clear demonstration of inverse agonism and of constitutive receptor
+
+257
+00:17:20.167 --> 00:17:20.784
+behaviour.
+
+258
+00:17:20.924 --> 00:17:23.672
+Partial agonists produce a submaximal effect.
+
+259
+00:17:23.672 --> 00:17:26.359
+This pharmacology is conceptually important:
+
+260
+00:17:26.359 --> 00:17:30.817
+it shows that a single binding site can be modulated in either direction,
+
+261
+00:17:30.817 --> 00:17:35.335
+and the existence of inverse agonists is part of the evidence cited for an
+
+262
+00:17:35.335 --> 00:17:37.351
+endogenous modulator of the site.
+
+263
+00:17:37.851 --> 00:17:41.894
+Detail the pharmacokinetics that distinguish the agents,
+
+264
+00:17:41.894 --> 00:17:44.421
+including routes of administration.
+
+265
+00:17:44.921 --> 00:17:49.081
+Beyond their differing metabolism, the agents differ in route and absorption.
+
+266
+00:17:49.221 --> 00:17:53.791
+Midazolam is water-soluble in its ampoule and well absorbed by many routes —
+
+267
+00:17:53.791 --> 00:17:58.781
+intravenous, intramuscular, oral, buccal and intranasal — which makes it versatile,
+
+268
+00:17:58.781 --> 00:18:03.410
+particularly in children and in seizures where intravenous access is lacking;
+
+269
+00:18:03.410 --> 00:18:07.077
+its oral bioavailability is reduced by first-pass metabolism.
+
+270
+00:18:07.217 --> 00:18:11.845
+Diazepam is well absorbed orally and rectally but erratically intramuscularly
+
+271
+00:18:11.845 --> 00:18:14.309
+because of its lipophilicity and solvent,
+
+272
+00:18:14.309 --> 00:18:18.456
+and the rectal route is used for seizures. Lorazepam is given orally,
+
+273
+00:18:18.456 --> 00:18:23.324
+intramuscularly and intravenously and is a standard intravenous agent for status.
+
+274
+00:18:23.464 --> 00:18:28.115
+The buccal and intranasal routes for midazolam are a real practical advance for
+
+275
+00:18:28.115 --> 00:18:30.176
+treating seizures outside hospital,
+
+276
+00:18:30.176 --> 00:18:34.003
+and their convenience is part of why midazolam is so widely used.
+
+277
+00:18:34.503 --> 00:18:38.428
+Explain tolerance, dependence and the withdrawal syndrome.
+
+278
+00:18:38.928 --> 00:18:43.365
+With repeated use, tolerance develops to the sedative and anticonvulsant effects
+
+279
+00:18:43.365 --> 00:18:45.639
+through adaptive changes at the receptor,
+
+280
+00:18:45.639 --> 00:18:48.524
+so that higher doses are needed for the same effect,
+
+281
+00:18:48.524 --> 00:18:52.517
+and there is cross-tolerance with alcohol and other central depressants.
+
+282
+00:18:52.657 --> 00:18:56.476
+Physical and psychological dependence develop with prolonged use.
+
+283
+00:18:56.616 --> 00:19:01.181
+Abrupt cessation after chronic use produces a withdrawal syndrome — anxiety,
+
+284
+00:19:01.181 --> 00:19:05.505
+insomnia, tremor, sweating, perceptual disturbance and, in severe cases,
+
+285
+00:19:05.505 --> 00:19:10.251
+seizures and a confusional state — which can be dangerous and resembles alcohol
+
+286
+00:19:10.251 --> 00:19:12.893
+withdrawal, reflecting the shared mechanism.
+
+287
+00:19:13.033 --> 00:19:17.599
+Withdrawal is managed by gradual dose reduction rather than abrupt stopping,
+
+288
+00:19:17.599 --> 00:19:20.543
+often converting to a long-acting agent to taper.
+
+289
+00:19:20.683 --> 00:19:25.505
+This dependence liability is a major reason for using benzodiazepines at the lowest
+
+290
+00:19:25.505 --> 00:19:30.153
+dose for the shortest time, and for caution in those with a history of substance
+
+291
+00:19:30.153 --> 00:19:30.560
+misuse.
+
+292
+00:19:31.060 --> 00:19:35.241
+What is their place in the management of status epilepticus?
+
+293
+00:19:35.741 --> 00:19:40.143
+Benzodiazepines are the first-line drug treatment of status epilepticus,
+
+294
+00:19:40.143 --> 00:19:45.277
+because they rapidly terminate seizure activity through their anticonvulsant action.
+
+295
+00:19:45.417 --> 00:19:48.527
+The established options are intravenous lorazepam,
+
+296
+00:19:48.527 --> 00:19:52.694
+which is favoured for its longer duration of anticonvulsant effect,
+
+297
+00:19:52.694 --> 00:19:57.110
+or intravenous diazepam followed by a longer-acting anticonvulsant, or,
+
+298
+00:19:57.110 --> 00:20:00.344
+where there is no intravenous access, intramuscular,
+
+299
+00:20:00.344 --> 00:20:05.444
+buccal or intranasal midazolam, which is especially useful in the community and in
+
+300
+00:20:05.444 --> 00:20:06.004
+children.
+
+301
+00:20:06.144 --> 00:20:10.332
+A defined dose is given and may be repeated once if seizures continue,
+
+302
+00:20:10.332 --> 00:20:15.238
+after which second-line anticonvulsants and ultimately anaesthetic agents are used
+
+303
+00:20:15.238 --> 00:20:16.555
+for refractory status.
+
+304
+00:20:16.695 --> 00:20:20.522
+Prompt benzodiazepine administration is the key early step,
+
+305
+00:20:20.522 --> 00:20:25.843
+and the availability of non-intravenous midazolam has improved the early treatment
+
+306
+00:20:25.843 --> 00:20:27.724
+of seizures outside hospital.
+
+307
+00:20:39.237 --> 00:20:42.971
+How are benzodiazepines used in alcohol withdrawal?
+
+308
+00:20:43.471 --> 00:20:48.364
+Because benzodiazepines and alcohol act on the same gamma-aminobutyric acid system
+
+309
+00:20:48.364 --> 00:20:53.197
+and show cross-tolerance, benzodiazepines are the cornerstone of treating alcohol
+
+310
+00:20:53.197 --> 00:20:57.315
+withdrawal, preventing and treating its features — tremor, agitation,
+
+311
+00:20:57.315 --> 00:21:00.537
+autonomic overactivity, seizures and delirium tremens.
+
+312
+00:21:00.677 --> 00:21:05.498
+A longer-acting agent such as chlordiazepoxide or diazepam is commonly used,
+
+313
+00:21:05.498 --> 00:21:10.698
+given as a reducing regimen or titrated against the severity of withdrawal using a
+
+314
+00:21:10.698 --> 00:21:15.962
+structured scale, with lorazepam preferred where there is significant liver disease
+
+315
+00:21:15.962 --> 00:21:19.451
+because its glucuronide metabolism is more predictable.
+
+316
+00:21:19.591 --> 00:21:24.273
+Adequate benzodiazepine treatment prevents progression to seizures and delirium
+
+317
+00:21:24.273 --> 00:21:28.303
+tremens, and thiamine is given to prevent Wernicke's encephalopathy.
+
+318
+00:21:28.303 --> 00:21:33.223
+This is an important and effective use of the class's cross-tolerance with alcohol.
+
+319
+00:21:33.723 --> 00:21:39.056
+What is the floppy-infant syndrome, and what is the concern in pregnancy and labour?
+
+320
+00:21:39.556 --> 00:21:41.626
+Benzodiazepines cross the placenta,
+
+321
+00:21:41.626 --> 00:21:45.530
+and their use in late pregnancy or labour can depress the neonate,
+
+322
+00:21:45.530 --> 00:21:49.848
+producing the floppy-infant syndrome — hypotonia, lethargy, poor feeding,
+
+323
+00:21:49.848 --> 00:21:54.106
+hypothermia and respiratory depression — and, with chronic maternal use,
+
+324
+00:21:54.106 --> 00:21:55.940
+a neonatal withdrawal syndrome.
+
+325
+00:21:56.080 --> 00:21:59.933
+They are therefore avoided where possible in late pregnancy and labour.
+
+326
+00:21:59.933 --> 00:22:03.461
+There are also concerns about regular use in the first trimester.
+
+327
+00:22:03.601 --> 00:22:07.891
+For these reasons benzodiazepines are used in pregnancy only when clearly
+
+328
+00:22:07.891 --> 00:22:10.241
+necessary, at the lowest effective dose,
+
+329
+00:22:10.241 --> 00:22:15.001
+with awareness of the neonatal effects and provision for neonatal support if they
+
+330
+00:22:15.001 --> 00:22:16.764
+have been given near delivery.
+
+331
+00:22:16.904 --> 00:22:21.137
+This is part of the general caution about central depressants in the peripartum
+
+332
+00:22:21.137 --> 00:22:21.512
+period.
+
+333
+00:22:22.012 --> 00:22:26.108
+Compare benzodiazepines with the so-called Z-drugs.
+
+334
+00:22:26.608 --> 00:22:31.701
+The Z-drugs — zopiclone, zolpidem and related agents — are non-benzodiazepine
+
+335
+00:22:31.701 --> 00:22:36.265
+hypnotics that nonetheless act at the same benzodiazepine site of the
+
+336
+00:22:36.265 --> 00:22:38.910
+gamma-aminobutyric acid type A receptor,
+
+337
+00:22:38.910 --> 00:22:44.400
+with some selectivity for the alpha-one-containing receptors that mediate sedation.
+
+338
+00:22:44.540 --> 00:22:48.980
+They were introduced as hypnotics with the hope of fewer of the drawbacks of the
+
+339
+00:22:48.980 --> 00:22:53.531
+benzodiazepines, but in practice they share much of the same profile — dependence,
+
+340
+00:22:53.531 --> 00:22:56.361
+tolerance, next-day impairment and, in the elderly,
+
+341
+00:22:56.361 --> 00:22:59.303
+falls and confusion — and are reversed by flumazenil.
+
+342
+00:22:59.443 --> 00:23:03.003
+So although marketed as distinct, they are best understood as
+
+343
+00:23:03.003 --> 00:23:06.389
+benzodiazepine-receptor agonists with similar liabilities,
+
+344
+00:23:06.389 --> 00:23:10.941
+and the same cautions about short-term use and avoidance in the elderly apply.
+
+345
+00:23:11.441 --> 00:23:17.613
+Describe the place of benzodiazepines and the alternatives in modern intensive-care
+
+346
+00:23:17.613 --> 00:23:19.100
+sedation guidelines.
+
+347
+00:23:19.600 --> 00:23:24.514
+Contemporary critical-care guidelines on pain, agitation, sedation, delirium,
+
+348
+00:23:24.514 --> 00:23:28.407
+immobility and sleep recommend a strategy of analgesia-first,
+
+349
+00:23:28.407 --> 00:23:31.661
+light and targeted sedation, with daily assessment,
+
+350
+00:23:31.661 --> 00:23:36.448
+and they advise against routine benzodiazepine sedation for most ventilated
+
+351
+00:23:36.448 --> 00:23:39.638
+patients because of its association with delirium,
+
+352
+00:23:39.638 --> 00:23:41.872
+longer ventilation and longer stay.
+
+353
+00:23:42.012 --> 00:23:46.928
+The preferred agents for routine sedation are propofol and the alpha-two agonist
+
+354
+00:23:46.928 --> 00:23:51.783
+dexmedetomidine, which are associated with less delirium and quicker awakening.
+
+355
+00:23:51.923 --> 00:23:56.708
+Benzodiazepines are reserved for specific indications — alcohol withdrawal,
+
+356
+00:23:56.708 --> 00:24:01.302
+status epilepticus, deep sedation when required, amnesia for procedures,
+
+357
+00:24:01.302 --> 00:24:05.768
+and where haemodynamic stability with the other agents is problematic.
+
+358
+00:24:05.908 --> 00:24:10.487
+So the guidelines represent a deliberate move away from benzodiazepine-based
+
+359
+00:24:10.487 --> 00:24:14.463
+sedation towards strategies that improve patient-centred outcomes.
+
+360
+00:24:14.963 --> 00:24:18.845
+Tell me more about remimazolam and the evidence for it.
+
+361
+00:24:19.345 --> 00:24:24.501
+Remimazolam is an ester-containing benzodiazepine designed as a soft drug,
+
+362
+00:24:24.501 --> 00:24:29.727
+metabolised by non-specific tissue esterases to an inactive carboxylic-acid
+
+363
+00:24:29.727 --> 00:24:33.489
+metabolite, independent of hepatic and renal function.
+
+364
+00:24:33.629 --> 00:24:37.306
+This gives it a rapid onset, a short and predictable offset,
+
+365
+00:24:37.306 --> 00:24:42.269
+and a context-sensitive half-time that stays short even after prolonged infusion,
+
+366
+00:24:42.269 --> 00:24:44.659
+avoiding the accumulation of midazolam.
+
+367
+00:24:44.799 --> 00:24:49.569
+It retains the favourable cardiovascular and respiratory profile of the class and
+
+368
+00:24:49.569 --> 00:24:51.689
+is fully reversible with flumazenil.
+
+369
+00:24:51.829 --> 00:24:54.618
+Trials support its use for procedural sedation,
+
+370
+00:24:54.618 --> 00:24:59.423
+where it provides reliable sedation with stable haemodynamics and rapid recovery,
+
+371
+00:24:59.423 --> 00:25:04.109
+and it is licensed in several countries for procedural sedation and for general
+
+372
+00:25:04.109 --> 00:25:08.677
+anaesthesia, with particular interest in the elderly and the haemodynamically
+
+373
+00:25:08.677 --> 00:25:09.152
+fragile.
+
+374
+00:25:09.292 --> 00:25:13.676
+It is the benzodiazepine equivalent of the soft-drug approach that gave us
+
+375
+00:25:13.676 --> 00:25:16.993
+remifentanil, and a genuine recent addition to practice.
+
+376
+00:25:28.507 --> 00:25:35.099
+What is the concern with propylene glycol in high-dose benzodiazepine infusions?
+
+377
+00:25:35.599 --> 00:25:41.149
+Lorazepam and diazepam for injection are formulated in propylene glycol because of
+
+378
+00:25:41.149 --> 00:25:43.044
+their poor water solubility.
+
+379
+00:25:43.184 --> 00:25:45.755
+When these agents are given by prolonged,
+
+380
+00:25:45.755 --> 00:25:50.458
+high-dose infusion — as may occur in refractory status epilepticus or heavy
+
+381
+00:25:50.458 --> 00:25:55.223
+intensive-care sedation — the propylene-glycol load can accumulate and cause
+
+382
+00:25:55.223 --> 00:25:58.860
+toxicity, with a metabolic acidosis, a raised osmolar gap,
+
+383
+00:25:58.860 --> 00:26:00.741
+and renal and central effects.
+
+384
+00:26:00.881 --> 00:26:04.463
+This is an additional reason, beyond the pharmacodynamic ones,
+
+385
+00:26:04.463 --> 00:26:07.582
+to avoid prolonged high-dose infusion of these agents,
+
+386
+00:26:07.582 --> 00:26:11.857
+to monitor for an unexplained acidosis and osmolar gap when they are used,
+
+387
+00:26:11.857 --> 00:26:16.305
+and to prefer agents without this vehicle where prolonged infusion is needed.
+
+388
+00:26:16.445 --> 00:26:21.011
+It is a formulation-related toxicity distinct from the drug's own effects.
+
+389
+00:26:21.511 --> 00:26:27.439
+How would you sedate an anxious adult for an awake regional procedure using a
+
+390
+00:26:27.439 --> 00:26:28.593
+benzodiazepine?
+
+391
+00:26:29.093 --> 00:26:33.614
+I would explain the plan, attach full monitoring including oxygenation and
+
+392
+00:26:33.614 --> 00:26:35.936
+capnography, give supplemental oxygen,
+
+393
+00:26:35.936 --> 00:26:39.845
+and ensure resuscitation equipment and flumazenil are available.
+
+394
+00:26:39.985 --> 00:26:44.931
+I would titrate midazolam intravenously in small increments — one to two milligrams
+
+395
+00:26:44.931 --> 00:26:48.804
+at a time — waiting to assess the effect before any further dose,
+
+396
+00:26:48.804 --> 00:26:53.273
+aiming for a calm, cooperative, rousable patient rather than deep sedation,
+
+397
+00:26:53.273 --> 00:26:55.537
+and reducing the doses in the elderly.
+
+398
+00:26:55.677 --> 00:26:59.305
+I would be especially cautious if combining it with an opioid,
+
+399
+00:26:59.305 --> 00:27:01.996
+because of synergistic respiratory depression,
+
+400
+00:27:01.996 --> 00:27:05.213
+reducing both doses and monitoring ventilation closely.
+
+401
+00:27:05.353 --> 00:27:10.255
+I would avoid oversedation that compromises the airway or the patient's ability to
+
+402
+00:27:10.255 --> 00:27:15.037
+cooperate with the regional technique. Careful titration to a light, anxiolytic,
+
+403
+00:27:15.037 --> 00:27:16.831
+amnesic end-point is the goal.
+
+404
+00:27:17.331 --> 00:27:22.296
+Summarise how the benzodiazepines' safety in overdose contrasts with the
+
+405
+00:27:22.296 --> 00:27:25.331
+barbiturates, and the limits of that safety.
+
+406
+00:27:25.831 --> 00:27:30.416
+Benzodiazepines are relatively safe in overdose because they only enhance the
+
+407
+00:27:30.416 --> 00:27:35.300
+action of existing gamma-aminobutyric acid and cannot open the chloride channel by
+
+408
+00:27:35.300 --> 00:27:39.707
+themselves, so their central depression has a ceiling — in contrast to the
+
+409
+00:27:39.707 --> 00:27:44.412
+barbiturates, which open the channel directly with no ceiling and readily cause
+
+410
+00:27:44.412 --> 00:27:47.271
+fatal respiratory and cardiovascular depression.
+
+411
+00:27:47.411 --> 00:27:51.805
+A pure benzodiazepine overdose therefore rarely kills a healthy adult.
+
+412
+00:27:51.945 --> 00:27:55.892
+The important limit to that safety is combination: with alcohol,
+
+413
+00:27:55.892 --> 00:28:01.011
+opioids or other central depressants the respiratory depression becomes additive or
+
+414
+00:28:01.011 --> 00:28:04.834
+synergistic and can be lethal, which is the usual mechanism of
+
+415
+00:28:04.834 --> 00:28:06.623
+benzodiazepine-related death.
+
+416
+00:28:06.763 --> 00:28:11.542
+So they are safe alone but dangerous in combination, and a specific antagonist,
+
+417
+00:28:11.542 --> 00:28:15.595
+flumazenil, exists but is used with the cautions already described.
+
+418
+00:28:16.095 --> 00:28:21.897
+What is the rationale for benzodiazepine premedication, and for whom is it suitable?
+
+419
+00:28:22.397 --> 00:28:26.339
+Benzodiazepine premedication aims to relieve preoperative anxiety,
+
+420
+00:28:26.339 --> 00:28:31.056
+provide a degree of sedation and produce anterograde amnesia for the unpleasant
+
+421
+00:28:31.056 --> 00:28:35.535
+period before induction, and it can smooth induction and reduce anaesthetic
+
+422
+00:28:35.535 --> 00:28:37.267
+requirements through synergy.
+
+423
+00:28:37.407 --> 00:28:41.439
+Midazolam is commonly used for its rapid onset and good amnesia.
+
+424
+00:28:41.579 --> 00:28:45.584
+It suits the anxious adult facing surgery, and selected procedures,
+
+425
+00:28:45.584 --> 00:28:48.513
+but it is used more selectively than in the past,
+
+426
+00:28:48.513 --> 00:28:53.355
+because routine sedative premedication can delay recovery and is poorly suited to
+
+427
+00:28:53.355 --> 00:28:56.762
+day-case and to the elderly, in whom it causes confusion,
+
+428
+00:28:56.762 --> 00:28:58.496
+prolonged sedation and falls.
+
+429
+00:28:58.636 --> 00:29:01.783
+So I would reserve it for the genuinely anxious patient,
+
+430
+00:29:01.783 --> 00:29:06.335
+avoid it in the elderly and in those with respiratory compromise or sleep apnoea,
+
+431
+00:29:06.335 --> 00:29:09.089
+and tailor the dose and timing to the individual.
+
+432
+00:29:09.589 --> 00:29:13.621
+Describe paediatric premedication with midazolam.
+
+433
+00:29:14.121 --> 00:29:19.350
+Midazolam is widely used for premedication in children to relieve anxiety and ease
+
+434
+00:29:19.350 --> 00:29:22.984
+separation from parents and the induction of anaesthesia,
+
+435
+00:29:22.984 --> 00:29:25.407
+exploiting its anxiolysis and amnesia.
+
+436
+00:29:25.547 --> 00:29:29.159
+It is commonly given orally, mixed to disguise its bitter taste,
+
+437
+00:29:29.159 --> 00:29:31.812
+some twenty to thirty minutes before induction,
+
+438
+00:29:31.812 --> 00:29:36.214
+and can also be given intranasally or buccally, though these routes can sting.
+
+439
+00:29:36.214 --> 00:29:40.843
+It produces a calm, cooperative child and amnesia for the events around induction.
+
+440
+00:29:40.983 --> 00:29:45.514
+The cautions are paradoxical agitation, which is not uncommon in children,
+
+441
+00:29:45.514 --> 00:29:49.248
+respiratory depression particularly if combined with opioids,
+
+442
+00:29:49.248 --> 00:29:51.820
+and the need to monitor the sedated child.
+
+443
+00:29:51.960 --> 00:29:56.653
+Used judiciously it greatly improves the experience of anaesthesia for an anxious
+
+444
+00:29:56.653 --> 00:29:57.869
+child and the family.
+
+445
+00:29:58.369 --> 00:30:03.063
+Detail the interactions affecting midazolam's metabolism.
+
+446
+00:30:14.576 --> 00:30:18.181
+Midazolam is metabolised by the cytochrome enzyme CYP3A4,
+
+447
+00:30:18.181 --> 00:30:21.533
+so it is subject to the interactions of that pathway,
+
+448
+00:30:21.533 --> 00:30:25.328
+which are clinically relevant because they alter its effect.
+
+449
+00:30:25.468 --> 00:30:30.228
+Inhibitors of CYP3A4 — the azole antifungals, the macrolide antibiotics,
+
+450
+00:30:30.228 --> 00:30:34.855
+certain antiretrovirals, and grapefruit juice — reduce its metabolism,
+
+451
+00:30:34.855 --> 00:30:39.218
+increasing and prolonging its sedative effect, sometimes markedly,
+
+452
+00:30:39.218 --> 00:30:40.871
+so doses must be reduced.
+
+453
+00:30:41.011 --> 00:30:46.128
+Inducers — rifampicin, the enzyme-inducing anticonvulsants — accelerate its
+
+454
+00:30:46.128 --> 00:30:51.722
+metabolism and reduce its effect. Because midazolam is so dependent on this single
+
+455
+00:30:51.722 --> 00:30:55.475
+pathway, it is a useful probe drug for CYP3A4 activity.
+
+456
+00:30:55.615 --> 00:31:01.201
+The practical lesson is to anticipate enhanced and prolonged sedation in patients
+
+457
+00:31:01.201 --> 00:31:04.788
+taking CYP3A4 inhibitors and to titrate accordingly.
+
+458
+00:31:05.288 --> 00:31:11.603
+What is the concern about benzodiazepines in hepatic impairment and encephalopathy?
+
+459
+00:31:12.103 --> 00:31:17.043
+In hepatic impairment the metabolism of benzodiazepines dependent on oxidative
+
+460
+00:31:17.043 --> 00:31:21.097
+cytochrome pathways, such as midazolam and diazepam, is reduced,
+
+461
+00:31:21.097 --> 00:31:25.974
+prolonging and intensifying their effect and risking accumulation; lorazepam,
+
+462
+00:31:25.974 --> 00:31:30.788
+metabolised by glucuronidation, is handled more predictably and is therefore
+
+463
+00:31:30.788 --> 00:31:34.588
+preferred where a benzodiazepine is needed in liver disease.
+
+464
+00:31:34.728 --> 00:31:39.683
+More importantly, patients with significant liver disease are sensitive to central
+
+465
+00:31:39.683 --> 00:31:44.578
+depressants and benzodiazepines can precipitate or worsen hepatic encephalopathy,
+
+466
+00:31:44.578 --> 00:31:48.445
+so they are used with great caution or avoided in such patients.
+
+467
+00:31:48.585 --> 00:31:53.211
+The combination of impaired metabolism and increased cerebral sensitivity means
+
+468
+00:31:53.211 --> 00:31:55.319
+that, where sedation is unavoidable,
+
+469
+00:31:55.319 --> 00:31:59.828
+the lowest dose of a predictably handled agent is used with close monitoring.
+
+470
+00:32:00.328 --> 00:32:04.424
+Quantify the co-induction synergy and explain its value.
+
+471
+00:32:04.924 --> 00:32:09.869
+Co-induction exploits the synergy between a benzodiazepine and the main induction
+
+472
+00:32:09.869 --> 00:32:14.753
+agent: a small dose of midazolam given before propofol substantially reduces the
+
+473
+00:32:14.753 --> 00:32:17.684
+dose of propofol required to induce anaesthesia,
+
+474
+00:32:17.684 --> 00:32:20.858
+by more than would be expected from simple addition,
+
+475
+00:32:20.858 --> 00:32:25.681
+because the two act synergistically on the same gamma-aminobutyric acid system.
+
+476
+00:32:25.821 --> 00:32:30.827
+The value is a reduction in the dose of the main agent and so in its side-effects,
+
+477
+00:32:30.827 --> 00:32:33.330
+particularly the hypotension of propofol,
+
+478
+00:32:33.330 --> 00:32:36.504
+which is useful in the cardiovascularly compromised,
+
+479
+00:32:36.504 --> 00:32:40.349
+together with the anxiolysis and amnesia of the benzodiazepine.
+
+480
+00:32:40.489 --> 00:32:45.148
+The trade-off is a contribution to respiratory depression and a possibly prolonged
+
+481
+00:32:45.148 --> 00:32:47.875
+recovery, so the technique is used thoughtfully,
+
+482
+00:32:47.875 --> 00:32:50.772
+with the doses of both agents reduced and titrated.
+
+483
+00:32:51.272 --> 00:32:56.541
+Beyond seizures, where is diazepam used for its muscle-relaxant action?
+
+484
+00:32:57.041 --> 00:33:02.158
+Diazepam's centrally mediated skeletal muscle relaxation is used in conditions of
+
+485
+00:33:02.158 --> 00:33:06.200
+pathological muscle spasm and spasticity. It is used in tetanus,
+
+486
+00:33:06.200 --> 00:33:09.548
+where severe muscle spasms and rigidity are a danger,
+
+487
+00:33:09.548 --> 00:33:13.148
+as part of the control of spasm alongside other measures.
+
+488
+00:33:13.288 --> 00:33:16.139
+It is used in spasticity of neurological origin,
+
+489
+00:33:16.139 --> 00:33:19.346
+and in acute muscle spasm and some movement disorders.
+
+490
+00:33:19.346 --> 00:33:21.543
+The relaxation is mediated centrally,
+
+491
+00:33:21.543 --> 00:33:25.345
+through enhanced inhibition at the spinal and supraspinal level,
+
+492
+00:33:25.345 --> 00:33:28.136
+not by an action at the neuromuscular junction.
+
+493
+00:33:28.276 --> 00:33:31.086
+The sedation that accompanies it limits the dose.
+
+494
+00:33:31.086 --> 00:33:35.215
+So the muscle-relaxant property, one of the class's spectrum of effects,
+
+495
+00:33:35.215 --> 00:33:38.943
+has specific therapeutic uses distinct from anaesthetic practice.
+
+496
+00:33:39.443 --> 00:33:43.091
+Give the practical detail of using flumazenil.
+
+497
+00:33:43.591 --> 00:33:47.455
+Flumazenil is given intravenously in small incremental doses,
+
+498
+00:33:47.455 --> 00:33:50.306
+titrated to the desired reversal of sedation,
+
+499
+00:33:50.306 --> 00:33:55.437
+since giving it slowly and to effect reduces the risk of abrupt full reversal and
+
+500
+00:33:55.437 --> 00:33:58.161
+of precipitating seizures or acute anxiety.
+
+501
+00:33:58.301 --> 00:34:02.814
+Because its elimination half-life is shorter than that of most benzodiazepines,
+
+502
+00:34:02.814 --> 00:34:06.241
+the patient must be observed for resedation as it wears off,
+
+503
+00:34:06.241 --> 00:34:08.925
+and a repeat dose or an infusion may be needed.
+
+504
+00:34:09.065 --> 00:34:11.674
+It is avoided, or used with great caution,
+
+505
+00:34:11.674 --> 00:34:14.221
+in patients dependent on benzodiazepines,
+
+506
+00:34:14.221 --> 00:34:18.692
+in mixed overdoses especially with proconvulsant drugs such as tricyclic
+
+507
+00:34:18.692 --> 00:34:23.227
+antidepressants, and in those taking benzodiazepines to control epilepsy,
+
+508
+00:34:23.227 --> 00:34:25.897
+in all of whom it may precipitate seizures.
+
+509
+00:34:26.037 --> 00:34:29.199
+So it is titrated, the patient watched for resedation,
+
+510
+00:34:29.199 --> 00:34:31.307
+and the contraindications respected.
+
+511
+00:34:31.807 --> 00:34:37.673
+Compare benzodiazepines, propofol and dexmedetomidine for sedation.
+
+512
+00:34:38.173 --> 00:34:43.238
+Each suits different needs. Benzodiazepines provide anxiolysis and amnesia with
+
+513
+00:34:43.238 --> 00:34:47.853
+modest haemodynamic effect but cause respiratory depression, accumulate,
+
+514
+00:34:47.853 --> 00:34:51.059
+and are associated with delirium on prolonged use.
+
+515
+00:34:51.199 --> 00:34:56.447
+Propofol gives rapid, titratable, clear-headed sedation with antiemesis but causes
+
+516
+00:34:56.447 --> 00:35:00.799
+hypotension and respiratory depression and, in prolonged high doses,
+
+517
+00:35:00.799 --> 00:35:02.783
+the propofol infusion syndrome.
+
+518
+00:35:02.923 --> 00:35:06.495
+Dexmedetomidine, an alpha-two agonist, gives a rousable,
+
+519
+00:35:06.495 --> 00:35:11.661
+cooperative sedation with analgesia and minimal respiratory depression but causes
+
+520
+00:35:11.661 --> 00:35:15.616
+bradycardia and hypotension and has a slower onset and offset.
+
+521
+00:35:15.756 --> 00:35:19.590
+So for brief procedural amnesia a benzodiazepine suits;
+
+522
+00:35:19.590 --> 00:35:22.447
+for titratable general sedation propofol;
+
+523
+00:35:22.447 --> 00:35:25.793
+for cooperative sedation preserving respiration,
+
+524
+00:35:25.793 --> 00:35:30.811
+such as awake fibreoptic intubation or where delirium must be minimised,
+
+525
+00:35:30.811 --> 00:35:31.927
+dexmedetomidine.
+
+526
+00:35:32.067 --> 00:35:36.957
+Modern intensive-care practice favours propofol and dexmedetomidine over
+
+527
+00:35:36.957 --> 00:35:39.469
+benzodiazepines for routine sedation.
+
+528
+00:35:50.983 --> 00:35:57.414
+Summarise the ideal use of a benzodiazepine and the patient in whom you would avoid
+
+529
+00:35:57.414 --> 00:35:57.724
+one.
+
+530
+00:35:58.224 --> 00:36:03.391
+I would use a benzodiazepine for genuine anxiolysis and amnesia — premedication for
+
+531
+00:36:03.391 --> 00:36:07.002
+the anxious patient, sedation for an unpleasant procedure,
+
+532
+00:36:07.002 --> 00:36:12.045
+co-induction to spare the main agent, first-line treatment of status epilepticus,
+
+533
+00:36:12.045 --> 00:36:17.026
+and alcohol withdrawal — choosing the agent by duration and hepatic function and
+
+534
+00:36:17.026 --> 00:36:19.579
+titrating to a light, rousable end-point.
+
+535
+00:36:19.719 --> 00:36:22.740
+I would avoid or greatly reduce them in the elderly,
+
+536
+00:36:22.740 --> 00:36:25.587
+in respiratory failure or untreated sleep apnoea,
+
+537
+00:36:25.587 --> 00:36:30.409
+in significant hepatic impairment and encephalopathy, in late pregnancy and labour,
+
+538
+00:36:30.409 --> 00:36:32.733
+and for routine intensive-care sedation,
+
+539
+00:36:32.733 --> 00:36:37.206
+and I would be most wary of combining them with opioids and other depressants
+
+540
+00:36:37.206 --> 00:36:39.879
+because of synergistic respiratory depression.
+
+541
+00:36:40.019 --> 00:36:44.112
+Used for the right indication, at the lowest dose for the shortest time,
+
+542
+00:36:44.112 --> 00:36:48.034
+they are valuable; used routinely or carelessly, they cause delirium,
+
+543
+00:36:48.034 --> 00:36:49.853
+dependence and respiratory harm.
+
+544
+00:36:50.353 --> 00:36:56.092
+What are the effects of benzodiazepines on intracranial and intra-ocular pressure?
+
+545
+00:36:56.592 --> 00:37:01.069
+Benzodiazepines modestly reduce the cerebral metabolic rate and cerebral blood
+
+546
+00:37:01.069 --> 00:37:05.546
+flow, and they tend to lower or not significantly raise intracranial pressure,
+
+547
+00:37:05.546 --> 00:37:09.391
+so they are not contraindicated on that account and are used in the
+
+548
+00:37:09.391 --> 00:37:12.720
+neurocritical-care setting, including for seizure control.
+
+549
+00:37:12.860 --> 00:37:17.608
+They also lower intra-ocular pressure. These effects are gentler than those of the
+
+550
+00:37:17.608 --> 00:37:22.356
+major induction agents, in keeping with the class's generally modest physiological
+
+551
+00:37:22.356 --> 00:37:23.804
+impact at sedative doses.
+
+552
+00:37:23.944 --> 00:37:28.936
+The caveat is the same as always: respiratory depression causing hypercarbia would
+
+553
+00:37:28.936 --> 00:37:32.771
+raise intracranial pressure, so ventilation must be maintained,
+
+554
+00:37:32.771 --> 00:37:37.642
+particularly in the patient with intracranial pathology in whom a rise in carbon
+
+555
+00:37:37.642 --> 00:37:38.920
+dioxide is dangerous.
+
+556
+00:37:39.420 --> 00:37:44.904
+What is their role in local-anaesthetic systemic toxicity and other drug-induced
+
+557
+00:37:44.904 --> 00:37:45.521
+seizures?
+
+558
+00:37:46.021 --> 00:37:50.518
+Benzodiazepines are the first-line drugs for controlling the seizures of
+
+559
+00:37:50.518 --> 00:37:52.766
+local-anaesthetic systemic toxicity,
+
+560
+00:37:52.766 --> 00:37:57.887
+alongside airway and circulatory support and the administration of lipid emulsion;
+
+561
+00:37:57.887 --> 00:38:02.009
+their rapid anticonvulsant action terminates the seizure activity,
+
+562
+00:38:02.009 --> 00:38:04.944
+which itself worsens the acidosis and toxicity.
+
+563
+00:38:05.084 --> 00:38:09.291
+More generally they are first-line for terminating most drug-induced and other
+
+564
+00:38:09.291 --> 00:38:13.767
+acute seizures, for the same reason that they are first-line in status epilepticus.
+
+565
+00:38:13.907 --> 00:38:17.086
+In the specific context of local-anaesthetic toxicity,
+
+566
+00:38:17.086 --> 00:38:21.442
+controlling seizures with a benzodiazepine while giving lipid emulsion and
+
+567
+00:38:21.442 --> 00:38:25.328
+supporting the airway and circulation is the established approach,
+
+568
+00:38:25.328 --> 00:38:29.802
+and benzodiazepines are preferred over agents that might further depress the
+
+569
+00:38:29.802 --> 00:38:32.275
+already compromised cardiovascular system.
+
+570
+00:38:32.775 --> 00:38:38.620
+How do benzodiazepines affect sleep, and why are they not ideal long-term hypnotics?
+
+571
+00:38:39.120 --> 00:38:43.395
+Benzodiazepines reduce the time to fall asleep and reduce night-time waking,
+
+572
+00:38:43.395 --> 00:38:47.670
+but they alter the architecture of sleep — reducing slow-wave deep sleep and
+
+573
+00:38:47.670 --> 00:38:52.283
+rapid-eye-movement sleep — so that the sleep they produce is not entirely natural.
+
+574
+00:38:52.423 --> 00:38:57.073
+With continued use, tolerance to the hypnotic effect develops, dependence forms,
+
+575
+00:38:57.073 --> 00:39:01.607
+and stopping causes rebound insomnia, often worse than the original complaint,
+
+576
+00:39:01.607 --> 00:39:05.793
+which perpetuates use. They also cause next-day sedation and impairment,
+
+577
+00:39:05.793 --> 00:39:08.060
+and in the elderly falls and confusion.
+
+578
+00:39:08.200 --> 00:39:12.859
+For these reasons they are recommended only for short-term treatment of insomnia,
+
+579
+00:39:12.859 --> 00:39:17.172
+at the lowest dose, with non-pharmacological measures preferred for chronic
+
+580
+00:39:17.172 --> 00:39:20.163
+insomnia. The same limitations apply to the Z-drugs.
+
+581
+00:39:20.163 --> 00:39:23.901
+So although effective acutely, they are poor long-term hypnotics.
+
+582
+00:39:24.401 --> 00:39:28.561
+How would you manage a pure benzodiazepine overdose?
+
+583
+00:39:29.061 --> 00:39:33.606
+Management is primarily supportive, because a pure benzodiazepine overdose,
+
+584
+00:39:33.606 --> 00:39:36.454
+owing to the ceiling on its central depression,
+
+585
+00:39:36.454 --> 00:39:38.939
+rarely threatens life in a healthy adult.
+
+586
+00:39:39.079 --> 00:39:43.397
+I would assess and support airway, breathing and circulation, give oxygen,
+
+587
+00:39:43.397 --> 00:39:47.889
+and monitor, observing for respiratory depression and managing it with airway
+
+588
+00:39:47.889 --> 00:39:49.873
+support and ventilation as needed.
+
+589
+00:39:50.013 --> 00:39:53.755
+Flumazenil, the specific antagonist, can reverse the sedation,
+
+590
+00:39:53.755 --> 00:39:56.411
+but it is used cautiously and not routinely,
+
+591
+00:39:56.411 --> 00:40:01.360
+because it can precipitate seizures in the benzodiazepine-dependent patient and in
+
+592
+00:40:01.360 --> 00:40:04.679
+mixed overdoses, particularly with proconvulsant drugs,
+
+593
+00:40:04.679 --> 00:40:07.455
+and because resedation occurs as it wears off;
+
+594
+00:40:07.455 --> 00:40:11.197
+so it is reserved for selected cases with careful observation.
+
+595
+00:40:11.337 --> 00:40:15.836
+The greatest danger is co-ingestion of alcohol, opioids or other depressants,
+
+596
+00:40:15.836 --> 00:40:19.399
+whose additive effect can cause fatal respiratory depression,
+
+597
+00:40:19.399 --> 00:40:22.729
+so I would actively look for and treat such combinations.
+
+598
+00:40:34.243 --> 00:40:38.765
+Thank you. That was a thorough and well-structured account. Let us stop there.
+
+599
+00:40:39.265 --> 00:40:42.659
+Before we close, here are the take-home messages.
+
+600
+00:40:42.659 --> 00:40:47.438
+First, Benzodiazepines act at a specific site on the GABA-A receptor,
+
+601
+00:40:47.438 --> 00:40:52.978
+increasing the frequency of chloride-channel opening; they cannot open it alone,
+
+602
+00:40:52.978 --> 00:40:58.380
+giving a ceiling effect and relative safety in overdose (unlike barbiturates).
+
+603
+00:40:58.520 --> 00:41:03.606
+Second, They produce sedation, anxiolysis, anterograde amnesia,
+
+604
+00:41:03.606 --> 00:41:08.531
+anticonvulsant action and muscle relaxation but no analgesia;
+
+605
+00:41:08.531 --> 00:41:15.151
+midazolam's pH-dependent ring gives water solubility in the vial and lipophilicity
+
+606
+00:41:15.151 --> 00:41:16.120
+in the body.
+
+607
+00:41:16.260 --> 00:41:21.255
+Third, Choose by duration and hepatic function: midazolam (short,
+
+608
+00:41:21.255 --> 00:41:26.943
+accumulates on infusion) for perioperative use; lorazepam (glucuronidated,
+
+609
+00:41:26.943 --> 00:41:31.400
+no active metabolite) for predictable handling and status;
+
+610
+00:41:31.400 --> 00:41:34.628
+diazepam (long-acting active metabolites).
+
+611
+00:41:34.768 --> 00:41:40.976
+Fourth, The key danger is synergistic respiratory depression with opioids;
+
+612
+00:41:40.976 --> 00:41:45.757
+benzodiazepine ICU sedation is now discouraged (delirium,
+
+613
+00:41:45.757 --> 00:41:50.875
+prolonged ventilation) in favour of propofol/dexmedetomidine.
+
+614
+00:41:51.015 --> 00:41:57.255
+Fifth, Flumazenil competitively reverses them but risks resedation and seizures;
+
+615
+00:41:57.255 --> 00:42:01.779
+remimazolam is a new ester-metabolised, organ-independent,
+
+616
+00:42:01.779 --> 00:42:06.225
+flumazenil-reversible agent for sedation and anaesthesia.
+
+617
+00:42:06.725 --> 00:42:09.200
+Thank you. That concludes the station.
+

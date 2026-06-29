@@ -1,0 +1,2398 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.075
+Welcome to Anaesthesia Compendium. Today's viva station: the local anaesthetics.
+
+2
+00:00:06.075 --> 00:00:11.139
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.639 --> 00:00:16.929
+We turn to the local anaesthetics. Begin with their classification and structure.
+
+4
+00:00:17.429 --> 00:00:21.976
+The local anaesthetics are drugs that reversibly block nerve conduction when
+
+5
+00:00:21.976 --> 00:00:26.344
+applied locally. Structurally each molecule has three parts: an aromatic,
+
+6
+00:00:26.344 --> 00:00:30.592
+lipophilic group; an intermediate chain; and a hydrophilic amine group.
+
+7
+00:00:30.732 --> 00:00:35.333
+The nature of the bond in the intermediate chain divides the class into two:
+
+8
+00:00:35.333 --> 00:00:39.510
+the esters, such as cocaine, procaine, tetracaine and chloroprocaine,
+
+9
+00:00:39.510 --> 00:00:44.535
+in which the link is an ester bond; and the amides, such as lidocaine, bupivacaine,
+
+10
+00:00:44.535 --> 00:00:49.015
+levobupivacaine, ropivacaine and prilocaine, in which it is an amide bond.
+
+11
+00:00:49.155 --> 00:00:53.893
+This ester-or-amide distinction is clinically important because it determines how
+
+12
+00:00:53.893 --> 00:00:57.345
+the drugs are metabolised and their propensity for allergy:
+
+13
+00:00:57.345 --> 00:01:01.908
+esters are hydrolysed by plasma cholinesterase and may cause allergy through a
+
+14
+00:01:01.908 --> 00:01:06.706
+para-aminobenzoic-acid metabolite, whereas amides are metabolised in the liver and
+
+15
+00:01:06.706 --> 00:01:08.227
+rarely cause true allergy.
+
+16
+00:01:08.367 --> 00:01:12.740
+A useful aide-memoire is that the amides contain two letter i's in their name.
+
+17
+00:01:13.240 --> 00:01:16.099
+Describe the mechanism of action.
+
+18
+00:01:16.599 --> 00:01:21.257
+Local anaesthetics block the voltage-gated sodium channels of the nerve membrane,
+
+19
+00:01:21.257 --> 00:01:24.995
+preventing the sodium influx that generates the action potential,
+
+20
+00:01:24.995 --> 00:01:27.180
+and so reversibly blocking conduction.
+
+21
+00:01:27.320 --> 00:01:31.945
+They reach their binding site on the inner aspect of the channel: the un-ionised,
+
+22
+00:01:31.945 --> 00:01:35.257
+lipid-soluble form of the drug crosses the lipid membrane,
+
+23
+00:01:35.257 --> 00:01:38.797
+and within the axoplasm the ionised form binds to the channel.
+
+24
+00:01:38.937 --> 00:01:41.154
+The block is use-dependent, or phasic:
+
+25
+00:01:41.154 --> 00:01:45.180
+the drug binds more readily to channels that are open or inactivated,
+
+26
+00:01:45.180 --> 00:01:48.797
+so that more rapidly firing fibres are blocked preferentially,
+
+27
+00:01:48.797 --> 00:01:52.356
+and the drug preferentially stabilises the inactivated state.
+
+28
+00:01:52.496 --> 00:01:54.806
+By holding the sodium channels closed,
+
+29
+00:01:54.806 --> 00:01:58.635
+the drug raises the threshold for excitation, slows conduction,
+
+30
+00:01:58.635 --> 00:02:01.796
+and ultimately abolishes propagation of the impulse.
+
+31
+00:02:01.796 --> 00:02:06.598
+So the essential action is a use-dependent block of axonal sodium channels from
+
+32
+00:02:06.598 --> 00:02:07.024
+within.
+
+33
+00:02:07.524 --> 00:02:12.644
+Relate the physicochemical properties to onset, potency and duration.
+
+34
+00:02:13.144 --> 00:02:15.661
+Three properties govern the clinical behaviour.
+
+35
+00:02:15.801 --> 00:02:20.121
+The dissociation constant, the pKa, determines the speed of onset:
+
+36
+00:02:20.121 --> 00:02:23.786
+since only the un-ionised fraction crosses the membrane,
+
+37
+00:02:23.786 --> 00:02:29.022
+an agent whose pKa is close to physiological pH has a larger un-ionised fraction
+
+38
+00:02:29.022 --> 00:02:34.389
+and a faster onset, whereas a high pKa means more of the drug is ionised and onset
+
+39
+00:02:34.389 --> 00:02:35.044
+is slower.
+
+40
+00:02:35.184 --> 00:02:37.436
+Lipid solubility determines potency:
+
+41
+00:02:37.436 --> 00:02:42.190
+more lipophilic agents penetrate the nerve more readily and are more potent.
+
+42
+00:02:42.190 --> 00:02:44.442
+Protein binding determines duration:
+
+43
+00:02:44.442 --> 00:02:49.509
+agents that bind the sodium-channel protein more avidly have a longer duration of
+
+44
+00:02:49.509 --> 00:02:49.947
+action.
+
+45
+00:02:50.087 --> 00:02:54.354
+So, for example, bupivacaine is highly lipid-soluble and protein-bound,
+
+46
+00:02:54.354 --> 00:02:58.321
+making it potent and long-acting but with a relatively slow onset,
+
+47
+00:02:58.321 --> 00:03:03.190
+while lidocaine is intermediate. These structure-activity relationships allow the
+
+48
+00:03:03.190 --> 00:03:06.556
+properties of each agent to be understood and predicted.
+
+49
+00:03:07.056 --> 00:03:10.149
+How are the local anaesthetics metabolised?
+
+50
+00:03:10.649 --> 00:03:13.380
+Metabolism follows the ester-or-amide division.
+
+51
+00:03:13.520 --> 00:03:18.020
+The esters are rapidly hydrolysed in the plasma by plasma cholinesterase,
+
+52
+00:03:18.020 --> 00:03:22.519
+also called pseudocholinesterase, giving them generally short half-lives;
+
+53
+00:03:22.519 --> 00:03:26.156
+a metabolite of the ester agents is para-aminobenzoic acid,
+
+54
+00:03:26.156 --> 00:03:30.902
+which is responsible for the allergic reactions that occur more commonly with
+
+55
+00:03:30.902 --> 00:03:31.333
+esters.
+
+56
+00:03:31.473 --> 00:03:35.806
+The amides are metabolised more slowly in the liver by the cytochrome enzymes,
+
+57
+00:03:35.806 --> 00:03:39.694
+so their clearance depends on hepatic function and hepatic blood flow,
+
+58
+00:03:39.694 --> 00:03:43.249
+and they accumulate in hepatic impairment and low-output states.
+
+59
+00:03:43.389 --> 00:03:47.981
+Prilocaine is partly metabolised to a compound that can cause methaemoglobinaemia.
+
+60
+00:03:47.981 --> 00:03:52.125
+So the esters are cleared quickly in the plasma but carry an allergy risk,
+
+61
+00:03:52.125 --> 00:03:55.653
+while the amides depend on the liver and are rarely allergenic,
+
+62
+00:03:55.653 --> 00:03:58.621
+which influences both safety and the choice of agent.
+
+63
+00:03:59.121 --> 00:04:04.369
+Why is local anaesthesia less effective in infected, inflamed tissue?
+
+64
+00:04:04.869 --> 00:04:07.664
+Because infected and inflamed tissue is acidic.
+
+65
+00:04:07.804 --> 00:04:12.567
+Local anaesthetics are weak bases, and in the more acidic environment of infected
+
+66
+00:04:12.567 --> 00:04:16.271
+tissue a greater proportion of the drug is in the ionised form,
+
+67
+00:04:16.271 --> 00:04:20.858
+which cannot cross the lipid nerve membrane to reach its intracellular site of
+
+68
+00:04:20.858 --> 00:04:25.445
+action, so less of the un-ionised, membrane-permeant form is available and the
+
+69
+00:04:25.445 --> 00:04:26.385
+block is poorer.
+
+70
+00:04:26.525 --> 00:04:31.076
+There may also be increased vascularity carrying the drug away and altered nerve
+
+71
+00:04:31.076 --> 00:04:31.816
+excitability.
+
+72
+00:04:31.956 --> 00:04:36.163
+The practical consequences are that infiltration into infected tissue,
+
+73
+00:04:36.163 --> 00:04:39.469
+such as an abscess, often gives inadequate anaesthesia,
+
+74
+00:04:39.469 --> 00:04:44.337
+and that a regional block placed proximal to the inflamed area, in normal tissue,
+
+75
+00:04:44.337 --> 00:04:45.119
+is preferred.
+
+76
+00:04:45.259 --> 00:04:50.327
+So tissue acidosis, by shifting the ionisation equilibrium away from the active
+
+77
+00:04:50.327 --> 00:04:54.112
+un-ionised form, undermines local anaesthesia in infection.
+
+78
+00:04:54.612 --> 00:04:57.151
+Explain differential nerve block.
+
+79
+00:04:57.651 --> 00:05:01.819
+Differential block is the observation that different nerve-fibre types are blocked
+
+80
+00:05:01.819 --> 00:05:03.751
+at different concentrations and rates,
+
+81
+00:05:03.751 --> 00:05:06.547
+so that the modalities they carry are lost in sequence.
+
+82
+00:05:06.687 --> 00:05:10.930
+In general the smaller, and the myelinated, fibres are blocked more readily:
+
+83
+00:05:10.930 --> 00:05:15.230
+autonomic and pain and temperature fibres tend to be blocked before touch and
+
+84
+00:05:15.230 --> 00:05:19.529
+pressure, which are blocked before the large motor and proprioceptive fibres.
+
+85
+00:05:19.669 --> 00:05:24.460
+This is why a neuraxial or regional block may produce sympathetic and sensory block
+
+86
+00:05:24.460 --> 00:05:28.846
+with relative sparing of motor function, particularly with dilute solutions,
+
+87
+00:05:28.846 --> 00:05:33.579
+and why the level of sympathetic block can exceed that of sensory and motor block.
+
+88
+00:05:33.719 --> 00:05:38.957
+The basis lies in fibre diameter, myelination and firing frequency interacting with
+
+89
+00:05:38.957 --> 00:05:44.069
+the use-dependent action of the drug. So differential block allows, for instance,
+
+90
+00:05:44.069 --> 00:05:49.181
+analgesia with preserved movement, which is exploited in labour and postoperative
+
+91
+00:05:49.181 --> 00:05:50.380
+epidural analgesia.
+
+92
+00:06:01.893 --> 00:06:06.373
+Take me through the individual agents, beginning with lidocaine.
+
+93
+00:06:06.873 --> 00:06:11.608
+Lidocaine, or lignocaine, is the prototypical amide, of intermediate potency,
+
+94
+00:06:11.608 --> 00:06:15.973
+rapid onset and intermediate duration, and is the most versatile agent:
+
+95
+00:06:15.973 --> 00:06:19.970
+used for infiltration, peripheral and regional blocks, topically,
+
+96
+00:06:19.970 --> 00:06:24.520
+and intravenously both as an antiarrhythmic and increasingly as a systemic
+
+97
+00:06:24.520 --> 00:06:27.225
+analgesic and to obtund the airway response.
+
+98
+00:06:27.365 --> 00:06:31.114
+Its rapid onset reflects a pKa close to physiological pH.
+
+99
+00:06:31.114 --> 00:06:34.469
+Bupivacaine is highly lipophilic and protein-bound,
+
+100
+00:06:34.469 --> 00:06:37.954
+making it potent and long-acting with a slower onset,
+
+101
+00:06:37.954 --> 00:06:41.967
+widely used for prolonged regional and neuraxial anaesthesia,
+
+102
+00:06:41.967 --> 00:06:44.795
+but notable for cardiotoxicity in overdose.
+
+103
+00:06:44.935 --> 00:06:47.516
+Prilocaine is an amide of low toxicity,
+
+104
+00:06:47.516 --> 00:06:50.429
+useful for intravenous regional anaesthesia,
+
+105
+00:06:50.429 --> 00:06:53.937
+with the caveat of methaemoglobinaemia at high doses.
+
+106
+00:06:54.077 --> 00:06:57.337
+So lidocaine is the versatile intermediate agent,
+
+107
+00:06:57.337 --> 00:06:59.931
+bupivacaine the potent long-acting one,
+
+108
+00:06:59.931 --> 00:07:03.656
+and prilocaine the low-toxicity agent for specific uses.
+
+109
+00:07:04.156 --> 00:07:08.103
+Why were levobupivacaine and ropivacaine developed?
+
+110
+00:07:08.603 --> 00:07:13.434
+They were developed to retain bupivacaine's potency and long duration while
+
+111
+00:07:13.434 --> 00:07:15.237
+reducing its cardiotoxicity.
+
+112
+00:07:15.377 --> 00:07:20.497
+Bupivacaine is a racemic mixture, and its cardiotoxicity — a propensity to cause
+
+113
+00:07:20.497 --> 00:07:25.297
+refractory ventricular arrhythmias and cardiac arrest in overdose — resides
+
+114
+00:07:25.297 --> 00:07:30.481
+predominantly in the R-enantiomer, which binds avidly to cardiac sodium channels.
+
+115
+00:07:30.621 --> 00:07:34.494
+Levobupivacaine is the pure S-enantiomer of bupivacaine,
+
+116
+00:07:34.494 --> 00:07:38.643
+with similar anaesthetic properties but less cardiotoxicity.
+
+117
+00:07:38.783 --> 00:07:44.065
+Ropivacaine is a related pure S-enantiomer agent that is somewhat less potent but
+
+118
+00:07:44.065 --> 00:07:49.021
+also less cardiotoxic and produces relatively more sensory than motor block,
+
+119
+00:07:49.021 --> 00:07:51.433
+useful where motor sparing is wanted.
+
+120
+00:07:51.573 --> 00:07:56.248
+Both are now often preferred to racemic bupivacaine for major regional and
+
+121
+00:07:56.248 --> 00:08:00.039
+neuraxial blocks on grounds of their improved safety margin.
+
+122
+00:08:00.039 --> 00:08:05.093
+So they are examples of the chiral-switch strategy applied to reduce a specific,
+
+123
+00:08:05.093 --> 00:08:06.293
+dangerous toxicity.
+
+124
+00:08:06.793 --> 00:08:10.356
+What are the maximum safe doses, and why do they matter?
+
+125
+00:08:10.856 --> 00:08:16.198
+Maximum recommended doses exist because systemic absorption of an excessive dose
+
+126
+00:08:16.198 --> 00:08:19.069
+causes local anaesthetic systemic toxicity.
+
+127
+00:08:19.209 --> 00:08:22.537
+The figures, expressed per kilogram, are approximately:
+
+128
+00:08:22.537 --> 00:08:25.320
+lidocaine three milligrams per kilogram plain,
+
+129
+00:08:25.320 --> 00:08:27.619
+rising to about seven with adrenaline;
+
+130
+00:08:27.619 --> 00:08:31.673
+bupivacaine and levobupivacaine around two milligrams per kilogram;
+
+131
+00:08:31.673 --> 00:08:36.150
+prilocaine around six, higher than the others because of its low toxicity;
+
+132
+00:08:36.150 --> 00:08:37.663
+ropivacaine around three.
+
+133
+00:08:37.803 --> 00:08:41.112
+The addition of adrenaline, by causing vasoconstriction,
+
+134
+00:08:41.112 --> 00:08:46.016
+slows absorption and increases the safe dose for the agents whose uptake it limits.
+
+135
+00:08:46.156 --> 00:08:48.548
+These are guides, not precise thresholds,
+
+136
+00:08:48.548 --> 00:08:53.040
+and the safe dose is lower where absorption is rapid, as from vascular sites,
+
+137
+00:08:53.040 --> 00:08:55.607
+and in the small, elderly or unwell patient.
+
+138
+00:08:55.747 --> 00:08:59.566
+The essential point is to calculate the dose for every patient,
+
+139
+00:08:59.566 --> 00:09:04.173
+in milligrams per kilogram, before injecting, to avoid inadvertent overdose.
+
+140
+00:09:04.673 --> 00:09:10.455
+Describe local anaesthetic systemic toxicity — its features and progression.
+
+141
+00:09:10.955 --> 00:09:15.831
+Local anaesthetic systemic toxicity results from a high plasma concentration,
+
+142
+00:09:15.831 --> 00:09:20.644
+from inadvertent intravascular injection or absorption of an excessive dose.
+
+143
+00:09:20.644 --> 00:09:23.051
+The features are classically biphasic.
+
+144
+00:09:23.191 --> 00:09:27.303
+Early central nervous system features predominate: circumoral tingling,
+
+145
+00:09:27.303 --> 00:09:30.721
+a metallic taste, tinnitus, light-headedness and agitation,
+
+146
+00:09:30.721 --> 00:09:34.313
+progressing to muscle twitching and then generalised seizures,
+
+147
+00:09:34.313 --> 00:09:39.063
+and ultimately central nervous system depression with coma and respiratory arrest.
+
+148
+00:09:39.203 --> 00:09:43.723
+As the concentration rises further, cardiovascular toxicity supervenes:
+
+149
+00:09:43.723 --> 00:09:48.816
+initially hypertension and tachycardia, then myocardial depression, hypotension,
+
+150
+00:09:48.816 --> 00:09:52.063
+conduction block, arrhythmias and, in severe cases,
+
+151
+00:09:52.063 --> 00:09:55.501
+refractory ventricular arrhythmias and cardiac arrest.
+
+152
+00:09:55.641 --> 00:09:57.939
+Bupivacaine is particularly cardiotoxic,
+
+153
+00:09:57.939 --> 00:10:02.419
+with cardiovascular collapse that can occur with little warning and is hard to
+
+154
+00:10:02.419 --> 00:10:03.108
+resuscitate.
+
+155
+00:10:03.248 --> 00:10:07.740
+So toxicity progresses from central excitation through central depression to
+
+156
+00:10:07.740 --> 00:10:11.995
+cardiovascular collapse, and recognition of the early features is vital.
+
+157
+00:10:23.508 --> 00:10:27.625
+How is local anaesthetic systemic toxicity managed?
+
+158
+00:10:28.125 --> 00:10:32.765
+Management is by an established protocol. The injection is stopped and help
+
+159
+00:10:32.765 --> 00:10:37.653
+summoned. The airway is secured and the patient ventilated with one hundred per
+
+160
+00:10:37.653 --> 00:10:41.117
+cent oxygen, since hypoxia and acidosis worsen toxicity.
+
+161
+00:10:41.257 --> 00:10:44.804
+Seizures are controlled, preferably with a benzodiazepine,
+
+162
+00:10:44.804 --> 00:10:47.678
+avoiding large doses of cardiodepressant drugs.
+
+163
+00:10:47.678 --> 00:10:51.286
+The circulation is supported, and if cardiac arrest occurs,
+
+164
+00:10:51.286 --> 00:10:55.444
+cardiopulmonary resuscitation is begun and may need to be prolonged.
+
+165
+00:10:55.584 --> 00:11:00.045
+The specific treatment is intravenous lipid emulsion — a bolus followed by an
+
+166
+00:11:00.045 --> 00:11:04.738
+infusion — which is thought to act as a lipid sink that sequesters the lipophilic
+
+167
+00:11:04.738 --> 00:11:09.374
+local anaesthetic away from the cardiac sodium channels and to provide metabolic
+
+168
+00:11:09.374 --> 00:11:10.880
+support to the myocardium.
+
+169
+00:11:11.020 --> 00:11:13.610
+Standard resuscitation drugs are modified,
+
+170
+00:11:13.610 --> 00:11:17.988
+with smaller adrenaline doses and avoidance of certain antiarrhythmics.
+
+171
+00:11:17.988 --> 00:11:20.948
+So oxygenation, seizure and circulatory support,
+
+172
+00:11:20.948 --> 00:11:23.415
+and lipid emulsion are the cornerstones.
+
+173
+00:11:23.915 --> 00:11:28.523
+Tell me about methaemoglobinaemia and the agents that cause it.
+
+174
+00:11:29.023 --> 00:11:34.134
+Methaemoglobinaemia is the oxidation of the iron in haemoglobin from the ferrous to
+
+175
+00:11:34.134 --> 00:11:36.783
+the ferric state, producing methaemoglobin,
+
+176
+00:11:36.783 --> 00:11:40.478
+which cannot carry oxygen and shifts the dissociation curve,
+
+177
+00:11:40.478 --> 00:11:44.481
+causing a functional anaemia and cyanosis unresponsive to oxygen,
+
+178
+00:11:44.481 --> 00:11:49.161
+with a characteristic low and fixed oxygen saturation on the pulse oximeter.
+
+179
+00:11:49.301 --> 00:11:54.085
+Among the local anaesthetics it is caused by prilocaine, through its metabolite,
+
+180
+00:11:54.085 --> 00:11:57.314
+particularly at high doses, and by topical benzocaine.
+
+181
+00:11:57.314 --> 00:12:02.037
+It is more significant in neonates and in those with impaired reducing systems.
+
+182
+00:12:02.177 --> 00:12:06.885
+It is treated, when significant, with intravenous methylthioninium chloride,
+
+183
+00:12:06.885 --> 00:12:11.159
+methylene blue, which reduces the methaemoglobin back to haemoglobin.
+
+184
+00:12:11.299 --> 00:12:16.275
+So methaemoglobinaemia is a specific toxicity to remember with prilocaine and
+
+185
+00:12:16.275 --> 00:12:20.346
+benzocaine, recognised by cyanosis with a low fixed saturation,
+
+186
+00:12:20.346 --> 00:12:22.349
+and reversed by methylene blue.
+
+187
+00:12:22.849 --> 00:12:26.476
+What is the position on allergy to local anaesthetics?
+
+188
+00:12:26.976 --> 00:12:31.938
+True allergy to local anaesthetics is uncommon and is far more often attributed to
+
+189
+00:12:31.938 --> 00:12:36.355
+them than actually present, since many reactions are due to intravascular
+
+190
+00:12:36.355 --> 00:12:40.288
+adrenaline, vasovagal episodes or anxiety rather than to allergy.
+
+191
+00:12:40.428 --> 00:12:44.862
+When genuine allergy occurs, it is much more common with the ester agents,
+
+192
+00:12:44.862 --> 00:12:49.656
+because their metabolism produces para-aminobenzoic acid, a recognised allergen,
+
+193
+00:12:49.656 --> 00:12:54.271
+and there can be cross-reactivity among esters and with related compounds and
+
+194
+00:12:54.271 --> 00:12:56.428
+preservatives such as methylparaben.
+
+195
+00:12:56.568 --> 00:13:01.184
+True allergy to the amides is rare. So in a patient reporting local-anaesthetic
+
+196
+00:13:01.184 --> 00:13:05.916
+allergy, the history is examined carefully to distinguish true allergy from other
+
+197
+00:13:05.916 --> 00:13:09.714
+reactions, an amide is generally safe if an ester was implicated,
+
+198
+00:13:09.714 --> 00:13:12.227
+and formal allergy testing may be arranged.
+
+199
+00:13:12.367 --> 00:13:17.183
+The practical message is that amide allergy is rare and most reported reactions are
+
+200
+00:13:17.183 --> 00:13:18.169
+not true allergy.
+
+201
+00:13:18.669 --> 00:13:22.381
+What adjuncts are added to local anaesthetics, and why?
+
+202
+00:13:22.881 --> 00:13:25.036
+Several adjuncts modify the block.
+
+203
+00:13:25.176 --> 00:13:29.414
+Adrenaline causes vasoconstriction, which slows systemic absorption,
+
+204
+00:13:29.414 --> 00:13:33.963
+prolonging the block, reducing peak plasma concentration and so toxicity,
+
+205
+00:13:33.963 --> 00:13:37.079
+and providing a marker of intravascular injection;
+
+206
+00:13:37.079 --> 00:13:41.567
+it is avoided in end-arterial territories such as digits, traditionally,
+
+207
+00:13:41.567 --> 00:13:44.184
+and where vasoconstriction is undesirable.
+
+208
+00:13:44.324 --> 00:13:47.675
+Sodium bicarbonate raises the pH of the solution,
+
+209
+00:13:47.675 --> 00:13:51.573
+increasing the un-ionised fraction and so speeding onset.
+
+210
+00:13:51.573 --> 00:13:56.907
+Opioids added to neuraxial local anaesthetic act on spinal opioid receptors to
+
+211
+00:13:56.907 --> 00:13:58.959
+enhance and prolong analgesia.
+
+212
+00:13:59.099 --> 00:14:03.459
+Alpha-two agonists such as clonidine and dexmedetomidine, and dexamethasone,
+
+213
+00:14:03.459 --> 00:14:06.672
+prolong the duration of peripheral and neuraxial blocks.
+
+214
+00:14:06.812 --> 00:14:09.952
+So adjuncts are used to speed onset, prolong duration,
+
+215
+00:14:09.952 --> 00:14:12.628
+improve analgesic quality and increase safety,
+
+216
+00:14:12.628 --> 00:14:15.943
+and the choice depends on the block and the clinical aim.
+
+217
+00:14:16.443 --> 00:14:19.297
+Tell me about cocaine, for completeness,
+
+218
+00:14:19.297 --> 00:14:22.437
+and about topical preparations such as EMLA.
+
+219
+00:14:22.937 --> 00:14:26.036
+Cocaine is the original local anaesthetic, an ester,
+
+220
+00:14:26.036 --> 00:14:29.254
+unique in also blocking the reuptake of noradrenaline,
+
+221
+00:14:29.254 --> 00:14:32.948
+which gives it vasoconstrictor and sympathomimetic properties;
+
+222
+00:14:32.948 --> 00:14:37.060
+this makes it useful as a topical agent for nasal and airway surgery,
+
+223
+00:14:37.060 --> 00:14:40.099
+where it both anaesthetises and shrinks the mucosa,
+
+224
+00:14:40.099 --> 00:14:44.270
+but also gives it cardiovascular toxicity — hypertension, tachycardia,
+
+225
+00:14:44.270 --> 00:14:48.500
+arrhythmias and coronary vasoconstriction — and a high abuse potential,
+
+226
+00:14:48.500 --> 00:14:50.884
+so its use is restricted and controlled.
+
+227
+00:14:51.024 --> 00:14:55.590
+EMLA is a eutectic mixture of local anaesthetics, lidocaine and prilocaine,
+
+228
+00:14:55.590 --> 00:15:00.339
+formulated so that the mixture is liquid at room temperature and can penetrate
+
+229
+00:15:00.339 --> 00:15:05.027
+intact skin, used to provide topical anaesthesia before cannulation and minor
+
+230
+00:15:05.027 --> 00:15:07.280
+procedures, particularly in children,
+
+231
+00:15:07.280 --> 00:15:10.203
+applied under occlusion for a period beforehand.
+
+232
+00:15:10.343 --> 00:15:14.588
+So cocaine is the vasoconstricting topical agent of restricted use,
+
+233
+00:15:14.588 --> 00:15:18.769
+and EMLA the everyday topical preparation for anaesthetising skin.
+
+234
+00:15:30.283 --> 00:15:33.973
+Pull it together: how do you use local anaesthetics safely?
+
+235
+00:15:34.473 --> 00:15:39.700
+I would choose the agent for the block: lidocaine for rapid onset and infiltration,
+
+236
+00:15:39.700 --> 00:15:44.801
+a long-acting agent such as levobupivacaine or ropivacaine for prolonged regional
+
+237
+00:15:44.801 --> 00:15:49.398
+or neuraxial anaesthesia, preferring these enantiomer agents over racemic
+
+238
+00:15:49.398 --> 00:15:52.169
+bupivacaine for their better cardiac safety,
+
+239
+00:15:52.169 --> 00:15:55.444
+and prilocaine for intravenous regional anaesthesia.
+
+240
+00:15:55.584 --> 00:15:59.787
+I would calculate the maximum safe dose in milligrams per kilogram for every
+
+241
+00:15:59.787 --> 00:16:03.769
+patient before injecting, reducing it for rapid-absorption sites and the
+
+242
+00:16:03.769 --> 00:16:08.138
+compromised patient, and consider adrenaline to slow absorption and prolong the
+
+243
+00:16:08.138 --> 00:16:08.469
+block.
+
+244
+00:16:08.609 --> 00:16:13.109
+I would inject with aspiration and incremental dosing to detect intravascular
+
+245
+00:16:13.109 --> 00:16:15.564
+placement, often with ultrasound guidance.
+
+246
+00:16:15.704 --> 00:16:20.536
+I would know and be prepared for local anaesthetic systemic toxicity — recognising
+
+247
+00:16:20.536 --> 00:16:23.246
+the early central features, and having oxygen,
+
+248
+00:16:23.246 --> 00:16:26.664
+the means to control seizures and support the circulation,
+
+249
+00:16:26.664 --> 00:16:29.080
+and lipid emulsion immediately available.
+
+250
+00:16:29.220 --> 00:16:33.518
+So safe practice combines appropriate agent and dose, careful technique,
+
+251
+00:16:33.518 --> 00:16:35.428
+and readiness to treat toxicity.
+
+252
+00:16:35.928 --> 00:16:41.397
+Describe the states of the sodium channel and how local anaesthetics interact with
+
+253
+00:16:41.397 --> 00:16:41.731
+them.
+
+254
+00:16:42.231 --> 00:16:46.395
+The voltage-gated sodium channel cycles through three states: a resting,
+
+255
+00:16:46.395 --> 00:16:50.154
+closed state at the negative resting membrane potential; an open,
+
+256
+00:16:50.154 --> 00:16:54.608
+activated state on depolarisation, through which sodium flows to generate the
+
+257
+00:16:54.608 --> 00:16:58.367
+action potential; and an inactivated, closed state shortly after,
+
+258
+00:16:58.367 --> 00:17:03.052
+from which the channel must return to the resting state before it can open again.
+
+259
+00:17:03.192 --> 00:17:07.494
+Local anaesthetics bind preferentially to the open and inactivated states,
+
+260
+00:17:07.494 --> 00:17:11.970
+so they bind more during activity, which is the basis of the use-dependent or
+
+261
+00:17:11.970 --> 00:17:14.877
+phasic block: the more frequently the nerve fires,
+
+262
+00:17:14.877 --> 00:17:19.469
+the more channels are exposed in the bindable states and the greater the block.
+
+263
+00:17:19.609 --> 00:17:22.446
+By binding and stabilising the inactivated state,
+
+264
+00:17:22.446 --> 00:17:26.730
+the drug prevents the channel returning to a state from which it can open,
+
+265
+00:17:26.730 --> 00:17:31.419
+so conduction fails. This state-dependence explains why rapidly firing fibres are
+
+266
+00:17:31.419 --> 00:17:32.751
+blocked preferentially.
+
+267
+00:17:33.251 --> 00:17:37.472
+How does pregnancy affect the response to local anaesthetics,
+
+268
+00:17:37.472 --> 00:17:39.203
+and what is ion trapping?
+
+269
+00:17:39.703 --> 00:17:42.983
+Pregnancy increases sensitivity to local anaesthetics,
+
+270
+00:17:42.983 --> 00:17:45.778
+so that less drug is needed for a given block,
+
+271
+00:17:45.778 --> 00:17:50.820
+owing to hormonal effects on the nerves and to engorged epidural veins reducing the
+
+272
+00:17:50.820 --> 00:17:53.676
+volume of the epidural and subarachnoid spaces,
+
+273
+00:17:53.676 --> 00:17:57.260
+which is why neuraxial doses are reduced in the parturient.
+
+274
+00:17:57.400 --> 00:18:01.091
+Ion trapping is a separate, important phenomenon at the placenta.
+
+275
+00:18:01.231 --> 00:18:05.043
+Local anaesthetics cross the placenta in their un-ionised form;
+
+276
+00:18:05.043 --> 00:18:09.945
+in a fetus that is acidotic, the lower fetal pH causes more of the drug to become
+
+277
+00:18:09.945 --> 00:18:14.059
+ionised, and the ionised form cannot cross back across the placenta,
+
+278
+00:18:14.059 --> 00:18:17.569
+so it accumulates — is trapped — in the fetal circulation,
+
+279
+00:18:17.569 --> 00:18:20.111
+potentially reaching toxic concentrations.
+
+280
+00:18:20.251 --> 00:18:24.768
+This is most relevant to agents that cross readily and in the distressed,
+
+281
+00:18:24.768 --> 00:18:28.295
+acidotic fetus. So pregnancy lowers the dose requirement,
+
+282
+00:18:28.295 --> 00:18:31.945
+and fetal acidosis can trap local anaesthetic in the fetus,
+
+283
+00:18:31.945 --> 00:18:33.925
+both shaping obstetric practice.
+
+284
+00:18:34.425 --> 00:18:37.604
+What is tachyphylaxis to local anaesthetics?
+
+285
+00:18:38.104 --> 00:18:42.945
+Tachyphylaxis is a reduction in the effect of repeated doses of a local anaesthetic
+
+286
+00:18:42.945 --> 00:18:47.552
+given over time, so that successive doses produce progressively less or shorter
+
+287
+00:18:47.552 --> 00:18:51.693
+block, requiring larger or more frequent dosing to maintain the effect.
+
+288
+00:18:51.833 --> 00:18:56.186
+It is seen, for instance, with repeated injections through an epidural catheter
+
+289
+00:18:56.186 --> 00:18:57.508
+over a prolonged period.
+
+290
+00:18:57.648 --> 00:19:02.729
+The mechanisms proposed include local changes in pH around the nerve from repeated
+
+291
+00:19:02.729 --> 00:19:06.446
+injections, a degree of receptor or local tissue adaptation,
+
+292
+00:19:06.446 --> 00:19:11.279
+and oedema and other local changes. It is distinct from a true pharmacological
+
+293
+00:19:11.279 --> 00:19:11.899
+tolerance.
+
+294
+00:19:12.039 --> 00:19:15.011
+The practical relevance is that, over a long block,
+
+295
+00:19:15.011 --> 00:19:17.518
+the local anaesthetic requirement may rise,
+
+296
+00:19:17.518 --> 00:19:22.355
+which must be distinguished from catheter displacement and managed within safe dose
+
+297
+00:19:22.355 --> 00:19:27.193
+limits, and which is one reason continuous infusion regimens are used in preference
+
+298
+00:19:27.193 --> 00:19:28.359
+to repeated boluses.
+
+299
+00:19:28.499 --> 00:19:33.256
+So tachyphylaxis is a diminishing response to repeated local anaesthetic dosing.
+
+300
+00:19:33.756 --> 00:19:39.308
+Discuss the use of local anaesthetics in spinal and epidural anaesthesia,
+
+301
+00:19:39.308 --> 00:19:40.753
+including baricity.
+
+302
+00:19:41.253 --> 00:19:46.190
+In spinal anaesthesia a small dose of local anaesthetic is injected into the
+
+303
+00:19:46.190 --> 00:19:50.737
+cerebrospinal fluid of the subarachnoid space, producing rapid, dense,
+
+304
+00:19:50.737 --> 00:19:52.880
+extensive block from a tiny dose.
+
+305
+00:19:53.020 --> 00:19:57.743
+Its spread is influenced by baricity — the density of the solution relative to
+
+306
+00:19:57.743 --> 00:20:02.163
+cerebrospinal fluid: a hyperbaric solution, made denser by added glucose,
+
+307
+00:20:02.163 --> 00:20:06.522
+sinks under gravity and its spread is controlled by patient positioning,
+
+308
+00:20:06.522 --> 00:20:11.184
+which is widely exploited; an isobaric solution spreads less predictably with
+
+309
+00:20:11.184 --> 00:20:11.729
+position.
+
+310
+00:20:11.869 --> 00:20:16.604
+In epidural anaesthesia a larger volume of local anaesthetic is placed in the
+
+311
+00:20:16.604 --> 00:20:19.187
+epidural space, acting on the nerve roots,
+
+312
+00:20:19.187 --> 00:20:24.230
+with a slower onset and the ability to titrate the level and to provide continuous
+
+313
+00:20:24.230 --> 00:20:26.013
+analgesia through a catheter.
+
+314
+00:20:26.153 --> 00:20:31.072
+Dilute solutions give differential block with sensory analgesia and motor sparing,
+
+315
+00:20:31.072 --> 00:20:33.651
+used in labour and postoperative analgesia.
+
+316
+00:20:33.651 --> 00:20:36.590
+So baricity and positioning govern spinal spread,
+
+317
+00:20:36.590 --> 00:20:40.489
+while the epidural route offers titratable, catheter-based block.
+
+318
+00:20:52.003 --> 00:20:56.760
+Describe intravenous regional anaesthesia and the agent used.
+
+319
+00:20:57.260 --> 00:21:02.012
+Intravenous regional anaesthesia, or Bier's block, provides anaesthesia of a limb,
+
+320
+00:21:02.012 --> 00:21:04.215
+usually the arm, for short procedures.
+
+321
+00:21:04.355 --> 00:21:08.772
+The limb is exsanguinated and a tourniquet inflated to isolate it from the
+
+322
+00:21:08.772 --> 00:21:13.667
+circulation, and a local anaesthetic is then injected intravenously into the limb,
+
+323
+00:21:13.667 --> 00:21:16.771
+diffusing from the veins to anaesthetise the nerves.
+
+324
+00:21:16.911 --> 00:21:20.928
+Prilocaine is the agent of choice because of its low systemic toxicity,
+
+325
+00:21:20.928 --> 00:21:25.567
+which matters because the safety of the technique depends on the local anaesthetic
+
+326
+00:21:25.567 --> 00:21:27.321
+remaining confined to the limb.
+
+327
+00:21:27.461 --> 00:21:31.680
+The critical hazard is premature deflation or failure of the tourniquet,
+
+328
+00:21:31.680 --> 00:21:36.368
+releasing a bolus of local anaesthetic into the systemic circulation and causing
+
+329
+00:21:36.368 --> 00:21:40.762
+toxicity, so the tourniquet must remain inflated for a minimum time and the
+
+330
+00:21:40.762 --> 00:21:44.571
+technique used with full monitoring and resuscitation facilities.
+
+331
+00:21:44.711 --> 00:21:48.122
+Bupivacaine is avoided because of its cardiotoxicity.
+
+332
+00:21:48.122 --> 00:21:52.369
+So Bier's block uses prilocaine with strict tourniquet discipline.
+
+333
+00:21:52.869 --> 00:21:57.968
+What do you know of liposomal and longer-acting local anaesthetic formulations?
+
+334
+00:21:58.468 --> 00:22:03.424
+Liposomal bupivacaine is a formulation in which bupivacaine is encapsulated in
+
+335
+00:22:03.424 --> 00:22:08.380
+multivesicular liposomes that release the drug slowly over an extended period,
+
+336
+00:22:08.380 --> 00:22:13.590
+with the aim of providing prolonged analgesia from a single infiltration or block,
+
+337
+00:22:13.590 --> 00:22:18.228
+extending the duration of postoperative analgesia beyond that of standard
+
+338
+00:22:18.228 --> 00:22:18.991
+bupivacaine.
+
+339
+00:22:19.131 --> 00:22:23.222
+It has been used for wound infiltration and certain blocks as part of
+
+340
+00:22:23.222 --> 00:22:28.025
+opioid-sparing analgesia. The evidence for a clinically meaningful advantage over
+
+341
+00:22:28.025 --> 00:22:32.176
+standard local anaesthetic with adjuncts is debated, and it is costly,
+
+342
+00:22:32.176 --> 00:22:34.192
+so its place is not fully settled.
+
+343
+00:22:34.332 --> 00:22:39.313
+It illustrates the wider effort to prolong local anaesthetic action — alongside the
+
+344
+00:22:39.313 --> 00:22:43.995
+use of adjuncts such as dexamethasone and alpha-two agonists and of continuous
+
+345
+00:22:43.995 --> 00:22:47.836
+catheter techniques — to extend analgesia and reduce opioid use.
+
+346
+00:22:47.976 --> 00:22:52.729
+So liposomal bupivacaine is a sustained-release approach to prolonging local
+
+347
+00:22:52.729 --> 00:22:56.168
+anaesthetic analgesia, of contested cost-effectiveness.
+
+348
+00:22:56.668 --> 00:23:00.039
+Tell me about chloroprocaine and tetracaine.
+
+349
+00:23:00.539 --> 00:23:05.767
+Chloroprocaine is an ester local anaesthetic with a very rapid onset and a short
+
+350
+00:23:05.767 --> 00:23:10.015
+duration, owing to its rapid hydrolysis by plasma cholinesterase,
+
+351
+00:23:10.015 --> 00:23:11.845
+and a low systemic toxicity.
+
+352
+00:23:11.985 --> 00:23:16.349
+These properties make it useful for short procedures and have led to renewed
+
+353
+00:23:16.349 --> 00:23:19.391
+interest in it for short-duration spinal anaesthesia,
+
+354
+00:23:19.391 --> 00:23:21.401
+for instance in ambulatory surgery,
+
+355
+00:23:21.401 --> 00:23:24.271
+where a rapid onset and quick recovery are wanted,
+
+356
+00:23:24.271 --> 00:23:28.979
+and it has a history of use in obstetric epidural anaesthesia for its rapid action
+
+357
+00:23:28.979 --> 00:23:31.505
+and rapid clearance limiting fetal exposure.
+
+358
+00:23:31.645 --> 00:23:34.643
+Tetracaine, also called amethocaine, is a potent,
+
+359
+00:23:34.643 --> 00:23:37.946
+long-acting ester used chiefly topically — on the eye,
+
+360
+00:23:37.946 --> 00:23:42.167
+and as a topical preparation to anaesthetise skin before cannulation,
+
+361
+00:23:42.167 --> 00:23:46.877
+particularly in children, where it has a faster onset than some alternatives.
+
+362
+00:23:47.017 --> 00:23:51.757
+So chloroprocaine is the rapid, short, low-toxicity ester for short procedures,
+
+363
+00:23:51.757 --> 00:23:54.996
+and tetracaine the potent ester used mainly topically.
+
+364
+00:23:55.496 --> 00:23:59.741
+What factors govern the onset and quality of a nerve block?
+
+365
+00:24:00.241 --> 00:24:03.276
+Several factors determine onset and quality.
+
+366
+00:24:03.276 --> 00:24:08.380
+The agent's pKa governs the un-ionised fraction and so the speed of onset,
+
+367
+00:24:08.380 --> 00:24:11.828
+an agent closer to physiological pH acting faster;
+
+368
+00:24:11.828 --> 00:24:15.345
+adding bicarbonate raises the pH and hastens onset.
+
+369
+00:24:15.485 --> 00:24:17.730
+The concentration and dose of the drug,
+
+370
+00:24:17.730 --> 00:24:21.011
+and the proximity and accuracy of injection to the nerve,
+
+371
+00:24:21.011 --> 00:24:25.156
+govern the speed and density of block, which is why ultrasound guidance,
+
+372
+00:24:25.156 --> 00:24:28.840
+by allowing accurate deposition around the nerve, improves both.
+
+373
+00:24:28.980 --> 00:24:33.255
+Lipid solubility and protein binding govern potency and duration.
+
+374
+00:24:33.255 --> 00:24:37.201
+The vascularity of the site affects absorption and duration,
+
+375
+00:24:37.201 --> 00:24:40.753
+and adrenaline prolongs the block by vasoconstriction.
+
+376
+00:24:40.753 --> 00:24:44.041
+Tissue pH, as in infection, reduces effectiveness.
+
+377
+00:24:44.181 --> 00:24:47.033
+Fibre type and size determine differential block.
+
+378
+00:24:47.033 --> 00:24:50.524
+So onset and quality depend on the agent's physicochemistry,
+
+379
+00:24:50.524 --> 00:24:54.074
+the dose and accuracy of placement, the addition of adjuncts,
+
+380
+00:24:54.074 --> 00:24:55.936
+and the local tissue conditions.
+
+381
+00:24:56.436 --> 00:25:02.708
+How does ultrasound guidance improve the safety and quality of regional anaesthesia?
+
+382
+00:25:14.221 --> 00:25:18.786
+Ultrasound guidance has transformed regional anaesthesia by allowing direct
+
+383
+00:25:18.786 --> 00:25:22.559
+visualisation of the target nerve, the surrounding structures,
+
+384
+00:25:22.559 --> 00:25:26.211
+the needle and the spread of the injected local anaesthetic.
+
+385
+00:25:26.351 --> 00:25:30.798
+This improves the quality of block by enabling accurate deposition of the drug
+
+386
+00:25:30.798 --> 00:25:35.588
+around the nerve, often allowing a smaller volume and a faster, more reliable onset.
+
+387
+00:25:35.728 --> 00:25:39.834
+It improves safety by allowing the needle to be kept away from vessels,
+
+388
+00:25:39.834 --> 00:25:44.403
+the pleura and other structures, reducing the risk of inadvertent intravascular
+
+389
+00:25:44.403 --> 00:25:48.972
+injection — and so of systemic toxicity — and of nerve injury and pneumothorax,
+
+390
+00:25:48.972 --> 00:25:53.136
+and by confirming correct spread rather than relying on landmarks alone.
+
+391
+00:25:53.276 --> 00:25:56.626
+It does not abolish the risk of toxicity, so aspiration,
+
+392
+00:25:56.626 --> 00:25:59.917
+incremental injection and dose limits remain essential.
+
+393
+00:25:59.917 --> 00:26:03.806
+So ultrasound improves both the success and the safety of blocks,
+
+394
+00:26:03.806 --> 00:26:06.737
+and is now standard for many regional techniques.
+
+395
+00:26:07.237 --> 00:26:10.928
+What is the role of systemic lidocaine infusion?
+
+396
+00:26:11.428 --> 00:26:15.847
+Intravenous lidocaine infusion is used as a systemic analgesic and
+
+397
+00:26:15.847 --> 00:26:20.735
+anti-inflammatory adjunct, particularly in major abdominal surgery within
+
+398
+00:26:20.735 --> 00:26:22.543
+enhanced-recovery pathways.
+
+399
+00:26:22.683 --> 00:26:26.914
+Given as a low-dose infusion, it provides opioid-sparing analgesia,
+
+400
+00:26:26.914 --> 00:26:29.250
+attenuates the inflammatory response,
+
+401
+00:26:29.250 --> 00:26:33.481
+hastens the return of gut function and reduces postoperative ileus,
+
+402
+00:26:33.481 --> 00:26:35.376
+and may shorten hospital stay.
+
+403
+00:26:35.516 --> 00:26:40.373
+Its mechanism includes systemic sodium-channel and anti-inflammatory effects rather
+
+404
+00:26:40.373 --> 00:26:41.660
+than a regional block.
+
+405
+00:26:41.800 --> 00:26:45.611
+The important caveat is that it is a systemic local anaesthetic,
+
+406
+00:26:45.611 --> 00:26:50.494
+so the dose must be controlled and the patient monitored for the features of local
+
+407
+00:26:50.494 --> 00:26:55.139
+anaesthetic systemic toxicity, and it must be accounted for in the total local
+
+408
+00:26:55.139 --> 00:26:58.355
+anaesthetic load if regional techniques are also used.
+
+409
+00:26:58.495 --> 00:27:03.855
+So systemic lidocaine is a useful non-opioid analgesic adjunct for major surgery,
+
+410
+00:27:03.855 --> 00:27:06.568
+used with attention to dose and toxicity,
+
+411
+00:27:06.568 --> 00:27:11.465
+illustrating a systemic rather than a regional use of a local anaesthetic.
+
+412
+00:27:11.965 --> 00:27:17.917
+How would you investigate and manage a patient reporting local anaesthetic allergy?
+
+413
+00:27:18.417 --> 00:27:22.749
+I would first take a careful history to determine what actually happened,
+
+414
+00:27:22.749 --> 00:27:27.556
+because most reported reactions are not true allergy but are due to intravascular
+
+415
+00:27:27.556 --> 00:27:31.948
+adrenaline causing palpitations, vasovagal episodes, anxiety, or toxicity,
+
+416
+00:27:31.948 --> 00:27:36.636
+rather than an immune reaction; true allergy is rare, especially to the amides.
+
+417
+00:27:36.776 --> 00:27:41.319
+I would establish which agent was implicated, whether it was an ester or an amide,
+
+418
+00:27:41.319 --> 00:27:43.645
+and the nature and timing of the reaction.
+
+419
+00:27:43.785 --> 00:27:48.541
+If genuine allergy seems possible, I would arrange referral for formal allergy
+
+420
+00:27:48.541 --> 00:27:53.418
+investigation, including skin testing and, where appropriate, challenge testing,
+
+421
+00:27:53.418 --> 00:27:54.943
+to identify a safe agent.
+
+422
+00:27:55.083 --> 00:27:59.464
+In the meantime, since true amide allergy is rare and ester and amide do not
+
+423
+00:27:59.464 --> 00:28:03.326
+cross-react, an amide is generally safe if an ester was implicated,
+
+424
+00:28:03.326 --> 00:28:07.880
+and preservative-free preparations are used to avoid the methylparaben that can
+
+425
+00:28:07.880 --> 00:28:09.205
+itself cause reactions.
+
+426
+00:28:09.345 --> 00:28:11.393
+So the approach is careful history,
+
+427
+00:28:11.393 --> 00:28:14.259
+distinguishing true allergy from other reactions,
+
+428
+00:28:14.259 --> 00:28:16.599
+and formal testing to find a safe agent.
+
+429
+00:28:17.099 --> 00:28:21.984
+Give a final integrated account of safe local anaesthetic practice.
+
+430
+00:28:22.484 --> 00:28:26.112
+Safe practice begins with understanding the pharmacology:
+
+431
+00:28:26.112 --> 00:28:29.232
+a use-dependent sodium-channel block whose onset,
+
+432
+00:28:29.232 --> 00:28:34.452
+potency and duration follow the agent's pKa, lipid solubility and protein binding,
+
+433
+00:28:34.452 --> 00:28:38.335
+and whose esters and amides differ in metabolism and allergy.
+
+434
+00:28:38.475 --> 00:28:43.686
+I would choose the agent for the task, preferring the safer enantiomer agents,
+
+435
+00:28:43.686 --> 00:28:48.697
+levobupivacaine and ropivacaine, over racemic bupivacaine for major blocks,
+
+436
+00:28:48.697 --> 00:28:52.171
+and prilocaine for intravenous regional anaesthesia.
+
+437
+00:28:52.311 --> 00:28:56.740
+I would calculate the maximum safe dose in milligrams per kilogram for every
+
+438
+00:28:56.740 --> 00:29:00.587
+patient, reduce it for rapid-absorption sites and the compromised,
+
+439
+00:29:00.587 --> 00:29:05.367
+the parturient and the acidotic fetus, and consider adrenaline to slow absorption.
+
+440
+00:29:05.507 --> 00:29:08.554
+I would inject accurately, ideally under ultrasound,
+
+441
+00:29:08.554 --> 00:29:10.840
+with aspiration and incremental dosing.
+
+442
+00:29:10.980 --> 00:29:15.884
+Above all I would be prepared for local anaesthetic systemic toxicity — recognising
+
+443
+00:29:15.884 --> 00:29:18.543
+the early central features and having oxygen,
+
+444
+00:29:18.543 --> 00:29:23.270
+seizure and circulatory support and lipid emulsion immediately available — since
+
+445
+00:29:23.270 --> 00:29:28.175
+prevention and prompt treatment of toxicity are the core of safe regional practice.
+
+446
+00:29:28.675 --> 00:29:33.048
+Describe the clinical order of differential block and its uses.
+
+447
+00:29:33.548 --> 00:29:36.301
+Clinically the modalities are lost, and recover,
+
+448
+00:29:36.301 --> 00:29:39.628
+in a characteristic order reflecting fibre susceptibility.
+
+449
+00:29:39.768 --> 00:29:43.701
+Sympathetic, autonomic fibres are blocked first and most extensively,
+
+450
+00:29:43.701 --> 00:29:48.318
+so that the level of sympathetic block in a neuraxial technique typically exceeds
+
+451
+00:29:48.318 --> 00:29:50.713
+the sensory level by a couple of segments,
+
+452
+00:29:50.713 --> 00:29:54.019
+which is why hypotension from vasodilatation is prominent.
+
+453
+00:29:54.159 --> 00:29:58.296
+Then pain and temperature are lost, then touch and pressure, and finally,
+
+454
+00:29:58.296 --> 00:30:01.753
+and least readily, the large motor and proprioceptive fibres.
+
+455
+00:30:01.893 --> 00:30:04.651
+This ordering allows useful clinical effects:
+
+456
+00:30:04.651 --> 00:30:09.431
+with dilute local anaesthetic solutions one can produce sensory analgesia with
+
+457
+00:30:09.431 --> 00:30:14.272
+relative preservation of motor power — a differential block exploited in labour
+
+458
+00:30:14.272 --> 00:30:17.213
+epidural analgesia, allowing the mother to move,
+
+459
+00:30:17.213 --> 00:30:19.664
+and in postoperative epidural analgesia.
+
+460
+00:30:19.804 --> 00:30:24.443
+Recovery occurs in the reverse order. So differential block underlies both the
+
+461
+00:30:24.443 --> 00:30:29.319
+haemodynamic effects of neuraxial anaesthesia and the ability to provide analgesia
+
+462
+00:30:29.319 --> 00:30:30.449
+with motor sparing.
+
+463
+00:30:41.963 --> 00:30:45.739
+What do you know of local anaesthetic neurotoxicity?
+
+464
+00:30:46.239 --> 00:30:50.887
+Local anaesthetics are, in high concentration and with prolonged contact,
+
+465
+00:30:50.887 --> 00:30:54.580
+directly neurotoxic. Two clinical entities are recognised.
+
+466
+00:30:54.720 --> 00:30:59.602
+Transient neurological symptoms — pain or dysaesthesia in the buttocks and legs
+
+467
+00:30:59.602 --> 00:31:04.607
+after spinal anaesthesia, resolving over days — were associated particularly with
+
+468
+00:31:04.607 --> 00:31:07.079
+hyperbaric lidocaine spinal anaesthesia,
+
+469
+00:31:07.079 --> 00:31:10.848
+which contributed to the decline of lidocaine for spinal use.
+
+470
+00:31:10.988 --> 00:31:14.276
+Cauda equina syndrome, a serious persistent injury,
+
+471
+00:31:14.276 --> 00:31:19.499
+was associated with continuous spinal anaesthesia using microcatheters delivering
+
+472
+00:31:19.499 --> 00:31:22.851
+concentrated local anaesthetic to a restricted area,
+
+473
+00:31:22.851 --> 00:31:25.495
+and with inadvertent high concentrations.
+
+474
+00:31:25.635 --> 00:31:30.475
+Older preparations of chloroprocaine with particular preservatives were also
+
+475
+00:31:30.475 --> 00:31:34.424
+implicated in neurotoxicity, since addressed by reformulation.
+
+476
+00:31:34.564 --> 00:31:39.135
+So local anaesthetics are not entirely benign to nerves: appropriate agents,
+
+477
+00:31:39.135 --> 00:31:42.864
+concentrations and techniques are used to avoid neurotoxicity,
+
+478
+00:31:42.864 --> 00:31:47.556
+and lidocaine is now generally avoided for spinal anaesthesia for this reason.
+
+479
+00:31:48.056 --> 00:31:53.496
+How does the site of injection affect systemic absorption and toxicity risk?
+
+480
+00:31:53.996 --> 00:31:58.436
+The rate of systemic absorption, and so the peak plasma concentration and the
+
+481
+00:31:58.436 --> 00:32:03.222
+toxicity risk for a given dose, depends heavily on the vascularity of the injection
+
+482
+00:32:03.222 --> 00:32:03.511
+site.
+
+483
+00:32:03.651 --> 00:32:07.390
+A widely used ranking, from highest to lowest absorption, is:
+
+484
+00:32:07.390 --> 00:32:11.375
+intercostal and interpleural injection, then caudal and epidural,
+
+485
+00:32:11.375 --> 00:32:16.280
+then brachial plexus and other peripheral sites, then subcutaneous infiltration.
+
+486
+00:32:16.420 --> 00:32:19.736
+So the same dose produces a higher and more rapid peak,
+
+487
+00:32:19.736 --> 00:32:24.257
+and a greater toxicity risk, when injected into a vascular site such as the
+
+488
+00:32:24.257 --> 00:32:27.151
+intercostal space than into subcutaneous tissue.
+
+489
+00:32:27.291 --> 00:32:31.342
+This is why maximum safe doses are effectively lower at vascular sites,
+
+490
+00:32:31.342 --> 00:32:34.537
+why intercostal blocks carry a particular toxicity risk,
+
+491
+00:32:34.537 --> 00:32:39.216
+and why the dose and the use of adrenaline are considered in relation to the site.
+
+492
+00:32:39.356 --> 00:32:44.113
+So injection-site vascularity is a key determinant of systemic toxicity,
+
+493
+00:32:44.113 --> 00:32:46.161
+independent of the dose itself.
+
+494
+00:32:46.661 --> 00:32:50.042
+Discuss the adjuncts adrenaline, clonidine,
+
+495
+00:32:50.042 --> 00:32:53.893
+dexmedetomidine and dexamethasone in more detail.
+
+496
+00:32:54.393 --> 00:32:59.041
+Adrenaline, by vasoconstriction, slows systemic absorption, prolongs the block,
+
+497
+00:32:59.041 --> 00:33:02.042
+reduces the peak plasma concentration and toxicity,
+
+498
+00:33:02.042 --> 00:33:06.513
+and serves as a marker of intravascular injection through the tachycardia it
+
+499
+00:33:06.513 --> 00:33:11.220
+produces; it is traditionally avoided in end-arterial territories such as digits
+
+500
+00:33:11.220 --> 00:33:16.103
+and the penis, although the evidence that dilute adrenaline harms healthy digits is
+
+501
+00:33:16.103 --> 00:33:16.985
+now questioned.
+
+502
+00:33:17.125 --> 00:33:21.914
+The alpha-two agonists clonidine and dexmedetomidine prolong sensory and motor
+
+503
+00:33:21.914 --> 00:33:26.334
+block and improve analgesia when added to peripheral and neuraxial local
+
+504
+00:33:26.334 --> 00:33:29.650
+anaesthetic, through spinal and peripheral mechanisms,
+
+505
+00:33:29.650 --> 00:33:33.211
+at the cost of some sedation, bradycardia and hypotension.
+
+506
+00:33:33.351 --> 00:33:36.352
+Dexamethasone, given perineurally or intravenously,
+
+507
+00:33:36.352 --> 00:33:39.235
+prolongs the duration of peripheral nerve blocks,
+
+508
+00:33:39.235 --> 00:33:42.353
+probably through anti-inflammatory and other effects.
+
+509
+00:33:42.493 --> 00:33:46.853
+So adjuncts are chosen to prolong the block, improve analgesic quality and,
+
+510
+00:33:46.853 --> 00:33:51.155
+with adrenaline, increase safety, balanced against their own side-effects.
+
+511
+00:33:51.655 --> 00:33:56.540
+Give approximate onset and duration figures to compare the agents.
+
+512
+00:33:57.040 --> 00:33:59.844
+Approximate figures help in choosing an agent.
+
+513
+00:33:59.844 --> 00:34:02.527
+Lidocaine has a rapid onset, within minutes,
+
+514
+00:34:02.527 --> 00:34:06.977
+and an intermediate duration of one to two hours, extended by adrenaline.
+
+515
+00:34:06.977 --> 00:34:11.611
+Prilocaine is similar in onset with a slightly longer, low-toxicity profile.
+
+516
+00:34:11.751 --> 00:34:15.799
+Bupivacaine, levobupivacaine and ropivacaine have a slower onset,
+
+517
+00:34:15.799 --> 00:34:19.536
+of the order of fifteen to thirty minutes for a major block,
+
+518
+00:34:19.536 --> 00:34:21.840
+and a long duration of several hours,
+
+519
+00:34:21.840 --> 00:34:25.203
+suiting prolonged surgery and postoperative analgesia.
+
+520
+00:34:25.203 --> 00:34:28.753
+Chloroprocaine has a very rapid onset and short duration.
+
+521
+00:34:28.893 --> 00:34:32.584
+These are influenced by the site, dose, concentration and adjuncts.
+
+522
+00:34:32.724 --> 00:34:36.973
+So for a rapid, short block I would use lidocaine or chloroprocaine;
+
+523
+00:34:36.973 --> 00:34:41.660
+for a long block I would use a long-acting agent such as levobupivacaine or
+
+524
+00:34:41.660 --> 00:34:44.160
+ropivacaine, accepting the slower onset,
+
+525
+00:34:44.160 --> 00:34:49.159
+often combining a rapid- and a long-acting agent where both rapid onset and long
+
+526
+00:34:49.159 --> 00:34:50.409
+duration are wanted.
+
+527
+00:34:50.909 --> 00:34:54.899
+Tell me more about cocaine's toxicity and its management.
+
+528
+00:34:55.399 --> 00:34:59.504
+Cocaine is unique among local anaesthetics in blocking the reuptake of
+
+529
+00:34:59.504 --> 00:35:01.556
+noradrenaline and other monoamines,
+
+530
+00:35:01.556 --> 00:35:06.248
+which gives it sympathomimetic and vasoconstrictor properties — useful topically
+
+531
+00:35:06.248 --> 00:35:09.884
+for nasal and airway surgery but responsible for its toxicity.
+
+532
+00:35:10.024 --> 00:35:13.980
+Systemically it causes hypertension, tachycardia, arrhythmias,
+
+533
+00:35:13.980 --> 00:35:19.148
+hyperthermia and agitation, and importantly coronary vasoconstriction with a risk
+
+534
+00:35:19.148 --> 00:35:23.869
+of myocardial ischaemia and infarction, as well as cerebrovascular events.
+
+535
+00:35:24.009 --> 00:35:28.486
+In managing cocaine toxicity the cardiovascular effects are treated with
+
+536
+00:35:28.486 --> 00:35:31.968
+benzodiazepines to reduce the central sympathetic drive,
+
+537
+00:35:31.968 --> 00:35:37.066
+and with vasodilators such as glyceryl trinitrate or phentolamine for the coronary
+
+538
+00:35:37.066 --> 00:35:41.853
+and systemic vasoconstriction; the traditional teaching is to avoid unopposed
+
+539
+00:35:41.853 --> 00:35:46.641
+beta-blockade, which may worsen the vasoconstriction by leaving alpha effects
+
+540
+00:35:46.641 --> 00:35:47.263
+unopposed.
+
+541
+00:35:47.403 --> 00:35:51.961
+Its abuse potential and toxicity mean its clinical use is restricted and
+
+542
+00:35:51.961 --> 00:35:54.937
+controlled. So cocaine is the vasoconstricting,
+
+543
+00:35:54.937 --> 00:35:59.876
+sympathomimetic local anaesthetic whose toxicity is essentially that of excess
+
+544
+00:35:59.876 --> 00:36:01.205
+catecholamine action.
+
+545
+00:36:12.719 --> 00:36:18.916
+Give a final integrated answer on choosing and using local anaesthetics in regional
+
+546
+00:36:18.916 --> 00:36:19.588
+practice.
+
+547
+00:36:20.088 --> 00:36:24.565
+In regional practice I would select the agent for the block's requirements:
+
+548
+00:36:24.565 --> 00:36:29.341
+a rapid-onset agent such as lidocaine or chloroprocaine for short procedures and
+
+549
+00:36:29.341 --> 00:36:33.819
+rapid onset; a long-acting agent such as levobupivacaine or ropivacaine for
+
+550
+00:36:33.819 --> 00:36:36.565
+prolonged surgery and postoperative analgesia,
+
+551
+00:36:36.565 --> 00:36:40.027
+preferring these safer enantiomers to racemic bupivacaine;
+
+552
+00:36:40.027 --> 00:36:44.505
+prilocaine for intravenous regional anaesthesia; and adjuncts — adrenaline,
+
+553
+00:36:44.505 --> 00:36:49.400
+alpha-two agonists or dexamethasone — to prolong the block or improve its quality.
+
+554
+00:36:49.540 --> 00:36:54.140
+I would calculate the maximum dose in milligrams per kilogram for the patient,
+
+555
+00:36:54.140 --> 00:36:58.562
+allow for rapid absorption at vascular sites and for the parturient and the
+
+556
+00:36:58.562 --> 00:37:02.926
+acidotic fetus, and inject accurately under ultrasound with aspiration and
+
+557
+00:37:02.926 --> 00:37:04.047
+incremental dosing.
+
+558
+00:37:04.187 --> 00:37:09.112
+I would exploit differential block for motor-sparing analgesia and baricity for
+
+559
+00:37:09.112 --> 00:37:14.037
+spinal spread, avoid lidocaine for spinal anaesthesia because of neurotoxicity,
+
+560
+00:37:14.037 --> 00:37:19.212
+and remain prepared at all times for local anaesthetic systemic toxicity with lipid
+
+561
+00:37:19.212 --> 00:37:20.272
+emulsion to hand.
+
+562
+00:37:20.412 --> 00:37:23.579
+So the choice and safe conduct flow from the pharmacology,
+
+563
+00:37:23.579 --> 00:37:24.999
+the patient and the block.
+
+564
+00:37:25.499 --> 00:37:31.664
+Finally, summarise why bupivacaine is cardiotoxic and how that risk is reduced.
+
+565
+00:37:32.164 --> 00:37:36.960
+Bupivacaine is cardiotoxic because, beyond its anaesthetic sodium-channel block,
+
+566
+00:37:36.960 --> 00:37:41.695
+it binds avidly and dissociates slowly from cardiac sodium channels and impairs
+
+567
+00:37:41.695 --> 00:37:46.671
+cardiac mitochondrial energetics, so that high plasma concentrations cause profound
+
+568
+00:37:46.671 --> 00:37:51.407
+myocardial depression and refractory ventricular arrhythmias and cardiac arrest
+
+569
+00:37:51.407 --> 00:37:53.625
+that can be very hard to resuscitate,
+
+570
+00:37:53.625 --> 00:37:57.401
+sometimes with little preceding central nervous system warning.
+
+571
+00:37:57.541 --> 00:38:03.451
+The cardiotoxicity resides predominantly in the R-enantiomer of the racemic mixture.
+
+572
+00:38:03.591 --> 00:38:07.279
+The risk is reduced by using the pure S-enantiomer agents,
+
+573
+00:38:07.279 --> 00:38:12.430
+levobupivacaine and ropivacaine, which keep the anaesthetic efficacy with a wider
+
+574
+00:38:12.430 --> 00:38:17.581
+cardiac safety margin; by strict adherence to maximum doses and careful technique
+
+575
+00:38:17.581 --> 00:38:22.732
+to avoid intravascular injection; by avoiding bupivacaine in intravenous regional
+
+576
+00:38:22.732 --> 00:38:26.801
+anaesthesia; and by having lipid emulsion immediately available.
+
+577
+00:38:26.941 --> 00:38:32.265
+So enantiomer selection, dose discipline and preparedness for toxicity together
+
+578
+00:38:32.265 --> 00:38:35.432
+address bupivacaine's dangerous cardiotoxicity.
+
+579
+00:38:35.932 --> 00:38:40.455
+Thank you. That was a thorough and well-structured account. Let us stop there.
+
+580
+00:38:40.955 --> 00:38:44.615
+Before we close, here are the take-home messages.
+
+581
+00:38:44.615 --> 00:38:50.368
+First, Local anaesthetics reversibly block voltage-gated sodium channels from
+
+582
+00:38:50.368 --> 00:38:53.282
+within the axon in a use-dependent way;
+
+583
+00:38:53.282 --> 00:38:58.362
+the un-ionised form crosses the membrane and the ionised form binds,
+
+584
+00:38:58.362 --> 00:39:00.155
+so onset depends on pKa.
+
+585
+00:39:00.295 --> 00:39:04.273
+Second, pKa governs onset (closer to pH = faster),
+
+586
+00:39:04.273 --> 00:39:09.922
+lipid solubility governs potency, and protein binding governs duration;
+
+587
+00:39:09.922 --> 00:39:14.855
+esters are hydrolysed by plasma cholinesterase (PABA allergy),
+
+588
+00:39:14.855 --> 00:39:18.833
+amides are metabolised hepatically (allergy rare).
+
+589
+00:39:18.973 --> 00:39:26.560
+Third, Always calculate the maximum dose in mg/kg (lidocaine 3, with adrenaline ~7;
+
+590
+00:39:26.560 --> 00:39:32.318
+bupivacaine/levobupivacaine ~2; prilocaine ~6; ropivacaine ~3);
+
+591
+00:39:32.318 --> 00:39:38.899
+adrenaline slows absorption, reduces peak levels and prolongs the block.
+
+592
+00:39:39.039 --> 00:39:44.845
+Fourth, Local anaesthetic systemic toxicity progresses from CNS excitation
+
+593
+00:39:44.845 --> 00:39:50.886
+(tingling, tinnitus, seizures) to CNS depression and cardiovascular collapse;
+
+594
+00:39:50.886 --> 00:39:55.359
+bupivacaine is especially cardiotoxic. Treat with oxygen,
+
+595
+00:39:55.359 --> 00:39:59.988
+seizure/circulatory support and intravenous lipid emulsion.
+
+596
+00:40:00.128 --> 00:40:06.032
+Fifth, Levobupivacaine and ropivacaine (S-enantiomers) reduce bupivacaine's
+
+597
+00:40:06.032 --> 00:40:12.172
+cardiotoxicity; remember prilocaine/benzocaine methaemoglobinaemia (treat with
+
+598
+00:40:12.172 --> 00:40:17.131
+methylene blue) and that infected, acidic tissue blocks poorly.
+
+599
+00:40:28.644 --> 00:40:31.119
+Thank you. That concludes the station.
+

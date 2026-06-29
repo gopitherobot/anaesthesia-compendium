@@ -1,0 +1,2514 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.553
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.553 --> 00:00:09.072
+respiratory acid-base and the integrated control of ventilation.
+
+3
+00:00:09.072 --> 00:00:14.296
+I shall take the candidate through it, question by question. Let us begin.
+
+4
+00:00:14.796 --> 00:00:20.251
+Let us discuss acid-base balance. Begin with the importance of hydrogen ion
+
+5
+00:00:20.251 --> 00:00:22.796
+regulation and how it is expressed.
+
+6
+00:00:23.296 --> 00:00:28.053
+The regulation of the hydrogen ion concentration of the body fluids is one of the
+
+7
+00:00:28.053 --> 00:00:31.283
+most tightly controlled of all physiological variables,
+
+8
+00:00:31.283 --> 00:00:35.688
+because the hydrogen ion concentration profoundly affects the structure and
+
+9
+00:00:35.688 --> 00:00:39.681
+function of proteins, and so of enzymes, ion channels and receptors,
+
+10
+00:00:39.681 --> 00:00:43.733
+throughout the body, and life is compatible only with a narrow range.
+
+11
+00:00:43.873 --> 00:00:48.513
+The hydrogen ion concentration of the arterial blood is held very low and very
+
+12
+00:00:48.513 --> 00:00:51.070
+constant, around forty nanomoles per litre,
+
+13
+00:00:51.070 --> 00:00:55.056
+and because this is so small a number and varies over a wide range,
+
+14
+00:00:55.056 --> 00:00:58.922
+it is conventionally expressed as its negative logarithm, the pH,
+
+15
+00:00:58.922 --> 00:01:03.680
+which is correspondingly around seven point four, the normal range being narrow,
+
+16
+00:01:03.680 --> 00:01:06.892
+about seven point three five to seven point four five.
+
+17
+00:01:07.032 --> 00:01:11.292
+A pH below this range is an acidaemia, above it an alkalaemia;
+
+18
+00:01:11.292 --> 00:01:15.757
+the processes tending to produce them are acidosis and alkalosis.
+
+19
+00:01:15.897 --> 00:01:20.428
+The body defends the pH against the continuous production of acid by metabolism
+
+20
+00:01:20.428 --> 00:01:25.017
+through three lines of defence operating over different timescales: the buffers,
+
+21
+00:01:25.017 --> 00:01:27.311
+the respiratory system, and the kidneys.
+
+22
+00:01:27.451 --> 00:01:32.218
+So the hydrogen ion concentration is tightly regulated because it affects all
+
+23
+00:01:32.218 --> 00:01:37.357
+proteins and so cellular function; it is normally around forty nanomoles per litre,
+
+24
+00:01:37.357 --> 00:01:41.319
+expressed as a pH of about seven point four over a narrow range,
+
+25
+00:01:41.319 --> 00:01:43.919
+with acidaemia below and alkalaemia above;
+
+26
+00:01:43.919 --> 00:01:46.829
+defended against metabolic acid by the buffers,
+
+27
+00:01:46.829 --> 00:01:50.853
+the lungs and the kidneys — a regulation fundamental to function.
+
+28
+00:01:51.353 --> 00:01:56.729
+Describe the bicarbonate buffer system and the Henderson-Hasselbalch equation.
+
+29
+00:01:57.229 --> 00:02:01.838
+The bicarbonate system is the most important buffer of the extracellular fluid,
+
+30
+00:02:01.838 --> 00:02:05.864
+and its behaviour is described by the Henderson-Hasselbalch equation,
+
+31
+00:02:05.864 --> 00:02:10.648
+which relates the pH to the components of the system, expressed entirely in words.
+
+32
+00:02:10.788 --> 00:02:16.097
+A buffer resists changes in pH; the bicarbonate buffer consists of the weak acid,
+
+33
+00:02:16.097 --> 00:02:21.341
+carbonic acid — in equilibrium with dissolved carbon dioxide — and its conjugate
+
+34
+00:02:21.341 --> 00:02:22.521
+base, bicarbonate.
+
+35
+00:02:22.661 --> 00:02:26.489
+Its special importance, despite not being the strongest buffer,
+
+36
+00:02:26.489 --> 00:02:31.348
+lies in its being an open system, both components being independently regulated:
+
+37
+00:02:31.348 --> 00:02:35.419
+the carbon dioxide by the lungs and the bicarbonate by the kidneys.
+
+38
+00:02:35.559 --> 00:02:38.325
+The Henderson-Hasselbalch equation, in words,
+
+39
+00:02:38.325 --> 00:02:43.242
+states that the pH equals a constant — the dissociation constant of the system —
+
+40
+00:02:43.242 --> 00:02:47.606
+plus the logarithm of the ratio of the bicarbonate concentration to the
+
+41
+00:02:47.606 --> 00:02:50.187
+concentration of dissolved carbon dioxide,
+
+42
+00:02:50.187 --> 00:02:54.183
+the latter being the carbon dioxide tension times its solubility.
+
+43
+00:02:54.323 --> 00:02:58.957
+The key insight is that the pH depends on the ratio of bicarbonate to carbon
+
+44
+00:02:58.957 --> 00:03:01.335
+dioxide, not on their absolute amounts;
+
+45
+00:03:01.335 --> 00:03:06.274
+so the pH is set by the balance between the renally-regulated bicarbonate and the
+
+46
+00:03:06.274 --> 00:03:08.531
+respiratory-regulated carbon dioxide.
+
+47
+00:03:08.671 --> 00:03:12.262
+So the bicarbonate buffer, of carbonic acid and bicarbonate,
+
+48
+00:03:12.262 --> 00:03:16.752
+is the chief extracellular buffer and an open system regulated by lungs and
+
+49
+00:03:16.752 --> 00:03:21.541
+kidneys; the Henderson-Hasselbalch equation states that the pH equals a constant
+
+50
+00:03:21.541 --> 00:03:26.330
+plus the log of the ratio of bicarbonate to dissolved carbon dioxide — so the pH
+
+51
+00:03:26.330 --> 00:03:30.221
+depends on the ratio of the renally-controlled bicarbonate to the
+
+52
+00:03:30.221 --> 00:03:34.591
+respiratory-controlled carbon dioxide, the basis of acid-base regulation.
+
+53
+00:03:35.091 --> 00:03:37.715
+Describe the body's buffer systems.
+
+54
+00:03:38.215 --> 00:03:42.284
+The buffers are the first and most immediate line of defence of the pH,
+
+55
+00:03:42.284 --> 00:03:46.812
+acting within seconds to minimise the change in hydrogen ion concentration when
+
+56
+00:03:46.812 --> 00:03:51.569
+acid or base is added, and the body has several, in the blood and within the cells.
+
+57
+00:03:51.709 --> 00:03:56.085
+In the extracellular fluid, the bicarbonate system is the most important,
+
+58
+00:03:56.085 --> 00:03:59.561
+for the reasons given — chiefly that it is an open system,
+
+59
+00:03:59.561 --> 00:04:04.296
+regulated by the lungs and kidneys. The plasma proteins provide some buffering.
+
+60
+00:04:04.436 --> 00:04:08.404
+Within the red cells, haemoglobin is a particularly important buffer,
+
+61
+00:04:08.404 --> 00:04:12.891
+well suited to buffering the carbon dioxide-derived acid carried in the blood,
+
+62
+00:04:12.891 --> 00:04:16.744
+its buffering aided by the change in its affinity on deoxygenation.
+
+63
+00:04:16.744 --> 00:04:20.137
+The phosphate system buffers in the cells and in the urine.
+
+64
+00:04:20.277 --> 00:04:23.479
+The largest reservoir of buffering, over a longer period,
+
+65
+00:04:23.479 --> 00:04:25.501
+is within the cells and in the bone,
+
+66
+00:04:25.501 --> 00:04:29.771
+which can take up or release hydrogen ions and exchange them for other ions.
+
+67
+00:04:29.911 --> 00:04:34.187
+The different buffers are in equilibrium with one another through the common
+
+68
+00:04:34.187 --> 00:04:38.688
+hydrogen ion concentration — the isohydric principle — so measuring one reflects
+
+69
+00:04:38.688 --> 00:04:38.913
+all.
+
+70
+00:04:39.053 --> 00:04:43.752
+So the body's buffers — acting within seconds — are, in the extracellular fluid,
+
+71
+00:04:43.752 --> 00:04:47.982
+the dominant bicarbonate system, with plasma proteins; in the red cells,
+
+72
+00:04:47.982 --> 00:04:51.036
+haemoglobin and phosphate; and, over longer periods,
+
+73
+00:04:51.036 --> 00:04:53.386
+the large intracellular and bony stores;
+
+74
+00:04:53.386 --> 00:04:58.085
+all in equilibrium through the common hydrogen ion concentration — the immediate
+
+75
+00:04:58.085 --> 00:05:00.728
+defence of the pH against added acid or base.
+
+76
+00:05:12.241 --> 00:05:17.404
+Describe the respiratory and renal regulation of acid-base balance.
+
+77
+00:05:17.904 --> 00:05:22.520
+Beyond the immediate buffering, the pH is regulated by the lungs and the kidneys,
+
+78
+00:05:22.520 --> 00:05:26.679
+the two organs that control the two components of the bicarbonate system,
+
+79
+00:05:26.679 --> 00:05:30.896
+acting over different timescales as the second and third lines of defence.
+
+80
+00:05:31.036 --> 00:05:34.705
+The respiratory regulation is rapid, operating within minutes:
+
+81
+00:05:34.705 --> 00:05:38.492
+the lungs control the carbon dioxide, and so the acid component,
+
+82
+00:05:38.492 --> 00:05:39.676
+through ventilation.
+
+83
+00:05:39.816 --> 00:05:45.514
+A fall in pH — an acidosis — stimulates the chemoreceptors to increase ventilation,
+
+84
+00:05:45.514 --> 00:05:50.251
+blowing off carbon dioxide and so raising the pH back towards normal;
+
+85
+00:05:50.251 --> 00:05:54.301
+a rise in pH reduces ventilation, retaining carbon dioxide.
+
+86
+00:05:54.441 --> 00:05:58.162
+This respiratory compensation is powerful and quick, but limited,
+
+87
+00:05:58.162 --> 00:06:02.399
+since it cannot fully correct and is constrained by the need to oxygenate.
+
+88
+00:06:02.539 --> 00:06:06.315
+The renal regulation is slow, operating over hours to days,
+
+89
+00:06:06.315 --> 00:06:08.939
+but is the only means of excreting fixed,
+
+90
+00:06:08.939 --> 00:06:12.139
+non-volatile acid and of finally restoring the pH:
+
+91
+00:06:12.139 --> 00:06:16.491
+the kidneys excrete hydrogen ions, reclaim and generate bicarbonate,
+
+92
+00:06:16.491 --> 00:06:19.051
+and so adjust the bicarbonate component.
+
+93
+00:06:19.191 --> 00:06:24.022
+In a respiratory disturbance the kidneys compensate by adjusting bicarbonate;
+
+94
+00:06:24.022 --> 00:06:28.791
+in a metabolic disturbance the lungs compensate by adjusting carbon dioxide.
+
+95
+00:06:28.931 --> 00:06:32.265
+So the lungs regulate acid-base rapidly, within minutes,
+
+96
+00:06:32.265 --> 00:06:36.611
+by controlling carbon dioxide through ventilation — powerful but limited;
+
+97
+00:06:36.611 --> 00:06:39.885
+and the kidneys regulate it slowly, over hours to days,
+
+98
+00:06:39.885 --> 00:06:44.410
+by excreting acid and adjusting bicarbonate — the only route for fixed acid;
+
+99
+00:06:44.410 --> 00:06:47.446
+the two compensating for disturbances of the other,
+
+100
+00:06:47.446 --> 00:06:49.411
+completing the defence of the pH.
+
+101
+00:06:49.911 --> 00:06:53.260
+Describe the primary acid-base disorders.
+
+102
+00:06:53.760 --> 00:06:58.269
+The primary disturbances of acid-base balance are classified into four types,
+
+103
+00:06:58.269 --> 00:07:02.836
+according to whether the primary problem is in the respiratory component — the
+
+104
+00:07:02.836 --> 00:07:07.403
+carbon dioxide — or the metabolic component — the bicarbonate — and whether it
+
+105
+00:07:07.403 --> 00:07:12.263
+tends to acidaemia or alkalaemia, following directly from the Henderson-Hasselbalch
+
+106
+00:07:12.263 --> 00:07:13.024
+relationship.
+
+107
+00:07:13.164 --> 00:07:17.395
+A respiratory acidosis is a primary rise in the carbon dioxide,
+
+108
+00:07:17.395 --> 00:07:22.767
+from hypoventilation — reduced ventilation relative to production — lowering the
+
+109
+00:07:22.767 --> 00:07:26.327
+ratio of bicarbonate to carbon dioxide and so the pH.
+
+110
+00:07:26.467 --> 00:07:32.267
+A respiratory alkalosis is a primary fall in carbon dioxide, from hyperventilation,
+
+111
+00:07:32.267 --> 00:07:33.315
+raising the pH.
+
+112
+00:07:33.455 --> 00:07:37.017
+A metabolic acidosis is a primary fall in bicarbonate,
+
+113
+00:07:37.017 --> 00:07:42.296
+either from the addition of fixed acid that consumes it — as in lactic acidosis,
+
+114
+00:07:42.296 --> 00:07:47.112
+ketoacidosis or renal failure — or from its direct loss, as in diarrhoea;
+
+115
+00:07:47.112 --> 00:07:50.543
+the fall in bicarbonate lowers the ratio and the pH.
+
+116
+00:07:50.683 --> 00:07:55.406
+A metabolic alkalosis is a primary rise in bicarbonate, from loss of acid,
+
+117
+00:07:55.406 --> 00:08:00.129
+as in vomiting, or from bicarbonate gain. Each primary disorder provokes a
+
+118
+00:08:00.129 --> 00:08:03.001
+compensatory response in the other component,
+
+119
+00:08:03.001 --> 00:08:06.512
+tending to restore the ratio and the pH towards normal.
+
+120
+00:08:06.652 --> 00:08:11.824
+So the four primary acid-base disorders are respiratory acidosis — a primary rise
+
+121
+00:08:11.824 --> 00:08:16.676
+in carbon dioxide; respiratory alkalosis — a primary fall in carbon dioxide;
+
+122
+00:08:16.676 --> 00:08:21.721
+metabolic acidosis — a primary fall in bicarbonate from added acid or its loss;
+
+123
+00:08:21.721 --> 00:08:25.296
+and metabolic alkalosis — a primary rise in bicarbonate;
+
+124
+00:08:25.296 --> 00:08:30.404
+each lowering or raising the pH through the bicarbonate-to-carbon-dioxide ratio,
+
+125
+00:08:30.404 --> 00:08:33.916
+and each provoking compensation in the other component.
+
+126
+00:08:34.416 --> 00:08:39.472
+Describe how acid-base disorders are quantified and compensated.
+
+127
+00:08:39.972 --> 00:08:42.146
+To interpret acid-base disturbances,
+
+128
+00:08:42.146 --> 00:08:46.676
+we need measures of the metabolic component independent of the respiratory,
+
+129
+00:08:46.676 --> 00:08:48.911
+and an understanding of compensation,
+
+130
+00:08:48.911 --> 00:08:52.596
+so that a disorder and its compensation can be distinguished,
+
+131
+00:08:52.596 --> 00:08:54.649
+and any added disorder identified.
+
+132
+00:08:54.789 --> 00:08:58.265
+The metabolic component is quantified in two main ways.
+
+133
+00:08:58.265 --> 00:09:03.385
+The standard bicarbonate is the bicarbonate concentration corrected to a standard
+
+134
+00:09:03.385 --> 00:09:06.608
+carbon dioxide, removing the respiratory influence.
+
+135
+00:09:06.748 --> 00:09:12.264
+The base excess is the amount of acid or base that would have to be added to return
+
+136
+00:09:12.264 --> 00:09:17.314
+the blood to a normal pH at a normal carbon dioxide — a positive base excess
+
+137
+00:09:17.314 --> 00:09:21.966
+indicating a metabolic alkalosis or base gain, a negative base excess,
+
+138
+00:09:21.966 --> 00:09:25.223
+or base deficit, indicating a metabolic acidosis.
+
+139
+00:09:25.363 --> 00:09:30.625
+Compensation is the secondary change in the other component that tends to restore
+
+140
+00:09:30.625 --> 00:09:35.952
+the pH: in a metabolic acidosis, the respiratory compensation is hyperventilation,
+
+141
+00:09:35.952 --> 00:09:39.524
+lowering the carbon dioxide; in a respiratory acidosis,
+
+142
+00:09:39.524 --> 00:09:42.643
+the renal compensation is a rise in bicarbonate.
+
+143
+00:09:42.783 --> 00:09:46.691
+Compensation moves the pH towards, but not fully to, normal,
+
+144
+00:09:46.691 --> 00:09:51.967
+and is predictable in degree, so a deviation from the expected suggests a second,
+
+145
+00:09:51.967 --> 00:09:56.265
+mixed disorder. The anion gap helps classify a metabolic acidosis.
+
+146
+00:09:56.405 --> 00:10:01.327
+So acid-base disorders are quantified by the standard bicarbonate and the base
+
+147
+00:10:01.327 --> 00:10:04.230
+excess, which isolate the metabolic component;
+
+148
+00:10:04.230 --> 00:10:07.701
+and compensation — respiratory for metabolic disorders,
+
+149
+00:10:07.701 --> 00:10:12.371
+renal for respiratory — partially restores the pH in a predictable degree,
+
+150
+00:10:12.371 --> 00:10:14.832
+deviations indicating a mixed disorder,
+
+151
+00:10:14.832 --> 00:10:19.501
+with the anion gap classifying metabolic acidosis — the tools of acid-base
+
+152
+00:10:19.501 --> 00:10:20.448
+interpretation.
+
+153
+00:10:31.961 --> 00:10:35.185
+Pull it together: how is the body's pH defended,
+
+154
+00:10:35.185 --> 00:10:39.215
+and how does this integrate with the control of ventilation?
+
+155
+00:10:39.715 --> 00:10:44.566
+I would draw the respiratory module to a close around the defence of the pH as an
+
+156
+00:10:44.566 --> 00:10:49.059
+integrated system in which the control of ventilation plays a central part,
+
+157
+00:10:49.059 --> 00:10:52.173
+linking respiratory physiology to acid-base balance.
+
+158
+00:10:52.313 --> 00:10:55.874
+The pH, set by the ratio of bicarbonate to carbon dioxide,
+
+159
+00:10:55.874 --> 00:11:00.663
+is defended in three lines: the buffers, instantly; the lungs, within minutes,
+
+160
+00:11:00.663 --> 00:11:05.574
+by adjusting the carbon dioxide through ventilation; and the kidneys, over days,
+
+161
+00:11:05.574 --> 00:11:08.889
+by adjusting the bicarbonate and excreting fixed acid.
+
+162
+00:11:09.029 --> 00:11:14.054
+The respiratory contribution is intimately tied to the control of breathing we have
+
+163
+00:11:14.054 --> 00:11:17.929
+studied: the chemoreceptors sense the carbon dioxide and the pH,
+
+164
+00:11:17.929 --> 00:11:22.652
+and adjust ventilation to defend them — so that the same chemical control that
+
+165
+00:11:22.652 --> 00:11:26.708
+holds the carbon dioxide constant also serves acid-base regulation,
+
+166
+00:11:26.708 --> 00:11:30.704
+hyperventilating to compensate a metabolic acidosis, for instance.
+
+167
+00:11:30.844 --> 00:11:35.919
+Thus the carbon dioxide is both the principal product regulated by ventilation and
+
+168
+00:11:35.919 --> 00:11:38.643
+the principal respiratory determinant of pH,
+
+169
+00:11:38.643 --> 00:11:43.533
+and the control of ventilation is simultaneously the control of one half of the
+
+170
+00:11:43.533 --> 00:11:44.647
+acid-base balance.
+
+171
+00:11:44.787 --> 00:11:48.926
+So the body's pH is defended by buffers, the lungs and the kidneys,
+
+172
+00:11:48.926 --> 00:11:51.830
+set by the bicarbonate-to-carbon-dioxide ratio;
+
+173
+00:11:51.830 --> 00:11:56.772
+the respiratory contribution is the chemoreceptor-driven control of ventilation,
+
+174
+00:11:56.772 --> 00:12:01.221
+which adjusts carbon dioxide to defend both the blood gases and the pH —
+
+175
+00:12:01.221 --> 00:12:05.113
+integrating the control of breathing with acid-base regulation,
+
+176
+00:12:05.113 --> 00:12:07.955
+a fitting synthesis of respiratory physiology.
+
+177
+00:12:08.455 --> 00:12:14.428
+Describe the anion gap and its use in classifying a metabolic acidosis.
+
+178
+00:12:14.928 --> 00:12:19.739
+The anion gap is a calculated quantity used to classify a metabolic acidosis
+
+179
+00:12:19.739 --> 00:12:24.233
+according to its cause, by detecting the presence of unmeasured anions,
+
+180
+00:12:24.233 --> 00:12:28.411
+and it is a valuable tool in narrowing the differential diagnosis.
+
+181
+00:12:28.551 --> 00:12:30.944
+The principle rests on electroneutrality:
+
+182
+00:12:30.944 --> 00:12:34.856
+the total positive and negative charges in the plasma must balance,
+
+183
+00:12:34.856 --> 00:12:37.191
+but not all ions are routinely measured.
+
+184
+00:12:37.331 --> 00:12:42.256
+The anion gap is calculated as the difference between the commonly measured cation,
+
+185
+00:12:42.256 --> 00:12:46.350
+sodium — sometimes with potassium — and the commonly measured anions,
+
+186
+00:12:46.350 --> 00:12:50.918
+chloride and bicarbonate; the resulting gap represents the unmeasured anions,
+
+187
+00:12:50.918 --> 00:12:55.784
+normally a modest value made up chiefly of the negative charge on plasma proteins.
+
+188
+00:12:55.924 --> 00:13:00.532
+In a metabolic acidosis, the use of the gap is to distinguish two mechanisms.
+
+189
+00:13:00.672 --> 00:13:05.324
+If the acidosis is due to the addition of a fixed acid — such as lactate,
+
+190
+00:13:05.324 --> 00:13:10.421
+the ketoacids, or the acids of renal failure and certain poisonings — the acid's
+
+191
+00:13:10.421 --> 00:13:15.264
+anion is unmeasured, so the gap widens: a high-anion-gap metabolic acidosis.
+
+192
+00:13:15.404 --> 00:13:20.872
+If the acidosis is due to a loss of bicarbonate — as in diarrhoea or renal tubular
+
+193
+00:13:20.872 --> 00:13:25.006
+acidosis — chloride is retained to maintain electroneutrality,
+
+194
+00:13:25.006 --> 00:13:29.740
+so the gap is normal: a normal-anion-gap, or hyperchloraemic, acidosis.
+
+195
+00:13:29.880 --> 00:13:34.722
+So the anion gap, the difference between measured cations and measured anions,
+
+196
+00:13:34.722 --> 00:13:39.625
+reflects the unmeasured anions; in a metabolic acidosis a widened gap indicates
+
+197
+00:13:39.625 --> 00:13:41.984
+added fixed acid — lactate, ketoacids,
+
+198
+00:13:41.984 --> 00:13:46.639
+renal failure — while a normal gap indicates bicarbonate loss with chloride
+
+199
+00:13:46.639 --> 00:13:51.667
+retention, as in diarrhoea — a calculation classifying the acidosis and directing
+
+200
+00:13:51.667 --> 00:13:53.219
+the search for its cause.
+
+201
+00:13:53.719 --> 00:13:56.535
+Describe lactic acidosis.
+
+202
+00:13:57.035 --> 00:14:02.443
+Lactic acidosis is the most important cause of a high-anion-gap metabolic acidosis
+
+203
+00:14:02.443 --> 00:14:06.730
+in the acutely ill, arising from the accumulation of lactic acid,
+
+204
+00:14:06.730 --> 00:14:10.490
+and it is both a marker of tissue hypoxia and, sometimes,
+
+205
+00:14:10.490 --> 00:14:12.864
+a consequence of other disturbances.
+
+206
+00:14:13.004 --> 00:14:15.827
+Lactate is produced by anaerobic glycolysis:
+
+207
+00:14:15.827 --> 00:14:20.832
+when the supply of oxygen to a tissue is insufficient for its metabolic needs,
+
+208
+00:14:20.832 --> 00:14:25.388
+the cells cannot fully oxidise glucose and instead produce lactic acid,
+
+209
+00:14:25.388 --> 00:14:29.495
+which dissociates to lactate and hydrogen ions, lowering the pH.
+
+210
+00:14:29.635 --> 00:14:31.981
+It is classically divided into two types.
+
+211
+00:14:32.121 --> 00:14:34.432
+Type A, the commoner and more serious,
+
+212
+00:14:34.432 --> 00:14:39.113
+is due to tissue hypoxia from inadequate oxygen delivery — as in shock of any
+
+213
+00:14:39.113 --> 00:14:42.700
+cause, severe hypoxaemia or anaemia, or regional ischaemia;
+
+214
+00:14:42.700 --> 00:14:47.564
+the raised lactate reflects the inadequacy of oxygen delivery and is a marker of
+
+215
+00:14:47.564 --> 00:14:51.151
+the severity of shock and of the response to resuscitation.
+
+216
+00:14:51.291 --> 00:14:56.352
+Type B is due to causes other than overt tissue hypoxia — such as certain drugs and
+
+217
+00:14:56.352 --> 00:15:01.230
+toxins, liver disease impairing lactate clearance, and some metabolic disorders.
+
+218
+00:15:01.230 --> 00:15:03.730
+The treatment is of the underlying cause,
+
+219
+00:15:03.730 --> 00:15:06.352
+chiefly the restoration of oxygen delivery.
+
+220
+00:15:06.492 --> 00:15:11.448
+So lactic acidosis is a high-anion-gap acidosis from the accumulation of lactic
+
+221
+00:15:11.448 --> 00:15:14.334
+acid produced by anaerobic glycolysis; type A,
+
+222
+00:15:14.334 --> 00:15:18.474
+from tissue hypoxia due to inadequate oxygen delivery as in shock,
+
+223
+00:15:18.474 --> 00:15:23.556
+is a key marker of severity and of resuscitation, while type B arises from drugs,
+
+224
+00:15:23.556 --> 00:15:28.700
+liver disease and metabolic disorders — its management being the correction of the
+
+225
+00:15:28.700 --> 00:15:30.833
+cause, especially oxygen delivery.
+
+226
+00:15:42.347 --> 00:15:46.421
+Describe the base excess and the standard base excess.
+
+227
+00:15:46.921 --> 00:15:52.053
+The base excess is a derived measure that quantifies the metabolic component of an
+
+228
+00:15:52.053 --> 00:15:56.121
+acid-base disturbance independently of the respiratory component,
+
+229
+00:15:56.121 --> 00:16:00.064
+and it is widely used because it expresses, in a single number,
+
+230
+00:16:00.064 --> 00:16:02.943
+the degree of metabolic acidosis or alkalosis.
+
+231
+00:16:03.083 --> 00:16:06.107
+It is defined as the amount of strong acid, or base,
+
+232
+00:16:06.107 --> 00:16:10.760
+that would have to be added to a sample of blood to restore its pH to the normal
+
+233
+00:16:10.760 --> 00:16:15.413
+value of seven point four, at a standard carbon dioxide tension and temperature.
+
+234
+00:16:15.553 --> 00:16:18.139
+By specifying the standard carbon dioxide,
+
+235
+00:16:18.139 --> 00:16:20.970
+the measure removes the respiratory influence,
+
+236
+00:16:20.970 --> 00:16:25.772
+so the base excess reflects only the metabolic, or non-respiratory, component.
+
+237
+00:16:25.912 --> 00:16:31.721
+A positive base excess — an excess of base — indicates a metabolic alkalosis or a
+
+238
+00:16:31.721 --> 00:16:35.809
+compensated respiratory acidosis; a negative base excess,
+
+239
+00:16:35.809 --> 00:16:41.188
+also called a base deficit, indicates a metabolic acidosis or a compensated
+
+240
+00:16:41.188 --> 00:16:42.765
+respiratory alkalosis.
+
+241
+00:16:42.905 --> 00:16:45.294
+The standard base excess is a refinement:
+
+242
+00:16:45.294 --> 00:16:49.837
+it is calculated for the whole extracellular fluid rather than just the blood,
+
+243
+00:16:49.837 --> 00:16:54.264
+by allowing for the lower haemoglobin of the extracellular fluid as a whole,
+
+244
+00:16:54.264 --> 00:16:59.041
+which gives a more accurate reflection of the metabolic disturbance of the body in
+
+245
+00:16:59.041 --> 00:16:59.332
+vivo.
+
+246
+00:16:59.472 --> 00:17:04.425
+So the base excess is the acid or base needed to restore the blood pH to seven
+
+247
+00:17:04.425 --> 00:17:06.966
+point four at a standard carbon dioxide,
+
+248
+00:17:06.966 --> 00:17:11.919
+isolating the metabolic component — positive in metabolic alkalosis, negative,
+
+249
+00:17:11.919 --> 00:17:14.332
+a base deficit, in metabolic acidosis;
+
+250
+00:17:14.332 --> 00:17:19.159
+and the standard base excess refines this for the whole extracellular fluid,
+
+251
+00:17:19.159 --> 00:17:24.112
+giving a single, respiration-independent measure of the metabolic disturbance.
+
+252
+00:17:24.612 --> 00:17:29.988
+Describe the expected compensation for the primary acid-base disorders.
+
+253
+00:17:30.488 --> 00:17:35.027
+Each primary acid-base disorder provokes a compensatory response in the other
+
+254
+00:17:35.027 --> 00:17:39.153
+component, and because the degree of this compensation is predictable,
+
+255
+00:17:39.153 --> 00:17:44.045
+comparing the observed with the expected compensation allows a mixed disorder to be
+
+256
+00:17:44.045 --> 00:17:46.403
+detected — a key step in interpretation.
+
+257
+00:17:46.543 --> 00:17:48.036
+The principles are these.
+
+258
+00:17:48.176 --> 00:17:51.792
+A metabolic acidosis is compensated by hyperventilation,
+
+259
+00:17:51.792 --> 00:17:56.893
+the respiratory system lowering the carbon dioxide; this compensation is rapid,
+
+260
+00:17:56.893 --> 00:18:02.124
+occurring over hours, and the expected fall in carbon dioxide for a given fall in
+
+261
+00:18:02.124 --> 00:18:05.029
+bicarbonate can be estimated by simple rules.
+
+262
+00:18:05.169 --> 00:18:08.863
+A metabolic alkalosis is compensated by hypoventilation,
+
+263
+00:18:08.863 --> 00:18:13.743
+raising the carbon dioxide, though this is limited by the need to maintain
+
+264
+00:18:13.743 --> 00:18:14.535
+oxygenation.
+
+265
+00:18:14.675 --> 00:18:19.362
+A respiratory acidosis is compensated by the kidney retaining bicarbonate;
+
+266
+00:18:19.362 --> 00:18:23.035
+this is slow, taking two to three days to become complete,
+
+267
+00:18:23.035 --> 00:18:28.229
+so the compensation is small in an acute respiratory acidosis but substantial in a
+
+268
+00:18:28.229 --> 00:18:28.989
+chronic one.
+
+269
+00:18:29.129 --> 00:18:34.140
+A respiratory alkalosis is compensated by the kidney excreting bicarbonate,
+
+270
+00:18:34.140 --> 00:18:35.209
+again over days.
+
+271
+00:18:35.349 --> 00:18:40.225
+Importantly, compensation moves the pH towards normal but does not fully correct
+
+272
+00:18:40.225 --> 00:18:43.332
+it, and never overcorrects; so a pH that is normal,
+
+273
+00:18:43.332 --> 00:18:48.086
+or that has moved the wrong way, or a compensation outside the expected range,
+
+274
+00:18:48.086 --> 00:18:50.219
+indicates a second, mixed disorder.
+
+275
+00:18:50.359 --> 00:18:55.317
+So each disorder is compensated predictably — metabolic disorders rapidly by the
+
+276
+00:18:55.317 --> 00:19:00.399
+respiratory adjustment of carbon dioxide, respiratory disorders slowly, over days,
+
+277
+00:19:00.399 --> 00:19:05.419
+by the renal adjustment of bicarbonate — the compensation partially restoring but
+
+278
+00:19:05.419 --> 00:19:10.501
+not overcorrecting the pH; so a deviation from the expected compensation reveals a
+
+279
+00:19:10.501 --> 00:19:14.529
+mixed disorder, the basis of systematic acid-base interpretation.
+
+280
+00:19:15.029 --> 00:19:18.635
+Describe temperature effects on acid-base balance,
+
+281
+00:19:18.635 --> 00:19:21.664
+and the alpha-stat and pH-stat approaches.
+
+282
+00:19:22.164 --> 00:19:25.342
+Temperature affects the acid-base state of the blood,
+
+283
+00:19:25.342 --> 00:19:29.659
+which raises the question of how to manage acid-base during hypothermia,
+
+284
+00:19:29.659 --> 00:19:34.577
+as in cardiac surgery, and the two approaches — alpha-stat and pH-stat — represent
+
+285
+00:19:34.577 --> 00:19:37.695
+different philosophies, a point of some controversy.
+
+286
+00:19:37.835 --> 00:19:41.205
+The effect of temperature is that, as blood is cooled,
+
+287
+00:19:41.205 --> 00:19:46.010
+the solubility of carbon dioxide rises and the dissociation of water changes,
+
+288
+00:19:46.010 --> 00:19:49.629
+so that the carbon dioxide tension falls and the pH rises;
+
+289
+00:19:49.629 --> 00:19:54.559
+thus the same blood has a different measured pH and carbon dioxide at different
+
+290
+00:19:54.559 --> 00:19:55.371
+temperatures.
+
+291
+00:19:55.511 --> 00:19:59.134
+Blood gases are measured by the analyser at thirty-seven degrees,
+
+292
+00:19:59.134 --> 00:20:03.705
+so a decision must be made about how to interpret and manage them in a hypothermic
+
+293
+00:20:03.705 --> 00:20:04.151
+patient.
+
+294
+00:20:04.291 --> 00:20:08.511
+The alpha-stat approach manages the blood gases as measured at thirty-seven
+
+295
+00:20:08.511 --> 00:20:12.169
+degrees, without correcting for the patient's actual temperature;
+
+296
+00:20:12.169 --> 00:20:16.784
+this maintains the constancy of the charge state of proteins — the alpha referring
+
+297
+00:20:16.784 --> 00:20:20.498
+to the imidazole groups of histidine — preserving enzyme function,
+
+298
+00:20:20.498 --> 00:20:23.256
+and is the approach generally favoured in adults.
+
+299
+00:20:23.396 --> 00:20:28.199
+The pH-stat approach corrects the values to the patient's actual temperature and
+
+300
+00:20:28.199 --> 00:20:31.141
+aims to keep the temperature-corrected pH normal,
+
+301
+00:20:31.141 --> 00:20:35.404
+which requires adding carbon dioxide; it increases cerebral blood flow,
+
+302
+00:20:35.404 --> 00:20:39.247
+and is used in some settings such as paediatric cardiac surgery.
+
+303
+00:20:39.387 --> 00:20:43.434
+So cooling blood lowers its carbon dioxide tension and raises its pH;
+
+304
+00:20:43.434 --> 00:20:48.009
+the alpha-stat approach manages the gases as measured at thirty-seven degrees,
+
+305
+00:20:48.009 --> 00:20:50.707
+preserving protein charge and enzyme function,
+
+306
+00:20:50.707 --> 00:20:54.519
+while the pH-stat approach corrects to the patient's temperature,
+
+307
+00:20:54.519 --> 00:20:58.918
+adding carbon dioxide and raising cerebral blood flow — two philosophies of
+
+308
+00:20:58.918 --> 00:21:03.728
+acid-base management in hypothermia, with alpha-stat generally favoured in adults.
+
+309
+00:21:15.241 --> 00:21:20.169
+Outline a systematic approach to interpreting an arterial blood gas.
+
+310
+00:21:20.669 --> 00:21:25.714
+A systematic approach to the arterial blood gas allows the acid-base disturbance to
+
+311
+00:21:25.714 --> 00:21:29.117
+be identified and its cause and compensation worked out,
+
+312
+00:21:29.117 --> 00:21:33.614
+and applying the principles we have discussed in a set order avoids error.
+
+313
+00:21:33.614 --> 00:21:35.133
+I would proceed in steps.
+
+314
+00:21:35.273 --> 00:21:40.450
+First, look at the oxygenation — the arterial oxygen and the inspired oxygen — to
+
+315
+00:21:40.450 --> 00:21:43.837
+assess for hypoxaemia, separately from the acid-base.
+
+316
+00:21:43.837 --> 00:21:47.864
+Second, look at the pH: is there an acidaemia or an alkalaemia,
+
+317
+00:21:47.864 --> 00:21:50.676
+and so which way is the primary disturbance.
+
+318
+00:21:50.816 --> 00:21:55.218
+Third, examine the carbon dioxide and the bicarbonate, or base excess,
+
+319
+00:21:55.218 --> 00:22:00.312
+to determine whether the disturbance is respiratory — the carbon dioxide moved in
+
+320
+00:22:00.312 --> 00:22:05.281
+the direction to explain the pH — or metabolic — the bicarbonate or base excess
+
+321
+00:22:05.281 --> 00:22:06.539
+moved to explain it.
+
+322
+00:22:06.679 --> 00:22:11.633
+Fourth, assess the compensation: is the other component changed in the expected
+
+323
+00:22:11.633 --> 00:22:15.647
+direction and degree; a compensation outside the expected range,
+
+324
+00:22:15.647 --> 00:22:20.225
+or a normal pH with both components deranged, indicates a mixed disorder.
+
+325
+00:22:20.365 --> 00:22:25.441
+Fifth, if there is a metabolic acidosis, calculate the anion gap to classify it,
+
+326
+00:22:25.441 --> 00:22:30.072
+and seek the cause. Finally, interpret the whole in the clinical context.
+
+327
+00:22:30.212 --> 00:22:35.097
+So the arterial blood gas is interpreted systematically: assess oxygenation;
+
+328
+00:22:35.097 --> 00:22:37.989
+identify acidaemia or alkalaemia from the pH;
+
+329
+00:22:37.989 --> 00:22:43.260
+determine whether the primary disorder is respiratory or metabolic from the carbon
+
+330
+00:22:43.260 --> 00:22:47.566
+dioxide and bicarbonate; check whether compensation is as expected,
+
+331
+00:22:47.566 --> 00:22:50.137
+a deviation indicating a mixed disorder;
+
+332
+00:22:50.137 --> 00:22:53.287
+calculate the anion gap for a metabolic acidosis;
+
+333
+00:22:53.287 --> 00:22:58.493
+and interpret in context — a stepwise method applying acid-base physiology to the
+
+334
+00:22:58.493 --> 00:23:00.100
+diagnosis at the bedside.
+
+335
+00:23:00.600 --> 00:23:06.296
+Describe the Stewart, or physicochemical, approach to acid-base balance in brief.
+
+336
+00:23:06.796 --> 00:23:11.418
+The Stewart approach, also called the physicochemical or strong-ion approach,
+
+337
+00:23:11.418 --> 00:23:14.900
+is an alternative way of analysing acid-base balance that,
+
+338
+00:23:14.900 --> 00:23:18.322
+rather than treating bicarbonate as the central variable,
+
+339
+00:23:18.322 --> 00:23:23.124
+identifies the truly independent determinants of the hydrogen ion concentration,
+
+340
+00:23:23.124 --> 00:23:27.447
+and although more complex, it offers insights into certain disturbances.
+
+341
+00:23:27.587 --> 00:23:32.418
+The traditional bicarbonate-centred approach treats the bicarbonate and carbon
+
+342
+00:23:32.418 --> 00:23:37.374
+dioxide as the determinants of pH; the Stewart approach argues that the hydrogen
+
+343
+00:23:37.374 --> 00:23:41.710
+ion and bicarbonate concentrations are themselves dependent variables,
+
+344
+00:23:41.710 --> 00:23:44.312
+determined by three independent variables.
+
+345
+00:23:44.452 --> 00:23:47.810
+These are: the carbon dioxide tension, set by ventilation;
+
+346
+00:23:47.810 --> 00:23:52.441
+the strong ion difference, which is the difference between the concentrations of
+
+347
+00:23:52.441 --> 00:23:56.841
+the strong, fully-dissociated cations — chiefly sodium — and strong anions —
+
+348
+00:23:56.841 --> 00:24:00.315
+chiefly chloride; and the total concentration of weak acids,
+
+349
+00:24:00.315 --> 00:24:02.052
+chiefly albumin and phosphate.
+
+350
+00:24:02.192 --> 00:24:07.069
+According to this approach, the pH changes only when one of these three changes;
+
+351
+00:24:07.069 --> 00:24:12.068
+so, for example, a change in chloride relative to sodium — altering the strong ion
+
+352
+00:24:12.068 --> 00:24:15.177
+difference — is the real cause of certain acidoses,
+
+353
+00:24:15.177 --> 00:24:19.017
+such as the hyperchloraemic acidosis of large saline infusions,
+
+354
+00:24:19.017 --> 00:24:22.309
+which the traditional approach attributes to dilution.
+
+355
+00:24:22.449 --> 00:24:27.012
+So the Stewart approach identifies three independent determinants of pH — the
+
+356
+00:24:27.012 --> 00:24:29.501
+carbon dioxide, the strong ion difference,
+
+357
+00:24:29.501 --> 00:24:34.420
+and the total weak acid — with bicarbonate and hydrogen ion as dependent variables;
+
+358
+00:24:34.420 --> 00:24:39.160
+it explains certain disturbances, such as the hyperchloraemic acidosis of saline
+
+359
+00:24:39.160 --> 00:24:43.960
+infusion, in terms of the strong ion difference — a more complex but illuminating
+
+360
+00:24:43.960 --> 00:24:47.516
+alternative to the traditional bicarbonate-centred analysis.
+
+361
+00:24:48.016 --> 00:24:54.117
+Describe the physiological effects of acidosis and alkalosis on the body.
+
+362
+00:24:54.617 --> 00:24:58.269
+Disturbances of the pH have widespread effects on the body,
+
+363
+00:24:58.269 --> 00:25:03.097
+because the hydrogen ion concentration affects so many proteins and processes,
+
+364
+00:25:03.097 --> 00:25:07.677
+and these effects are important in the acidotic or alkalotic patient under
+
+365
+00:25:07.677 --> 00:25:08.420
+anaesthesia.
+
+366
+00:25:08.560 --> 00:25:12.080
+Acidaemia has these effects: on the cardiovascular system,
+
+367
+00:25:12.080 --> 00:25:16.389
+a severe acidosis depresses myocardial contractility and predisposes to
+
+368
+00:25:16.389 --> 00:25:19.666
+arrhythmias, and, while it causes some vasodilatation,
+
+369
+00:25:19.666 --> 00:25:23.914
+it blunts the response to catecholamines, so the circulation may fail;
+
+370
+00:25:23.914 --> 00:25:28.101
+on the respiratory system, it stimulates ventilation as compensation;
+
+371
+00:25:28.101 --> 00:25:32.410
+it shifts the oxygen dissociation curve to the right, aiding unloading;
+
+372
+00:25:32.410 --> 00:25:37.326
+it causes hyperkalaemia, as potassium moves out of cells in exchange for hydrogen
+
+373
+00:25:37.326 --> 00:25:41.392
+ions; and at severe levels it depresses the central nervous system.
+
+374
+00:25:41.532 --> 00:25:44.672
+Alkalaemia has largely opposite and other effects:
+
+375
+00:25:44.672 --> 00:25:49.256
+it shifts the dissociation curve to the left, impairing oxygen unloading;
+
+376
+00:25:49.256 --> 00:25:52.647
+it causes hypokalaemia and lowers the ionised calcium,
+
+377
+00:25:52.647 --> 00:25:55.536
+causing neuromuscular irritability and tetany;
+
+378
+00:25:55.536 --> 00:26:00.497
+it causes cerebral and coronary vasoconstriction; and it depresses ventilation.
+
+379
+00:26:00.637 --> 00:26:05.098
+So acidaemia depresses the myocardium and blunts the catecholamine response,
+
+380
+00:26:05.098 --> 00:26:08.502
+causes hyperkalaemia, shifts the dissociation curve right,
+
+381
+00:26:08.502 --> 00:26:11.612
+and depresses the central nervous system when severe;
+
+382
+00:26:11.612 --> 00:26:13.901
+while alkalaemia shifts the curve left,
+
+383
+00:26:13.901 --> 00:26:17.423
+causes hypokalaemia and reduced ionised calcium with tetany,
+
+384
+00:26:17.423 --> 00:26:21.883
+and causes vasoconstriction — widespread effects making the correction of pH
+
+385
+00:26:21.883 --> 00:26:26.344
+disturbances important, particularly in the anaesthetised and critically ill
+
+386
+00:26:26.344 --> 00:26:26.813
+patient.
+
+387
+00:26:38.327 --> 00:26:40.929
+Describe the Davenport diagram.
+
+388
+00:26:41.429 --> 00:26:46.391
+The Davenport diagram is a graphical representation of the acid-base state of the
+
+389
+00:26:46.391 --> 00:26:49.638
+blood that displays the relationships between the pH,
+
+390
+00:26:49.638 --> 00:26:52.027
+the bicarbonate and the carbon dioxide,
+
+391
+00:26:52.027 --> 00:26:57.173
+and it is a useful way of visualising acid-base disturbances and their compensation.
+
+392
+00:26:57.313 --> 00:27:02.556
+The diagram is plotted with the plasma bicarbonate concentration on the vertical
+
+393
+00:27:02.556 --> 00:27:05.374
+axis against the pH on the horizontal axis.
+
+394
+00:27:05.374 --> 00:27:08.257
+Across this plane run two families of lines.
+
+395
+00:27:08.397 --> 00:27:13.641
+First, curved lines, each representing a constant carbon dioxide tension — the
+
+396
+00:27:13.641 --> 00:27:18.952
+carbon dioxide isobars — showing the combinations of pH and bicarbonate at that
+
+397
+00:27:18.952 --> 00:27:19.960
+carbon dioxide.
+
+398
+00:27:20.100 --> 00:27:25.037
+Second, the buffer line, the line along which the blood moves as carbon dioxide is
+
+399
+00:27:25.037 --> 00:27:27.746
+added or removed at constant metabolic state,
+
+400
+00:27:27.746 --> 00:27:31.359
+its slope set by the non-bicarbonate buffering of the blood.
+
+401
+00:27:31.359 --> 00:27:36.356
+The normal point lies at a pH of seven point four and a bicarbonate of twenty-four.
+
+402
+00:27:36.496 --> 00:27:41.556
+The different acid-base disturbances move the point in characteristic directions:
+
+403
+00:27:41.556 --> 00:27:46.429
+a respiratory acidosis moves it along the buffer line to a lower pH and higher
+
+404
+00:27:46.429 --> 00:27:51.489
+bicarbonate; a metabolic acidosis to a lower pH and lower bicarbonate; and so on,
+
+405
+00:27:51.489 --> 00:27:54.800
+with compensation moving it further in a defined way.
+
+406
+00:27:54.940 --> 00:27:58.290
+So the Davenport diagram plots bicarbonate against pH,
+
+407
+00:27:58.290 --> 00:28:01.888
+crossed by the carbon dioxide isobars and the buffer line;
+
+408
+00:28:01.888 --> 00:28:06.975
+the normal point and the characteristic directions of movement for respiratory and
+
+409
+00:28:06.975 --> 00:28:10.511
+metabolic acidosis and alkalosis, and their compensation,
+
+410
+00:28:10.511 --> 00:28:15.597
+allow the acid-base state and its disturbances to be visualised — a graphical tool
+
+411
+00:28:15.597 --> 00:28:17.831
+for understanding acid-base balance.
+
+412
+00:28:18.331 --> 00:28:22.747
+Describe metabolic alkalosis and how it is maintained.
+
+413
+00:28:23.247 --> 00:28:28.171
+Metabolic alkalosis is a primary rise in the plasma bicarbonate raising the pH,
+
+414
+00:28:28.171 --> 00:28:30.352
+and an interesting feature is that,
+
+415
+00:28:30.352 --> 00:28:35.089
+because the kidney is normally very capable of excreting excess bicarbonate,
+
+416
+00:28:35.089 --> 00:28:39.141
+a metabolic alkalosis can only persist if something maintains it,
+
+417
+00:28:39.141 --> 00:28:43.940
+so its analysis requires considering both its generation and its maintenance.
+
+418
+00:28:44.080 --> 00:28:49.091
+The generation of a metabolic alkalosis occurs by the loss of acid or the gain of
+
+419
+00:28:49.091 --> 00:28:52.369
+bicarbonate: the commonest cause is the loss of acid,
+
+420
+00:28:52.369 --> 00:28:54.720
+as in vomiting or nasogastric suction,
+
+421
+00:28:54.720 --> 00:28:59.298
+which loses hydrochloric acid from the stomach; or the renal loss of acid,
+
+422
+00:28:59.298 --> 00:29:03.071
+as with diuretics or mineralocorticoid excess; less commonly,
+
+423
+00:29:03.071 --> 00:29:06.288
+the administration of bicarbonate or its precursors.
+
+424
+00:29:06.428 --> 00:29:10.977
+Now, the kidney would normally excrete the excess bicarbonate and correct the
+
+425
+00:29:10.977 --> 00:29:13.872
+alkalosis; so for the alkalosis to be maintained,
+
+426
+00:29:13.872 --> 00:29:16.412
+the kidney must be prevented from doing so.
+
+427
+00:29:16.552 --> 00:29:21.238
+The usual maintaining factors are a depletion of chloride and of the extracellular
+
+428
+00:29:21.238 --> 00:29:25.925
+volume, and potassium depletion, which cause the kidney to retain bicarbonate — so
+
+429
+00:29:25.925 --> 00:29:30.325
+the alkalosis persists until the chloride, volume and potassium are restored,
+
+430
+00:29:30.325 --> 00:29:34.840
+which is why such alkaloses are called chloride-responsive and are treated with
+
+431
+00:29:34.840 --> 00:29:35.240
+saline.
+
+432
+00:29:35.380 --> 00:29:38.654
+So metabolic alkalosis is a primary rise in bicarbonate,
+
+433
+00:29:38.654 --> 00:29:42.280
+generated by acid loss — as in vomiting — or bicarbonate gain;
+
+434
+00:29:42.280 --> 00:29:45.554
+but because the kidney can normally excrete bicarbonate,
+
+435
+00:29:45.554 --> 00:29:50.349
+it is maintained only by factors that make the kidney retain it — chiefly chloride
+
+436
+00:29:50.349 --> 00:29:54.851
+and volume depletion and potassium depletion — so it persists until these are
+
+437
+00:29:54.851 --> 00:29:59.236
+corrected, typically with saline, hence chloride-responsive — a disturbance
+
+438
+00:29:59.236 --> 00:30:02.452
+requiring attention to both generation and maintenance.
+
+439
+00:30:13.965 --> 00:30:18.915
+Describe the acid-base disturbance of diabetic ketoacidosis.
+
+440
+00:30:19.415 --> 00:30:24.516
+Diabetic ketoacidosis is an important and instructive cause of a high-anion-gap
+
+441
+00:30:24.516 --> 00:30:29.811
+metabolic acidosis, arising from the metabolic consequences of insulin deficiency,
+
+442
+00:30:29.811 --> 00:30:33.751
+and its acid-base disturbance illustrates several principles.
+
+443
+00:30:33.891 --> 00:30:36.161
+In the absence of sufficient insulin,
+
+444
+00:30:36.161 --> 00:30:39.230
+with an excess of the counter-regulatory hormones,
+
+445
+00:30:39.230 --> 00:30:42.666
+the body cannot use glucose and instead breaks down fat,
+
+446
+00:30:42.666 --> 00:30:47.453
+producing large amounts of the ketoacids — acetoacetic and beta-hydroxybutyric
+
+447
+00:30:47.453 --> 00:30:47.821
+acids.
+
+448
+00:30:47.961 --> 00:30:52.837
+These are fixed acids, so they consume bicarbonate and add unmeasured anions,
+
+449
+00:30:52.837 --> 00:30:56.636
+producing a high-anion-gap metabolic acidosis, often severe.
+
+450
+00:30:56.636 --> 00:30:59.232
+The body compensates by hyperventilation,
+
+451
+00:30:59.232 --> 00:31:03.791
+the deep Kussmaul breathing lowering the carbon dioxide to raise the pH.
+
+452
+00:31:03.931 --> 00:31:06.064
+There are accompanying disturbances:
+
+453
+00:31:06.064 --> 00:31:10.509
+an osmotic diuresis from the hyperglycaemia causes profound dehydration and
+
+454
+00:31:10.509 --> 00:31:13.769
+electrolyte loss; the total body potassium is depleted,
+
+455
+00:31:13.769 --> 00:31:18.688
+though the serum potassium may initially be normal or high because the acidosis and
+
+456
+00:31:18.688 --> 00:31:22.481
+insulin lack shift potassium out of the cells — a crucial point,
+
+457
+00:31:22.481 --> 00:31:27.162
+since giving insulin and correcting the acidosis drives potassium back into the
+
+458
+00:31:27.162 --> 00:31:29.829
+cells and can cause a dangerous hypokalaemia.
+
+459
+00:31:29.969 --> 00:31:33.916
+Treatment is with fluid, insulin and careful potassium replacement.
+
+460
+00:31:34.056 --> 00:31:38.664
+So diabetic ketoacidosis is a high-anion-gap metabolic acidosis from the
+
+461
+00:31:38.664 --> 00:31:41.864
+overproduction of ketoacids in insulin deficiency,
+
+462
+00:31:41.864 --> 00:31:44.488
+compensated by Kussmaul hyperventilation,
+
+463
+00:31:44.488 --> 00:31:49.672
+with dehydration and a depleted total-body potassium that is masked initially and
+
+464
+00:31:49.672 --> 00:31:54.856
+falls dangerously on treatment — an acidosis whose management must anticipate the
+
+465
+00:31:54.856 --> 00:32:00.168
+potassium shift, illustrating the integration of acid-base and electrolyte balance.
+
+466
+00:32:00.668 --> 00:32:05.425
+Describe the interaction between potassium and acid-base balance.
+
+467
+00:32:05.925 --> 00:32:10.370
+There is an important and clinically significant interaction between the plasma
+
+468
+00:32:10.370 --> 00:32:14.533
+potassium and the acid-base state, because hydrogen and potassium ions are
+
+469
+00:32:14.533 --> 00:32:18.921
+exchanged across cell membranes, so that disturbances of one affect the other,
+
+470
+00:32:18.921 --> 00:32:21.733
+a relationship the anaesthetist must keep in mind.
+
+471
+00:32:21.873 --> 00:32:24.814
+The basis is that, to maintain electroneutrality,
+
+472
+00:32:24.814 --> 00:32:29.734
+hydrogen and potassium ions shift between the cells and the extracellular fluid in
+
+473
+00:32:29.734 --> 00:32:32.135
+the same direction relative to the cell.
+
+474
+00:32:32.275 --> 00:32:37.160
+In an acidosis, the excess extracellular hydrogen ions move into the cells to be
+
+475
+00:32:37.160 --> 00:32:42.106
+buffered, and to maintain electroneutrality potassium moves out of the cells into
+
+476
+00:32:42.106 --> 00:32:46.502
+the plasma, raising the plasma potassium — so an acidosis tends to cause
+
+477
+00:32:46.502 --> 00:32:47.357
+hyperkalaemia.
+
+478
+00:32:47.497 --> 00:32:52.440
+Conversely, an alkalosis drives potassium into the cells, causing hypokalaemia.
+
+479
+00:32:52.440 --> 00:32:57.695
+The effect works the other way too: changes in potassium affect the acid-base state.
+
+480
+00:32:57.835 --> 00:33:00.337
+The clinical importance is considerable:
+
+481
+00:33:00.337 --> 00:33:04.966
+a measured potassium must be interpreted in the light of the pH — a normal
+
+482
+00:33:04.966 --> 00:33:09.783
+potassium in an acidotic patient may conceal a depleted total body potassium,
+
+483
+00:33:09.783 --> 00:33:12.598
+which will fall as the acidosis is corrected,
+
+484
+00:33:12.598 --> 00:33:15.413
+as in the treatment of diabetic ketoacidosis.
+
+485
+00:33:15.553 --> 00:33:20.350
+So potassium and acid-base balance interact through the exchange of hydrogen and
+
+486
+00:33:20.350 --> 00:33:24.966
+potassium ions across cell membranes: acidosis drives potassium out of cells,
+
+487
+00:33:24.966 --> 00:33:29.283
+causing hyperkalaemia, and alkalosis drives it in, causing hypokalaemia;
+
+488
+00:33:29.283 --> 00:33:32.880
+so the potassium must be interpreted in the light of the pH,
+
+489
+00:33:32.880 --> 00:33:37.736
+an acidosis potentially masking a total-body potassium depletion — an interaction
+
+490
+00:33:37.736 --> 00:33:41.153
+of major importance in clinical and anaesthetic practice.
+
+491
+00:33:41.653 --> 00:33:47.733
+Describe the hyperchloraemic acidosis associated with saline administration.
+
+492
+00:33:48.233 --> 00:33:53.171
+The infusion of large volumes of normal saline can cause a metabolic acidosis,
+
+493
+00:33:53.171 --> 00:33:56.020
+a normal-anion-gap, hyperchloraemic acidosis,
+
+494
+00:33:56.020 --> 00:34:01.084
+and understanding it illustrates the influence of chloride on acid-base balance,
+
+495
+00:34:01.084 --> 00:34:03.743
+best explained by the strong-ion approach.
+
+496
+00:34:03.883 --> 00:34:07.859
+Normal saline contains equal concentrations of sodium and chloride,
+
+497
+00:34:07.859 --> 00:34:12.429
+the chloride concentration being considerably higher than that of the plasma.
+
+498
+00:34:12.429 --> 00:34:16.939
+When a large volume is infused, the plasma chloride rises disproportionately
+
+499
+00:34:16.939 --> 00:34:18.304
+relative to the sodium.
+
+500
+00:34:18.444 --> 00:34:22.555
+By the traditional view, this is a dilutional and hyperchloraemic acidosis;
+
+501
+00:34:22.555 --> 00:34:25.844
+by the Stewart, strong-ion view, the explanation is clearer:
+
+502
+00:34:25.844 --> 00:34:30.284
+the acid-base state depends on the strong ion difference — the difference between
+
+503
+00:34:30.284 --> 00:34:33.245
+the strong cations, chiefly sodium, and strong anions,
+
+504
+00:34:33.245 --> 00:34:37.520
+chiefly chloride — and raising the chloride relative to the sodium narrows the
+
+505
+00:34:37.520 --> 00:34:42.015
+strong ion difference, which, by the physicochemical relationships, lowers the pH,
+
+506
+00:34:42.015 --> 00:34:43.276
+producing the acidosis.
+
+507
+00:34:43.416 --> 00:34:47.629
+The anion gap is normal, since the added anion, chloride, is measured.
+
+508
+00:34:47.629 --> 00:34:50.578
+This is avoided by using balanced salt solutions,
+
+509
+00:34:50.578 --> 00:34:53.346
+whose composition is closer to that of plasma,
+
+510
+00:34:53.346 --> 00:34:56.536
+with a lower chloride and some bicarbonate precursor.
+
+511
+00:34:56.676 --> 00:35:00.072
+So large-volume normal saline causes a hyperchloraemic,
+
+512
+00:35:00.072 --> 00:35:04.887
+normal-anion-gap metabolic acidosis by raising the plasma chloride relative to
+
+513
+00:35:04.887 --> 00:35:09.024
+sodium, narrowing the strong ion difference and so lowering the pH,
+
+514
+00:35:09.024 --> 00:35:11.246
+as the strong-ion approach explains;
+
+515
+00:35:11.246 --> 00:35:16.370
+avoided by using balanced solutions closer to plasma in composition — a disturbance
+
+516
+00:35:16.370 --> 00:35:18.902
+of practical importance in fluid therapy,
+
+517
+00:35:18.902 --> 00:35:22.297
+illustrating the role of chloride in acid-base balance.
+
+518
+00:35:33.811 --> 00:35:38.035
+Describe the recognition of mixed acid-base disorders.
+
+519
+00:35:38.535 --> 00:35:43.236
+A mixed acid-base disorder is the presence of more than one primary disturbance at
+
+520
+00:35:43.236 --> 00:35:47.936
+the same time, and recognising them is important because they may be missed if the
+
+521
+00:35:47.936 --> 00:35:49.943
+analysis assumes a single disorder,
+
+522
+00:35:49.943 --> 00:35:53.383
+and they can produce dangerous or deceptively normal values.
+
+523
+00:35:53.523 --> 00:35:58.579
+The key to recognising them is the principle that compensation for a single primary
+
+524
+00:35:58.579 --> 00:36:03.391
+disorder is predictable in direction and degree, and never overcorrects the pH;
+
+525
+00:36:03.391 --> 00:36:08.264
+so a deviation from the expected pattern signals a second, independent disorder.
+
+526
+00:36:08.404 --> 00:36:13.365
+Several clues point to a mixed disorder. A pH that is normal, or near normal,
+
+527
+00:36:13.365 --> 00:36:18.004
+while both the carbon dioxide and the bicarbonate are markedly deranged,
+
+528
+00:36:18.004 --> 00:36:23.029
+suggests opposing disorders — for example a combined respiratory and metabolic
+
+529
+00:36:23.029 --> 00:36:24.511
+acidosis and alkalosis.
+
+530
+00:36:24.651 --> 00:36:29.403
+A compensation that is greater or less than expected for the primary disorder
+
+531
+00:36:29.403 --> 00:36:32.242
+indicates an added disturbance — for instance,
+
+532
+00:36:32.242 --> 00:36:37.303
+a metabolic acidosis in which the carbon dioxide has fallen more than the expected
+
+533
+00:36:37.303 --> 00:36:41.376
+respiratory compensation indicates an added respiratory alkalosis.
+
+534
+00:36:41.516 --> 00:36:46.294
+An unexpected change in the pH — in the wrong direction — indicates a second
+
+535
+00:36:46.294 --> 00:36:50.255
+dominant disorder. The anion gap and the clinical context help.
+
+536
+00:36:50.255 --> 00:36:55.159
+Examples include the patient with both a respiratory and a metabolic acidosis,
+
+537
+00:36:55.159 --> 00:36:58.177
+as in a cardiac arrest, a dangerous combination.
+
+538
+00:36:58.317 --> 00:37:03.111
+So mixed acid-base disorders are recognised by deviations from the predictable
+
+539
+00:37:03.111 --> 00:37:07.843
+single-disorder compensation: a near-normal pH with both components deranged,
+
+540
+00:37:07.843 --> 00:37:12.453
+a compensation greater or less than expected, or a pH moving the wrong way;
+
+541
+00:37:12.453 --> 00:37:17.247
+with the anion gap and clinical context — their recognition essential to avoid
+
+542
+00:37:17.247 --> 00:37:20.504
+missing dangerous or deceptive combined disturbances.
+
+543
+00:37:21.004 --> 00:37:25.612
+Describe the changes in acid-base balance during pregnancy.
+
+544
+00:37:26.112 --> 00:37:30.503
+Pregnancy produces a characteristic alteration in the acid-base balance,
+
+545
+00:37:30.503 --> 00:37:32.699
+a compensated respiratory alkalosis,
+
+546
+00:37:32.699 --> 00:37:36.419
+which results from the effect of progesterone on ventilation,
+
+547
+00:37:36.419 --> 00:37:41.481
+and which is important to recognise in the interpretation of the blood gases of the
+
+548
+00:37:41.481 --> 00:37:42.517
+pregnant patient.
+
+549
+00:37:42.657 --> 00:37:46.671
+The driving change is an increase in ventilation: progesterone,
+
+550
+00:37:46.671 --> 00:37:51.576
+which rises in pregnancy, stimulates the respiratory centre and increases its
+
+551
+00:37:51.576 --> 00:37:55.971
+sensitivity to carbon dioxide, so the alveolar ventilation increases,
+
+552
+00:37:55.971 --> 00:38:00.940
+by around a half by term, beyond the modest rise in carbon dioxide production.
+
+553
+00:38:01.080 --> 00:38:04.777
+This hyperventilation lowers the arterial carbon dioxide,
+
+554
+00:38:04.777 --> 00:38:10.030
+producing a respiratory alkalosis, with the carbon dioxide falling to around four
+
+555
+00:38:10.030 --> 00:38:10.808
+kilopascals.
+
+556
+00:38:10.948 --> 00:38:13.921
+The kidney compensates by excreting bicarbonate,
+
+557
+00:38:13.921 --> 00:38:18.876
+so the plasma bicarbonate falls correspondingly, and the pH is returned towards,
+
+558
+00:38:18.876 --> 00:38:23.769
+though it remains slightly above, normal — a compensated respiratory alkalosis.
+
+559
+00:38:23.909 --> 00:38:28.533
+This has consequences: the lowered carbon dioxide aids the transfer of carbon
+
+560
+00:38:28.533 --> 00:38:31.956
+dioxide from the fetus to the mother across the placenta;
+
+561
+00:38:31.956 --> 00:38:35.678
+and the reduced bicarbonate means a reduced buffering reserve,
+
+562
+00:38:35.678 --> 00:38:39.461
+so the pregnant woman tolerates a metabolic acidosis less well.
+
+563
+00:38:39.601 --> 00:38:43.126
+So pregnancy causes a compensated respiratory alkalosis:
+
+564
+00:38:43.126 --> 00:38:47.155
+progesterone increases ventilation, lowering the carbon dioxide,
+
+565
+00:38:47.155 --> 00:38:51.876
+with renal excretion of bicarbonate compensating and the pH near normal but
+
+566
+00:38:51.876 --> 00:38:56.912
+slightly raised; aiding fetal carbon-dioxide transfer but reducing the buffering
+
+567
+00:38:56.912 --> 00:39:01.633
+reserve — a normal adaptation important in interpreting the blood gases and
+
+568
+00:39:01.633 --> 00:39:05.095
+managing the acid-base balance of the pregnant patient.
+
+569
+00:39:05.595 --> 00:39:11.551
+Pull it together: why is acid-base balance so important in anaesthesia and critical
+
+570
+00:39:11.551 --> 00:39:11.909
+care?
+
+571
+00:39:12.409 --> 00:39:16.645
+I would close by drawing together why the acid-base balance is so central to
+
+572
+00:39:16.645 --> 00:39:21.103
+anaesthesia and critical care: because it both reflects the state of the patient
+
+573
+00:39:21.103 --> 00:39:23.779
+and itself affects the function of every system,
+
+574
+00:39:23.779 --> 00:39:26.788
+so that its monitoring and management are fundamental.
+
+575
+00:39:26.928 --> 00:39:31.774
+As a reflection, the acid-base state is a sensitive indicator of disturbance:
+
+576
+00:39:31.774 --> 00:39:36.871
+a metabolic acidosis with a raised lactate signals inadequate tissue perfusion or
+
+577
+00:39:36.871 --> 00:39:40.899
+oxygenation, guiding the recognition and resuscitation of shock;
+
+578
+00:39:40.899 --> 00:39:44.298
+a respiratory acidosis signals inadequate ventilation;
+
+579
+00:39:44.298 --> 00:39:47.067
+the patterns reveal the underlying disorder.
+
+580
+00:39:47.207 --> 00:39:50.759
+As a determinant, the pH affects the function of the body:
+
+581
+00:39:50.759 --> 00:39:54.924
+severe acidaemia depresses the myocardium and blunts the response to
+
+582
+00:39:54.924 --> 00:39:57.620
+catecholamines, threatening the circulation;
+
+583
+00:39:57.620 --> 00:40:00.621
+disturbances shift the oxygen dissociation curve,
+
+584
+00:40:00.621 --> 00:40:05.276
+affect the potassium and the ionised calcium, and alter the action of drugs.
+
+585
+00:40:05.416 --> 00:40:08.249
+The respiratory and renal systems defend the pH,
+
+586
+00:40:08.249 --> 00:40:12.676
+and the anaesthetist manipulates the respiratory component directly through
+
+587
+00:40:12.676 --> 00:40:16.100
+ventilation. The interpretation of the arterial blood gas,
+
+588
+00:40:16.100 --> 00:40:20.349
+applying the principles we have discussed, is therefore a constant tool.
+
+589
+00:40:20.489 --> 00:40:24.747
+So acid-base balance is central to anaesthesia and critical care both as a
+
+590
+00:40:24.747 --> 00:40:28.372
+sensitive reflection of the patient's state — signalling shock,
+
+591
+00:40:28.372 --> 00:40:33.033
+hypoperfusion and ventilatory failure — and as a determinant affecting the heart,
+
+592
+00:40:33.033 --> 00:40:36.312
+the circulation, oxygen delivery, electrolytes and drugs;
+
+593
+00:40:36.312 --> 00:40:40.340
+defended by the lungs and kidneys and manipulable through ventilation,
+
+594
+00:40:40.340 --> 00:40:45.001
+its monitoring by the blood gas being a fundamental tool — a fitting close to the
+
+595
+00:40:45.001 --> 00:40:48.223
+integrated physiology of respiration and its regulation.
+
+596
+00:40:59.736 --> 00:41:04.301
+Thank you. An excellent and complete account. That concludes the station.
+
+597
+00:41:04.801 --> 00:41:08.279
+Before we close, here are the take-home messages.
+
+598
+00:41:08.419 --> 00:41:14.618
+First, Hydrogen ion concentration is tightly regulated (it affects all
+
+599
+00:41:14.618 --> 00:41:18.072
+proteins/enzymes); normally ~40 nmol/L,
+
+600
+00:41:18.072 --> 00:41:24.715
+expressed as pH ~7.4 (range 7.35-7.45) — acidaemia below, alkalaemia above;
+
+601
+00:41:24.715 --> 00:41:31.800
+defended by buffers (seconds), the lungs (minutes) and the kidneys (hours-days).
+
+602
+00:41:31.940 --> 00:41:37.679
+Second, The bicarbonate buffer (carbonic acid/bicarbonate) is the chief
+
+603
+00:41:37.679 --> 00:41:43.094
+extracellular buffer and an 'open system' — CO2 regulated by lungs,
+
+604
+00:41:43.094 --> 00:41:44.953
+bicarbonate by kidneys.
+
+605
+00:41:45.093 --> 00:41:50.960
+Henderson-Hasselbalch (in words): pH = a constant + the log of the ratio of
+
+606
+00:41:50.960 --> 00:41:57.452
+bicarbonate to dissolved CO2 — so pH depends on the RATIO of (renal) bicarbonate to
+
+607
+00:41:57.452 --> 00:42:01.051
+(respiratory) CO2, not their absolute amounts.
+
+608
+00:42:01.191 --> 00:42:04.816
+Third, Buffers (instant): bicarbonate (dominant,
+
+609
+00:42:04.816 --> 00:42:10.406
+extracellular) and plasma proteins; haemoglobin and phosphate (red cells);
+
+610
+00:42:10.406 --> 00:42:13.502
+large intracellular/bone stores (slower);
+
+611
+00:42:13.502 --> 00:42:17.959
+all in equilibrium via the common H+ (isohydric principle).
+
+612
+00:42:18.099 --> 00:42:24.632
+The lungs regulate pH rapidly (minutes) via CO2/ventilation — powerful but limited;
+
+613
+00:42:24.632 --> 00:42:31.165
+the kidneys slowly (hours-days) by excreting fixed acid and adjusting bicarbonate —
+
+614
+00:42:31.165 --> 00:42:34.077
+the only route for non-volatile acid.
+
+615
+00:42:34.217 --> 00:42:39.630
+Fourth, Four primary disorders: respiratory acidosis (primary rise in CO2,
+
+616
+00:42:39.630 --> 00:42:45.481
+hypoventilation), respiratory alkalosis (primary fall in CO2, hyperventilation),
+
+617
+00:42:45.481 --> 00:42:51.406
+metabolic acidosis (primary fall in bicarbonate — added fixed acid or bicarbonate
+
+618
+00:42:51.406 --> 00:42:57.184
+loss), metabolic alkalosis (primary rise in bicarbonate — acid loss/bicarbonate
+
+619
+00:42:57.184 --> 00:43:01.353
+gain); each provokes compensation in the other component.
+
+620
+00:43:01.493 --> 00:43:07.356
+Fifth, The metabolic component is quantified by the standard bicarbonate and the
+
+621
+00:43:07.356 --> 00:43:11.753
+base excess (acid/base needed to normalise pH at normal CO2;
+
+622
+00:43:11.753 --> 00:43:14.977
+negative = base deficit/metabolic acidosis);
+
+623
+00:43:14.977 --> 00:43:18.641
+compensation (respiratory for metabolic disorders,
+
+624
+00:43:18.641 --> 00:43:24.723
+renal for respiratory) partially and predictably restores pH — deviation suggests a
+
+625
+00:43:24.723 --> 00:43:29.120
+mixed disorder; the anion gap classifies metabolic acidosis.
+
+626
+00:43:29.260 --> 00:43:35.334
+The chemoreceptor control of ventilation defends both the blood gases and the pH —
+
+627
+00:43:35.334 --> 00:43:38.668
+integrating breathing with acid-base balance.
+
+628
+00:43:39.168 --> 00:43:41.643
+Thank you. That concludes the station.
+

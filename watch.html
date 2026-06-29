@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Watch — Anaesthesia Compendium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="hdr"></div>
+<main class="wrap">
+  <div class="crumb"><a href="index.html">Library</a> › <span id="cb">Watch</span></div>
+  <div id="warn"></div>
+  <div class="detail has-side">
+    <section>
+      <h1 class="dtitle" id="title">…</h1>
+      <p class="dsub" id="sub"></p>
+      <div class="panel" style="padding:10px">
+        <video id="video" controls preload="metadata" playsinline
+               style="width:100%;border-radius:10px;background:#000;aspect-ratio:16/9"></video>
+        <div class="playbtns" style="margin-top:10px">
+          <button class="btn" id="speed">1×</button>
+          <button class="btn" id="cc">Subtitles: On</button>
+          <button class="btn" id="autoscroll">Auto-scroll: On</button>
+        </div>
+      </div>
+      <div class="panel" style="margin-top:16px">
+        <div class="transcript" id="transcript" style="height:40vh;min-height:260px"></div>
+      </div>
+    </section>
+    <aside>
+      <div class="sticky-side panel">
+        <strong style="display:block;margin-bottom:8px">All topics</strong>
+        <div class="side-list" id="sidelist"></div>
+      </div>
+    </aside>
+  </div>
+</main>
+<footer class="foot"><div class="wrap">© <span id="yr"></span> Anaesthesia Compendium · Educational content only.</div></footer>
+<script src="config.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/watch.js"></script>
+</body>
+</html>

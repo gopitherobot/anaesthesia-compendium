@@ -1,0 +1,2302 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.451
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.451 --> 00:00:09.884
+the physicochemical principles of drugs. I shall take the candidate through it,
+
+3
+00:00:09.884 --> 00:00:12.291
+question by question. Let us begin.
+
+4
+00:00:12.791 --> 00:00:16.466
+Let us discuss the physicochemical principles of drugs.
+
+5
+00:00:16.466 --> 00:00:19.873
+Why do these properties matter to the anaesthetist?
+
+6
+00:00:20.373 --> 00:00:24.901
+Because the physical and chemical properties of a drug determine almost everything
+
+7
+00:00:24.901 --> 00:00:29.207
+about how it behaves: whether it can be dissolved and presented for injection,
+
+8
+00:00:29.207 --> 00:00:33.790
+how it is formulated, how readily it crosses membranes to reach its site of action,
+
+9
+00:00:33.790 --> 00:00:36.992
+how it distributes and is bound, and how it is eliminated.
+
+10
+00:00:37.132 --> 00:00:41.854
+Properties such as molecular size, lipid solubility, degree of ionisation,
+
+11
+00:00:41.854 --> 00:00:45.364
+the acid or base nature of the molecule, its chirality,
+
+12
+00:00:45.364 --> 00:00:48.554
+and its protein binding govern the onset, potency,
+
+13
+00:00:48.554 --> 00:00:51.617
+duration and side-effects of every agent we use.
+
+14
+00:00:51.757 --> 00:00:55.463
+Understanding them allows me to predict how a drug will behave,
+
+15
+00:00:55.463 --> 00:00:58.345
+to explain why agents are formulated as they are,
+
+16
+00:00:58.345 --> 00:01:01.051
+and to choose rationally between alternatives.
+
+17
+00:01:01.051 --> 00:01:05.816
+They are the foundation on which both pharmacokinetics and pharmacodynamics rest.
+
+18
+00:01:06.316 --> 00:01:11.393
+Let us begin with isomerism. What is it, and how is it classified?
+
+19
+00:01:11.893 --> 00:01:16.966
+Isomerism is the existence of molecules that share the same molecular formula — the
+
+20
+00:01:16.966 --> 00:01:20.938
+same atoms in the same numbers — but differ in their arrangement,
+
+21
+00:01:20.938 --> 00:01:23.994
+and which therefore may have different properties.
+
+22
+00:01:23.994 --> 00:01:28.149
+It is broadly divided into structural isomerism and stereoisomerism.
+
+23
+00:01:28.289 --> 00:01:33.104
+Structural, or constitutional, isomers differ in the way their atoms are connected
+
+24
+00:01:33.104 --> 00:01:37.919
+— the order of bonding. Stereoisomers have the same connectivity but differ in the
+
+25
+00:01:37.919 --> 00:01:41.089
+three-dimensional arrangement of their atoms in space.
+
+26
+00:01:41.229 --> 00:01:45.370
+Stereoisomerism is further divided into geometric isomerism,
+
+27
+00:01:45.370 --> 00:01:50.684
+arising from restricted rotation about a bond or ring, and optical isomerism,
+
+28
+00:01:50.684 --> 00:01:52.685
+arising from a chiral centre.
+
+29
+00:01:52.825 --> 00:01:57.581
+This classification matters because the type of isomerism determines how alike or
+
+30
+00:01:57.581 --> 00:02:00.633
+how different the isomers' clinical effects will be.
+
+31
+00:02:01.133 --> 00:02:06.445
+Give me examples of structural isomerism relevant to anaesthesia.
+
+32
+00:02:06.945 --> 00:02:09.420
+A classic pair is enflurane and isoflurane,
+
+33
+00:02:09.420 --> 00:02:14.025
+which share the molecular formula but differ in the arrangement of their atoms —
+
+34
+00:02:14.025 --> 00:02:17.996
+they are structural isomers with distinct pharmacological properties.
+
+35
+00:02:18.136 --> 00:02:20.684
+Another important example is tautomerism,
+
+36
+00:02:20.684 --> 00:02:25.780
+a dynamic form of structural isomerism in which the molecule interconverts between
+
+37
+00:02:25.780 --> 00:02:30.317
+two forms differing in the position of a hydrogen atom and a double bond.
+
+38
+00:02:30.457 --> 00:02:34.228
+Thiopental exhibits keto-enol tautomerism: in the alkaline,
+
+39
+00:02:34.228 --> 00:02:38.381
+water-soluble form in the vial it exists largely as one tautomer,
+
+40
+00:02:38.381 --> 00:02:43.302
+but at body pH it shifts towards the lipid-soluble enol form that crosses the
+
+41
+00:02:43.302 --> 00:02:44.580
+blood-brain barrier.
+
+42
+00:02:44.720 --> 00:02:50.233
+Midazolam shows a related pH-dependent ring-opening that gives it water solubility
+
+43
+00:02:50.233 --> 00:02:54.469
+in the acidic ampoule and lipid solubility at physiological pH.
+
+44
+00:02:54.969 --> 00:03:01.839
+Now stereoisomerism. Explain geometric isomerism with an example.
+
+45
+00:03:02.339 --> 00:03:05.685
+Geometric isomerism, also called cis-trans isomerism,
+
+46
+00:03:05.685 --> 00:03:09.789
+arises when rotation about a bond or within a ring is restricted,
+
+47
+00:03:09.789 --> 00:03:14.903
+so that substituent groups are fixed on the same side — cis — or opposite sides —
+
+48
+00:03:14.903 --> 00:03:16.419
+trans — of the molecule.
+
+49
+00:03:16.559 --> 00:03:19.960
+Because the groups are held in different spatial relationships,
+
+50
+00:03:19.960 --> 00:03:21.849
+the isomers can differ in activity.
+
+51
+00:03:21.989 --> 00:03:25.516
+The neuromuscular blocking drugs provide the key examples:
+
+52
+00:03:25.516 --> 00:03:28.253
+atracurium is a mixture of ten stereoisomers,
+
+53
+00:03:28.253 --> 00:03:33.056
+and cisatracurium is a single one of these, purified because it is more potent,
+
+54
+00:03:33.056 --> 00:03:37.435
+longer-acting and causes less histamine release than the parent mixture.
+
+55
+00:03:37.575 --> 00:03:42.989
+Mivacurium similarly exists as a mixture of isomers with differing activity.
+
+56
+00:03:42.989 --> 00:03:48.903
+So geometric and related stereoisomerism is directly exploited in drug development.
+
+57
+00:03:49.403 --> 00:03:53.435
+Explain optical isomerism and chirality.
+
+58
+00:03:53.935 --> 00:03:58.816
+Optical isomerism arises when a molecule contains a chiral centre — most often a
+
+59
+00:03:58.816 --> 00:04:03.759
+carbon atom bonded to four different groups — so that the molecule and its mirror
+
+60
+00:04:03.759 --> 00:04:07.176
+image are not superimposable, like left and right hands.
+
+61
+00:04:07.176 --> 00:04:10.532
+These non-superimposable mirror images are enantiomers.
+
+62
+00:04:10.672 --> 00:04:15.239
+They are identical in their ordinary physical and chemical properties — melting
+
+63
+00:04:15.239 --> 00:04:19.460
+point, solubility — and differ only in the direction in which they rotate
+
+64
+00:04:19.460 --> 00:04:21.599
+plane-polarised light and, crucially,
+
+65
+00:04:21.599 --> 00:04:24.432
+in their interaction with other chiral molecules.
+
+66
+00:04:24.572 --> 00:04:29.163
+Because the body's receptors, enzymes and transporters are themselves chiral,
+
+67
+00:04:29.163 --> 00:04:33.455
+the two enantiomers of a drug can differ markedly in affinity, efficacy,
+
+68
+00:04:33.455 --> 00:04:37.688
+kinetics and toxicity. Chirality is therefore one of the most important
+
+69
+00:04:37.688 --> 00:04:40.252
+physicochemical properties in pharmacology.
+
+70
+00:04:40.752 --> 00:04:43.611
+How are enantiomers named and described?
+
+71
+00:04:44.111 --> 00:04:48.467
+There are three systems. The direction in which the enantiomer rotates
+
+72
+00:04:48.467 --> 00:04:53.633
+plane-polarised light is denoted by a plus sign or the letter d for dextrorotatory,
+
+73
+00:04:53.633 --> 00:04:56.807
+and a minus sign or the letter l for laevorotatory;
+
+74
+00:04:56.807 --> 00:04:59.172
+this is an observed physical property.
+
+75
+00:04:59.312 --> 00:05:03.788
+The D and L convention relates the configuration to a reference molecule,
+
+76
+00:05:03.788 --> 00:05:07.589
+glyceraldehyde, and is used mainly for sugars and amino acids.
+
+77
+00:05:07.729 --> 00:05:11.662
+The most rigorous and now-preferred system is the R and S convention,
+
+78
+00:05:11.662 --> 00:05:16.336
+the Cahn-Ingold-Prelog system, which assigns configuration by ranking the priority
+
+79
+00:05:16.336 --> 00:05:18.844
+of the four groups around the chiral centre.
+
+80
+00:05:18.984 --> 00:05:23.508
+It is important to recognise that the direction of optical rotation cannot be
+
+81
+00:05:23.508 --> 00:05:28.326
+predicted from the R or S designation — they describe different things — so a drug
+
+82
+00:05:28.326 --> 00:05:29.971
+must be specified carefully.
+
+83
+00:05:41.484 --> 00:05:45.345
+Why does chirality matter clinically? Give examples.
+
+84
+00:05:45.845 --> 00:05:49.510
+Because the enantiomers can have quite different clinical profiles,
+
+85
+00:05:49.510 --> 00:05:52.245
+separating them can improve the therapeutic ratio.
+
+86
+00:05:52.385 --> 00:05:55.972
+Levobupivacaine is the single S-enantiomer of bupivacaine,
+
+87
+00:05:55.972 --> 00:06:00.981
+developed because it is less cardiotoxic than the racemic mixture while retaining
+
+88
+00:06:00.981 --> 00:06:05.991
+the local-anaesthetic effect. Ropivacaine is similarly a single enantiomer with a
+
+89
+00:06:05.991 --> 00:06:08.279
+better cardiovascular safety profile.
+
+90
+00:06:08.419 --> 00:06:13.693
+S-ketamine, esketamine, is more potent than the racemate and causes fewer emergence
+
+91
+00:06:13.693 --> 00:06:18.967
+phenomena. The older inhalational and sympathomimetic agents show large differences
+
+92
+00:06:18.967 --> 00:06:20.237
+between enantiomers.
+
+93
+00:06:20.377 --> 00:06:22.956
+The move from a racemic mixture to a single,
+
+94
+00:06:22.956 --> 00:06:26.063
+more favourable enantiomer is called a chiral switch,
+
+95
+00:06:26.063 --> 00:06:30.810
+and it is a recurring theme in modern drug development aimed at retaining benefit
+
+96
+00:06:30.810 --> 00:06:31.983
+while reducing harm.
+
+97
+00:06:32.483 --> 00:06:36.216
+What is a racemic mixture, and what are diastereomers?
+
+98
+00:06:36.716 --> 00:06:41.523
+A racemic mixture is an equal, fifty-fifty mixture of the two enantiomers of a
+
+99
+00:06:41.523 --> 00:06:46.145
+chiral drug; it is optically inactive overall because the rotations cancel.
+
+100
+00:06:46.285 --> 00:06:50.541
+Many drugs are still marketed as racemates — isoflurane, bupivacaine,
+
+101
+00:06:50.541 --> 00:06:55.659
+ketamine in its traditional form — because separating the enantiomers is costly and
+
+102
+00:06:55.659 --> 00:06:57.016
+not always worthwhile.
+
+103
+00:06:57.156 --> 00:07:01.653
+Diastereomers are stereoisomers that are not mirror images of one another,
+
+104
+00:07:01.653 --> 00:07:06.272
+arising when a molecule has more than one chiral centre; unlike enantiomers,
+
+105
+00:07:06.272 --> 00:07:11.255
+diastereomers differ in their ordinary physical properties and can be separated by
+
+106
+00:07:11.255 --> 00:07:12.409
+conventional means.
+
+107
+00:07:12.549 --> 00:07:15.159
+Atracurium, with multiple chiral centres,
+
+108
+00:07:15.159 --> 00:07:19.232
+is a mixture that includes diastereomers as well as enantiomers,
+
+109
+00:07:19.232 --> 00:07:24.005
+which is why cisatracurium could be isolated as a single, distinct species.
+
+110
+00:07:24.505 --> 00:07:29.860
+Move now to ionisation. What do we mean by weak acids and weak bases?
+
+111
+00:07:30.360 --> 00:07:32.927
+Most drugs are weak acids or weak bases,
+
+112
+00:07:32.927 --> 00:07:36.905
+meaning they partially ionise in solution depending on the pH.
+
+113
+00:07:36.905 --> 00:07:41.654
+A weak acid donates a proton to become a negatively charged, ionised form;
+
+114
+00:07:41.654 --> 00:07:46.403
+a weak base accepts a proton to become a positively charged, ionised form.
+
+115
+00:07:46.543 --> 00:07:50.429
+The two forms — ionised and un-ionised — exist in equilibrium.
+
+116
+00:07:50.429 --> 00:07:55.006
+The un-ionised form is lipid-soluble and crosses lipid membranes readily,
+
+117
+00:07:55.006 --> 00:08:00.146
+whereas the ionised form is water-soluble and largely trapped on whichever side of
+
+118
+00:08:00.146 --> 00:08:01.839
+a membrane it finds itself.
+
+119
+00:08:01.979 --> 00:08:06.725
+This division between a lipid-soluble and a water-soluble form, governed by pH,
+
+120
+00:08:06.725 --> 00:08:10.149
+is fundamental to absorption, distribution and excretion.
+
+121
+00:08:10.649 --> 00:08:15.919
+Define pKa and relate it to the Henderson-Hasselbalch equation.
+
+122
+00:08:16.419 --> 00:08:21.250
+The pKa of a drug is the pH at which exactly half of it is ionised and half
+
+123
+00:08:21.250 --> 00:08:24.213
+un-ionised — it is a property of the molecule.
+
+124
+00:08:24.213 --> 00:08:29.559
+The Henderson-Hasselbalch equation relates the ratio of ionised to un-ionised forms
+
+125
+00:08:29.559 --> 00:08:32.973
+to the difference between the ambient pH and the pKa.
+
+126
+00:08:33.113 --> 00:08:36.144
+The practical consequence is that for a weak acid,
+
+127
+00:08:36.144 --> 00:08:40.932
+lowering the pH below the pKa increases the un-ionised, lipid-soluble fraction,
+
+128
+00:08:40.932 --> 00:08:43.417
+while for a weak base the opposite holds.
+
+129
+00:08:43.557 --> 00:08:47.983
+Knowing a drug's pKa and the local pH therefore tells me how much of it is
+
+130
+00:08:47.983 --> 00:08:52.169
+available to cross membranes at any site — in the stomach, the plasma,
+
+131
+00:08:52.169 --> 00:08:54.501
+the renal tubule or an inflamed tissue.
+
+132
+00:08:55.001 --> 00:08:59.204
+How does ionisation affect a drug's behaviour in the body?
+
+133
+00:08:59.704 --> 00:09:02.630
+In several important ways. It governs absorption:
+
+134
+00:09:02.630 --> 00:09:07.525
+a weak acid such as aspirin is relatively un-ionised in the acidic stomach and can
+
+135
+00:09:07.525 --> 00:09:08.600
+be absorbed there.
+
+136
+00:09:08.740 --> 00:09:12.274
+It governs the activity of local anaesthetics: in infected,
+
+137
+00:09:12.274 --> 00:09:16.887
+acidic tissue a greater proportion of the basic local anaesthetic is ionised,
+
+138
+00:09:16.887 --> 00:09:20.900
+so less crosses the nerve membrane and the block is less effective.
+
+139
+00:09:21.040 --> 00:09:25.972
+It produces ion trapping, in which a drug crossing into a compartment of different
+
+140
+00:09:25.972 --> 00:09:30.845
+pH becomes ionised and accumulates — basic drugs trapped in the more acidic fetal
+
+141
+00:09:30.845 --> 00:09:32.709
+circulation or in acidic urine.
+
+142
+00:09:32.849 --> 00:09:35.778
+And it underlies the manipulation of excretion:
+
+143
+00:09:35.778 --> 00:09:40.512
+alkalinising the urine increases the ionised fraction of a weak acid such as
+
+144
+00:09:40.512 --> 00:09:45.372
+aspirin or phenobarbital, reducing reabsorption and enhancing its elimination.
+
+145
+00:09:45.872 --> 00:09:50.181
+Discuss lipid solubility and the partition coefficient.
+
+146
+00:09:50.681 --> 00:09:55.155
+Lipid solubility is a major determinant of how readily a drug crosses lipid
+
+147
+00:09:55.155 --> 00:09:59.449
+membranes, of its potency, and of how it distributes and is sequestered.
+
+148
+00:09:59.589 --> 00:10:02.424
+It is quantified by the partition coefficient,
+
+149
+00:10:02.424 --> 00:10:07.478
+the ratio of the drug's concentration between two immiscible phases at equilibrium
+
+150
+00:10:07.478 --> 00:10:09.019
+— commonly oil and water.
+
+151
+00:10:09.159 --> 00:10:14.109
+A high oil-water partition coefficient indicates a lipophilic drug that crosses
+
+152
+00:10:14.109 --> 00:10:19.121
+membranes readily, penetrates the brain quickly, and tends to accumulate in fat.
+
+153
+00:10:19.261 --> 00:10:23.533
+For the inhalational agents we use the blood-gas and oil-gas partition
+
+154
+00:10:23.533 --> 00:10:28.598
+coefficients: the blood-gas coefficient governs the speed of induction and recovery
+
+155
+00:10:28.598 --> 00:10:33.663
+— a low coefficient gives rapid onset — and the oil-gas coefficient correlates with
+
+156
+00:10:33.663 --> 00:10:38.606
+potency, the basis of the Meyer-Overton relationship between lipid solubility and
+
+157
+00:10:38.606 --> 00:10:39.827
+anaesthetic potency.
+
+158
+00:10:51.340 --> 00:10:54.625
+What is the significance of molecular size?
+
+159
+00:10:55.125 --> 00:10:59.993
+Molecular size influences how a drug crosses membranes and barriers and how it is
+
+160
+00:10:59.993 --> 00:11:04.860
+filtered and excreted. Small molecules diffuse across membranes and through pores
+
+161
+00:11:04.860 --> 00:11:06.603
+more readily than large ones.
+
+162
+00:11:06.743 --> 00:11:11.411
+At the glomerulus, small molecules are filtered freely whereas large molecules and
+
+163
+00:11:11.411 --> 00:11:16.136
+protein-bound drug are not. The placenta and the blood-brain barrier restrict large
+
+164
+00:11:16.136 --> 00:11:16.705
+molecules.
+
+165
+00:11:16.845 --> 00:11:21.914
+Molecular size is also relevant to the design of drugs intended to be confined to a
+
+166
+00:11:21.914 --> 00:11:25.456
+compartment — a large, polar molecule stays in the plasma.
+
+167
+00:11:25.456 --> 00:11:28.997
+So while lipid solubility and ionisation usually dominate,
+
+168
+00:11:28.997 --> 00:11:33.272
+molecular size is a genuine determinant, particularly at the extremes.
+
+169
+00:11:33.772 --> 00:11:38.380
+Explain the physicochemical basis of plasma protein binding.
+
+170
+00:11:38.880 --> 00:11:43.720
+Drugs bind reversibly to plasma proteins through physicochemical interactions —
+
+171
+00:11:43.720 --> 00:11:47.947
+ionic, hydrogen and van der Waals bonds and hydrophobic interactions.
+
+172
+00:11:48.087 --> 00:11:52.852
+Acidic drugs bind predominantly to albumin, the most abundant plasma protein,
+
+173
+00:11:52.852 --> 00:11:55.946
+which has a limited number of high-affinity sites;
+
+174
+00:11:55.946 --> 00:11:59.783
+basic drugs bind predominantly to alpha-one acid glycoprotein,
+
+175
+00:11:59.783 --> 00:12:01.207
+an acute-phase protein.
+
+176
+00:12:01.347 --> 00:12:06.309
+Only the free, unbound drug is pharmacologically active and able to cross membranes
+
+177
+00:12:06.309 --> 00:12:10.494
+and be eliminated, so binding acts as a reservoir and buffers the free
+
+178
+00:12:10.494 --> 00:12:11.331
+concentration.
+
+179
+00:12:11.471 --> 00:12:16.381
+The degree of binding depends on the drug's affinity and concentration and on the
+
+180
+00:12:16.381 --> 00:12:19.957
+amount of protein available, which is why hypoalbuminaemia,
+
+181
+00:12:19.957 --> 00:12:23.534
+or the rise in alpha-one acid glycoprotein in inflammation,
+
+182
+00:12:23.534 --> 00:12:26.383
+alters the free fraction of highly bound drugs.
+
+183
+00:12:26.883 --> 00:12:29.528
+Why are many drugs presented as salts?
+
+184
+00:12:30.028 --> 00:12:34.489
+Because the parent acid or base is often poorly water-soluble or unstable,
+
+185
+00:12:34.489 --> 00:12:37.383
+whereas a salt — a sodium or hydrochloride salt,
+
+186
+00:12:37.383 --> 00:12:42.086
+for instance — is water-soluble and can be formulated for injection and stored
+
+187
+00:12:42.086 --> 00:12:42.508
+stably.
+
+188
+00:12:42.648 --> 00:12:47.647
+Thiopental is presented as its sodium salt, which is water-soluble and alkaline;
+
+189
+00:12:47.647 --> 00:12:51.895
+many basic drugs are presented as hydrochloride or other acid salts.
+
+190
+00:12:51.895 --> 00:12:57.019
+Forming a salt does not change the intrinsic pharmacology of the active moiety but
+
+191
+00:12:57.019 --> 00:12:59.331
+enables a usable, stable preparation.
+
+192
+00:12:59.471 --> 00:13:04.517
+Once in solution and in the body, the salt dissociates and the equilibrium between
+
+193
+00:13:04.517 --> 00:13:09.071
+ionised and un-ionised drug is re-established according to the pH and pKa.
+
+194
+00:13:09.571 --> 00:13:12.515
+What is a prodrug, and why are esters used?
+
+195
+00:13:13.015 --> 00:13:17.728
+A prodrug is an inactive or less active compound that is converted in the body,
+
+196
+00:13:17.728 --> 00:13:20.353
+usually by metabolism, into the active drug.
+
+197
+00:13:20.493 --> 00:13:25.510
+Prodrugs are designed to overcome a physicochemical or kinetic limitation of the
+
+198
+00:13:25.510 --> 00:13:29.460
+active molecule — to improve solubility, absorption, stability,
+
+199
+00:13:29.460 --> 00:13:30.840
+or to target delivery.
+
+200
+00:13:30.980 --> 00:13:33.188
+Esterification is a common strategy:
+
+201
+00:13:33.188 --> 00:13:36.991
+making an ester can render a drug water-soluble for injection,
+
+202
+00:13:36.991 --> 00:13:39.445
+as with the phosphate ester fospropofol,
+
+203
+00:13:39.445 --> 00:13:43.923
+a water-soluble prodrug of propofol designed to avoid the lipid emulsion;
+
+204
+00:13:43.923 --> 00:13:47.542
+or it can create a substrate for rapid esterase hydrolysis,
+
+205
+00:13:47.542 --> 00:13:50.671
+giving an ultra-short action, as with remifentanil.
+
+206
+00:13:50.811 --> 00:13:55.943
+Codeine is, in effect, a prodrug requiring metabolism to morphine for its analgesic
+
+207
+00:13:55.943 --> 00:13:59.963
+effect. So the ester linkage is a versatile physicochemical tool.
+
+208
+00:14:00.463 --> 00:14:03.961
+Tell me about the additives in drug formulations.
+
+209
+00:14:04.461 --> 00:14:07.874
+Few injectable preparations are the pure active drug;
+
+210
+00:14:07.874 --> 00:14:11.931
+they contain excipients with specific physicochemical purposes.
+
+211
+00:14:11.931 --> 00:14:16.374
+Buffers and pH-adjusting agents keep the drug in its soluble, stable,
+
+212
+00:14:16.374 --> 00:14:19.207
+ionised form — the alkalinity of thiopental,
+
+213
+00:14:19.207 --> 00:14:21.976
+the acidity of local-anaesthetic solutions.
+
+214
+00:14:22.116 --> 00:14:26.947
+Antioxidants such as sodium metabisulphite prevent oxidative degradation.
+
+215
+00:14:26.947 --> 00:14:30.720
+Preservatives and antimicrobials retard microbial growth,
+
+216
+00:14:30.720 --> 00:14:33.764
+important in lipid emulsions such as propofol.
+
+217
+00:14:33.904 --> 00:14:39.403
+Emulsifying and solubilising agents allow insoluble drugs to be suspended — the egg
+
+218
+00:14:39.403 --> 00:14:42.715
+phosphatide and soya oil of the propofol emulsion.
+
+219
+00:14:42.715 --> 00:14:47.220
+Vasoconstrictors such as adrenaline are added to local anaesthetics.
+
+220
+00:14:47.220 --> 00:14:49.605
+And isotonic agents adjust tonicity.
+
+221
+00:14:49.745 --> 00:14:54.062
+Each additive can itself have clinical consequences — sulphite sensitivity,
+
+222
+00:14:54.062 --> 00:14:57.169
+the lipid load of an emulsion — so they are not inert.
+
+223
+00:14:57.669 --> 00:15:04.112
+Why is the pH of injected solutions adjusted, and what problems can the pH cause?
+
+224
+00:15:15.625 --> 00:15:20.234
+The pH is adjusted to keep the drug soluble and stable in the vial — often by
+
+225
+00:15:20.234 --> 00:15:22.089
+keeping it in its ionised form.
+
+226
+00:15:22.229 --> 00:15:27.703
+Thiopental is alkaline because the barbiturate is soluble and stable as its sodium
+
+227
+00:15:27.703 --> 00:15:33.110
+salt at high pH; local-anaesthetic solutions are acidic because the basic drug is
+
+228
+00:15:33.110 --> 00:15:36.715
+more soluble and stable in its ionised form at low pH.
+
+229
+00:15:36.855 --> 00:15:41.437
+The problem is that these non-physiological pH values cause difficulties on
+
+230
+00:15:41.437 --> 00:15:46.081
+injection: the acidity of local-anaesthetic solutions contributes to pain on
+
+231
+00:15:46.081 --> 00:15:51.092
+injection and slows onset, because only the un-ionised fraction present at the low
+
+232
+00:15:51.092 --> 00:15:55.919
+pH can cross the nerve, which is why some clinicians alkalinise the solution to
+
+233
+00:15:55.919 --> 00:15:56.652
+speed onset.
+
+234
+00:15:56.792 --> 00:16:01.996
+The alkalinity of thiopental makes it incompatible with acidic drugs and dangerous
+
+235
+00:16:01.996 --> 00:16:07.137
+if injected intra-arterially. So formulation pH is a compromise between stability
+
+236
+00:16:07.137 --> 00:16:09.549
+in the vial and behaviour in the body.
+
+237
+00:16:10.049 --> 00:16:14.572
+What is baricity, and why does it matter for spinal anaesthesia?
+
+238
+00:16:15.072 --> 00:16:20.459
+Baricity is the ratio of the density of a solution to the density of cerebrospinal
+
+239
+00:16:20.459 --> 00:16:20.853
+fluid.
+
+240
+00:16:20.993 --> 00:16:25.991
+A hyperbaric solution is denser than cerebrospinal fluid and will sink under
+
+241
+00:16:25.991 --> 00:16:30.857
+gravity; an isobaric solution has the same density and tends to stay where
+
+242
+00:16:30.857 --> 00:16:34.540
+deposited; a hypobaric solution is less dense and rises.
+
+243
+00:16:34.680 --> 00:16:38.937
+In spinal anaesthesia this is exploited to control the spread of the block:
+
+244
+00:16:38.937 --> 00:16:43.421
+a hyperbaric local-anaesthetic solution, made dense by the addition of glucose,
+
+245
+00:16:43.421 --> 00:16:46.486
+sinks to the dependent part of the subarachnoid space,
+
+246
+00:16:46.486 --> 00:16:50.232
+so that the position of the patient determines the level of block.
+
+247
+00:16:50.372 --> 00:16:54.929
+Baricity is therefore a physicochemical property deliberately engineered into the
+
+248
+00:16:54.929 --> 00:16:57.348
+preparation to control the clinical effect.
+
+249
+00:16:57.848 --> 00:17:02.328
+Explain the Meyer-Overton correlation and its significance.
+
+250
+00:17:02.828 --> 00:17:07.850
+The Meyer-Overton correlation is the observation that the potency of inhalational
+
+251
+00:17:07.850 --> 00:17:11.942
+anaesthetic agents correlates closely with their lipid solubility,
+
+252
+00:17:11.942 --> 00:17:17.088
+as measured by the oil-gas partition coefficient: the more lipid-soluble the agent,
+
+253
+00:17:17.088 --> 00:17:20.684
+the lower the concentration needed to produce anaesthesia.
+
+254
+00:17:20.824 --> 00:17:24.850
+Historically this suggested that anaesthesia resulted from a non-specific
+
+255
+00:17:24.850 --> 00:17:27.608
+physicochemical disturbance of the lipid membrane.
+
+256
+00:17:27.748 --> 00:17:32.381
+That unitary lipid theory is now regarded as too simple — anaesthesia is better
+
+257
+00:17:32.381 --> 00:17:36.898
+explained by actions on specific protein targets such as the GABA-A and other
+
+258
+00:17:36.898 --> 00:17:41.355
+channels, and there are exceptions to the correlation — but the relationship
+
+259
+00:17:41.355 --> 00:17:45.285
+remains a striking demonstration of how a physicochemical property,
+
+260
+00:17:45.285 --> 00:17:48.804
+lipid solubility, governs a pharmacological effect, potency.
+
+261
+00:17:49.304 --> 00:17:55.299
+How does lipid solubility influence the onset and offset of an agent's effect?
+
+262
+00:17:55.799 --> 00:17:59.331
+A lipophilic drug crosses the blood-brain barrier rapidly,
+
+263
+00:17:59.331 --> 00:18:03.899
+so the onset of central effect is fast — the rapid action of thiopental and
+
+264
+00:18:03.899 --> 00:18:06.700
+propofol reflects their high lipid solubility.
+
+265
+00:18:06.840 --> 00:18:11.817
+The same property means the drug distributes widely into tissues and accumulates in
+
+266
+00:18:11.817 --> 00:18:16.733
+fat, which influences the offset: recovery from a single dose is by redistribution
+
+267
+00:18:16.733 --> 00:18:21.110
+out of the brain, but the accumulated lipophilic drug is released slowly,
+
+268
+00:18:21.110 --> 00:18:26.147
+contributing to a prolonged terminal phase and to accumulation with repeated dosing.
+
+269
+00:18:26.287 --> 00:18:31.349
+For the inhalational agents, it is the blood-gas partition coefficient that governs
+
+270
+00:18:31.349 --> 00:18:34.521
+the speed of onset and offset, a less lipid-soluble,
+
+271
+00:18:34.521 --> 00:18:38.852
+low-coefficient agent such as desflurane giving the most rapid control.
+
+272
+00:18:38.992 --> 00:18:43.920
+So lipid solubility shapes both how fast a drug works and how it behaves over time.
+
+273
+00:18:44.420 --> 00:18:49.156
+Briefly, what determines the stability and shelf-life of a preparation?
+
+274
+00:18:49.656 --> 00:18:54.714
+Chemical stability depends on the drug's susceptibility to hydrolysis, oxidation,
+
+275
+00:18:54.714 --> 00:18:58.024
+photodegradation and changes with pH and temperature,
+
+276
+00:18:58.024 --> 00:19:02.457
+which is why preparations are formulated with antioxidants and buffers,
+
+277
+00:19:02.457 --> 00:19:07.141
+packaged to exclude light and air, sometimes provided as a dry powder to be
+
+278
+00:19:07.141 --> 00:19:11.075
+reconstituted, and given an expiry date and storage conditions.
+
+279
+00:19:11.215 --> 00:19:13.673
+Some drugs are stable for years; others,
+
+280
+00:19:13.673 --> 00:19:16.991
+such as reconstituted thiopental or drawn-up propofol,
+
+281
+00:19:16.991 --> 00:19:19.940
+are stable for only hours and must be discarded.
+
+282
+00:19:20.080 --> 00:19:24.890
+Recognising the limited stability of certain preparations is a practical safety
+
+283
+00:19:24.890 --> 00:19:29.274
+matter, both to ensure the drug is effective and to avoid the hazards of
+
+284
+00:19:29.274 --> 00:19:31.771
+degradation products or microbial growth.
+
+285
+00:19:32.271 --> 00:19:36.583
+Pull it together: how would you predict a new drug's behaviour from its
+
+286
+00:19:36.583 --> 00:19:38.223
+physicochemical properties?
+
+287
+00:19:38.723 --> 00:19:43.210
+I would consider each property in turn. Its lipid solubility would tell me how
+
+288
+00:19:43.210 --> 00:19:45.684
+readily it crosses membranes and the brain,
+
+289
+00:19:45.684 --> 00:19:48.963
+predicting a rapid onset and tissue accumulation if high.
+
+290
+00:19:49.103 --> 00:19:52.109
+Its pKa and acid-base nature, with the local pH,
+
+291
+00:19:52.109 --> 00:19:56.555
+would tell me the ionised fraction at each site, predicting absorption,
+
+292
+00:19:56.555 --> 00:20:00.312
+ion trapping and the effect of pH manipulation on excretion.
+
+293
+00:20:00.312 --> 00:20:04.633
+Its molecular size would indicate filtration and barrier penetration.
+
+294
+00:20:04.773 --> 00:20:07.487
+Its protein binding would indicate the free,
+
+295
+00:20:07.487 --> 00:20:11.557
+active fraction and its sensitivity to changes in plasma proteins.
+
+296
+00:20:11.557 --> 00:20:15.504
+Its chirality would alert me to differences between enantiomers.
+
+297
+00:20:15.644 --> 00:20:18.792
+And its formulation — salt, prodrug, additives, pH,
+
+298
+00:20:18.792 --> 00:20:23.359
+baricity — would explain how it is presented and any consequences of that.
+
+299
+00:20:23.359 --> 00:20:26.877
+From these I can reason out, rather than merely memorise,
+
+300
+00:20:26.877 --> 00:20:28.913
+how the drug is likely to behave.
+
+301
+00:20:40.427 --> 00:20:46.251
+Relate solubility and dissolution to drug absorption and bioavailability.
+
+302
+00:20:46.751 --> 00:20:49.617
+For a drug to be absorbed it must first dissolve,
+
+303
+00:20:49.617 --> 00:20:54.180
+so solubility and the rate of dissolution can be the rate-limiting step for an
+
+304
+00:20:54.180 --> 00:20:57.047
+orally administered solid. A poorly soluble drug,
+
+305
+00:20:57.047 --> 00:20:59.855
+or one given as a slowly dissolving formulation,
+
+306
+00:20:59.855 --> 00:21:01.961
+is absorbed slowly and incompletely.
+
+307
+00:21:02.101 --> 00:21:06.573
+Bioavailability — the fraction of an administered dose that reaches the systemic
+
+308
+00:21:06.573 --> 00:21:11.045
+circulation in active form — depends on this dissolution and absorption together
+
+309
+00:21:11.045 --> 00:21:12.555
+with first-pass metabolism.
+
+310
+00:21:12.695 --> 00:21:16.753
+By definition an intravenous dose has a bioavailability of one,
+
+311
+00:21:16.753 --> 00:21:22.034
+while oral bioavailability is reduced by incomplete absorption and by pre-systemic
+
+312
+00:21:22.034 --> 00:21:22.743
+metabolism.
+
+313
+00:21:22.883 --> 00:21:26.675
+So the physicochemical properties of solubility and dissolution,
+
+314
+00:21:26.675 --> 00:21:30.526
+with lipid solubility and ionisation governing membrane crossing,
+
+315
+00:21:30.526 --> 00:21:35.384
+between them determine how much of an oral dose actually becomes available to act.
+
+316
+00:21:35.884 --> 00:21:40.343
+State Fick's law of diffusion and its physicochemical determinants.
+
+317
+00:21:40.843 --> 00:21:45.248
+Fick's law states that the rate of diffusion of a substance across a membrane is
+
+318
+00:21:45.248 --> 00:21:49.709
+proportional to the membrane's surface area and the concentration gradient across
+
+319
+00:21:49.709 --> 00:21:52.848
+it, and inversely proportional to the membrane thickness,
+
+320
+00:21:52.848 --> 00:21:56.757
+with a constant that incorporates the diffusing substance's properties.
+
+321
+00:21:56.897 --> 00:21:59.113
+Those properties are physicochemical:
+
+322
+00:21:59.113 --> 00:22:03.484
+the diffusion is faster for small molecules and, across a lipid membrane,
+
+323
+00:22:03.484 --> 00:22:05.879
+for lipid-soluble, un-ionised molecules.
+
+324
+00:22:06.019 --> 00:22:08.704
+So the same factors recur — molecular size,
+
+325
+00:22:08.704 --> 00:22:13.701
+lipid solubility and degree of ionisation — now expressed as the determinants of
+
+326
+00:22:13.701 --> 00:22:14.637
+diffusion rate.
+
+327
+00:22:14.777 --> 00:22:19.131
+Fick's law governs the movement of drugs across every membrane and barrier,
+
+328
+00:22:19.131 --> 00:22:23.716
+the uptake of inhalational agents across the alveolus, and gas exchange itself.
+
+329
+00:22:24.216 --> 00:22:29.336
+Work through the effect of urinary pH on the excretion of a weak base.
+
+330
+00:22:29.836 --> 00:22:33.847
+Take a weak base such as amfetamine or, in overdose, a basic drug.
+
+331
+00:22:33.987 --> 00:22:38.843
+In acidic urine the weak base accepts a proton and becomes ionised; the ionised,
+
+332
+00:22:38.843 --> 00:22:43.396
+water-soluble form cannot diffuse back across the tubular epithelium and is
+
+333
+00:22:43.396 --> 00:22:48.070
+therefore trapped in the tubular fluid and excreted — so acidifying the urine
+
+334
+00:22:48.070 --> 00:22:50.499
+enhances the elimination of a weak base.
+
+335
+00:22:50.639 --> 00:22:54.932
+The converse holds for a weak acid such as aspirin or phenobarbital:
+
+336
+00:22:54.932 --> 00:22:59.289
+alkalinising the urine ionises and traps it, enhancing its excretion,
+
+337
+00:22:59.289 --> 00:23:03.140
+which is exploited in salicylate and phenobarbital poisoning.
+
+338
+00:23:03.280 --> 00:23:07.229
+This is the principle of ion trapping applied to the renal tubule,
+
+339
+00:23:07.229 --> 00:23:11.956
+and it follows directly from the Henderson-Hasselbalch relationship between pH,
+
+340
+00:23:11.956 --> 00:23:13.691
+pKa and the ionised fraction.
+
+341
+00:23:14.191 --> 00:23:18.553
+Give some further examples of clinically important chirality,
+
+342
+00:23:18.553 --> 00:23:20.484
+including a cautionary one.
+
+343
+00:23:20.984 --> 00:23:25.818
+Warfarin is a racemate whose S-enantiomer is several times more potent and is
+
+344
+00:23:25.818 --> 00:23:29.020
+metabolised by a different pathway from the R-form,
+
+345
+00:23:29.020 --> 00:23:34.231
+which is relevant to its interactions. Propranolol's beta-blocking activity resides
+
+346
+00:23:34.231 --> 00:23:36.365
+almost entirely in one enantiomer.
+
+347
+00:23:36.505 --> 00:23:38.667
+The cautionary example is thalidomide,
+
+348
+00:23:38.667 --> 00:23:42.991
+a racemate in which the two enantiomers were reported to have very different
+
+349
+00:23:42.991 --> 00:23:46.006
+effects, and which moreover interconvert in the body,
+
+350
+00:23:46.006 --> 00:23:49.988
+a tragic illustration of why enantiomers cannot be assumed equivalent.
+
+351
+00:23:50.128 --> 00:23:54.817
+The terms eutomer and distomer denote the more and less active enantiomers,
+
+352
+00:23:54.817 --> 00:23:57.067
+and their ratio, the eudismic ratio,
+
+353
+00:23:57.067 --> 00:24:00.130
+expresses how stereoselective a drug's action is.
+
+354
+00:24:00.130 --> 00:24:04.569
+These examples reinforce that chirality is a first-order consideration,
+
+355
+00:24:04.569 --> 00:24:05.381
+not a detail.
+
+356
+00:24:05.881 --> 00:24:09.956
+What is saturated vapour pressure, and why does it matter to us?
+
+357
+00:24:10.456 --> 00:24:15.296
+The saturated vapour pressure is the pressure exerted by the vapour of a volatile
+
+358
+00:24:15.296 --> 00:24:19.837
+liquid in equilibrium with its liquid phase in a closed container at a given
+
+359
+00:24:19.837 --> 00:24:24.198
+temperature. It is a physicochemical property of the agent and depends on
+
+360
+00:24:24.198 --> 00:24:26.648
+temperature, rising as temperature rises.
+
+361
+00:24:26.788 --> 00:24:31.268
+It matters because it determines the maximum concentration of a volatile
+
+362
+00:24:31.268 --> 00:24:36.122
+anaesthetic that a vaporiser can deliver and is the basis of vaporiser design:
+
+363
+00:24:36.122 --> 00:24:41.100
+agents with a high saturated vapour pressure produce high vapour concentrations,
+
+364
+00:24:41.100 --> 00:24:45.519
+which is why vaporisers are agent-specific and temperature-compensated.
+
+365
+00:24:45.659 --> 00:24:48.535
+Desflurane's very high saturated vapour pressure,
+
+366
+00:24:48.535 --> 00:24:51.059
+with a boiling point near room temperature,
+
+367
+00:24:51.059 --> 00:24:53.876
+is precisely why it requires a specially heated,
+
+368
+00:24:53.876 --> 00:24:56.987
+pressurised vaporiser rather than a conventional one.
+
+369
+00:24:57.487 --> 00:25:02.820
+Explain boiling point and latent heat of vaporisation in this context.
+
+370
+00:25:14.333 --> 00:25:19.021
+The boiling point is the temperature at which the saturated vapour pressure equals
+
+371
+00:25:19.021 --> 00:25:21.422
+atmospheric pressure and the liquid boils;
+
+372
+00:25:21.422 --> 00:25:23.823
+desflurane's is close to room temperature,
+
+373
+00:25:23.823 --> 00:25:27.539
+which makes its delivery by a conventional vaporiser impractical.
+
+374
+00:25:27.679 --> 00:25:32.551
+The latent heat of vaporisation is the energy required to convert liquid to vapour
+
+375
+00:25:32.551 --> 00:25:37.364
+without a change in temperature; as a volatile agent vaporises it draws this heat
+
+376
+00:25:37.364 --> 00:25:39.919
+from its surroundings and the liquid cools,
+
+377
+00:25:39.919 --> 00:25:43.721
+which would reduce the saturated vapour pressure and the output.
+
+378
+00:25:43.861 --> 00:25:48.478
+Conventional vaporisers are therefore designed with temperature compensation and
+
+379
+00:25:48.478 --> 00:25:51.305
+heat-conducting materials to offset this cooling,
+
+380
+00:25:51.305 --> 00:25:54.536
+while the desflurane vaporiser actively heats the agent.
+
+381
+00:25:54.536 --> 00:25:58.864
+These are direct physicochemical determinants of how our vaporisers must be
+
+382
+00:25:58.864 --> 00:25:59.499
+engineered.
+
+383
+00:25:59.999 --> 00:26:04.969
+Define critical temperature and critical pressure, with a gas example.
+
+384
+00:26:05.469 --> 00:26:09.622
+The critical temperature is the temperature above which a substance cannot be
+
+385
+00:26:09.622 --> 00:26:11.941
+liquefied by pressure alone, however great;
+
+386
+00:26:11.941 --> 00:26:16.040
+the critical pressure is the pressure required to liquefy it at its critical
+
+387
+00:26:16.040 --> 00:26:18.952
+temperature. They matter for the storage of our gases.
+
+388
+00:26:19.092 --> 00:26:22.711
+Oxygen has a critical temperature far below room temperature,
+
+389
+00:26:22.711 --> 00:26:27.457
+so it cannot be liquefied at room temperature and is stored as a compressed gas,
+
+390
+00:26:27.457 --> 00:26:31.551
+or as a liquid only when kept very cold in a vacuum-insulated vessel.
+
+391
+00:26:31.691 --> 00:26:35.189
+Nitrous oxide has a critical temperature above room temperature,
+
+392
+00:26:35.189 --> 00:26:39.398
+so it can be liquefied by pressure and is stored as a liquid in its cylinder,
+
+393
+00:26:39.398 --> 00:26:43.661
+which is why the cylinder pressure does not fall in proportion to the contents
+
+394
+00:26:43.661 --> 00:26:45.301
+until the liquid is exhausted.
+
+395
+00:26:45.441 --> 00:26:49.644
+These are physicochemical properties with direct practical consequences.
+
+396
+00:26:50.144 --> 00:26:54.908
+How does molecular size influence the choice between related drugs,
+
+397
+00:26:54.908 --> 00:26:56.757
+for instance the heparins?
+
+398
+00:26:57.257 --> 00:27:01.460
+Molecular size determines what crosses barriers and how a drug is handled.
+
+399
+00:27:01.600 --> 00:27:04.929
+Unfractionated heparin is a large, heterogeneous molecule,
+
+400
+00:27:04.929 --> 00:27:08.603
+whereas the low-molecular-weight heparins are smaller fragments;
+
+401
+00:27:08.603 --> 00:27:12.908
+the smaller size gives the low-molecular-weight heparins a more predictable
+
+402
+00:27:12.908 --> 00:27:16.869
+response, longer action and predominantly anti-factor-ten-a activity,
+
+403
+00:27:16.869 --> 00:27:19.051
+and renal rather than mixed clearance.
+
+404
+00:27:19.191 --> 00:27:22.601
+Neither crosses the placenta appreciably because of size,
+
+405
+00:27:22.601 --> 00:27:26.310
+making them safe anticoagulants in pregnancy, unlike warfarin.
+
+406
+00:27:26.310 --> 00:27:31.216
+Size similarly governs whether a molecule is filtered at the glomerulus or crosses
+
+407
+00:27:31.216 --> 00:27:32.652
+the blood-brain barrier.
+
+408
+00:27:32.792 --> 00:27:37.682
+So a difference in molecular size translates into real differences in pharmacology
+
+409
+00:27:37.682 --> 00:27:40.664
+and clinical use between otherwise related agents.
+
+410
+00:27:41.164 --> 00:27:45.559
+What types of bond underlie reversible drug-receptor interaction?
+
+411
+00:27:46.059 --> 00:27:50.836
+Most drug-receptor interactions are reversible and rely on relatively weak,
+
+412
+00:27:50.836 --> 00:27:55.487
+non-covalent forces: ionic or electrostatic bonds between charged groups,
+
+413
+00:27:55.487 --> 00:27:59.755
+hydrogen bonds, van der Waals forces, and hydrophobic interactions.
+
+414
+00:27:59.895 --> 00:28:02.132
+Because these are weak and reversible,
+
+415
+00:28:02.132 --> 00:28:06.312
+the drug associates and dissociates from the receptor, giving a graded,
+
+416
+00:28:06.312 --> 00:28:08.961
+reversible effect dependent on concentration.
+
+417
+00:28:09.101 --> 00:28:11.605
+A few drugs form strong covalent bonds,
+
+418
+00:28:11.605 --> 00:28:16.805
+producing effectively irreversible binding — aspirin acetylating cyclo-oxygenase,
+
+419
+00:28:16.805 --> 00:28:21.555
+or the organophosphates binding cholinesterase — so that recovery requires
+
+420
+00:28:21.555 --> 00:28:23.160
+synthesis of new protein.
+
+421
+00:28:23.300 --> 00:28:27.413
+The nature of the bonding therefore determines whether an effect is readily
+
+422
+00:28:27.413 --> 00:28:31.855
+reversible or long-lasting, which is a physicochemical determinant of duration of
+
+423
+00:28:31.855 --> 00:28:32.239
+action.
+
+424
+00:28:32.739 --> 00:28:37.283
+Why does the tonicity and osmolality of a preparation matter?
+
+425
+00:28:37.783 --> 00:28:42.659
+The osmolality of an injected or infused solution affects its compatibility with
+
+426
+00:28:42.659 --> 00:28:43.756
+blood and tissues.
+
+427
+00:28:43.896 --> 00:28:49.080
+A markedly hypertonic solution can damage the vein and cause thrombophlebitis or,
+
+428
+00:28:49.080 --> 00:28:54.200
+if extravasated, tissue injury, and some concentrated preparations must be given
+
+429
+00:28:54.200 --> 00:28:59.256
+into a central vein or well diluted. A hypotonic solution can cause haemolysis.
+
+430
+00:28:59.396 --> 00:29:03.828
+Intravenous fluids are formulated with attention to tonicity for this reason,
+
+431
+00:29:03.828 --> 00:29:08.030
+and the osmolality of additives contributes to the irritancy of some drug
+
+432
+00:29:08.030 --> 00:29:12.578
+preparations. So tonicity is a physicochemical property of the preparation that
+
+433
+00:29:12.578 --> 00:29:15.225
+bears on how and where it can safely be given.
+
+434
+00:29:15.725 --> 00:29:20.931
+Why is propofol formulated as a lipid emulsion, and what follows from that?
+
+435
+00:29:21.431 --> 00:29:26.166
+Propofol is a phenol, an oil at room temperature and almost insoluble in water,
+
+436
+00:29:26.166 --> 00:29:28.983
+so it cannot simply be dissolved for injection.
+
+437
+00:29:29.123 --> 00:29:33.832
+It is therefore formulated as an oil-in-water emulsion, with soya-bean oil,
+
+438
+00:29:33.832 --> 00:29:37.098
+purified egg phosphatide as emulsifier and glycerol,
+
+439
+00:29:37.098 --> 00:29:40.237
+the same kind of emulsion as parenteral nutrition.
+
+440
+00:29:40.377 --> 00:29:44.449
+Several consequences follow: the emulsion supports microbial growth,
+
+441
+00:29:44.449 --> 00:29:49.359
+so preparations contain a retardant such as disodium edetate or metabisulphite and
+
+442
+00:29:49.359 --> 00:29:51.514
+drawn-up drug must be used promptly;
+
+443
+00:29:51.514 --> 00:29:55.347
+it provides a lipid calorie load relevant in prolonged infusion;
+
+444
+00:29:55.347 --> 00:29:59.897
+it causes pain on injection; and it raises questions of egg or soya allergy,
+
+445
+00:29:59.897 --> 00:30:01.753
+though true reactions are rare.
+
+446
+00:30:01.893 --> 00:30:06.021
+The formulation is thus a direct physicochemical solution to the drug's
+
+447
+00:30:06.021 --> 00:30:08.869
+insolubility, with its own clinical implications.
+
+448
+00:30:20.383 --> 00:30:24.927
+Summarise the partition coefficients we use and what each tells us.
+
+449
+00:30:25.427 --> 00:30:29.997
+The oil-water partition coefficient is a general index of lipid solubility,
+
+450
+00:30:29.997 --> 00:30:34.202
+predicting membrane crossing, brain penetration and fat accumulation.
+
+451
+00:30:34.202 --> 00:30:38.163
+For the inhalational agents two further coefficients are central.
+
+452
+00:30:38.303 --> 00:30:43.087
+The blood-gas partition coefficient describes how the agent distributes between
+
+453
+00:30:43.087 --> 00:30:48.113
+blood and the alveolar gas; a low coefficient means the blood is quickly saturated,
+
+454
+00:30:48.113 --> 00:30:51.565
+so the alveolar and brain partial pressures rise rapidly,
+
+455
+00:30:51.565 --> 00:30:55.199
+giving fast onset and offset — desflurane and nitrous oxide.
+
+456
+00:30:55.339 --> 00:31:00.548
+The oil-gas partition coefficient describes lipid solubility and correlates with
+
+457
+00:31:00.548 --> 00:31:03.609
+potency through the Meyer-Overton relationship;
+
+458
+00:31:03.609 --> 00:31:08.949
+a high coefficient means a potent agent with a low minimum alveolar concentration.
+
+459
+00:31:09.089 --> 00:31:13.940
+So between them these coefficients predict the speed and the potency of a volatile
+
+460
+00:31:13.940 --> 00:31:14.295
+agent.
+
+461
+00:31:14.795 --> 00:31:17.781
+Distinguish a prodrug from a soft drug.
+
+462
+00:31:18.281 --> 00:31:23.083
+A prodrug is an inactive precursor that is metabolised into the active drug — the
+
+463
+00:31:23.083 --> 00:31:25.751
+activation lies downstream of administration,
+
+464
+00:31:25.751 --> 00:31:29.012
+as with codeine to morphine or parecoxib to valdecoxib.
+
+465
+00:31:29.152 --> 00:31:33.679
+A soft drug is the opposite idea: an active drug deliberately designed to be
+
+466
+00:31:33.679 --> 00:31:37.194
+metabolised rapidly and predictably to an inactive product,
+
+467
+00:31:37.194 --> 00:31:41.483
+so that its action is brief and controllable and it does not accumulate.
+
+468
+00:31:41.623 --> 00:31:44.876
+Remifentanil and esmolol are essentially soft drugs,
+
+469
+00:31:44.876 --> 00:31:49.318
+designed with an ester linkage for rapid esterase hydrolysis to give an
+
+470
+00:31:49.318 --> 00:31:54.512
+ultra-short, organ-independent offset. Both concepts use metabolism by design — the
+
+471
+00:31:54.512 --> 00:31:58.391
+prodrug to switch the drug on, the soft drug to switch it off.
+
+472
+00:31:58.891 --> 00:32:04.501
+What physicochemical interactions occur between volatile agents and soda lime?
+
+473
+00:32:05.001 --> 00:32:09.654
+Volatile agents come into contact with the carbon-dioxide absorbent in a circle
+
+474
+00:32:09.654 --> 00:32:14.601
+system, and physicochemical interactions can occur, particularly with dry absorbent.
+
+475
+00:32:14.741 --> 00:32:19.388
+Sevoflurane can be degraded by strong bases in the absorbent to compound A,
+
+476
+00:32:19.388 --> 00:32:24.344
+a nephrotoxin in animal studies, a concern that influenced low-flow practice and
+
+477
+00:32:24.344 --> 00:32:25.707
+absorbent composition.
+
+478
+00:32:25.847 --> 00:32:29.580
+Volatile agents, especially when the absorbent is desiccated,
+
+479
+00:32:29.580 --> 00:32:33.314
+can also be degraded to carbon monoxide, a recognised hazard.
+
+480
+00:32:33.314 --> 00:32:38.089
+These concerns prompted the development of absorbents free of the strong bases
+
+481
+00:32:38.089 --> 00:32:41.761
+sodium and potassium hydroxide, which are far less reactive.
+
+482
+00:32:41.901 --> 00:32:46.575
+So the interaction between an agent and the absorbent is a physicochemical matter
+
+483
+00:32:46.575 --> 00:32:50.903
+with direct safety implications, addressed by changing the chemistry of the
+
+484
+00:32:50.903 --> 00:32:51.480
+absorbent.
+
+485
+00:32:51.980 --> 00:32:56.012
+What is a eutectic mixture, and give an anaesthetic example.
+
+486
+00:32:56.512 --> 00:32:59.672
+A eutectic mixture is a combination of two solids that,
+
+487
+00:32:59.672 --> 00:33:01.855
+when mixed in a particular proportion,
+
+488
+00:33:01.855 --> 00:33:05.704
+has a lower melting point than either component alone — low enough,
+
+489
+00:33:05.704 --> 00:33:08.864
+in the relevant case, to be liquid at room temperature.
+
+490
+00:33:09.004 --> 00:33:13.097
+The anaesthetic example is the eutectic mixture of local anaesthetics,
+
+491
+00:33:13.097 --> 00:33:15.729
+lidocaine and prilocaine in equal proportion,
+
+492
+00:33:15.729 --> 00:33:18.945
+which forms an oil that can be emulsified into a cream.
+
+493
+00:33:19.085 --> 00:33:23.551
+This allows a high concentration of local anaesthetic in the un-ionised,
+
+494
+00:33:23.551 --> 00:33:27.582
+absorbable form to be applied to intact skin and to penetrate it,
+
+495
+00:33:27.582 --> 00:33:30.435
+producing topical anaesthesia for cannulation.
+
+496
+00:33:30.575 --> 00:33:34.724
+It is a neat exploitation of a physicochemical phenomenon — melting-point
+
+497
+00:33:34.724 --> 00:33:38.532
+depression — to solve the practical problem of anaesthetising skin.
+
+498
+00:33:39.032 --> 00:33:43.619
+State Henry's law and its relevance to the inhalational agents.
+
+499
+00:33:44.119 --> 00:33:46.835
+Henry's law states that, at a constant temperature,
+
+500
+00:33:46.835 --> 00:33:51.150
+the amount of a gas dissolved in a liquid is proportional to the partial pressure
+
+501
+00:33:51.150 --> 00:33:52.695
+of that gas above the liquid.
+
+502
+00:33:52.835 --> 00:33:56.707
+It governs the uptake of inhalational agents and gases into blood:
+
+503
+00:33:56.707 --> 00:34:01.400
+the partial pressure, not the concentration, drives diffusion and equilibration,
+
+504
+00:34:01.400 --> 00:34:06.093
+and at equilibrium the partial pressures in alveolus, blood and brain are equal,
+
+505
+00:34:06.093 --> 00:34:09.731
+even though the concentrations differ according to solubility.
+
+506
+00:34:09.871 --> 00:34:14.221
+The solubility itself, expressed by the blood-gas partition coefficient,
+
+507
+00:34:14.221 --> 00:34:19.115
+determines how much dissolves for a given partial pressure and hence the speed of
+
+508
+00:34:19.115 --> 00:34:19.961
+equilibration.
+
+509
+00:34:20.101 --> 00:34:24.262
+Henry's law also explains the temperature dependence of gas solubility,
+
+510
+00:34:24.262 --> 00:34:29.008
+relevant to blood-gas measurement and to the formation of bubbles when solubility
+
+511
+00:34:29.008 --> 00:34:29.360
+falls.
+
+512
+00:34:29.860 --> 00:34:34.724
+Explain the physicochemical basis of adsorption and where it is used.
+
+513
+00:34:35.224 --> 00:34:38.976
+Adsorption is the adherence of molecules to the surface of a solid,
+
+514
+00:34:38.976 --> 00:34:41.160
+distinct from absorption into its bulk,
+
+515
+00:34:41.160 --> 00:34:45.472
+and it depends on surface area and the affinity between the adsorbent and the
+
+516
+00:34:45.472 --> 00:34:45.976
+molecule.
+
+517
+00:34:46.116 --> 00:34:49.141
+Activated charcoal, with an enormous surface area,
+
+518
+00:34:49.141 --> 00:34:54.101
+adsorbs many drugs and toxins and is used in poisoning to bind drug in the gut and
+
+519
+00:34:54.101 --> 00:34:59.121
+prevent absorption, and in repeated doses to interrupt enterohepatic recirculation;
+
+520
+00:34:59.121 --> 00:35:04.021
+it is ineffective for small, polar molecules such as lithium or iron that it does
+
+521
+00:35:04.021 --> 00:35:04.868
+not bind well.
+
+522
+00:35:05.008 --> 00:35:09.439
+Charcoal is also used in filters to adsorb volatile anaesthetic agents.
+
+523
+00:35:09.439 --> 00:35:14.182
+So adsorption is a surface physicochemical process turned to therapeutic and
+
+524
+00:35:14.182 --> 00:35:15.056
+practical use.
+
+525
+00:35:26.569 --> 00:35:32.137
+How do additives such as adrenaline alter the action of a local anaesthetic?
+
+526
+00:35:32.637 --> 00:35:36.212
+Adding a vasoconstrictor such as adrenaline, or felypressin,
+
+527
+00:35:36.212 --> 00:35:39.906
+to a local-anaesthetic solution causes local vasoconstriction,
+
+528
+00:35:39.906 --> 00:35:44.136
+which reduces the rate at which the drug is carried away from the site.
+
+529
+00:35:44.276 --> 00:35:47.258
+The consequences are a prolonged duration of block,
+
+530
+00:35:47.258 --> 00:35:52.053
+a reduced peak plasma concentration and therefore a greater margin of safety and a
+
+531
+00:35:52.053 --> 00:35:54.977
+higher permissible dose, and a more intense block,
+
+532
+00:35:54.977 --> 00:35:57.140
+as well as reduced surgical bleeding.
+
+533
+00:35:57.280 --> 00:36:01.945
+The trade-offs are that the acidity of the adrenaline-containing solution can slow
+
+534
+00:36:01.945 --> 00:36:04.050
+onset and increase pain on injection,
+
+535
+00:36:04.050 --> 00:36:08.032
+that systemic absorption of the adrenaline has cardiovascular effects,
+
+536
+00:36:08.032 --> 00:36:12.128
+and that vasoconstrictors are avoided where end-arterial supply could be
+
+537
+00:36:12.128 --> 00:36:12.811
+compromised.
+
+538
+00:36:12.951 --> 00:36:17.388
+So a simple additive modifies the kinetics and the clinical performance of the
+
+539
+00:36:17.388 --> 00:36:18.412
+local anaesthetic.
+
+540
+00:36:18.912 --> 00:36:24.587
+How does temperature influence the physicochemical behaviour of drugs and gases?
+
+541
+00:36:25.087 --> 00:36:28.057
+Temperature affects several properties at once.
+
+542
+00:36:28.057 --> 00:36:31.786
+It raises the saturated vapour pressure of volatile agents,
+
+543
+00:36:31.786 --> 00:36:35.263
+increasing vaporiser output unless this is compensated.
+
+544
+00:36:35.403 --> 00:36:40.097
+It alters gas solubility — by Henry's law, gases are less soluble in warm liquids,
+
+545
+00:36:40.097 --> 00:36:44.162
+so a patient's temperature and the temperature of a blood sample affect
+
+546
+00:36:44.162 --> 00:36:46.910
+dissolved-gas content and blood-gas measurement,
+
+547
+00:36:46.910 --> 00:36:50.059
+which is corrected to the patient's actual temperature.
+
+548
+00:36:50.199 --> 00:36:52.751
+It changes reaction and degradation rates,
+
+549
+00:36:52.751 --> 00:36:55.546
+so drugs are stored cool to prolong stability.
+
+550
+00:36:55.546 --> 00:36:57.673
+It affects the rate of spontaneous,
+
+551
+00:36:57.673 --> 00:37:01.319
+temperature-dependent breakdown such as Hofmann degradation,
+
+552
+00:37:01.319 --> 00:37:06.241
+which slows when the patient is hypothermic, prolonging the action of atracurium.
+
+553
+00:37:06.381 --> 00:37:09.170
+And it changes membrane fluidity and diffusion.
+
+554
+00:37:09.170 --> 00:37:13.916
+So temperature is a pervasive physicochemical variable that I would keep in mind
+
+555
+00:37:13.916 --> 00:37:17.001
+for vaporiser performance, blood-gas interpretation,
+
+556
+00:37:17.001 --> 00:37:20.739
+drug storage and the behaviour of temperature-sensitive agents.
+
+557
+00:37:21.239 --> 00:37:24.972
+Thank you. A clear and complete account. Let us stop there.
+
+558
+00:37:25.472 --> 00:37:29.305
+Before we close, here are the take-home messages.
+
+559
+00:37:29.305 --> 00:37:34.780
+First, Isomerism divides into structural (different connectivity, e.g.
+
+560
+00:37:34.780 --> 00:37:40.334
+enflurane/isoflurane, thiopental tautomerism) and stereoisomerism (same
+
+561
+00:37:40.334 --> 00:37:45.419
+connectivity, different 3-D arrangement — geometric and optical).
+
+562
+00:37:45.559 --> 00:37:49.777
+Second, Enantiomers are non-superimposable mirror images,
+
+563
+00:37:49.777 --> 00:37:55.920
+identical physically but differing at chiral receptors — hence the chiral switch to
+
+564
+00:37:55.920 --> 00:38:01.989
+single enantiomers such as levobupivacaine and esketamine for a better therapeutic
+
+565
+00:38:01.989 --> 00:38:02.433
+ratio.
+
+566
+00:38:02.573 --> 00:38:06.627
+Third, Only the un-ionised form crosses membranes;
+
+567
+00:38:06.627 --> 00:38:12.545
+pKa and local pH (Henderson-Hasselbalch) govern absorption, ion trapping,
+
+568
+00:38:12.545 --> 00:38:18.381
+local-anaesthetic action in acidic tissue, and pH-manipulated excretion.
+
+569
+00:38:18.521 --> 00:38:23.614
+Fourth, Lipid solubility, quantified by the partition coefficient,
+
+570
+00:38:23.614 --> 00:38:30.018
+governs membrane crossing, onset, tissue accumulation and — via Meyer-Overton — the
+
+571
+00:38:30.018 --> 00:38:32.409
+potency of inhalational agents.
+
+572
+00:38:32.549 --> 00:38:37.652
+Fifth, Formulation (salts, esters/prodrugs, additives, adjusted pH,
+
+573
+00:38:37.652 --> 00:38:42.831
+baricity) is engineered from physicochemistry to make drugs soluble,
+
+574
+00:38:42.831 --> 00:38:48.848
+stable and clinically controllable, and each additive can have its own effects.
+
+575
+00:38:49.348 --> 00:38:51.823
+Thank you. That concludes the station.
+

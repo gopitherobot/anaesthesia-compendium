@@ -1,0 +1,22 @@
+/* ----------------------------------------------------------------------------
+ * Anaesthesia Compendium - site configuration
+ *
+ * MEDIA_BASE is the public base URL of the Cloudflare R2 bucket that holds the
+ * heavy audio/video. The site builds stream URLs as:
+ *     MEDIA_BASE + "/audio/" + topic.audio      (the .mp3)
+ *     MEDIA_BASE + "/video/" + topic.video      (the .mp4)
+ *
+ * After the R2 bucket + public domain are set up, replace the placeholder below
+ * with the real public URL, e.g. "https://media.anaesthesiacompendium.com"
+ * or the r2.dev URL "https://pub-xxxxxxxx.r2.dev".
+ * (No trailing slash.)
+ * ------------------------------------------------------------------------- */
+window.MEDIA_BASE = "https://MEDIA-BASE-NOT-SET";
+
+window.SITE = {
+  title: "Anaesthesia Compendium",
+  tagline: "Viva-style oral exam revision — listen, watch, read",
+  audioURL: (t) => `${window.MEDIA_BASE}/audio/${t.audio}`,
+  videoURL: (t) => `${window.MEDIA_BASE}/video/${t.video}`,
+  mediaReady: () => !String(window.MEDIA_BASE).includes("NOT-SET"),
+};

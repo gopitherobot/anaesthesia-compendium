@@ -1,0 +1,2422 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.546
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.546 --> 00:00:09.760
+the principles of pharmacodynamics. I shall take the candidate through it,
+
+3
+00:00:09.760 --> 00:00:12.227
+question by question. Let us begin.
+
+4
+00:00:12.727 --> 00:00:16.653
+Good morning. We turn to pharmacodynamics. Define it,
+
+5
+00:00:16.653 --> 00:00:19.468
+and contrast it with pharmacokinetics.
+
+6
+00:00:19.968 --> 00:00:24.421
+Pharmacodynamics is the study of what a drug does to the body — the relationship
+
+7
+00:00:24.421 --> 00:00:29.041
+between the concentration of a drug at its site of action and the biological effect
+
+8
+00:00:29.041 --> 00:00:33.216
+it produces, together with the mechanisms by which that effect comes about.
+
+9
+00:00:33.356 --> 00:00:37.287
+Pharmacokinetics, in contrast, is what the body does to the drug,
+
+10
+00:00:37.287 --> 00:00:41.520
+the time course of absorption, distribution, metabolism and excretion.
+
+11
+00:00:41.520 --> 00:00:45.632
+Pharmacokinetics determines the concentration reaching the receptor;
+
+12
+00:00:45.632 --> 00:00:49.441
+pharmacodynamics determines the response to that concentration.
+
+13
+00:00:49.581 --> 00:00:54.175
+In anaesthesia the minimum alveolar concentration of a volatile agent is a
+
+14
+00:00:54.175 --> 00:00:59.327
+pharmacodynamic measure — a concentration related to an effect — while the way that
+
+15
+00:00:59.327 --> 00:01:02.990
+concentration is reached and maintained is pharmacokinetic.
+
+16
+00:01:02.990 --> 00:01:06.093
+Understanding both is essential to safe titration.
+
+17
+00:01:06.593 --> 00:01:11.777
+Most drugs act on receptors. Describe the principal types of receptor.
+
+18
+00:01:12.277 --> 00:01:14.998
+Receptors are macromolecules, usually proteins,
+
+19
+00:01:14.998 --> 00:01:17.892
+with which a drug interacts to produce its effect.
+
+20
+00:01:17.892 --> 00:01:22.581
+There are four superfamilies, classified by their structure and signalling speed.
+
+21
+00:01:22.721 --> 00:01:27.383
+Ligand-gated ion channels, such as the GABA-A and nicotinic acetylcholine
+
+22
+00:01:27.383 --> 00:01:32.300
+receptors, act in milliseconds: ligand binding opens an ion channel directly.
+
+23
+00:01:32.440 --> 00:01:36.956
+G-protein-coupled receptors, such as adrenergic and opioid receptors,
+
+24
+00:01:36.956 --> 00:01:42.257
+act over seconds, transducing the signal through a G-protein to second messengers
+
+25
+00:01:42.257 --> 00:01:45.005
+such as cyclic AMP or via phospholipase C.
+
+26
+00:01:45.145 --> 00:01:48.299
+Kinase-linked receptors, such as the insulin receptor,
+
+27
+00:01:48.299 --> 00:01:51.746
+act over minutes to hours through phosphorylation cascades.
+
+28
+00:01:51.746 --> 00:01:55.834
+And nuclear receptors, such as those for steroids and thyroid hormone,
+
+29
+00:01:55.834 --> 00:01:58.521
+act over hours by altering gene transcription.
+
+30
+00:01:58.661 --> 00:02:01.907
+The anaesthetist works most often with the first two,
+
+31
+00:02:01.907 --> 00:02:06.683
+given the importance of GABA-A, nicotinic, adrenergic and opioid pharmacology.
+
+32
+00:02:07.183 --> 00:02:11.001
+Define agonist, antagonist and partial agonist.
+
+33
+00:02:11.501 --> 00:02:16.017
+An agonist is a drug that binds to a receptor and activates it to produce a
+
+34
+00:02:16.017 --> 00:02:21.015
+response; a full agonist produces the maximal possible response of which the system
+
+35
+00:02:21.015 --> 00:02:21.677
+is capable.
+
+36
+00:02:21.817 --> 00:02:26.260
+An antagonist binds to the receptor but produces no activation itself;
+
+37
+00:02:26.260 --> 00:02:31.465
+it has affinity but no efficacy, and it acts by preventing an agonist from binding
+
+38
+00:02:31.465 --> 00:02:32.100
+or acting.
+
+39
+00:02:32.240 --> 00:02:35.708
+A partial agonist binds and activates the receptor but,
+
+40
+00:02:35.708 --> 00:02:40.941
+even at full receptor occupancy, cannot produce the maximal response — it has lower
+
+41
+00:02:40.941 --> 00:02:42.139
+intrinsic efficacy.
+
+42
+00:02:42.279 --> 00:02:47.335
+A partial agonist is interesting because in the presence of a full agonist it can
+
+43
+00:02:47.335 --> 00:02:52.205
+behave as an antagonist, occupying receptors while producing only a submaximal
+
+44
+00:02:52.205 --> 00:02:56.388
+effect. Buprenorphine, a partial agonist at the mu opioid receptor,
+
+45
+00:02:56.388 --> 00:02:58.385
+illustrates this dual behaviour.
+
+46
+00:02:58.885 --> 00:03:02.043
+Explain the different forms of antagonism.
+
+47
+00:03:02.543 --> 00:03:05.657
+Antagonism may be competitive or non-competitive.
+
+48
+00:03:05.797 --> 00:03:10.086
+A competitive antagonist binds reversibly to the same site as the agonist,
+
+49
+00:03:10.086 --> 00:03:12.868
+and the two compete; the effect is surmountable,
+
+50
+00:03:12.868 --> 00:03:16.809
+because increasing the agonist concentration can overcome the block,
+
+51
+00:03:16.809 --> 00:03:21.562
+shifting the agonist dose-response curve to the right in parallel without reducing
+
+52
+00:03:21.562 --> 00:03:22.779
+the maximal response.
+
+53
+00:03:22.919 --> 00:03:27.974
+A non-competitive antagonist either binds irreversibly to the agonist site or binds
+
+54
+00:03:27.974 --> 00:03:33.030
+to a separate, allosteric site; the block cannot be fully overcome by more agonist,
+
+55
+00:03:33.030 --> 00:03:36.807
+so the maximal response is reduced and the curve is depressed.
+
+56
+00:03:36.947 --> 00:03:40.213
+There is also physiological or functional antagonism,
+
+57
+00:03:40.213 --> 00:03:45.327
+where two drugs act at different receptors to produce opposing effects — adrenaline
+
+58
+00:03:45.327 --> 00:03:49.949
+opposing histamine in anaphylaxis is the example — and chemical antagonism,
+
+59
+00:03:49.949 --> 00:03:54.077
+where one agent binds another directly, as protamine binds heparin.
+
+60
+00:03:54.217 --> 00:03:58.782
+Distinguishing these matters because a competitive block can be overcome and an
+
+61
+00:03:58.782 --> 00:04:00.169
+irreversible one cannot.
+
+62
+00:04:00.669 --> 00:04:02.909
+What is an inverse agonist?
+
+63
+00:04:03.409 --> 00:04:08.218
+An inverse agonist binds to a receptor that has constitutive activity — that is,
+
+64
+00:04:08.218 --> 00:04:13.147
+some baseline signalling in the absence of any agonist — and reduces that activity
+
+65
+00:04:13.147 --> 00:04:14.289
+below the baseline.
+
+66
+00:04:14.429 --> 00:04:17.700
+It therefore produces the opposite effect to an agonist,
+
+67
+00:04:17.700 --> 00:04:22.315
+whereas a neutral antagonist merely blocks and leaves the constitutive activity
+
+68
+00:04:22.315 --> 00:04:22.899
+unchanged.
+
+69
+00:04:23.039 --> 00:04:27.727
+The concept is most relevant where receptors have appreciable constitutive
+
+70
+00:04:27.727 --> 00:04:31.781
+activity; some benzodiazepine-site ligands, the beta-carbolines,
+
+71
+00:04:31.781 --> 00:04:36.913
+are inverse agonists at the GABA-A receptor and are anxiogenic and proconvulsant,
+
+72
+00:04:36.913 --> 00:04:39.700
+the opposite of the benzodiazepine agonists.
+
+73
+00:04:39.840 --> 00:04:45.007
+It is a useful concept because it refines the simple agonist-antagonist dichotomy
+
+74
+00:04:45.007 --> 00:04:50.237
+into a continuum of efficacy ranging from full agonist through partial agonist and
+
+75
+00:04:50.237 --> 00:04:52.661
+neutral antagonist to inverse agonist.
+
+76
+00:04:53.161 --> 00:04:55.977
+Distinguish potency from efficacy.
+
+77
+00:04:56.477 --> 00:05:01.298
+Potency refers to the amount of drug required to produce a given effect — a more
+
+78
+00:05:01.298 --> 00:05:05.215
+potent drug produces its effect at a lower dose or concentration,
+
+79
+00:05:05.215 --> 00:05:10.096
+reflected in a leftward position of the dose-response curve and a lower EC-fifty,
+
+80
+00:05:10.096 --> 00:05:14.013
+the concentration producing fifty per cent of the maximal effect.
+
+81
+00:05:14.153 --> 00:05:18.720
+Efficacy refers to the maximal effect a drug can produce regardless of dose,
+
+82
+00:05:18.720 --> 00:05:21.844
+reflected in the height of the plateau of the curve.
+
+83
+00:05:21.844 --> 00:05:26.351
+The two are independent: a drug may be highly potent but have low efficacy,
+
+84
+00:05:26.351 --> 00:05:30.196
+like a partial agonist, or have lower potency but high efficacy.
+
+85
+00:05:30.336 --> 00:05:34.945
+Clinically, potency determines the dose I prescribe but efficacy determines the
+
+86
+00:05:34.945 --> 00:05:39.729
+ceiling of effect achievable. Fentanyl is more potent than morphine — it acts at a
+
+87
+00:05:39.729 --> 00:05:44.104
+far lower dose — but both are full agonists with similar efficacy at the mu
+
+88
+00:05:44.104 --> 00:05:44.629
+receptor.
+
+89
+00:05:56.143 --> 00:06:01.285
+Describe the dose-response relationship and the difference between graded and
+
+90
+00:06:01.285 --> 00:06:02.287
+quantal curves.
+
+91
+00:06:02.787 --> 00:06:07.637
+A graded dose-response curve plots the magnitude of a continuous response in an
+
+92
+00:06:07.637 --> 00:06:10.154
+individual against dose or concentration;
+
+93
+00:06:10.154 --> 00:06:13.837
+the response increases with dose until a maximum is reached.
+
+94
+00:06:13.977 --> 00:06:18.600
+When plotted against the logarithm of dose it forms a characteristic sigmoid curve,
+
+95
+00:06:18.600 --> 00:06:23.055
+the central, linear portion of which is most useful for comparing drugs and from
+
+96
+00:06:23.055 --> 00:06:24.559
+which the EC-fifty is read.
+
+97
+00:06:24.699 --> 00:06:27.174
+A quantal dose-response curve, by contrast,
+
+98
+00:06:27.174 --> 00:06:31.836
+plots the proportion of a population showing an all-or-none response — present or
+
+99
+00:06:31.836 --> 00:06:36.325
+absent, such as loss of consciousness or abolition of movement — against dose.
+
+100
+00:06:36.465 --> 00:06:39.281
+From the quantal curve we derive the ED-fifty,
+
+101
+00:06:39.281 --> 00:06:43.932
+the dose effective in half the population, and, in toxicology, the LD-fifty.
+
+102
+00:06:44.072 --> 00:06:48.853
+The minimum alveolar concentration of a volatile agent is essentially a quantal
+
+103
+00:06:48.853 --> 00:06:53.756
+measure: the concentration preventing movement in fifty per cent of subjects at a
+
+104
+00:06:53.756 --> 00:06:54.845
+standard stimulus.
+
+105
+00:06:55.345 --> 00:06:59.185
+What is the therapeutic index, and why is it important?
+
+106
+00:06:59.685 --> 00:07:03.603
+The therapeutic index is a measure of the safety margin of a drug,
+
+107
+00:07:03.603 --> 00:07:08.411
+classically defined as the ratio of the dose producing toxicity in fifty per cent
+
+108
+00:07:08.411 --> 00:07:11.379
+of the population, the toxic or lethal dose-fifty,
+
+109
+00:07:11.379 --> 00:07:15.119
+to the dose producing the therapeutic effect in fifty per cent,
+
+110
+00:07:15.119 --> 00:07:16.603
+the effective dose-fifty.
+
+111
+00:07:16.743 --> 00:07:21.708
+A large therapeutic index indicates a wide margin between effective and toxic doses
+
+112
+00:07:21.708 --> 00:07:26.494
+and a relatively safe drug; a small index indicates that the effective and toxic
+
+113
+00:07:26.494 --> 00:07:30.503
+doses are close, so the drug must be dosed and monitored carefully.
+
+114
+00:07:30.643 --> 00:07:35.160
+Many anaesthetic drugs have a relatively narrow therapeutic index — the dose
+
+115
+00:07:35.160 --> 00:07:39.975
+producing anaesthesia is not far from the dose producing dangerous cardiovascular
+
+116
+00:07:39.975 --> 00:07:44.493
+or respiratory depression — which is precisely why they are given by trained
+
+117
+00:07:44.493 --> 00:07:49.129
+anaesthetists with full monitoring and titrated to effect rather than given as
+
+118
+00:07:49.129 --> 00:07:49.843
+fixed doses.
+
+119
+00:07:50.343 --> 00:07:55.911
+Explain affinity and the law of mass action as they apply to receptor binding.
+
+120
+00:07:56.411 --> 00:07:59.635
+Affinity is the tendency of a drug to bind to its receptor,
+
+121
+00:07:59.635 --> 00:08:02.149
+the strength of the drug-receptor interaction.
+
+122
+00:08:02.289 --> 00:08:05.484
+Receptor binding is governed by the law of mass action:
+
+123
+00:08:05.484 --> 00:08:10.190
+the rate of formation of the drug-receptor complex is proportional to the product
+
+124
+00:08:10.190 --> 00:08:13.269
+of the concentrations of free drug and free receptor,
+
+125
+00:08:13.269 --> 00:08:17.393
+and at equilibrium the rates of association and dissociation are equal.
+
+126
+00:08:17.533 --> 00:08:22.328
+The dissociation constant, KD, is the concentration of drug at which half the
+
+127
+00:08:22.328 --> 00:08:27.371
+receptors are occupied, and it is an inverse measure of affinity — a low KD means
+
+128
+00:08:27.371 --> 00:08:28.243
+high affinity.
+
+129
+00:08:28.383 --> 00:08:33.231
+Affinity is a property of both agonists and antagonists, because both must bind;
+
+130
+00:08:33.231 --> 00:08:38.080
+what distinguishes an agonist is that, having bound, it also possesses efficacy,
+
+131
+00:08:38.080 --> 00:08:41.716
+the ability to activate the receptor and produce a response.
+
+132
+00:08:41.856 --> 00:08:46.677
+This separation of binding from activation is fundamental to receptor pharmacology.
+
+133
+00:08:47.177 --> 00:08:51.252
+What do you understand by receptor reserve, or spare receptors?
+
+134
+00:08:51.752 --> 00:08:54.677
+Receptor reserve, or the spare-receptor phenomenon,
+
+135
+00:08:54.677 --> 00:08:59.208
+describes the situation in which a maximal tissue response can be achieved when
+
+136
+00:08:59.208 --> 00:09:03.165
+only a fraction of the available receptors is occupied by an agonist.
+
+137
+00:09:03.305 --> 00:09:07.107
+In other words, there are more receptors than are needed to produce the maximal
+
+138
+00:09:07.107 --> 00:09:07.444
+effect.
+
+139
+00:09:07.584 --> 00:09:12.186
+The consequence is that the concentration producing half the maximal effect,
+
+140
+00:09:12.186 --> 00:09:17.212
+the EC-fifty, is lower than the concentration occupying half the receptors, the KD;
+
+141
+00:09:17.212 --> 00:09:21.088
+the dose-response curve lies to the left of the occupancy curve.
+
+142
+00:09:21.228 --> 00:09:26.162
+Receptor reserve increases the sensitivity of a tissue to an agonist and influences
+
+143
+00:09:26.162 --> 00:09:31.096
+how a given degree of receptor antagonism translates into loss of response — with a
+
+144
+00:09:31.096 --> 00:09:35.733
+large reserve, a substantial proportion of receptors can be blocked before the
+
+145
+00:09:35.733 --> 00:09:37.100
+maximal response falls.
+
+146
+00:09:37.240 --> 00:09:42.573
+The neuromuscular junction has a recognised margin of safety related to this idea.
+
+147
+00:09:43.073 --> 00:09:47.681
+Describe signal transduction and the role of second messengers.
+
+148
+00:09:48.181 --> 00:09:53.078
+Signal transduction is the process by which the binding of a drug at a receptor on
+
+149
+00:09:53.078 --> 00:09:56.721
+the cell surface is converted into an intracellular response.
+
+150
+00:09:56.721 --> 00:10:01.557
+For ligand-gated channels the transduction is direct — the channel opens and ions
+
+151
+00:10:01.557 --> 00:10:01.856
+flow.
+
+152
+00:10:01.996 --> 00:10:06.536
+For G-protein-coupled receptors the bound receptor activates a G-protein,
+
+153
+00:10:06.536 --> 00:10:09.894
+which in turn modulates an effector enzyme or channel,
+
+154
+00:10:09.894 --> 00:10:14.745
+generating an intracellular second messenger that amplifies and propagates the
+
+155
+00:10:14.745 --> 00:10:15.180
+signal.
+
+156
+00:10:15.320 --> 00:10:18.343
+Common second messengers include cyclic AMP,
+
+157
+00:10:18.343 --> 00:10:22.879
+generated by adenylyl cyclase and acting through protein kinase A;
+
+158
+00:10:22.879 --> 00:10:25.765
+inositol trisphosphate and diacylglycerol,
+
+159
+00:10:25.765 --> 00:10:30.300
+generated by phospholipase C and mobilising intracellular calcium;
+
+160
+00:10:30.300 --> 00:10:34.285
+and cyclic GMP and nitric oxide in vascular smooth muscle.
+
+161
+00:10:34.425 --> 00:10:39.014
+This cascade structure provides amplification — one bound receptor can generate
+
+162
+00:10:39.014 --> 00:10:43.718
+many messenger molecules — and multiple points for regulation and pharmacological
+
+163
+00:10:43.718 --> 00:10:44.473
+intervention.
+
+164
+00:10:55.987 --> 00:11:00.147
+What is hysteresis in a concentration-effect relationship?
+
+165
+00:11:00.647 --> 00:11:05.001
+Hysteresis describes a situation in which the relationship between plasma
+
+166
+00:11:05.001 --> 00:11:08.401
+concentration and effect is not a single line but a loop,
+
+167
+00:11:08.401 --> 00:11:13.233
+because the effect lags behind or, less commonly, leads the plasma concentration.
+
+168
+00:11:13.373 --> 00:11:17.489
+The commonest cause is the time taken for the drug to equilibrate between the
+
+169
+00:11:17.489 --> 00:11:21.873
+plasma and the effect-site, so that for a given plasma concentration the effect is
+
+170
+00:11:21.873 --> 00:11:25.668
+less while the concentration is rising and greater while it is falling,
+
+171
+00:11:25.668 --> 00:11:27.539
+producing a counter-clockwise loop.
+
+172
+00:11:27.679 --> 00:11:32.376
+This is why the effect-site and the rate constant ke0 are introduced — to collapse
+
+173
+00:11:32.376 --> 00:11:37.074
+the loop into a single concentration-effect relationship by relating effect to the
+
+174
+00:11:37.074 --> 00:11:39.881
+effect-site rather than the plasma concentration.
+
+175
+00:11:40.021 --> 00:11:42.936
+Hysteresis can also arise from active metabolites,
+
+176
+00:11:42.936 --> 00:11:46.549
+tolerance developing during the measurement, or sensitisation.
+
+177
+00:11:47.049 --> 00:11:53.321
+Define tolerance, tachyphylaxis and desensitisation, and explain the mechanisms.
+
+178
+00:11:53.821 --> 00:11:57.913
+Tolerance is a reduction in response to a drug following its repeated
+
+179
+00:11:57.913 --> 00:12:02.597
+administration, so that a larger dose is needed to produce the original effect;
+
+180
+00:12:02.597 --> 00:12:05.917
+it usually develops over days to weeks, as with opioids.
+
+181
+00:12:06.057 --> 00:12:10.777
+Tachyphylaxis is a rapid tolerance developing over minutes to hours with repeated
+
+182
+00:12:10.777 --> 00:12:15.614
+dosing, classically seen with indirectly acting sympathomimetics such as ephedrine,
+
+183
+00:12:15.614 --> 00:12:20.159
+where repeated doses deplete the neuronal noradrenaline stores they rely upon.
+
+184
+00:12:20.299 --> 00:12:24.868
+Desensitisation is loss of receptor responsiveness, which may be homologous,
+
+185
+00:12:24.868 --> 00:12:28.235
+affecting only the stimulated receptor, or heterologous.
+
+186
+00:12:28.375 --> 00:12:32.856
+The mechanisms include receptor phosphorylation and uncoupling from their
+
+187
+00:12:32.856 --> 00:12:37.952
+G-proteins, internalisation of receptors, down-regulation reducing receptor number,
+
+188
+00:12:37.952 --> 00:12:41.390
+depletion of an intermediary such as a neurotransmitter,
+
+189
+00:12:41.390 --> 00:12:44.460
+and increased metabolism through enzyme induction.
+
+190
+00:12:44.600 --> 00:12:49.468
+Conversely, chronic antagonism or denervation can cause up-regulation and
+
+191
+00:12:49.468 --> 00:12:53.203
+supersensitivity, which is the basis of the exaggerated,
+
+192
+00:12:53.203 --> 00:12:58.738
+dangerous potassium release seen with suxamethonium in conditions with up-regulated
+
+193
+00:12:58.738 --> 00:13:00.472
+extrajunctional receptors.
+
+194
+00:13:00.972 --> 00:13:06.860
+How do drugs interact when given together — additivity, synergy and antagonism?
+
+195
+00:13:07.360 --> 00:13:11.440
+When two drugs act together their combined effect may be additive,
+
+196
+00:13:11.440 --> 00:13:16.509
+synergistic or antagonistic. Additivity is when the combined effect equals the sum
+
+197
+00:13:16.509 --> 00:13:21.269
+of the individual effects, expected when two drugs act by the same mechanism.
+
+198
+00:13:21.409 --> 00:13:26.183
+Synergy, or supra-additivity, is when the combined effect exceeds the sum of the
+
+199
+00:13:26.183 --> 00:13:30.778
+parts, often seen when drugs act at different sites in the same pathway — the
+
+200
+00:13:30.778 --> 00:13:35.551
+profound synergy between propofol and an opioid such as remifentanil on hypnosis
+
+201
+00:13:35.551 --> 00:13:39.609
+and on suppression of responses is the everyday anaesthetic example,
+
+202
+00:13:39.609 --> 00:13:41.996
+allowing the dose of each to be reduced.
+
+203
+00:13:42.136 --> 00:13:45.677
+Antagonism is when the combined effect is less than expected.
+
+204
+00:13:45.817 --> 00:13:50.436
+These interactions can be represented graphically by isoboles — lines of equal
+
+205
+00:13:50.436 --> 00:13:55.114
+effect plotted for combinations of two drugs — where a curve bowing towards the
+
+206
+00:13:55.114 --> 00:13:59.023
+origin indicates synergy and one bowing away indicates antagonism.
+
+207
+00:13:59.163 --> 00:14:01.487
+Recognising synergy is clinically vital,
+
+208
+00:14:01.487 --> 00:14:05.904
+because it explains both the efficiency and the hazard of drug combinations.
+
+209
+00:14:06.404 --> 00:14:10.372
+How does stereochemistry influence pharmacodynamics?
+
+210
+00:14:10.872 --> 00:14:15.495
+Many drugs are chiral, existing as enantiomers — mirror-image isomers — that are
+
+211
+00:14:15.495 --> 00:14:18.962
+not superimposable. Because receptors are themselves chiral,
+
+212
+00:14:18.962 --> 00:14:22.660
+the enantiomers may differ markedly in their affinity, efficacy,
+
+213
+00:14:22.660 --> 00:14:24.163
+kinetics and side-effects.
+
+214
+00:14:24.303 --> 00:14:28.534
+The drug may be marketed as a racemic mixture of both, or as a single,
+
+215
+00:14:28.534 --> 00:14:29.743
+purified enantiomer.
+
+216
+00:14:29.883 --> 00:14:32.856
+Examples in anaesthesia include levobupivacaine,
+
+217
+00:14:32.856 --> 00:14:35.272
+the single S-enantiomer of bupivacaine,
+
+218
+00:14:35.272 --> 00:14:39.546
+developed because it is less cardiotoxic than the racemate; ketamine,
+
+219
+00:14:39.546 --> 00:14:44.564
+whose S-enantiomer is more potent and produces fewer emergence phenomena than the
+
+220
+00:14:44.564 --> 00:14:48.776
+R-form; and the dramatic difference between the enantiomers in older
+
+221
+00:14:48.776 --> 00:14:49.829
+sympathomimetics.
+
+222
+00:14:49.969 --> 00:14:54.889
+The general lesson is that the convenient assumption of a single active species is
+
+223
+00:14:54.889 --> 00:14:59.449
+often an oversimplification, and that separating enantiomers can improve the
+
+224
+00:14:59.449 --> 00:15:00.529
+therapeutic ratio.
+
+225
+00:15:12.043 --> 00:15:17.141
+Besides receptors, by what other mechanisms do drugs produce their effects?
+
+226
+00:15:17.641 --> 00:15:21.955
+Not all drug action is receptor-mediated. Drugs may act on enzymes,
+
+227
+00:15:21.955 --> 00:15:27.235
+as inhibitors or, less often, as false substrates — anticholinesterases inhibiting
+
+228
+00:15:27.235 --> 00:15:31.935
+acetylcholinesterase, or aspirin irreversibly inhibiting cyclo-oxygenase.
+
+229
+00:15:32.075 --> 00:15:34.337
+They may act on ion channels directly,
+
+230
+00:15:34.337 --> 00:15:38.920
+as local anaesthetics block voltage-gated sodium channels and calcium-channel
+
+231
+00:15:38.920 --> 00:15:40.587
+blockers block their target.
+
+232
+00:15:40.727 --> 00:15:43.638
+They may act on transporters and carrier proteins,
+
+233
+00:15:43.638 --> 00:15:47.480
+such as the reuptake transporters blocked by some antidepressants,
+
+234
+00:15:47.480 --> 00:15:50.391
+or the sodium-potassium pump inhibited by digoxin.
+
+235
+00:15:50.531 --> 00:15:55.271
+Some act by physicochemical means — antacids by simple neutralisation,
+
+236
+00:15:55.271 --> 00:16:00.621
+osmotic diuretics and laxatives by osmotic effect, chelating agents by binding.
+
+237
+00:16:00.761 --> 00:16:03.331
+And some, such as the volatile anaesthetics,
+
+238
+00:16:03.331 --> 00:16:07.943
+have effects on lipid membranes and multiple ion-channel targets that are still
+
+239
+00:16:07.943 --> 00:16:11.564
+incompletely understood. So the receptor model, while central,
+
+240
+00:16:11.564 --> 00:16:13.199
+is only part of the picture.
+
+241
+00:16:13.699 --> 00:16:18.392
+Finally, what causes variability in drug response between patients?
+
+242
+00:16:18.892 --> 00:16:23.596
+Variability arises from both pharmacokinetic and pharmacodynamic sources.
+
+243
+00:16:23.596 --> 00:16:28.170
+Kinetic variability comes from differences in absorption, distribution,
+
+244
+00:16:28.170 --> 00:16:32.358
+metabolism and excretion — age, organ function, body composition,
+
+245
+00:16:32.358 --> 00:16:34.807
+protein binding and drug interactions.
+
+246
+00:16:34.947 --> 00:16:39.371
+Pharmacodynamic variability comes from differences in receptor number and
+
+247
+00:16:39.371 --> 00:16:43.613
+sensitivity, in the state of the system, and in physiological reserve,
+
+248
+00:16:43.613 --> 00:16:47.128
+so that the same concentration produces different effects.
+
+249
+00:16:47.268 --> 00:16:51.280
+Genetic variation — pharmacogenetics — underlies much of this:
+
+250
+00:16:51.280 --> 00:16:55.680
+variation in metabolising enzymes such as the cytochromes and plasma
+
+251
+00:16:55.680 --> 00:16:58.916
+cholinesterase, in transporters, and in receptors.
+
+252
+00:16:59.056 --> 00:17:03.133
+Disease, the timing of dosing relative to circadian rhythms, tolerance,
+
+253
+00:17:03.133 --> 00:17:05.200
+and drug interactions all add to it.
+
+254
+00:17:05.340 --> 00:17:09.797
+The practical consequence is that population dose recommendations are starting
+
+255
+00:17:09.797 --> 00:17:14.311
+points only, and that drugs of narrow therapeutic index must be titrated to the
+
+256
+00:17:14.311 --> 00:17:16.540
+individual's response under monitoring.
+
+257
+00:17:17.040 --> 00:17:23.248
+You mentioned the GABA-A and benzodiazepine sites. Explain allosteric modulation.
+
+258
+00:17:23.748 --> 00:17:28.218
+An allosteric modulator binds to a site on the receptor distinct from the
+
+259
+00:17:28.218 --> 00:17:31.401
+orthosteric site where the endogenous agonist binds,
+
+260
+00:17:31.401 --> 00:17:34.585
+and changes the receptor's response to that agonist.
+
+261
+00:17:34.725 --> 00:17:39.473
+A positive allosteric modulator increases the response — the benzodiazepines are
+
+262
+00:17:39.473 --> 00:17:44.399
+the classic example, binding at their own site on the GABA-A receptor and enhancing
+
+263
+00:17:44.399 --> 00:17:48.850
+the effect of GABA by increasing the frequency of chloride-channel opening,
+
+264
+00:17:48.850 --> 00:17:52.411
+but producing no effect of their own in the absence of GABA.
+
+265
+00:17:52.551 --> 00:17:55.900
+A negative allosteric modulator reduces the response.
+
+266
+00:17:56.040 --> 00:18:00.515
+The key features that distinguish allosteric modulation from orthosteric agonism
+
+267
+00:18:00.515 --> 00:18:04.878
+are that it requires the presence of the endogenous agonist to have an effect,
+
+268
+00:18:04.878 --> 00:18:09.408
+and that its effect has a ceiling once the allosteric sites are saturated — which
+
+269
+00:18:09.408 --> 00:18:13.659
+is part of why benzodiazepines are relatively safe in overdose compared with
+
+270
+00:18:13.659 --> 00:18:16.456
+barbiturates, which can open the channel directly.
+
+271
+00:18:16.956 --> 00:18:21.521
+Describe drug-receptor binding kinetics — the on and off rates.
+
+272
+00:18:22.021 --> 00:18:24.197
+Binding is a dynamic equilibrium.
+
+273
+00:18:24.337 --> 00:18:29.196
+The association rate describes how quickly the drug binds the receptor and depends
+
+274
+00:18:29.196 --> 00:18:32.751
+on the drug concentration and the association rate constant;
+
+275
+00:18:32.751 --> 00:18:37.017
+the dissociation rate describes how quickly it leaves and depends on the
+
+276
+00:18:37.017 --> 00:18:38.972
+dissociation rate constant alone.
+
+277
+00:18:39.112 --> 00:18:43.969
+The ratio of dissociation to association rate constants is the equilibrium
+
+278
+00:18:43.969 --> 00:18:49.221
+dissociation constant, KD, the concentration occupying half the receptors and an
+
+279
+00:18:49.221 --> 00:18:51.059
+inverse measure of affinity.
+
+280
+00:18:51.199 --> 00:18:55.543
+The dissociation rate also determines the residence time of the drug on the
+
+281
+00:18:55.543 --> 00:18:58.091
+receptor, which can be clinically important:
+
+282
+00:18:58.091 --> 00:19:02.725
+a slowly dissociating antagonist behaves in a manner approaching irreversibility
+
+283
+00:19:02.725 --> 00:19:07.533
+within the timeframe of interest, and the duration of some drug effects is governed
+
+284
+00:19:07.533 --> 00:19:11.935
+more by how slowly the drug leaves the receptor than by its plasma kinetics.
+
+285
+00:19:12.075 --> 00:19:16.790
+This dynamic view explains why competitive blocks can be overcome by raising
+
+286
+00:19:16.790 --> 00:19:21.630
+agonist concentration, whereas very slowly dissociating drugs cannot easily be
+
+287
+00:19:21.630 --> 00:19:22.251
+displaced.
+
+288
+00:19:22.751 --> 00:19:27.295
+How would you quantify the potency of a competitive antagonist?
+
+289
+00:19:27.795 --> 00:19:32.520
+A competitive antagonist shifts the agonist log-dose-response curve to the right in
+
+290
+00:19:32.520 --> 00:19:36.903
+a parallel fashion, and the magnitude of that shift depends on the antagonist
+
+291
+00:19:36.903 --> 00:19:38.440
+concentration and affinity.
+
+292
+00:19:38.580 --> 00:19:40.878
+This is analysed using Schild's method:
+
+293
+00:19:40.878 --> 00:19:45.770
+the dose ratio — the factor by which the agonist concentration must be increased to
+
+294
+00:19:45.770 --> 00:19:50.425
+restore a given response in the presence of antagonist — is measured at several
+
+295
+00:19:50.425 --> 00:19:53.961
+antagonist concentrations, and a Schild plot is constructed.
+
+296
+00:19:54.101 --> 00:19:58.479
+From it the pA-two is derived, the negative logarithm of the antagonist
+
+297
+00:19:58.479 --> 00:20:02.364
+concentration that necessitates a doubling of the agonist dose;
+
+298
+00:20:02.364 --> 00:20:06.311
+it is a concentration-independent measure of antagonist potency.
+
+299
+00:20:06.311 --> 00:20:10.997
+A linear Schild plot with unit slope confirms simple competitive antagonism.
+
+300
+00:20:11.137 --> 00:20:13.153
+While this is a laboratory technique,
+
+301
+00:20:13.153 --> 00:20:17.020
+the underlying principle — that a competitive block is surmountable and
+
+302
+00:20:17.020 --> 00:20:19.308
+quantifiable — is what matters clinically.
+
+303
+00:20:30.821 --> 00:20:34.256
+What does the slope of the dose-response curve tell you?
+
+304
+00:20:34.756 --> 00:20:38.978
+The steepness of the dose-response curve, captured by the Hill coefficient,
+
+305
+00:20:38.978 --> 00:20:43.482
+reflects how the response changes as concentration increases and gives a clue to
+
+306
+00:20:43.482 --> 00:20:44.889
+the underlying mechanism.
+
+307
+00:20:45.029 --> 00:20:48.394
+A steep curve, with a Hill coefficient greater than one,
+
+308
+00:20:48.394 --> 00:20:53.322
+suggests positive cooperativity, where the binding of one molecule facilitates the
+
+309
+00:20:53.322 --> 00:20:57.288
+binding of the next, as occurs with oxygen binding to haemoglobin.
+
+310
+00:20:57.288 --> 00:21:00.773
+A coefficient of one describes simple single-site binding.
+
+311
+00:21:00.913 --> 00:21:05.682
+The clinical importance of a steep concentration-effect relationship is that small
+
+312
+00:21:05.682 --> 00:21:08.997
+changes in concentration produce large changes in effect,
+
+313
+00:21:08.997 --> 00:21:13.766
+which makes a drug harder to titrate and narrows the margin between too little and
+
+314
+00:21:13.766 --> 00:21:14.289
+too much.
+
+315
+00:21:14.429 --> 00:21:17.714
+Many anaesthetic effects have fairly steep relationships,
+
+316
+00:21:17.714 --> 00:21:21.576
+which is one reason careful titration and monitoring are necessary.
+
+317
+00:21:22.076 --> 00:21:25.404
+Distinguish selectivity from specificity.
+
+318
+00:21:25.904 --> 00:21:31.140
+Specificity strictly means that a drug acts on a single type of receptor or target
+
+319
+00:21:31.140 --> 00:21:35.419
+and produces a single effect; in reality no drug is truly specific.
+
+320
+00:21:35.559 --> 00:21:38.101
+Selectivity is the more realistic concept:
+
+321
+00:21:38.101 --> 00:21:42.823
+a drug acts preferentially on one target or produces one effect at therapeutic
+
+322
+00:21:42.823 --> 00:21:47.484
+doses, but loses that preference and acts on other targets as the dose rises.
+
+323
+00:21:47.624 --> 00:21:50.427
+A beta-one-selective antagonist, for instance,
+
+324
+00:21:50.427 --> 00:21:54.935
+preferentially blocks cardiac beta-one receptors at usual doses but blocks
+
+325
+00:21:54.935 --> 00:21:58.165
+bronchial beta-two receptors as well at higher doses,
+
+326
+00:21:58.165 --> 00:22:02.917
+which is why cardioselectivity cannot be relied upon in the asthmatic at large
+
+327
+00:22:02.917 --> 00:22:03.283
+doses.
+
+328
+00:22:03.423 --> 00:22:08.201
+Recognising that selectivity is dose-dependent rather than absolute is important,
+
+329
+00:22:08.201 --> 00:22:12.330
+because side-effects often represent the loss of selectivity at higher
+
+330
+00:22:12.330 --> 00:22:13.215
+concentrations.
+
+331
+00:22:13.715 --> 00:22:17.309
+Expand on receptor regulation — up-regulation,
+
+332
+00:22:17.309 --> 00:22:21.139
+down-regulation and denervation supersensitivity.
+
+333
+00:22:21.639 --> 00:22:26.372
+Receptor number and sensitivity are not fixed but are regulated in response to
+
+334
+00:22:26.372 --> 00:22:27.100
+stimulation.
+
+335
+00:22:27.240 --> 00:22:31.896
+Chronic exposure to an agonist tends to cause down-regulation — a reduction in
+
+336
+00:22:31.896 --> 00:22:35.895
+receptor number through internalisation and reduced synthesis — and
+
+337
+00:22:35.895 --> 00:22:38.461
+desensitisation, contributing to tolerance.
+
+338
+00:22:38.601 --> 00:22:41.321
+Conversely, chronic reduction in stimulation,
+
+339
+00:22:41.321 --> 00:22:45.673
+as with prolonged antagonist therapy or, dramatically, with denervation,
+
+340
+00:22:45.673 --> 00:22:50.448
+causes up-regulation — an increase in receptor number — and supersensitivity to
+
+341
+00:22:50.448 --> 00:22:50.932
+agonist.
+
+342
+00:22:51.072 --> 00:22:55.737
+The clinically dangerous example is the proliferation of extrajunctional
+
+343
+00:22:55.737 --> 00:22:59.495
+acetylcholine receptors after burns, prolonged immobility,
+
+344
+00:22:59.495 --> 00:23:04.548
+denervation injury or critical illness: suxamethonium then triggers a massive,
+
+345
+00:23:04.548 --> 00:23:06.816
+potentially fatal potassium efflux.
+
+346
+00:23:06.956 --> 00:23:11.016
+The sudden withdrawal of a chronically administered beta-blocker,
+
+347
+00:23:11.016 --> 00:23:15.139
+unmasking up-regulated, supersensitive beta-receptors, is another.
+
+348
+00:23:15.139 --> 00:23:20.012
+So receptor regulation has direct, sometimes lethal, anaesthetic implications.
+
+349
+00:23:20.512 --> 00:23:24.786
+Distinguish pharmacokinetic from pharmacodynamic tolerance,
+
+350
+00:23:24.786 --> 00:23:26.741
+and define cross-tolerance.
+
+351
+00:23:27.241 --> 00:23:30.036
+Tolerance can arise by two broad mechanisms.
+
+352
+00:23:30.176 --> 00:23:34.829
+Pharmacokinetic, or dispositional, tolerance results from the body handling the
+
+353
+00:23:34.829 --> 00:23:39.717
+drug differently with repeated exposure — typically enzyme induction increasing the
+
+354
+00:23:39.717 --> 00:23:43.957
+rate of metabolism, so that a given dose produces a lower concentration.
+
+355
+00:23:44.097 --> 00:23:49.013
+Pharmacodynamic tolerance results from adaptive changes at the site of action —
+
+356
+00:23:49.013 --> 00:23:51.626
+receptor down-regulation, desensitisation,
+
+357
+00:23:51.626 --> 00:23:56.604
+or compensatory changes in the system — so that a given concentration produces a
+
+358
+00:23:56.604 --> 00:23:57.537
+smaller effect.
+
+359
+00:23:57.677 --> 00:24:02.349
+Many tolerant states, such as chronic opioid or alcohol use, involve both.
+
+360
+00:24:02.489 --> 00:24:07.287
+Cross-tolerance is the phenomenon in which tolerance to one drug confers tolerance
+
+361
+00:24:07.287 --> 00:24:09.978
+to another, usually pharmacologically related,
+
+362
+00:24:09.978 --> 00:24:14.132
+drug — for example cross-tolerance between alcohol and benzodiazepines,
+
+363
+00:24:14.132 --> 00:24:18.930
+or between opioids — and it is clinically relevant because the chronically exposed
+
+364
+00:24:18.930 --> 00:24:23.844
+patient may require markedly higher doses of an anaesthetic agent in the same class.
+
+365
+00:24:24.344 --> 00:24:27.139
+Classify adverse drug reactions.
+
+366
+00:24:27.639 --> 00:24:32.695
+A practical classification divides adverse drug reactions into type A and type B.
+
+367
+00:24:32.835 --> 00:24:36.224
+Type A reactions are augmented — they are dose-dependent,
+
+368
+00:24:36.224 --> 00:24:39.792
+predictable from the known pharmacology of the drug, common,
+
+369
+00:24:39.792 --> 00:24:42.230
+and usually reversible by dose reduction;
+
+370
+00:24:42.230 --> 00:24:47.107
+examples are the respiratory depression of opioids or the hypotension of propofol.
+
+371
+00:24:47.247 --> 00:24:50.866
+Type B reactions are bizarre — they are not dose-dependent,
+
+372
+00:24:50.866 --> 00:24:55.835
+not predictable from the ordinary pharmacology, uncommon, and often more serious;
+
+373
+00:24:55.835 --> 00:25:00.620
+they include idiosyncratic and immunological reactions such as anaphylaxis and
+
+374
+00:25:00.620 --> 00:25:02.031
+malignant hyperthermia.
+
+375
+00:25:02.171 --> 00:25:06.209
+Further categories are sometimes added — type C for chronic effects,
+
+376
+00:25:06.209 --> 00:25:10.187
+type D for delayed effects such as carcinogenesis or teratogenesis,
+
+377
+00:25:10.187 --> 00:25:13.691
+and type E for end-of-treatment effects such as withdrawal.
+
+378
+00:25:13.831 --> 00:25:18.530
+The distinction matters because type A reactions are managed by understanding and
+
+379
+00:25:18.530 --> 00:25:23.288
+adjusting the pharmacology, whereas type B reactions require avoidance and, often,
+
+380
+00:25:23.288 --> 00:25:24.796
+urgent specific treatment.
+
+381
+00:25:36.309 --> 00:25:40.939
+Describe the hypersensitivity reactions relevant to anaesthesia.
+
+382
+00:25:41.439 --> 00:25:46.345
+Immunological hypersensitivity is classified by the Gell and Coombs system into
+
+383
+00:25:46.345 --> 00:25:47.028
+four types.
+
+384
+00:25:47.168 --> 00:25:52.520
+Type one is immediate, IgE-mediated hypersensitivity — anaphylaxis — in which prior
+
+385
+00:25:52.520 --> 00:25:57.357
+sensitisation leads to mast-cell and basophil degranulation on re-exposure,
+
+386
+00:25:57.357 --> 00:25:59.936
+releasing histamine and other mediators;
+
+387
+00:25:59.936 --> 00:26:05.159
+this is the life-threatening perioperative anaphylaxis to neuromuscular blockers,
+
+388
+00:26:05.159 --> 00:26:07.029
+antibiotics and other agents.
+
+389
+00:26:07.169 --> 00:26:10.056
+Type two is antibody-mediated cytotoxicity,
+
+390
+00:26:10.056 --> 00:26:15.494
+as in some drug-induced haemolytic anaemias and heparin-induced thrombocytopenia.
+
+391
+00:26:15.494 --> 00:26:19.521
+Type three is immune-complex mediated, as in serum sickness.
+
+392
+00:26:19.661 --> 00:26:23.220
+Type four is delayed, T-cell mediated hypersensitivity,
+
+393
+00:26:23.220 --> 00:26:27.427
+the mechanism of contact dermatitis and some delayed drug rashes.
+
+394
+00:26:27.567 --> 00:26:30.851
+The anaesthetist is principally concerned with type one,
+
+395
+00:26:30.851 --> 00:26:35.718
+because of its speed and severity, but should recognise that other mechanisms exist
+
+396
+00:26:35.718 --> 00:26:39.471
+and that not every adverse reaction at induction is anaphylaxis.
+
+397
+00:26:39.971 --> 00:26:45.655
+What do you understand by idiosyncrasy and pharmacogenetic variation in drug
+
+398
+00:26:45.655 --> 00:26:46.328
+response?
+
+399
+00:26:46.828 --> 00:26:51.327
+An idiosyncratic reaction is a qualitatively abnormal response to a drug,
+
+400
+00:26:51.327 --> 00:26:55.888
+peculiar to the individual and not explained by the ordinary pharmacology;
+
+401
+00:26:55.888 --> 00:26:59.585
+many such reactions have turned out to have a genetic basis.
+
+402
+00:26:59.725 --> 00:27:03.970
+Pharmacogenetics studies how inherited variation alters drug response,
+
+403
+00:27:03.970 --> 00:27:07.427
+and it operates on both the kinetic and the dynamic side.
+
+404
+00:27:07.567 --> 00:27:11.467
+On the dynamic side, examples include malignant hyperthermia,
+
+405
+00:27:11.467 --> 00:27:16.709
+an inherited susceptibility of the ryanodine receptor triggered by volatile agents
+
+406
+00:27:16.709 --> 00:27:21.888
+and suxamethonium; the porphyrias, in which barbiturates can precipitate an acute
+
+407
+00:27:21.888 --> 00:27:25.660
+attack; and glucose-six-phosphate dehydrogenase deficiency,
+
+408
+00:27:25.660 --> 00:27:28.217
+predisposing to drug-induced haemolysis.
+
+409
+00:27:28.357 --> 00:27:33.437
+On the kinetic side, variation in metabolising enzymes such as the cytochromes and
+
+410
+00:27:33.437 --> 00:27:36.101
+plasma cholinesterase alters drug handling.
+
+411
+00:27:36.241 --> 00:27:39.523
+The field is moving towards individualised prescribing,
+
+412
+00:27:39.523 --> 00:27:44.296
+but its present anaesthetic relevance is chiefly in recognising and avoiding the
+
+413
+00:27:44.296 --> 00:27:47.399
+inherited susceptibilities that can be catastrophic.
+
+414
+00:27:47.899 --> 00:27:52.400
+Briefly, what is the difference between tolerance, dependence and addiction?
+
+415
+00:27:52.900 --> 00:27:55.537
+These are distinct, though related, phenomena.
+
+416
+00:27:55.537 --> 00:27:59.492
+Tolerance is a pharmacological reduction in effect with repeated use.
+
+417
+00:27:59.632 --> 00:28:03.775
+Physical dependence is a state in which abrupt cessation of the drug,
+
+418
+00:28:03.775 --> 00:28:08.038
+or administration of an antagonist, precipitates a withdrawal syndrome,
+
+419
+00:28:08.038 --> 00:28:10.200
+reflecting physiological adaptation;
+
+420
+00:28:10.200 --> 00:28:15.063
+it can occur with therapeutic use and does not itself imply misuse — a patient on
+
+421
+00:28:15.063 --> 00:28:17.765
+long-term opioids is dependent in this sense.
+
+422
+00:28:17.905 --> 00:28:22.631
+Addiction, by contrast, is a behavioural disorder characterised by compulsive
+
+423
+00:28:22.631 --> 00:28:26.068
+drug-seeking and use despite harm, with loss of control;
+
+424
+00:28:26.068 --> 00:28:30.364
+it has psychological and social dimensions beyond the pharmacological.
+
+425
+00:28:30.504 --> 00:28:33.198
+The distinction matters clinically and ethically,
+
+426
+00:28:33.198 --> 00:28:36.827
+because a dependent patient managed appropriately is not addicted,
+
+427
+00:28:36.827 --> 00:28:40.950
+and conflating the two can lead to under-treatment of pain or inappropriate
+
+428
+00:28:40.950 --> 00:28:41.555
+judgements.
+
+429
+00:28:42.055 --> 00:28:46.193
+Is there a pharmacodynamic basis to the placebo effect?
+
+430
+00:28:46.693 --> 00:28:49.015
+Yes — the placebo response is a genuine,
+
+431
+00:28:49.015 --> 00:28:51.685
+measurable phenomenon and not merely imagined.
+
+432
+00:28:51.825 --> 00:28:54.363
+It reflects the influence of expectation,
+
+433
+00:28:54.363 --> 00:28:57.644
+conditioning and context on the patient's physiology,
+
+434
+00:28:57.644 --> 00:29:01.977
+and it has demonstrable neurobiological correlates: placebo analgesia,
+
+435
+00:29:01.977 --> 00:29:06.743
+for instance, is associated with the release of endogenous opioids and can be
+
+436
+00:29:06.743 --> 00:29:11.324
+partially reversed by naloxone, indicating a real pharmacological pathway.
+
+437
+00:29:11.464 --> 00:29:16.258
+Its opposite, the nocebo effect, is the production of adverse effects by negative
+
+438
+00:29:16.258 --> 00:29:16.968
+expectation.
+
+439
+00:29:17.108 --> 00:29:19.230
+The practical importance is twofold:
+
+440
+00:29:19.230 --> 00:29:23.593
+placebo effects contribute to the response seen with any active treatment,
+
+441
+00:29:23.593 --> 00:29:26.422
+which is why controlled trials use placebo arms;
+
+442
+00:29:26.422 --> 00:29:31.079
+and the manner in which a drug or procedure is presented to a patient genuinely
+
+443
+00:29:31.079 --> 00:29:34.793
+influences the outcome, so communication is itself therapeutic.
+
+444
+00:29:35.293 --> 00:29:40.691
+Name some receptor systems of particular importance to the anaesthetist.
+
+445
+00:29:41.191 --> 00:29:44.311
+Several are central to practice. The GABA-A receptor,
+
+446
+00:29:44.311 --> 00:29:48.726
+a ligand-gated chloride channel, is the principal target of the intravenous
+
+447
+00:29:48.726 --> 00:29:53.260
+hypnotics and the benzodiazepines, and its subunit composition influences the
+
+448
+00:29:53.260 --> 00:29:54.908
+effects of different agents.
+
+449
+00:29:55.048 --> 00:30:00.443
+The N-methyl-D-aspartate, or NMDA, receptor, a glutamate-gated cation channel,
+
+450
+00:30:00.443 --> 00:30:06.184
+is blocked by ketamine and is implicated in analgesia and in central sensitisation.
+
+451
+00:30:06.324 --> 00:30:10.975
+The opioid receptors — mu, kappa and delta — are G-protein-coupled receptors
+
+452
+00:30:10.975 --> 00:30:14.402
+mediating analgesia and the characteristic side-effects.
+
+453
+00:30:14.402 --> 00:30:19.482
+The nicotinic acetylcholine receptor at the neuromuscular junction is the target of
+
+454
+00:30:19.482 --> 00:30:20.767
+the muscle relaxants.
+
+455
+00:30:20.907 --> 00:30:24.036
+And the adrenergic receptors, alpha and beta subtypes,
+
+456
+00:30:24.036 --> 00:30:26.934
+govern the cardiovascular drugs we use constantly.
+
+457
+00:30:26.934 --> 00:30:31.570
+Knowing the receptor, its type, and its signalling allows me to predict both the
+
+458
+00:30:31.570 --> 00:30:35.221
+wanted effect and the side-effects of the drugs acting upon it.
+
+459
+00:30:46.735 --> 00:30:51.663
+To close, summarise the continuum of drug efficacy at a receptor.
+
+460
+00:30:52.163 --> 00:30:56.987
+Efficacy can be seen as a continuum at a receptor that has some constitutive
+
+461
+00:30:56.987 --> 00:30:59.589
+activity. At one end is the full agonist,
+
+462
+00:30:59.589 --> 00:31:02.509
+which binds and produces the maximal response.
+
+463
+00:31:02.649 --> 00:31:06.792
+The partial agonist binds and activates but cannot reach the maximum,
+
+464
+00:31:06.792 --> 00:31:10.995
+and in the presence of a full agonist behaves partly as an antagonist.
+
+465
+00:31:10.995 --> 00:31:15.679
+The neutral, or silent, competitive antagonist binds but neither activates nor
+
+466
+00:31:15.679 --> 00:31:19.161
+suppresses, simply occupying the site and blocking others.
+
+467
+00:31:19.301 --> 00:31:21.658
+At the far end is the inverse agonist,
+
+468
+00:31:21.658 --> 00:31:26.619
+which binds and reduces the receptor's activity below its constitutive baseline.
+
+469
+00:31:26.759 --> 00:31:30.157
+Affinity is required of all of them, since all must bind;
+
+470
+00:31:30.157 --> 00:31:34.928
+what places a drug along the continuum is its intrinsic efficacy — its effect on
+
+471
+00:31:34.928 --> 00:31:36.359
+the receptor once bound.
+
+472
+00:31:36.499 --> 00:31:41.460
+Holding this single framework in mind allows the whole vocabulary of agonism and
+
+473
+00:31:41.460 --> 00:31:43.816
+antagonism to be organised coherently.
+
+474
+00:31:44.316 --> 00:31:49.754
+Explain the two-state model of receptor activation and how it accounts for the
+
+475
+00:31:49.754 --> 00:31:51.079
+efficacy continuum.
+
+476
+00:31:51.579 --> 00:31:56.167
+The two-state model proposes that a receptor exists in equilibrium between a
+
+477
+00:31:56.167 --> 00:32:00.815
+resting, inactive state and an active state, even in the absence of any drug;
+
+478
+00:32:00.815 --> 00:32:05.403
+the small proportion in the active state accounts for constitutive activity.
+
+479
+00:32:05.543 --> 00:32:10.491
+A drug influences this equilibrium according to its relative affinity for the two
+
+480
+00:32:10.491 --> 00:32:15.318
+states. A full agonist binds preferentially to and stabilises the active state,
+
+481
+00:32:15.318 --> 00:32:18.556
+shifting the equilibrium strongly towards activation.
+
+482
+00:32:18.696 --> 00:32:23.187
+A partial agonist has a smaller preference, producing a submaximal shift.
+
+483
+00:32:23.187 --> 00:32:26.079
+A neutral antagonist binds both states equally,
+
+484
+00:32:26.079 --> 00:32:29.832
+leaving the equilibrium unchanged but blocking other ligands.
+
+485
+00:32:29.972 --> 00:32:33.814
+An inverse agonist binds preferentially to the inactive state,
+
+486
+00:32:33.814 --> 00:32:38.771
+shifting the equilibrium away from activation and reducing constitutive activity
+
+487
+00:32:38.771 --> 00:32:39.700
+below baseline.
+
+488
+00:32:39.840 --> 00:32:44.765
+This model elegantly unifies the whole spectrum of efficacy as different effects on
+
+489
+00:32:44.765 --> 00:32:46.901
+a single conformational equilibrium,
+
+490
+00:32:46.901 --> 00:32:51.232
+rather than treating agonism and antagonism as wholly separate phenomena.
+
+491
+00:32:51.732 --> 00:32:56.863
+Use the quantal concept to explain the margin of safety at the neuromuscular
+
+492
+00:32:56.863 --> 00:32:57.471
+junction.
+
+493
+00:32:57.971 --> 00:33:01.172
+The neuromuscular junction has a large margin of safety:
+
+494
+00:33:01.172 --> 00:33:05.345
+far more acetylcholine is released, and far more receptors are available,
+
+495
+00:33:05.345 --> 00:33:09.747
+than the minimum needed to reach the threshold for a muscle action potential.
+
+496
+00:33:09.887 --> 00:33:12.461
+The consequence, related to receptor reserve,
+
+497
+00:33:12.461 --> 00:33:17.039
+is that a substantial proportion of the postsynaptic receptors — of the order of
+
+498
+00:33:17.039 --> 00:33:21.731
+seventy to eighty per cent — must be blocked by a non-depolarising relaxant before
+
+499
+00:33:21.731 --> 00:33:24.306
+any reduction in the twitch response is seen,
+
+500
+00:33:24.306 --> 00:33:28.425
+and around ninety per cent or more before transmission fails completely.
+
+501
+00:33:28.565 --> 00:33:32.718
+This is why clinical signs of recovery appear only when block has receded
+
+502
+00:33:32.718 --> 00:33:37.440
+substantially, and why quantitative monitoring with the train-of-four is necessary,
+
+503
+00:33:37.440 --> 00:33:40.853
+since clinical observation is insensitive to residual block.
+
+504
+00:33:40.993 --> 00:33:44.626
+The margin of safety is also the reason myasthenic patients,
+
+505
+00:33:44.626 --> 00:33:49.228
+with reduced functional receptors, are exquisitely sensitive to these drugs.
+
+506
+00:33:49.728 --> 00:33:55.527
+Give clinical examples of the different forms of antagonism used to reverse drug
+
+507
+00:33:55.527 --> 00:33:56.107
+effects.
+
+508
+00:33:56.607 --> 00:34:00.915
+Reversal in anaesthesia illustrates the forms of antagonism nicely.
+
+509
+00:34:00.915 --> 00:34:05.931
+Naloxone reverses opioids by competitive antagonism at the mu receptor — it is
+
+510
+00:34:05.931 --> 00:34:11.205
+surmountable, which is why a large opioid load can overcome a small naloxone dose,
+
+511
+00:34:11.205 --> 00:34:14.420
+and why its short duration risks re-narcotisation.
+
+512
+00:34:14.560 --> 00:34:20.234
+Flumazenil reverses benzodiazepines by competitive antagonism at the benzodiazepine
+
+513
+00:34:20.234 --> 00:34:20.576
+site.
+
+514
+00:34:20.716 --> 00:34:25.994
+Neostigmine reverses non-depolarising block not by antagonising the receptor but by
+
+515
+00:34:25.994 --> 00:34:31.271
+inhibiting acetylcholinesterase, raising acetylcholine to compete with the relaxant
+
+516
+00:34:31.271 --> 00:34:33.815
+— an indirect, ceiling-limited approach.
+
+517
+00:34:33.955 --> 00:34:38.477
+Sugammadex, by contrast, reverses the aminosteroid relaxants by chemical
+
+518
+00:34:38.477 --> 00:34:43.376
+antagonism, encapsulating the drug molecule in plasma and removing it from the
+
+519
+00:34:43.376 --> 00:34:47.459
+junction — a fundamentally different and more complete mechanism.
+
+520
+00:34:47.599 --> 00:34:52.136
+And in anaphylaxis adrenaline is a physiological antagonist of histamine,
+
+521
+00:34:52.136 --> 00:34:55.367
+acting at different receptors to oppose its effects.
+
+522
+00:34:55.367 --> 00:34:58.351
+Each example maps onto a category of antagonism.
+
+523
+00:34:58.851 --> 00:35:03.011
+What are the clinical uses and pitfalls of partial agonists?
+
+524
+00:35:14.524 --> 00:35:19.196
+Partial agonists are used where a submaximal, self-limiting effect is desirable.
+
+525
+00:35:19.336 --> 00:35:22.691
+Buprenorphine, a partial agonist at the mu opioid receptor,
+
+526
+00:35:22.691 --> 00:35:26.501
+provides analgesia with a ceiling effect on respiratory depression,
+
+527
+00:35:26.501 --> 00:35:31.106
+which can be a safety advantage, and its high affinity and slow dissociation make
+
+528
+00:35:31.106 --> 00:35:33.949
+it long-acting and useful in dependence treatment.
+
+529
+00:35:34.089 --> 00:35:36.690
+The pitfall is precisely that high affinity:
+
+530
+00:35:36.690 --> 00:35:39.410
+in a patient already receiving a full agonist,
+
+531
+00:35:39.410 --> 00:35:44.198
+a partial agonist can displace it and precipitate withdrawal or reduce analgesia,
+
+532
+00:35:44.198 --> 00:35:48.869
+and its effect can be difficult to reverse or to supplement with a full agonist
+
+533
+00:35:48.869 --> 00:35:50.879
+because it occupies the receptors.
+
+534
+00:35:51.019 --> 00:35:54.507
+Nalbuphine and other agonist-antagonists behave similarly.
+
+535
+00:35:54.507 --> 00:35:59.258
+So the partial agonist's ceiling is both its safety feature and its limitation,
+
+536
+00:35:59.258 --> 00:36:03.888
+and combining it carelessly with full agonists can produce unexpected loss of
+
+537
+00:36:03.888 --> 00:36:04.309
+effect.
+
+538
+00:36:04.809 --> 00:36:08.538
+How is the concentration-effect relationship modelled,
+
+539
+00:36:08.538 --> 00:36:11.231
+and why is the sigmoid shape important?
+
+540
+00:36:11.731 --> 00:36:16.832
+The relationship between effect-site concentration and effect is usually described
+
+541
+00:36:16.832 --> 00:36:21.684
+by the Emax model, in which effect rises with concentration towards a maximum,
+
+542
+00:36:21.684 --> 00:36:26.536
+Emax, with the concentration producing half-maximal effect being the EC-fifty.
+
+543
+00:36:26.676 --> 00:36:30.223
+Adding a slope factor gives the sigmoid Emax, or Hill, model,
+
+544
+00:36:30.223 --> 00:36:34.642
+which captures the characteristic S-shape when effect is plotted against the
+
+545
+00:36:34.642 --> 00:36:36.212
+logarithm of concentration.
+
+546
+00:36:36.352 --> 00:36:41.188
+The importance of the sigmoid shape is that the relationship is relatively flat at
+
+547
+00:36:41.188 --> 00:36:44.845
+very low and very high concentrations and steep in the middle:
+
+548
+00:36:44.845 --> 00:36:49.740
+in the steep central region small changes in concentration produce large changes in
+
+549
+00:36:49.740 --> 00:36:53.750
+effect, which is exactly the region in which we titrate anaesthesia,
+
+550
+00:36:53.750 --> 00:36:57.643
+so precise control is both most powerful and most demanding there.
+
+551
+00:36:57.783 --> 00:37:02.290
+The model underpins the way target-controlled and closed-loop systems relate
+
+552
+00:37:02.290 --> 00:37:04.247
+concentration to a desired depth.
+
+553
+00:37:04.747 --> 00:37:11.039
+Finally, why does individual variability oblige us to titrate rather than to dose
+
+554
+00:37:11.039 --> 00:37:11.893
+by formula?
+
+555
+00:37:12.393 --> 00:37:16.977
+Because the pharmacodynamic relationship between concentration and effect varies
+
+556
+00:37:16.977 --> 00:37:19.327
+between patients just as the kinetics do.
+
+557
+00:37:19.467 --> 00:37:24.546
+The same effect-site concentration may produce profound hypnosis in one patient and
+
+558
+00:37:24.546 --> 00:37:29.442
+inadequate anaesthesia in another, owing to differences in receptor sensitivity,
+
+559
+00:37:29.442 --> 00:37:32.992
+physiological state, age, disease, tolerance and genetics.
+
+560
+00:37:33.132 --> 00:37:35.600
+A formula gives only the population average,
+
+561
+00:37:35.600 --> 00:37:37.956
+around which real patients scatter widely,
+
+562
+00:37:37.956 --> 00:37:42.500
+and for drugs of narrow therapeutic index that scatter spans the distance between
+
+563
+00:37:42.500 --> 00:37:43.735
+under-dosing and harm.
+
+564
+00:37:43.875 --> 00:37:47.177
+Titration — giving a measured dose, observing the response,
+
+565
+00:37:47.177 --> 00:37:50.815
+and adjusting — closes the loop on the individual in front of me,
+
+566
+00:37:50.815 --> 00:37:55.181
+and depth-of-anaesthesia and neuromuscular monitoring formalise that feedback.
+
+567
+00:37:55.321 --> 00:37:58.992
+The principle is that I treat the patient's response, not a number,
+
+568
+00:37:58.992 --> 00:38:02.169
+and the pharmacology tells me how to interpret what I see.
+
+569
+00:38:02.669 --> 00:38:07.021
+Onset and offset of effect are often thought purely kinetic.
+
+570
+00:38:07.021 --> 00:38:09.923
+Is there a pharmacodynamic contribution?
+
+571
+00:38:10.423 --> 00:38:12.620
+There is, and it is easy to overlook.
+
+572
+00:38:12.760 --> 00:38:17.385
+The kinetics determine how quickly the concentration at the effect-site rises and
+
+573
+00:38:17.385 --> 00:38:21.553
+falls, but the pharmacodynamics determine how that changing concentration
+
+574
+00:38:21.553 --> 00:38:26.120
+translates into a changing effect, and the two combine to give the observed time
+
+575
+00:38:26.120 --> 00:38:26.520
+course.
+
+576
+00:38:26.660 --> 00:38:30.715
+The rate of receptor binding and, crucially, dissociation contributes:
+
+577
+00:38:30.715 --> 00:38:35.523
+a drug that dissociates slowly from its receptor will have an offset of effect that
+
+578
+00:38:35.523 --> 00:38:38.187
+outlasts the fall in its plasma concentration,
+
+579
+00:38:38.187 --> 00:38:42.937
+because the effect depends on receptor occupancy rather than on plasma drug alone.
+
+580
+00:38:43.077 --> 00:38:47.729
+The steepness of the concentration-effect curve also matters — on a steep curve the
+
+581
+00:38:47.729 --> 00:38:51.148
+effect switches on and off over a narrow concentration range,
+
+582
+00:38:51.148 --> 00:38:53.445
+sharpening the apparent onset and offset.
+
+583
+00:38:53.585 --> 00:38:57.511
+And where an active metabolite or an irreversible action is involved,
+
+584
+00:38:57.511 --> 00:39:00.867
+the effect may persist long after the parent drug has gone,
+
+585
+00:39:00.867 --> 00:39:04.849
+as with aspirin's irreversible inhibition of platelet cyclo-oxygenase,
+
+586
+00:39:04.849 --> 00:39:07.580
+whose effect lasts the lifetime of the platelet.
+
+587
+00:39:07.720 --> 00:39:12.243
+So onset and offset are a product of both disciplines, not kinetics alone.
+
+588
+00:39:12.743 --> 00:39:17.265
+Thank you. That was a thorough and well-structured account. Let us stop there.
+
+589
+00:39:17.765 --> 00:39:21.194
+Before we close, here are the take-home messages.
+
+590
+00:39:21.194 --> 00:39:25.602
+First, Pharmacodynamics is what the drug does to the body — the
+
+591
+00:39:25.602 --> 00:39:30.570
+concentration-effect relationship and its mechanisms — as distinct from
+
+592
+00:39:30.570 --> 00:39:31.760
+pharmacokinetics.
+
+593
+00:39:31.900 --> 00:39:37.368
+Second, Affinity governs binding and is shared by agonists and antagonists;
+
+594
+00:39:37.368 --> 00:39:43.200
+efficacy is the ability to activate once bound, and distinguishes full agonists,
+
+595
+00:39:43.200 --> 00:39:46.919
+partial agonists, antagonists and inverse agonists.
+
+596
+00:39:47.059 --> 00:39:49.831
+Third, Potency (position of the curve,
+
+597
+00:39:49.831 --> 00:39:54.281
+EC-fifty) and efficacy (height of the curve) are independent;
+
+598
+00:39:54.281 --> 00:39:58.877
+competitive antagonism is surmountable, non-competitive is not.
+
+599
+00:39:59.017 --> 00:40:05.245
+Fourth, The therapeutic index is the safety margin (toxic dose-fifty over effective
+
+600
+00:40:05.245 --> 00:40:11.397
+dose-fifty); many anaesthetic drugs have a narrow index and must be titrated under
+
+601
+00:40:11.397 --> 00:40:12.223
+monitoring.
+
+602
+00:40:12.363 --> 00:40:17.475
+Fifth, Synergy between drugs acting at different points of a pathway — the
+
+603
+00:40:17.475 --> 00:40:23.139
+propofol-opioid interaction — is both the efficiency and the hazard of combination
+
+604
+00:40:23.139 --> 00:40:23.968
+anaesthesia.
+
+605
+00:40:35.481 --> 00:40:37.956
+Thank you. That concludes the station.
+

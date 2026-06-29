@@ -1,0 +1,2526 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.670
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.670 --> 00:00:10.195
+drug metabolism and pharmacogenetics. I shall take the candidate through it,
+
+3
+00:00:10.195 --> 00:00:12.739
+question by question. Let us begin.
+
+4
+00:00:13.239 --> 00:00:16.908
+We turn to drug metabolism. What is its purpose?
+
+5
+00:00:17.408 --> 00:00:21.827
+The purpose of metabolism is to convert drugs, which are often lipid-soluble,
+
+6
+00:00:21.827 --> 00:00:25.786
+into more water-soluble compounds that can be excreted by the kidney,
+
+7
+00:00:25.786 --> 00:00:28.885
+and usually to terminate their pharmacological action.
+
+8
+00:00:29.025 --> 00:00:33.493
+A lipid-soluble drug that was simply filtered at the glomerulus would be reabsorbed
+
+9
+00:00:33.493 --> 00:00:37.260
+along the tubule and never eliminated, so it must first be made polar.
+
+10
+00:00:37.400 --> 00:00:40.777
+Metabolism generally inactivates a drug, but not always:
+
+11
+00:00:40.777 --> 00:00:45.301
+it may produce active metabolites that contribute to or prolong the effect,
+
+12
+00:00:45.301 --> 00:00:47.834
+or toxic metabolites responsible for harm,
+
+13
+00:00:47.834 --> 00:00:52.598
+and some drugs are administered as inactive prodrugs that require metabolism to
+
+14
+00:00:52.598 --> 00:00:53.443
+become active.
+
+15
+00:00:53.583 --> 00:00:58.365
+So metabolism is chiefly about facilitating elimination and terminating action,
+
+16
+00:00:58.365 --> 00:01:00.303
+with these important exceptions.
+
+17
+00:01:00.803 --> 00:01:03.363
+Where does metabolism take place?
+
+18
+00:01:03.863 --> 00:01:06.979
+The liver is the principal organ of drug metabolism,
+
+19
+00:01:06.979 --> 00:01:11.415
+rich in the enzyme systems required, and most drugs are metabolised there.
+
+20
+00:01:11.555 --> 00:01:14.168
+But metabolism is not exclusively hepatic:
+
+21
+00:01:14.168 --> 00:01:17.652
+significant extrahepatic metabolism occurs in the lungs,
+
+22
+00:01:17.652 --> 00:01:21.759
+which take up and metabolise drugs such as propofol on first pass;
+
+23
+00:01:21.759 --> 00:01:26.675
+in the plasma and tissues, where non-specific esterases hydrolyse drugs such as
+
+24
+00:01:26.675 --> 00:01:29.661
+remifectanil and suxamethonium; in the gut wall,
+
+25
+00:01:29.661 --> 00:01:33.955
+contributing to first-pass metabolism; in the kidneys; and elsewhere.
+
+26
+00:01:34.095 --> 00:01:39.301
+Some drugs undergo spontaneous, non-enzymatic breakdown independent of any organ,
+
+27
+00:01:39.301 --> 00:01:44.250
+as atracurium does by Hofmann degradation. Recognising extrahepatic routes is
+
+28
+00:01:44.250 --> 00:01:49.199
+clinically valuable because such drugs may be used safely in hepatic failure.
+
+29
+00:01:49.699 --> 00:01:52.749
+Describe the phases of metabolism.
+
+30
+00:01:53.249 --> 00:01:56.727
+Metabolism is conventionally divided into two phases.
+
+31
+00:01:56.867 --> 00:02:01.874
+Phase one reactions — oxidation, reduction and hydrolysis — introduce or unmask a
+
+32
+00:02:01.874 --> 00:02:06.634
+reactive, polar functional group such as a hydroxyl, amino or carboxyl group,
+
+33
+00:02:06.634 --> 00:02:11.395
+making the molecule a suitable substrate for the next phase or for excretion.
+
+34
+00:02:11.535 --> 00:02:13.845
+Phase two reactions are conjugations,
+
+35
+00:02:13.845 --> 00:02:19.028
+in which the drug or its phase one metabolite is joined to an endogenous molecule —
+
+36
+00:02:19.028 --> 00:02:21.464
+glucuronic acid, sulphate, glutathione,
+
+37
+00:02:21.464 --> 00:02:25.273
+an acetyl or methyl group — producing a highly water-soluble,
+
+38
+00:02:25.273 --> 00:02:27.833
+usually inactive conjugate for excretion.
+
+39
+00:02:27.973 --> 00:02:33.101
+Many drugs undergo phase one then phase two, but some go directly to conjugation,
+
+40
+00:02:33.101 --> 00:02:38.229
+and some are eliminated unchanged. Phase one reactions tend to make small changes
+
+41
+00:02:38.229 --> 00:02:41.648
+in activity, whereas phase two generally abolishes it.
+
+42
+00:02:42.148 --> 00:02:46.351
+Tell me about the cytochrome P450 system.
+
+43
+00:02:46.851 --> 00:02:52.105
+The cytochrome P450 enzymes are a superfamily of haem-containing oxidases,
+
+44
+00:02:52.105 --> 00:02:56.862
+located chiefly in the smooth endoplasmic reticulum of hepatocytes,
+
+45
+00:02:56.862 --> 00:03:01.123
+that catalyse the majority of phase one oxidation reactions.
+
+46
+00:03:01.263 --> 00:03:06.886
+They are named by family, subfamily and individual enzyme — for example CYP3A4,
+
+47
+00:03:06.886 --> 00:03:12.651
+the single most important isoform, which metabolises a large proportion of drugs,
+
+48
+00:03:12.651 --> 00:03:16.708
+and CYP2D6 and CYP2C9, which are also major contributors.
+
+49
+00:03:16.848 --> 00:03:20.610
+The system is the principal site of metabolic drug interactions,
+
+50
+00:03:20.610 --> 00:03:24.312
+because the enzymes can be induced or inhibited by other drugs,
+
+51
+00:03:24.312 --> 00:03:28.133
+and it is highly variable between individuals on a genetic basis,
+
+52
+00:03:28.133 --> 00:03:31.483
+which underlies much of the variability in drug response.
+
+53
+00:03:31.623 --> 00:03:36.664
+Understanding which enzyme metabolises a drug allows interactions and variability
+
+54
+00:03:36.664 --> 00:03:37.660
+to be predicted.
+
+55
+00:03:38.160 --> 00:03:41.168
+Give examples of phase one reactions.
+
+56
+00:03:41.668 --> 00:03:47.206
+Oxidation is the commonest, mediated largely by cytochrome P450 — the hydroxylation
+
+57
+00:03:47.206 --> 00:03:52.677
+of many drugs, the dealkylation of others such as the demethylation of ketamine to
+
+58
+00:03:52.677 --> 00:03:55.279
+norketamine, and oxidative deamination.
+
+59
+00:03:55.419 --> 00:03:57.629
+Reduction is less common but occurs,
+
+60
+00:03:57.629 --> 00:04:02.601
+for instance in the reductive metabolism of some agents under low oxygen tension,
+
+61
+00:04:02.601 --> 00:04:03.952
+relevant to halothane.
+
+62
+00:04:04.092 --> 00:04:06.706
+Hydrolysis cleaves ester and amide bonds,
+
+63
+00:04:06.706 --> 00:04:11.869
+as in the breakdown of ester local anaesthetics and of remifectanil by esterases,
+
+64
+00:04:11.869 --> 00:04:14.801
+and of suxamethonium by plasma cholinesterase.
+
+65
+00:04:14.941 --> 00:04:19.146
+These phase one reactions either activate a prodrug, inactivate the drug,
+
+66
+00:04:19.146 --> 00:04:22.429
+or prepare it for conjugation, depending on the molecule.
+
+67
+00:04:22.929 --> 00:04:25.831
+And phase two conjugation reactions?
+
+68
+00:04:26.331 --> 00:04:30.637
+The principal conjugations are glucuronidation, the most important,
+
+69
+00:04:30.637 --> 00:04:35.458
+in which glucuronic acid is added — as in the metabolism of morphine to its
+
+70
+00:04:35.458 --> 00:04:38.930
+glucuronides and of propofol; sulphation; acetylation,
+
+71
+00:04:38.930 --> 00:04:43.815
+important for drugs such as isoniazid and hydralazine and subject to genetic
+
+72
+00:04:43.815 --> 00:04:46.065
+variation; glutathione conjugation,
+
+73
+00:04:46.065 --> 00:04:50.821
+which is the protective pathway for reactive metabolites; and methylation.
+
+74
+00:04:50.961 --> 00:04:53.784
+These reactions almost always produce inactive,
+
+75
+00:04:53.784 --> 00:04:57.447
+highly water-soluble products for renal or biliary excretion.
+
+76
+00:04:57.587 --> 00:05:02.181
+The conjugating capacity can be saturated or depleted — the depletion of
+
+77
+00:05:02.181 --> 00:05:07.414
+glutathione in paracetamol overdose being the critical example — and is reduced in
+
+78
+00:05:07.414 --> 00:05:12.008
+the neonate, in whom immature glucuronidation has clinical consequences.
+
+79
+00:05:23.521 --> 00:05:26.060
+What is first-pass metabolism?
+
+80
+00:05:26.560 --> 00:05:31.491
+First-pass, or pre-systemic, metabolism is the metabolism of an orally administered
+
+81
+00:05:31.491 --> 00:05:34.046
+drug during its first passage from the gut,
+
+82
+00:05:34.046 --> 00:05:36.720
+through the portal circulation and the liver,
+
+83
+00:05:36.720 --> 00:05:39.275
+before it reaches the systemic circulation.
+
+84
+00:05:39.415 --> 00:05:43.034
+Blood draining the gut passes via the portal vein to the liver,
+
+85
+00:05:43.034 --> 00:05:47.573
+so a drug that is highly extracted there has a large fraction removed before it
+
+86
+00:05:47.573 --> 00:05:51.767
+ever reaches the systemic circulation, reducing its oral bioavailability.
+
+87
+00:05:51.907 --> 00:05:56.906
+Glyceryl trinitrate, morphine and propranolol show extensive first-pass metabolism,
+
+88
+00:05:56.906 --> 00:06:01.424
+which is why their oral doses are much larger than their intravenous doses,
+
+89
+00:06:01.424 --> 00:06:03.171
+or why other routes are used.
+
+90
+00:06:03.311 --> 00:06:07.443
+Metabolism in the gut wall itself, for instance by CYP3A4,
+
+91
+00:06:07.443 --> 00:06:10.436
+also contributes to the first-pass effect.
+
+92
+00:06:10.936 --> 00:06:14.115
+Discuss active metabolites with examples.
+
+93
+00:06:14.615 --> 00:06:19.244
+Several drugs have pharmacologically active metabolites that shape the clinical
+
+94
+00:06:19.244 --> 00:06:22.819
+picture. Morphine is metabolised to morphine-six-glucuronide,
+
+95
+00:06:22.819 --> 00:06:27.566
+an active opioid more potent than the parent that accumulates in renal impairment
+
+96
+00:06:27.566 --> 00:06:28.972
+and prolongs the effect.
+
+97
+00:06:29.112 --> 00:06:31.634
+Ketamine is demethylated to norketamine,
+
+98
+00:06:31.634 --> 00:06:34.660
+which contributes to analgesia during infusions.
+
+99
+00:06:34.660 --> 00:06:39.010
+Diazepam has several active metabolites, including desmethyldiazepam,
+
+100
+00:06:39.010 --> 00:06:40.397
+prolonging its action.
+
+101
+00:06:40.537 --> 00:06:46.232
+Codeine is essentially a prodrug, requiring metabolism by CYP2D6 to morphine for
+
+102
+00:06:46.232 --> 00:06:47.727
+its analgesic effect.
+
+103
+00:06:47.867 --> 00:06:51.210
+The lesson is that I cannot consider the parent drug alone:
+
+104
+00:06:51.210 --> 00:06:53.646
+active metabolites may dominate the effect,
+
+105
+00:06:53.646 --> 00:06:57.895
+particularly when the drug is given repeatedly or when their elimination is
+
+106
+00:06:57.895 --> 00:06:58.405
+impaired.
+
+107
+00:06:58.905 --> 00:07:00.676
+And toxic metabolites?
+
+108
+00:07:01.176 --> 00:07:04.781
+Metabolism can generate harmful as well as inactive products.
+
+109
+00:07:04.921 --> 00:07:10.449
+The cardinal example is paracetamol, normally conjugated safely but, in overdose,
+
+110
+00:07:10.449 --> 00:07:15.021
+increasingly oxidised by cytochrome P450 to the reactive metabolite
+
+111
+00:07:15.021 --> 00:07:20.617
+N-acetyl-para-benzoquinone-imine, which is detoxified by glutathione until that is
+
+112
+00:07:20.617 --> 00:07:26.077
+depleted, after which it causes hepatocellular necrosis — the basis of treatment
+
+113
+00:07:26.077 --> 00:07:29.284
+with N-acetylcysteine to replenish glutathione.
+
+114
+00:07:29.424 --> 00:07:34.393
+Pethidine is metabolised to norpethidine, which is proconvulsant and accumulates.
+
+115
+00:07:34.393 --> 00:07:39.179
+Halothane can be metabolised to reactive intermediates implicated in halothane
+
+116
+00:07:39.179 --> 00:07:39.792
+hepatitis.
+
+117
+00:07:39.932 --> 00:07:42.632
+So metabolism is not invariably detoxifying,
+
+118
+00:07:42.632 --> 00:07:47.236
+and the generation of reactive metabolites underlies several important drug
+
+119
+00:07:47.236 --> 00:07:47.911
+toxicities.
+
+120
+00:07:48.411 --> 00:07:51.611
+What is a prodrug? Give anaesthetic examples.
+
+121
+00:07:52.111 --> 00:07:57.250
+A prodrug is an inactive or less active compound converted by metabolism into the
+
+122
+00:07:57.250 --> 00:08:02.072
+active drug, designed to overcome a limitation of the active molecule — poor
+
+123
+00:08:02.072 --> 00:08:06.831
+solubility, poor absorption, instability, or to delay or target activation.
+
+124
+00:08:06.971 --> 00:08:10.394
+Codeine is a prodrug requiring conversion to morphine.
+
+125
+00:08:10.394 --> 00:08:15.276
+Parecoxib is a prodrug hydrolysed to the active cyclo-oxygenase-two inhibitor
+
+126
+00:08:15.276 --> 00:08:15.973
+valdecoxib.
+
+127
+00:08:16.113 --> 00:08:20.172
+Fospropofol is a water-soluble phosphate-ester prodrug of propofol,
+
+128
+00:08:20.172 --> 00:08:24.654
+hydrolysed by alkaline phosphatase, developed to avoid the lipid emulsion.
+
+129
+00:08:24.654 --> 00:08:29.440
+The concept is a deliberate use of the body's metabolic machinery to deliver an
+
+130
+00:08:29.440 --> 00:08:32.711
+active drug from a more convenient or safer precursor.
+
+131
+00:08:33.211 --> 00:08:37.797
+Explain enzyme induction, with examples and its time course.
+
+132
+00:08:38.297 --> 00:08:43.200
+Enzyme induction is an increase in the amount or activity of metabolising enzymes,
+
+133
+00:08:43.200 --> 00:08:47.983
+usually through increased synthesis, in response to certain drugs and chemicals.
+
+134
+00:08:48.123 --> 00:08:50.431
+Because it depends on protein synthesis,
+
+135
+00:08:50.431 --> 00:08:55.106
+it develops gradually over days to weeks and resolves slowly after the inducer is
+
+136
+00:08:55.106 --> 00:08:55.568
+stopped.
+
+137
+00:08:55.708 --> 00:09:00.117
+Inducers — the anticonvulsants phenytoin and carbamazepine, rifampicin,
+
+138
+00:09:00.117 --> 00:09:05.270
+chronic alcohol and the barbiturates — accelerate the metabolism of co-administered
+
+139
+00:09:05.270 --> 00:09:10.424
+drugs, reducing their effect; a notable hazard arises when the inducer is withdrawn
+
+140
+00:09:10.424 --> 00:09:13.777
+and the concentration of the affected drug then rises.
+
+141
+00:09:13.917 --> 00:09:17.765
+Induction can also increase the production of toxic metabolites,
+
+142
+00:09:17.765 --> 00:09:20.771
+as chronic alcohol does for paracetamol. Its slow,
+
+143
+00:09:20.771 --> 00:09:24.499
+delayed time course is clinically important and easily missed.
+
+144
+00:09:24.999 --> 00:09:27.153
+And enzyme inhibition?
+
+145
+00:09:27.653 --> 00:09:31.535
+Enzyme inhibition is a reduction in metabolising-enzyme activity,
+
+146
+00:09:31.535 --> 00:09:34.640
+usually by competition for or binding to the enzyme,
+
+147
+00:09:34.640 --> 00:09:39.537
+and it is generally more rapid in onset than induction — occurring within hours as
+
+148
+00:09:39.537 --> 00:09:42.821
+soon as the inhibitor reaches effective concentrations.
+
+149
+00:09:42.961 --> 00:09:47.297
+Inhibitors — erythromycin and clarithromycin, the azole antifungals,
+
+150
+00:09:47.297 --> 00:09:51.633
+certain antiretrovirals, grapefruit juice — reduce the metabolism of
+
+151
+00:09:51.633 --> 00:09:56.287
+co-administered drugs, raising their concentrations and risking toxicity,
+
+152
+00:09:56.287 --> 00:09:59.921
+which is dangerous for drugs of narrow therapeutic index.
+
+153
+00:10:00.061 --> 00:10:02.041
+The contrasting time courses matter:
+
+154
+00:10:02.041 --> 00:10:06.495
+an interaction from inhibition appears quickly and a clinician may link it to the
+
+155
+00:10:06.495 --> 00:10:11.005
+new drug, whereas one from induction is delayed and may be attributed elsewhere or
+
+156
+00:10:11.005 --> 00:10:12.435
+appear only on withdrawal.
+
+157
+00:10:23.948 --> 00:10:27.852
+Relate metabolism to the hepatic extraction ratio.
+
+158
+00:10:28.352 --> 00:10:32.703
+The hepatic extraction ratio — the fraction of drug removed in a single passage
+
+159
+00:10:32.703 --> 00:10:36.779
+through the liver — determines how a drug's clearance responds to changes.
+
+160
+00:10:36.919 --> 00:10:40.136
+A high-extraction drug, such as propofol or lidocaine,
+
+161
+00:10:40.136 --> 00:10:42.400
+is cleared as fast as it is delivered,
+
+162
+00:10:42.400 --> 00:10:46.750
+so its clearance is flow-limited and falls when hepatic blood flow falls,
+
+163
+00:10:46.750 --> 00:10:49.788
+for instance under anaesthesia or in heart failure,
+
+164
+00:10:49.788 --> 00:10:53.601
+but is relatively insensitive to enzyme induction or inhibition.
+
+165
+00:10:53.741 --> 00:10:56.957
+A low-extraction drug, such as warfarin or phenytoin,
+
+166
+00:10:56.957 --> 00:11:01.568
+is cleared according to the intrinsic enzyme capacity and the free fraction,
+
+167
+00:11:01.568 --> 00:11:06.482
+so it is capacity-limited and sensitive to enzyme induction and inhibition and to
+
+168
+00:11:06.482 --> 00:11:08.120
+changes in protein binding.
+
+169
+00:11:08.260 --> 00:11:12.868
+So whether a metabolic interaction matters depends on the drug's extraction ratio.
+
+170
+00:11:13.368 --> 00:11:18.552
+Give examples of organ-independent metabolism and explain their value.
+
+171
+00:11:19.052 --> 00:11:23.628
+Some drugs are eliminated by routes independent of hepatic or renal function,
+
+172
+00:11:23.628 --> 00:11:25.708
+which is valuable in organ failure.
+
+173
+00:11:25.848 --> 00:11:29.574
+Atracurium undergoes Hofmann degradation, a spontaneous,
+
+174
+00:11:29.574 --> 00:11:35.096
+non-enzymatic breakdown at body temperature and pH, together with ester hydrolysis;
+
+175
+00:11:35.096 --> 00:11:38.755
+cisatracurium relies still more on Hofmann elimination.
+
+176
+00:11:38.895 --> 00:11:43.478
+Remifectanil is hydrolysed by non-specific plasma and tissue esterases,
+
+177
+00:11:43.478 --> 00:11:48.191
+giving an extremely short, organ-independent, context-insensitive offset.
+
+178
+00:11:48.191 --> 00:11:52.774
+Suxamethonium and the ester local anaesthetics are hydrolysed by plasma
+
+179
+00:11:52.774 --> 00:11:53.743
+cholinesterase.
+
+180
+00:11:53.883 --> 00:11:58.054
+The value is predictable behaviour without accumulation in hepatic or renal
+
+181
+00:11:58.054 --> 00:12:01.781
+failure, so these agents are preferred when organ function is poor,
+
+182
+00:12:01.781 --> 00:12:06.064
+and they illustrate that not all elimination depends on the liver and kidney.
+
+183
+00:12:06.564 --> 00:12:10.020
+How do age and disease affect metabolism?
+
+184
+00:12:10.520 --> 00:12:15.215
+In the neonate, the enzyme systems are immature — particularly glucuronidation,
+
+185
+00:12:15.215 --> 00:12:19.494
+the deficiency of which underlies the historical grey-baby syndrome with
+
+186
+00:12:19.494 --> 00:12:24.189
+chloramphenicol — so metabolism is slow and doses must be reduced and intervals
+
+187
+00:12:24.189 --> 00:12:27.160
+lengthened, with maturation over the first months.
+
+188
+00:12:27.300 --> 00:12:31.555
+In the elderly, reduced hepatic mass and blood flow reduce the clearance of
+
+189
+00:12:31.555 --> 00:12:32.633
+flow-limited drugs.
+
+190
+00:12:32.773 --> 00:12:35.495
+Hepatic disease reduces metabolic capacity,
+
+191
+00:12:35.495 --> 00:12:40.243
+more so for flow-limited drugs when perfusion is reduced or shunted and for
+
+192
+00:12:40.243 --> 00:12:43.597
+capacity-limited drugs when synthetic function fails,
+
+193
+00:12:43.597 --> 00:12:46.256
+and reduced albumin raises free fractions.
+
+194
+00:12:46.396 --> 00:12:49.330
+Cardiac failure, by reducing hepatic blood flow,
+
+195
+00:12:49.330 --> 00:12:52.019
+reduces the clearance of flow-limited drugs.
+
+196
+00:12:52.019 --> 00:12:56.358
+In all of these, I would reduce doses, prefer organ-independent agents,
+
+197
+00:12:56.358 --> 00:12:57.703
+and titrate carefully.
+
+198
+00:12:58.203 --> 00:13:02.725
+Now pharmacogenetics. What is it, and why does it matter?
+
+199
+00:13:03.225 --> 00:13:08.021
+Pharmacogenetics is the study of how inherited genetic variation influences the
+
+200
+00:13:08.021 --> 00:13:09.113
+response to drugs.
+
+201
+00:13:09.253 --> 00:13:13.895
+It matters because such variation is a major source of the differences between
+
+202
+00:13:13.895 --> 00:13:16.693
+patients in both drug handling and drug effect,
+
+203
+00:13:16.693 --> 00:13:19.906
+and because some inherited variants produce dangerous,
+
+204
+00:13:19.906 --> 00:13:23.120
+idiosyncratic responses to ordinary anaesthetic drugs.
+
+205
+00:13:23.260 --> 00:13:28.353
+The variation may be kinetic — in metabolising enzymes, transporters — or dynamic,
+
+206
+00:13:28.353 --> 00:13:30.279
+in receptors and other targets.
+
+207
+00:13:30.419 --> 00:13:33.993
+Several specific variants are essential anaesthetic knowledge,
+
+208
+00:13:33.993 --> 00:13:36.646
+because recognising them prevents catastrophe,
+
+209
+00:13:36.646 --> 00:13:40.797
+and the broader field of pharmacogenomics points towards individualised,
+
+210
+00:13:40.797 --> 00:13:43.219
+genotype-guided prescribing in the future.
+
+211
+00:13:43.719 --> 00:13:49.201
+Describe plasma cholinesterase variation and suxamethonium apnoea.
+
+212
+00:13:49.701 --> 00:13:54.344
+Suxamethonium is normally hydrolysed rapidly by plasma cholinesterase,
+
+213
+00:13:54.344 --> 00:13:58.257
+also called butyrylcholinesterase, giving its brief action.
+
+214
+00:13:58.257 --> 00:14:02.635
+The enzyme is genetically variable, with several abnormal alleles,
+
+215
+00:14:02.635 --> 00:14:06.747
+the commonest being the atypical, dibucaine-resistant variant.
+
+216
+00:14:06.887 --> 00:14:12.051
+A patient homozygous for an abnormal allele hydrolyses suxamethonium very slowly
+
+217
+00:14:12.051 --> 00:14:16.957
+and suffers a greatly prolonged paralysis — suxamethonium apnoea — requiring
+
+218
+00:14:16.957 --> 00:14:21.735
+continued ventilation and sedation until the block recovers spontaneously.
+
+219
+00:14:21.875 --> 00:14:25.203
+The phenotype is characterised by the dibucaine number,
+
+220
+00:14:25.203 --> 00:14:28.470
+the percentage to which dibucaine inhibits the enzyme:
+
+221
+00:14:28.470 --> 00:14:32.766
+around eighty for the normal enzyme, intermediate for the heterozygote,
+
+222
+00:14:32.766 --> 00:14:35.549
+and around twenty for the homozygous atypical.
+
+223
+00:14:35.689 --> 00:14:39.304
+Acquired causes — liver disease, pregnancy, malnutrition,
+
+224
+00:14:39.304 --> 00:14:44.505
+certain drugs — also lower activity. It is the classic anaesthetic pharmacogenetic
+
+225
+00:14:44.505 --> 00:14:45.012
+example.
+
+226
+00:14:45.512 --> 00:14:48.264
+Explain acetylator status.
+
+227
+00:14:48.764 --> 00:14:52.690
+Acetylation, a phase two conjugation by N-acetyltransferase,
+
+228
+00:14:52.690 --> 00:14:57.532
+shows genetic polymorphism dividing people into fast and slow acetylators,
+
+229
+00:14:57.532 --> 00:15:00.476
+in proportions that vary between populations.
+
+230
+00:15:00.616 --> 00:15:05.728
+Slow acetylators metabolise certain drugs more slowly and are more prone to their
+
+231
+00:15:05.728 --> 00:15:09.578
+dose-related toxicity — peripheral neuropathy with isoniazid,
+
+232
+00:15:09.578 --> 00:15:14.754
+a lupus-like syndrome with hydralazine and procainamide — whereas fast acetylators
+
+233
+00:15:14.754 --> 00:15:15.827
+may underrespond.
+
+234
+00:15:15.967 --> 00:15:20.625
+This is a clear demonstration that a single enzyme polymorphism alters both
+
+235
+00:15:20.625 --> 00:15:25.780
+efficacy and toxicity, and it influences the choice and dose of the affected drugs.
+
+236
+00:15:37.293 --> 00:15:43.672
+Describe the importance of CYP2D6 polymorphism, particularly for codeine.
+
+237
+00:15:44.172 --> 00:15:47.030
+CYP2D6 is a polymorphic cytochrome enzyme,
+
+238
+00:15:47.030 --> 00:15:51.997
+and individuals range from poor metabolisers, who lack functional enzyme,
+
+239
+00:15:51.997 --> 00:15:56.012
+to ultra-rapid metabolisers, who have multiple gene copies.
+
+240
+00:15:56.152 --> 00:16:00.725
+Because codeine is a prodrug requiring CYP2D6 to convert it to morphine for
+
+241
+00:16:00.725 --> 00:16:04.626
+analgesia, poor metabolisers gain little analgesia from codeine,
+
+242
+00:16:04.626 --> 00:16:09.382
+while ultra-rapid metabolisers convert it rapidly and extensively to morphine,
+
+243
+00:16:09.382 --> 00:16:13.223
+with a risk of opioid toxicity — a risk that has caused deaths,
+
+244
+00:16:13.223 --> 00:16:18.100
+notably in breastfed infants of ultra-rapid-metaboliser mothers and in children,
+
+245
+00:16:18.100 --> 00:16:21.453
+leading to restrictions on codeine use in these groups.
+
+246
+00:16:21.593 --> 00:16:25.319
+CYP2D6 also affects the metabolism of many other drugs,
+
+247
+00:16:25.319 --> 00:16:30.873
+so its polymorphism is one of the most clinically significant in pharmacogenetics.
+
+248
+00:16:31.373 --> 00:16:37.624
+Give examples of inherited variation in the drug target rather than in metabolism.
+
+249
+00:16:38.124 --> 00:16:39.447
+Two are essential.
+
+250
+00:16:39.587 --> 00:16:43.061
+Malignant hyperthermia is an inherited susceptibility,
+
+251
+00:16:43.061 --> 00:16:46.922
+usually involving the ryanodine receptor of skeletal muscle,
+
+252
+00:16:46.922 --> 00:16:52.263
+in which exposure to volatile agents or suxamethonium triggers uncontrolled calcium
+
+253
+00:16:52.263 --> 00:16:56.960
+release and a life-threatening hypermetabolic crisis — a pharmacodynamic,
+
+254
+00:16:56.960 --> 00:16:59.405
+target-based pharmacogenetic disorder.
+
+255
+00:16:59.545 --> 00:17:04.715
+The porphyrias are inherited disorders of haem synthesis in which barbiturates and
+
+256
+00:17:04.715 --> 00:17:09.696
+other enzyme-inducing drugs can precipitate an acute, potentially fatal crisis.
+
+257
+00:17:09.696 --> 00:17:14.361
+Glucose-six-phosphate dehydrogenase deficiency predisposes to drug-induced
+
+258
+00:17:14.361 --> 00:17:15.055
+haemolysis.
+
+259
+00:17:15.195 --> 00:17:19.010
+These conditions are managed by recognition and trigger avoidance,
+
+260
+00:17:19.010 --> 00:17:23.808
+and they show that pharmacogenetic variation operates on the dynamic as well as the
+
+261
+00:17:23.808 --> 00:17:24.560
+kinetic side.
+
+262
+00:17:25.060 --> 00:17:27.812
+Where is pharmacogenetics heading?
+
+263
+00:17:28.312 --> 00:17:32.499
+The broader field of pharmacogenomics aims to use an individual's genetic
+
+264
+00:17:32.499 --> 00:17:36.629
+information to guide drug choice and dose — to predict who will respond,
+
+265
+00:17:36.629 --> 00:17:40.702
+who will not, and who is at risk of toxicity — moving towards genuinely
+
+266
+00:17:40.702 --> 00:17:42.136
+personalised prescribing.
+
+267
+00:17:42.276 --> 00:17:45.378
+Genotyping is already used in some areas of medicine,
+
+268
+00:17:45.378 --> 00:17:49.241
+such as oncology and certain cardiovascular and psychiatric drugs,
+
+269
+00:17:49.241 --> 00:17:53.455
+and pre-emptive panels of pharmacogenetic variants are being introduced.
+
+270
+00:17:53.595 --> 00:17:58.222
+In anaesthesia its present role is chiefly in recognising and avoiding the
+
+271
+00:17:58.222 --> 00:18:00.660
+established inherited susceptibilities,
+
+272
+00:18:00.660 --> 00:18:05.787
+but the direction of travel is towards using genetic information more routinely to
+
+273
+00:18:05.787 --> 00:18:07.163
+individualise therapy.
+
+274
+00:18:07.303 --> 00:18:10.678
+The limitation is that drug response is multifactorial,
+
+275
+00:18:10.678 --> 00:18:13.255
+so genetics is one determinant among many.
+
+276
+00:18:13.755 --> 00:18:19.718
+Pull it together: how does an understanding of metabolism and pharmacogenetics make
+
+277
+00:18:19.718 --> 00:18:21.371
+you a safer prescriber?
+
+278
+00:18:21.871 --> 00:18:24.217
+It lets me anticipate rather than react.
+
+279
+00:18:24.357 --> 00:18:27.060
+Knowing the routes and phases of metabolism,
+
+280
+00:18:27.060 --> 00:18:31.484
+I predict accumulation of drugs and their active metabolites in hepatic,
+
+281
+00:18:31.484 --> 00:18:36.398
+renal or cardiac failure, and choose organ-independent agents such as atracurium
+
+282
+00:18:36.398 --> 00:18:39.163
+and remifectanil when organ function is poor.
+
+283
+00:18:39.303 --> 00:18:41.726
+Knowing about induction and inhibition,
+
+284
+00:18:41.726 --> 00:18:45.205
+I foresee interactions and their differing time courses.
+
+285
+00:18:45.205 --> 00:18:47.876
+Knowing about active and toxic metabolites,
+
+286
+00:18:47.876 --> 00:18:52.909
+I avoid the traps of morphine-six-glucuronide in renal failure and of paracetamol
+
+287
+00:18:52.909 --> 00:18:53.468
+toxicity.
+
+288
+00:18:53.608 --> 00:18:59.145
+And knowing the inherited variants — plasma cholinesterase, acetylator status,
+
+289
+00:18:59.145 --> 00:19:04.683
+CYP2D6, malignant hyperthermia, porphyria — I recognise and avoid catastrophic
+
+290
+00:19:04.683 --> 00:19:06.387
+idiosyncratic responses.
+
+291
+00:19:06.527 --> 00:19:10.620
+In each case the knowledge converts a list of facts into a prediction about the
+
+292
+00:19:10.620 --> 00:19:13.780
+individual patient, which is the essence of safe prescribing.
+
+293
+00:19:14.280 --> 00:19:20.339
+Explain saturation kinetics and the move from first-order to zero-order elimination.
+
+294
+00:19:20.839 --> 00:19:23.884
+Most drugs are eliminated by first-order kinetics,
+
+295
+00:19:23.884 --> 00:19:27.173
+in which a constant fraction is removed per unit time,
+
+296
+00:19:27.173 --> 00:19:30.462
+because the enzymes are working well below saturation;
+
+297
+00:19:30.462 --> 00:19:33.020
+the rate is proportional to concentration.
+
+298
+00:19:33.160 --> 00:19:37.945
+When the concentration rises high enough to saturate the metabolising enzymes,
+
+299
+00:19:37.945 --> 00:19:42.975
+elimination becomes zero-order, a constant amount removed per unit time regardless
+
+300
+00:19:42.975 --> 00:19:46.472
+of concentration, described by Michaelis-Menten kinetics.
+
+301
+00:19:46.612 --> 00:19:50.240
+The clinical importance is that once saturation is reached,
+
+302
+00:19:50.240 --> 00:19:53.254
+small increases in dose produce disproportionate,
+
+303
+00:19:53.254 --> 00:19:55.529
+unpredictable rises in concentration.
+
+304
+00:19:55.669 --> 00:20:00.543
+Phenytoin shows this within its therapeutic range, making its dosing hazardous;
+
+305
+00:20:00.543 --> 00:20:03.072
+ethanol is eliminated at a constant rate;
+
+306
+00:20:03.072 --> 00:20:07.945
+and thiopental shifts towards zero-order at the high concentrations of repeated
+
+307
+00:20:07.945 --> 00:20:10.475
+dosing, contributing to its accumulation.
+
+308
+00:20:10.615 --> 00:20:14.007
+Saturation kinetics is therefore a key safety concept.
+
+309
+00:20:25.520 --> 00:20:28.379
+What is enterohepatic recirculation?
+
+310
+00:20:28.879 --> 00:20:33.721
+Enterohepatic recirculation is the cycling of a drug between the liver and the gut.
+
+311
+00:20:33.861 --> 00:20:37.721
+A drug or its conjugate is excreted in the bile into the intestine,
+
+312
+00:20:37.721 --> 00:20:41.811
+where gut bacteria may hydrolyse the conjugate back to the parent drug,
+
+313
+00:20:41.811 --> 00:20:46.363
+which is then reabsorbed into the portal circulation and returned to the liver.
+
+314
+00:20:46.503 --> 00:20:51.002
+This recycling prolongs the drug's presence in the body and can produce a secondary
+
+315
+00:20:51.002 --> 00:20:52.412
+peak in its concentration.
+
+316
+00:20:52.552 --> 00:20:56.926
+It is relevant to certain drugs and to the interruption of the cycle — for
+
+317
+00:20:56.926 --> 00:21:01.713
+instance, the reduced efficacy of the oral contraceptive when antibiotics disturb
+
+318
+00:21:01.713 --> 00:21:06.618
+the gut flora, or the use of repeated activated charcoal to interrupt recirculation
+
+319
+00:21:06.618 --> 00:21:07.741
+in some poisonings.
+
+320
+00:21:07.881 --> 00:21:12.169
+It is a route by which metabolism and excretion are not the end of a drug's life.
+
+321
+00:21:12.669 --> 00:21:16.915
+Name the major cytochrome isoforms and their relevance.
+
+322
+00:21:17.415 --> 00:21:22.599
+The most important is CYP3A4, which metabolises a very large proportion of drugs
+
+323
+00:21:22.599 --> 00:21:24.868
+and is inhibited by the macrolides,
+
+324
+00:21:24.868 --> 00:21:29.534
+azole antifungals and grapefruit juice and induced by rifampicin and the
+
+325
+00:21:29.534 --> 00:21:32.775
+anticonvulsants — the source of many interactions.
+
+326
+00:21:32.915 --> 00:21:38.495
+CYP2D6 is highly polymorphic and activates codeine and metabolises many
+
+327
+00:21:38.495 --> 00:21:45.018
+cardiovascular and psychiatric drugs. CYP2C9 metabolises warfarin and phenytoin and
+
+328
+00:21:45.018 --> 00:21:46.589
+is also polymorphic.
+
+329
+00:21:46.729 --> 00:21:50.844
+CYP1A2 metabolises some drugs and is induced by smoking,
+
+330
+00:21:50.844 --> 00:21:55.327
+which is why smokers may need higher doses of certain agents.
+
+331
+00:21:55.467 --> 00:22:00.310
+Knowing which isoform handles a drug, and what induces or inhibits that isoform,
+
+332
+00:22:00.310 --> 00:22:05.215
+allows interactions and individual variability to be predicted rather than merely
+
+333
+00:22:05.215 --> 00:22:05.941
+encountered.
+
+334
+00:22:06.441 --> 00:22:10.836
+Which routes of administration avoid first-pass metabolism?
+
+335
+00:22:11.336 --> 00:22:15.780
+Any route that delivers the drug into the systemic circulation without first
+
+336
+00:22:15.780 --> 00:22:20.223
+traversing the portal system and liver largely avoids the first-pass effect.
+
+337
+00:22:20.223 --> 00:22:22.387
+The intravenous route obviously does.
+
+338
+00:22:22.527 --> 00:22:26.826
+The sublingual and buccal routes drain into the systemic venous system,
+
+339
+00:22:26.826 --> 00:22:31.307
+which is why sublingual glyceryl trinitrate is effective despite extensive
+
+340
+00:22:31.307 --> 00:22:33.972
+first-pass metabolism of the swallowed drug.
+
+341
+00:22:33.972 --> 00:22:37.908
+The transdermal route similarly bypasses the liver on first pass.
+
+342
+00:22:38.048 --> 00:22:42.817
+The rectal route partly avoids it, since the lower rectum drains systemically while
+
+343
+00:22:42.817 --> 00:22:45.403
+the upper rectum drains to the portal system.
+
+344
+00:22:45.403 --> 00:22:49.483
+Inhalation delivers directly to the systemic circulation via the lungs.
+
+345
+00:22:49.623 --> 00:22:54.211
+Choosing such a route is a way of overcoming a high first-pass effect that would
+
+346
+00:22:54.211 --> 00:22:56.620
+otherwise render an oral drug ineffective.
+
+347
+00:22:57.120 --> 00:23:01.941
+Describe the neonatal handling of drugs and the grey baby syndrome.
+
+348
+00:23:02.441 --> 00:23:06.876
+The neonate handles drugs differently because of immature organ function:
+
+349
+00:23:06.876 --> 00:23:10.704
+reduced glomerular filtration, immature hepatic enzyme systems,
+
+350
+00:23:10.704 --> 00:23:15.200
+a higher proportion of body water, reduced protein binding and an immature
+
+351
+00:23:15.200 --> 00:23:16.415
+blood-brain barrier.
+
+352
+00:23:16.555 --> 00:23:21.033
+Glucuronidation in particular is deficient at birth and matures over the first
+
+353
+00:23:21.033 --> 00:23:21.952
+weeks to months.
+
+354
+00:23:22.092 --> 00:23:26.647
+The classic illustration is the grey baby syndrome, in which chloramphenicol,
+
+355
+00:23:26.647 --> 00:23:30.848
+normally glucuronidated, accumulates in the neonate because of immature
+
+356
+00:23:30.848 --> 00:23:35.521
+conjugation, producing cardiovascular collapse with a characteristic ashen-grey
+
+357
+00:23:35.521 --> 00:23:36.172
+appearance.
+
+358
+00:23:36.312 --> 00:23:41.022
+The lesson is that neonatal doses cannot be scaled simply from adult doses;
+
+359
+00:23:41.022 --> 00:23:46.046
+immature metabolism and excretion demand reduced doses and lengthened intervals,
+
+360
+00:23:46.046 --> 00:23:47.491
+with careful titration.
+
+361
+00:23:47.991 --> 00:23:54.593
+Expand on plasma cholinesterase: acquired causes of low activity and the management
+
+362
+00:23:54.593 --> 00:23:56.503
+of suxamethonium apnoea.
+
+363
+00:23:57.003 --> 00:24:02.097
+Besides the genetic variants, plasma cholinesterase activity is reduced by acquired
+
+364
+00:24:02.097 --> 00:24:05.718
+factors: liver disease, where it is synthesised; pregnancy;
+
+365
+00:24:05.718 --> 00:24:10.506
+malnutrition and severe illness; renal and cardiac failure; and certain drugs,
+
+366
+00:24:10.506 --> 00:24:14.987
+including anticholinesterases, metoclopramide and the oral contraceptive.
+
+367
+00:24:15.127 --> 00:24:18.239
+These reduce but do not usually abolish activity,
+
+368
+00:24:18.239 --> 00:24:23.511
+so they prolong suxamethonium only modestly, unlike the homozygous genetic variant.
+
+369
+00:24:23.651 --> 00:24:27.403
+If suxamethonium apnoea occurs, the management is supportive:
+
+370
+00:24:27.403 --> 00:24:32.263
+maintain anaesthesia and sedation and continue controlled ventilation until the
+
+371
+00:24:32.263 --> 00:24:36.262
+block recovers spontaneously, monitoring with a nerve stimulator,
+
+372
+00:24:36.262 --> 00:24:37.923
+since there is no antidote.
+
+373
+00:24:38.063 --> 00:24:42.757
+Afterwards I would investigate with cholinesterase activity and the dibucaine and
+
+374
+00:24:42.757 --> 00:24:47.509
+fluoride numbers, inform the patient, issue a warning card, and screen the family,
+
+375
+00:24:47.509 --> 00:24:48.900
+because it is inherited.
+
+376
+00:24:49.400 --> 00:24:52.771
+What is understood about halothane hepatitis?
+
+377
+00:24:53.271 --> 00:24:58.369
+Halothane hepatitis is a rare but severe immune-mediated hepatotoxicity.
+
+378
+00:24:58.509 --> 00:25:03.976
+Halothane undergoes oxidative metabolism to a reactive trifluoroacetyl intermediate
+
+379
+00:25:03.976 --> 00:25:08.454
+that binds to hepatic proteins, forming neoantigens; in susceptible,
+
+380
+00:25:08.454 --> 00:25:11.023
+usually previously exposed individuals,
+
+381
+00:25:11.023 --> 00:25:16.028
+an immune response against these altered proteins produces fulminant hepatic
+
+382
+00:25:16.028 --> 00:25:18.136
+necrosis, with a high mortality.
+
+383
+00:25:18.276 --> 00:25:22.803
+Risk factors include repeated exposure over a short interval, obesity,
+
+384
+00:25:22.803 --> 00:25:24.484
+middle age and female sex.
+
+385
+00:25:24.624 --> 00:25:27.820
+The recognition of this mechanism, and of a milder,
+
+386
+00:25:27.820 --> 00:25:30.389
+commoner subclinical hepatic disturbance,
+
+387
+00:25:30.389 --> 00:25:34.964
+contributed to the replacement of halothane by agents undergoing far less
+
+388
+00:25:34.964 --> 00:25:38.661
+metabolism, such as isoflurane, sevoflurane and desflurane.
+
+389
+00:25:38.801 --> 00:25:44.183
+It is a clear example of metabolism generating a reactive species that drives an
+
+390
+00:25:44.183 --> 00:25:46.268
+idiosyncratic, immune toxicity.
+
+391
+00:25:57.781 --> 00:26:02.517
+Why have codeine and tramadol use been restricted in certain groups?
+
+392
+00:26:03.017 --> 00:26:06.870
+Because both depend on CYP2D6, which is polymorphic.
+
+393
+00:26:06.870 --> 00:26:11.613
+Codeine requires conversion by CYP2D6 to morphine for analgesia,
+
+394
+00:26:11.613 --> 00:26:15.540
+and tramadol's active metabolite is similarly formed.
+
+395
+00:26:15.680 --> 00:26:20.689
+Ultra-rapid metabolisers convert these prodrugs to their active opioids rapidly and
+
+396
+00:26:20.689 --> 00:26:25.276
+extensively, producing unexpectedly high opioid concentrations and a risk of
+
+397
+00:26:25.276 --> 00:26:27.691
+life-threatening respiratory depression.
+
+398
+00:26:27.831 --> 00:26:30.159
+Deaths in children after tonsillectomy,
+
+399
+00:26:30.159 --> 00:26:33.741
+and in breastfed infants of ultra-rapid-metaboliser mothers,
+
+400
+00:26:33.741 --> 00:26:38.158
+led regulators to restrict or contraindicate codeine and tramadol in young
+
+401
+00:26:38.158 --> 00:26:42.337
+children, after tonsillectomy and adenoidectomy, and in breastfeeding.
+
+402
+00:26:42.477 --> 00:26:46.451
+It is a striking real-world consequence of pharmacogenetic variation,
+
+403
+00:26:46.451 --> 00:26:50.712
+and a reason these prodrug opioids are now used with much greater caution.
+
+404
+00:26:51.212 --> 00:26:55.404
+Define the genetic terms used in pharmacogenetics,
+
+405
+00:26:55.404 --> 00:26:58.423
+and comment on population variation.
+
+406
+00:26:58.923 --> 00:27:03.697
+A polymorphism is a genetic variant occurring in a population at appreciable
+
+407
+00:27:03.697 --> 00:27:06.587
+frequency; an allele is one version of a gene;
+
+408
+00:27:06.587 --> 00:27:11.362
+the genotype is the genetic constitution and the phenotype is the observable
+
+409
+00:27:11.362 --> 00:27:14.880
+characteristic it produces, here the metabolic capacity.
+
+410
+00:27:15.020 --> 00:27:19.162
+Pharmacogenetic traits often show variation between populations,
+
+411
+00:27:19.162 --> 00:27:24.535
+because the frequency of the relevant alleles differs by ancestry — the proportions
+
+412
+00:27:24.535 --> 00:27:27.123
+of slow acetylators, of CYP2D6 variants,
+
+413
+00:27:27.123 --> 00:27:32.172
+and of glucose-six-phosphate dehydrogenase deficiency all vary geographically.
+
+414
+00:27:32.312 --> 00:27:36.855
+This matters for the applicability of dosing recommendations across populations and
+
+415
+00:27:36.855 --> 00:27:39.592
+for the design of any genotype-guided prescribing,
+
+416
+00:27:39.592 --> 00:27:43.971
+and it is one reason a country-neutral curriculum must teach the principle while
+
+417
+00:27:43.971 --> 00:27:46.051
+noting that allele frequencies differ.
+
+418
+00:27:46.551 --> 00:27:51.009
+What role do drug transporters such as P-glycoprotein play?
+
+419
+00:27:51.509 --> 00:27:56.132
+Drug transporters actively move drugs across membranes and are an increasingly
+
+420
+00:27:56.132 --> 00:28:00.576
+recognised determinant of drug handling alongside the metabolising enzymes.
+
+421
+00:28:00.716 --> 00:28:05.252
+P-glycoprotein is an efflux transporter that pumps drugs out of cells — out of
+
+422
+00:28:05.252 --> 00:28:08.567
+enterocytes back into the gut lumen, limiting absorption;
+
+423
+00:28:08.567 --> 00:28:13.102
+out of the brain across the blood-brain barrier, limiting central penetration;
+
+424
+00:28:13.102 --> 00:28:15.777
+and into the bile and urine, aiding excretion.
+
+425
+00:28:15.917 --> 00:28:20.695
+It is itself subject to genetic variation, and to induction and inhibition,
+
+426
+00:28:20.695 --> 00:28:25.537
+so it contributes to both interindividual variability and drug interactions,
+
+427
+00:28:25.537 --> 00:28:29.805
+sometimes in parallel with CYP3A4, with which it shares substrates.
+
+428
+00:28:29.945 --> 00:28:33.930
+Transporters thus add a further layer to the prediction of how a drug will
+
+429
+00:28:33.930 --> 00:28:35.492
+distribute and be eliminated.
+
+430
+00:28:35.992 --> 00:28:41.496
+Give examples of pharmacogenetic testing already used in wider medicine.
+
+431
+00:28:41.996 --> 00:28:46.942
+Several are established. Thiopurine methyltransferase activity is tested before
+
+432
+00:28:46.942 --> 00:28:51.637
+azathioprine or mercaptopurine, because deficient patients accumulate toxic
+
+433
+00:28:51.637 --> 00:28:54.455
+metabolites and risk severe myelosuppression.
+
+434
+00:28:54.595 --> 00:29:00.282
+The HLA-B-fifty-seven-oh-one genotype is tested before abacavir to avoid a serious
+
+435
+00:29:00.282 --> 00:29:05.900
+hypersensitivity reaction, and related HLA variants predict severe skin reactions
+
+436
+00:29:05.900 --> 00:29:08.675
+to carbamazepine in certain populations.
+
+437
+00:29:08.815 --> 00:29:13.549
+Dihydropyrimidine dehydrogenase deficiency predicts severe toxicity from
+
+438
+00:29:13.549 --> 00:29:14.404
+fluorouracil.
+
+439
+00:29:14.544 --> 00:29:18.476
+These examples, from immunology, infectious disease and oncology,
+
+440
+00:29:18.476 --> 00:29:21.863
+show genotype-guided prescribing already in routine use,
+
+441
+00:29:21.863 --> 00:29:25.855
+and they indicate the direction in which prescribing more broadly,
+
+442
+00:29:25.855 --> 00:29:29.605
+including in anaesthesia and pain medicine, is likely to move.
+
+443
+00:29:30.105 --> 00:29:36.222
+Explain malignant hyperthermia as an inherited pharmacogenetic disorder and how
+
+444
+00:29:36.222 --> 00:29:38.468
+susceptibility is identified.
+
+445
+00:29:38.968 --> 00:29:43.095
+Malignant hyperthermia is an inherited disorder of skeletal muscle,
+
+446
+00:29:43.095 --> 00:29:47.838
+usually transmitted in an autosomal dominant pattern and most often involving
+
+447
+00:29:47.838 --> 00:29:52.335
+mutations of the ryanodine receptor that governs calcium release from the
+
+448
+00:29:52.335 --> 00:29:53.752
+sarcoplasmic reticulum.
+
+449
+00:29:53.892 --> 00:29:59.041
+On exposure to a triggering agent — a volatile anaesthetic or suxamethonium — there
+
+450
+00:29:59.041 --> 00:30:04.128
+is uncontrolled calcium release, sustained muscle contraction and a hypermetabolic
+
+451
+00:30:04.128 --> 00:30:07.664
+crisis with rising carbon dioxide, tachycardia, rigidity,
+
+452
+00:30:07.664 --> 00:30:12.068
+hyperthermia and acidosis, treated with dantrolene and trigger removal.
+
+453
+00:30:12.208 --> 00:30:16.335
+Susceptibility is identified by careful personal and family history,
+
+454
+00:30:16.335 --> 00:30:20.340
+and confirmed by the in-vitro contracture test on a muscle biopsy,
+
+455
+00:30:20.340 --> 00:30:23.557
+in which muscle is exposed to halothane and caffeine,
+
+456
+00:30:23.557 --> 00:30:26.288
+increasingly supplemented by genetic testing.
+
+457
+00:30:26.428 --> 00:30:29.756
+Recognition allows a trigger-free anaesthetic to be planned,
+
+458
+00:30:29.756 --> 00:30:31.975
+which is the essence of safe management.
+
+459
+00:30:43.488 --> 00:30:49.035
+Pull together a practical approach to the patient with hepatic or renal failure.
+
+460
+00:30:49.535 --> 00:30:51.561
+I would reason from the pharmacology.
+
+461
+00:30:51.701 --> 00:30:56.839
+I would prefer drugs eliminated independently of the failing organ — atracurium or
+
+462
+00:30:56.839 --> 00:31:01.163
+cisatracurium for neuromuscular blockade through Hofmann degradation,
+
+463
+00:31:01.163 --> 00:31:06.300
+remifentanil for analgesia through esterase hydrolysis — because their handling is
+
+464
+00:31:06.300 --> 00:31:09.621
+predictable regardless of hepatic and renal function.
+
+465
+00:31:09.761 --> 00:31:14.383
+I would anticipate the accumulation of drugs and active metabolites that depend on
+
+466
+00:31:14.383 --> 00:31:18.892
+the failing organ, such as morphine and its active glucuronide in renal failure.
+
+467
+00:31:19.032 --> 00:31:23.586
+I would reduce doses and lengthen intervals for hepatically cleared drugs in liver
+
+468
+00:31:23.586 --> 00:31:28.085
+failure, mindful of reduced protein binding raising free fractions and of reduced
+
+469
+00:31:28.085 --> 00:31:31.640
+hepatic blood flow lowering the clearance of flow-limited drugs.
+
+470
+00:31:31.780 --> 00:31:34.637
+And I would titrate every agent carefully to effect.
+
+471
+00:31:34.637 --> 00:31:38.538
+The principle throughout is to let the route of elimination, not habit,
+
+472
+00:31:38.538 --> 00:31:39.417
+choose the drug.
+
+473
+00:31:39.917 --> 00:31:45.139
+Work through the flow- and capacity-limited distinction in the context of
+
+474
+00:31:45.139 --> 00:31:45.997
+anaesthesia.
+
+475
+00:31:46.497 --> 00:31:50.912
+Under general anaesthesia, hepatic blood flow commonly falls — through the
+
+476
+00:31:50.912 --> 00:31:53.119
+cardiovascular effects of the agents,
+
+477
+00:31:53.119 --> 00:31:56.161
+positive-pressure ventilation and surgical factors.
+
+478
+00:31:56.301 --> 00:32:00.483
+For a high-extraction, flow-limited drug such as propofol or lidocaine,
+
+479
+00:32:00.483 --> 00:32:05.371
+clearance follows delivery, so reduced hepatic blood flow reduces clearance and the
+
+480
+00:32:05.371 --> 00:32:08.611
+drug accumulates more than expected during anaesthesia.
+
+481
+00:32:08.751 --> 00:32:13.230
+For a low-extraction, capacity-limited drug such as phenytoin or warfarin,
+
+482
+00:32:13.230 --> 00:32:17.588
+clearance depends on enzyme activity and free fraction rather than flow,
+
+483
+00:32:17.588 --> 00:32:22.310
+so it is relatively unaffected by the fall in flow but is sensitive instead to
+
+484
+00:32:22.310 --> 00:32:26.244
+enzyme induction or inhibition and to changes in protein binding.
+
+485
+00:32:26.384 --> 00:32:30.970
+So the same fall in hepatic blood flow matters greatly for one class and little for
+
+486
+00:32:30.970 --> 00:32:35.003
+the other, which I would factor into dosing during prolonged anaesthesia.
+
+487
+00:32:35.503 --> 00:32:40.675
+Which drugs precipitate haemolysis in glucose-six-phosphate dehydrogenase
+
+488
+00:32:40.675 --> 00:32:41.455
+deficiency?
+
+489
+00:32:41.955 --> 00:32:44.997
+Glucose-six-phosphate dehydrogenase deficiency,
+
+490
+00:32:44.997 --> 00:32:48.363
+an inherited enzymopathy common in some populations,
+
+491
+00:32:48.363 --> 00:32:52.182
+leaves red cells unable to defend against oxidative stress,
+
+492
+00:32:52.182 --> 00:32:55.160
+so oxidant drugs precipitate acute haemolysis.
+
+493
+00:32:55.300 --> 00:32:59.754
+The classic precipitants include the antimalarials primaquine and related
+
+494
+00:32:59.754 --> 00:33:04.026
+compounds, sulphonamides and dapsone, nitrofurantoin, and some others,
+
+495
+00:33:04.026 --> 00:33:06.223
+as well as fava beans and infection.
+
+496
+00:33:06.363 --> 00:33:10.921
+Of relevance to anaesthesia, certain drugs are best avoided or used cautiously,
+
+497
+00:33:10.921 --> 00:33:15.307
+and methylene blue — itself used as an antidote for methaemoglobinaemia — is
+
+498
+00:33:15.307 --> 00:33:16.923
+hazardous in these patients.
+
+499
+00:33:17.063 --> 00:33:21.798
+The practical point is to take a history, be aware of the geographic distribution,
+
+500
+00:33:21.798 --> 00:33:26.129
+and avoid known oxidant precipitants, choosing alternatives where possible.
+
+501
+00:33:26.629 --> 00:33:30.768
+Complete the phenotyping of plasma cholinesterase variants.
+
+502
+00:33:31.268 --> 00:33:35.641
+The variants are characterised by inhibition tests that give characteristic numbers.
+
+503
+00:33:35.781 --> 00:33:40.451
+The dibucaine number is the percentage by which dibucaine inhibits the enzyme:
+
+504
+00:33:40.451 --> 00:33:42.846
+around eighty for the normal homozygote,
+
+505
+00:33:42.846 --> 00:33:45.420
+around forty to sixty for the heterozygote,
+
+506
+00:33:45.420 --> 00:33:48.653
+and around twenty for the homozygous atypical variant,
+
+507
+00:33:48.653 --> 00:33:50.928
+who suffers the most prolonged apnoea.
+
+508
+00:33:51.068 --> 00:33:54.247
+The fluoride number, using fluoride as the inhibitor,
+
+509
+00:33:54.247 --> 00:33:57.187
+identifies a separate fluoride-resistant variant.
+
+510
+00:33:57.187 --> 00:34:01.086
+There is also a silent variant with little or no enzyme activity,
+
+511
+00:34:01.086 --> 00:34:05.105
+and combinations of these alleles produce a spectrum of phenotypes.
+
+512
+00:34:05.245 --> 00:34:09.981
+Measuring activity together with the dibucaine and fluoride numbers therefore both
+
+513
+00:34:09.981 --> 00:34:14.774
+confirms the diagnosis after an episode of apnoea and characterises the variant for
+
+514
+00:34:14.774 --> 00:34:16.680
+family screening and counselling.
+
+515
+00:34:17.180 --> 00:34:23.068
+Take morphine in renal failure as a worked example of metabolite accumulation.
+
+516
+00:34:23.568 --> 00:34:28.222
+Morphine is metabolised by glucuronidation to morphine-three-glucuronide,
+
+517
+00:34:28.222 --> 00:34:32.812
+which is largely inactive as an analgesic, and morphine-six-glucuronide,
+
+518
+00:34:32.812 --> 00:34:36.956
+which is a potent active opioid more potent than morphine itself.
+
+519
+00:34:36.956 --> 00:34:39.952
+Both glucuronides are eliminated by the kidney.
+
+520
+00:34:40.092 --> 00:34:43.428
+In renal failure, morphine-six-glucuronide accumulates,
+
+521
+00:34:43.428 --> 00:34:47.977
+producing prolonged and potentially dangerous opioid effects — sedation and
+
+522
+00:34:47.977 --> 00:34:52.466
+respiratory depression — even when the parent morphine concentration seems
+
+523
+00:34:52.466 --> 00:34:53.255
+unremarkable.
+
+524
+00:34:53.395 --> 00:34:58.485
+The lesson is that in renal impairment I would avoid or greatly reduce morphine and
+
+525
+00:34:58.485 --> 00:35:03.269
+prefer an opioid without active renally-cleared metabolites, such as fentanyl,
+
+526
+00:35:03.269 --> 00:35:06.397
+or an organ-independent agent such as remifentanil,
+
+527
+00:35:06.397 --> 00:35:11.365
+illustrating how knowledge of an active metabolite's elimination directly changes
+
+528
+00:35:11.365 --> 00:35:12.531
+the choice of drug.
+
+529
+00:35:24.044 --> 00:35:28.887
+What is meant by bioactivation and idiosyncratic drug reactions?
+
+530
+00:35:29.387 --> 00:35:33.977
+Bioactivation is the metabolic conversion of a drug into a reactive,
+
+531
+00:35:33.977 --> 00:35:38.095
+chemically active species — often by cytochrome P450 — which,
+
+532
+00:35:38.095 --> 00:35:40.458
+instead of being safely eliminated,
+
+533
+00:35:40.458 --> 00:35:43.765
+binds to cellular macromolecules and causes harm.
+
+534
+00:35:43.905 --> 00:35:47.453
+When the reactive metabolite damages the cell directly,
+
+535
+00:35:47.453 --> 00:35:52.097
+the result is dose-related toxicity, as with the paracetamol metabolite.
+
+536
+00:35:52.237 --> 00:35:57.200
+When it binds to proteins to form neoantigens that provoke an immune response,
+
+537
+00:35:57.200 --> 00:36:00.827
+the result is an idiosyncratic, immune-mediated reaction,
+
+538
+00:36:00.827 --> 00:36:05.662
+unpredictable from the dose, as in halothane hepatitis and some drug-induced
+
+539
+00:36:05.662 --> 00:36:06.744
+hypersensitivity.
+
+540
+00:36:06.884 --> 00:36:11.437
+These reactions are a major reason that metabolism is not synonymous with
+
+541
+00:36:11.437 --> 00:36:16.426
+detoxification, and that some serious adverse effects appear only in susceptible
+
+542
+00:36:16.426 --> 00:36:18.297
+individuals or on re-exposure.
+
+543
+00:36:18.797 --> 00:36:23.747
+Summarise the most dangerous metabolic interactions to hold in mind.
+
+544
+00:36:24.247 --> 00:36:25.484
+Several recur.
+
+545
+00:36:25.624 --> 00:36:29.851
+A potent enzyme inhibitor — a macrolide, an azole antifungal,
+
+546
+00:36:29.851 --> 00:36:35.533
+or ritonavir — added to a drug of narrow therapeutic index metabolised by the same
+
+547
+00:36:35.533 --> 00:36:39.136
+isoform can raise its concentration to toxic levels,
+
+548
+00:36:39.136 --> 00:36:44.611
+the classic example being raised concentrations of drugs metabolised by CYP3A4.
+
+549
+00:36:44.751 --> 00:36:47.379
+An enzyme inducer — rifampicin, phenytoin,
+
+550
+00:36:47.379 --> 00:36:51.822
+carbamazepine — can cause therapeutic failure of co-administered drugs,
+
+551
+00:36:51.822 --> 00:36:54.513
+and dangerous rebound when it is withdrawn,
+
+552
+00:36:54.513 --> 00:36:58.831
+including reduced efficacy of the oral contraceptive and of warfarin.
+
+553
+00:36:58.971 --> 00:37:04.270
+Inhibition of warfarin's metabolism risks bleeding; its induction risks thrombosis.
+
+554
+00:37:04.270 --> 00:37:08.165
+Drugs that lower plasma cholinesterase prolong suxamethonium.
+
+555
+00:37:08.305 --> 00:37:12.139
+Holding in mind which drugs are potent inducers or inhibitors,
+
+556
+00:37:12.139 --> 00:37:17.270
+and which drugs are vulnerable, allows the dangerous combinations to be anticipated
+
+557
+00:37:17.270 --> 00:37:18.012
+and avoided.
+
+558
+00:37:18.512 --> 00:37:24.443
+Why must dosing guidance acknowledge population variation in metabolising enzymes?
+
+559
+00:37:24.943 --> 00:37:28.843
+Because the frequencies of the relevant alleles differ between populations,
+
+560
+00:37:28.843 --> 00:37:32.431
+the same standard dose can carry different risks in different groups.
+
+561
+00:37:32.571 --> 00:37:34.805
+The proportion of slow acetylators,
+
+562
+00:37:34.805 --> 00:37:40.038
+the distribution of CYP2D6 phenotypes including poor and ultra-rapid metabolisers,
+
+563
+00:37:40.038 --> 00:37:44.825
+and the prevalence of glucose-six-phosphate dehydrogenase deficiency and of
+
+564
+00:37:44.825 --> 00:37:48.272
+plasma-cholinesterase variants all vary with ancestry.
+
+565
+00:37:48.412 --> 00:37:52.683
+A dosing recommendation derived in one population may therefore over- or
+
+566
+00:37:52.683 --> 00:37:56.241
+under-treat, or carry a different toxicity risk, in another.
+
+567
+00:37:56.381 --> 00:38:01.182
+The principle for a universally applicable teaching is to understand the mechanism
+
+568
+00:38:01.182 --> 00:38:05.690
+and the spectrum of variation, to take a careful personal and family history,
+
+569
+00:38:05.690 --> 00:38:10.199
+and to titrate to effect, rather than to assume that one population's average
+
+570
+00:38:10.199 --> 00:38:12.189
+response applies to every patient.
+
+571
+00:38:12.689 --> 00:38:16.487
+How does cigarette smoking affect drug metabolism?
+
+572
+00:38:16.987 --> 00:38:22.361
+The polycyclic aromatic hydrocarbons in cigarette smoke are potent inducers of the
+
+573
+00:38:22.361 --> 00:38:27.734
+cytochrome enzyme CYP1A2, so smokers metabolise drugs handled by that isoform more
+
+574
+00:38:27.734 --> 00:38:33.108
+rapidly and may require higher doses to achieve the same effect — theophylline and
+
+575
+00:38:33.108 --> 00:38:35.205
+certain other agents among them.
+
+576
+00:38:35.345 --> 00:38:39.473
+The clinically useful corollary is that when a patient stops smoking,
+
+577
+00:38:39.473 --> 00:38:41.687
+abruptly as on admission to hospital,
+
+578
+00:38:41.687 --> 00:38:46.234
+the induction wanes over days and the concentrations of affected drugs rise,
+
+579
+00:38:46.234 --> 00:38:48.807
+risking toxicity, so doses may need review.
+
+580
+00:38:48.947 --> 00:38:54.003
+This is a common, easily overlooked example of enzyme induction by an environmental
+
+581
+00:38:54.003 --> 00:38:58.816
+agent rather than a drug, and a reminder to take a smoking history into account
+
+582
+00:38:58.816 --> 00:39:00.765
+when prescribing affected drugs.
+
+583
+00:39:01.265 --> 00:39:07.089
+Describe atracurium's dual elimination and the significance of laudanosine.
+
+584
+00:39:07.589 --> 00:39:12.788
+Atracurium is eliminated by two organ-independent routes: Hofmann degradation,
+
+585
+00:39:12.788 --> 00:39:18.254
+a spontaneous, non-enzymatic breakdown that depends on normal body temperature and
+
+586
+00:39:18.254 --> 00:39:20.587
+pH and accelerates when these rise;
+
+587
+00:39:20.587 --> 00:39:24.187
+and ester hydrolysis by non-specific plasma esterases.
+
+588
+00:39:24.327 --> 00:39:28.643
+This dual, organ-independent elimination gives predictable offset without
+
+589
+00:39:28.643 --> 00:39:31.068
+accumulation in hepatic or renal failure,
+
+590
+00:39:31.068 --> 00:39:34.439
+the property that makes it valuable in organ dysfunction.
+
+591
+00:39:34.579 --> 00:39:37.489
+A product of Hofmann degradation is laudanosine,
+
+592
+00:39:37.489 --> 00:39:42.157
+which at high concentrations is a central-nervous-system stimulant capable of
+
+593
+00:39:42.157 --> 00:39:47.129
+causing seizures in animal models; in clinical practice the concentrations reached
+
+594
+00:39:47.129 --> 00:39:51.918
+are well below this threshold, but laudanosine accumulates in renal failure and
+
+595
+00:39:51.918 --> 00:39:53.373
+with prolonged infusion.
+
+596
+00:39:53.513 --> 00:39:57.796
+Cisatracurium, relying more on Hofmann elimination and being more potent,
+
+597
+00:39:57.796 --> 00:40:02.665
+generates less laudanosine, which is one of its advantages over the parent mixture.
+
+598
+00:40:14.179 --> 00:40:19.616
+Why does the contrasting time course of induction and inhibition matter at the
+
+599
+00:40:19.616 --> 00:40:20.173
+bedside?
+
+600
+00:40:20.673 --> 00:40:25.104
+It matters because it changes how an interaction presents and how easily it is
+
+601
+00:40:25.104 --> 00:40:25.729
+recognised.
+
+602
+00:40:25.869 --> 00:40:28.073
+Enzyme inhibition begins within hours,
+
+603
+00:40:28.073 --> 00:40:31.379
+as soon as the inhibitor reaches effective concentration,
+
+604
+00:40:31.379 --> 00:40:36.018
+so the resulting rise in the affected drug's concentration appears quickly and a
+
+605
+00:40:36.018 --> 00:40:40.077
+clinician is more likely to connect it to the newly started inhibitor.
+
+606
+00:40:40.217 --> 00:40:42.910
+Enzyme induction develops over days to weeks,
+
+607
+00:40:42.910 --> 00:40:47.218
+because it depends on new enzyme synthesis, and resolves equally slowly,
+
+608
+00:40:47.218 --> 00:40:52.064
+so the loss of effect of a co-administered drug appears late and may be missed or
+
+609
+00:40:52.064 --> 00:40:56.850
+wrongly attributed, and a dangerous rebound rise in concentration can occur days
+
+610
+00:40:56.850 --> 00:40:58.585
+after the inducer is stopped.
+
+611
+00:40:58.725 --> 00:41:03.459
+Recognising these timelines lets me anticipate when in the course of treatment an
+
+612
+00:41:03.459 --> 00:41:07.901
+interaction will declare itself, and to review doses both when an inducer or
+
+613
+00:41:07.901 --> 00:41:11.291
+inhibitor is started and, crucially, when it is withdrawn.
+
+614
+00:41:11.791 --> 00:41:16.313
+Thank you. That was a thorough and well-structured account. Let us stop there.
+
+615
+00:41:16.813 --> 00:41:20.828
+Before we close, here are the take-home messages.
+
+616
+00:41:20.828 --> 00:41:27.383
+First, Metabolism converts lipophilic drugs to water-soluble forms for excretion
+
+617
+00:41:27.383 --> 00:41:33.200
+and usually terminates action: phase I (oxidation/reduction/hydrolysis,
+
+618
+00:41:33.200 --> 00:41:37.379
+mainly cytochrome P450) and phase II (conjugation).
+
+619
+00:41:37.519 --> 00:41:43.159
+Second, Metabolism can generate active metabolites (morphine-6-glucuronide,
+
+620
+00:41:43.159 --> 00:41:48.197
+norketamine) and toxic ones (NAPQI from paracetamol, norpethidine);
+
+621
+00:41:48.197 --> 00:41:52.559
+some drugs are prodrugs (codeine, parecoxib, fospropofol).
+
+622
+00:41:52.699 --> 00:41:58.450
+Third, Enzyme induction is slow in onset (days–weeks) and reduces drug effect;
+
+623
+00:41:58.450 --> 00:42:04.570
+inhibition is rapid and raises concentrations — their impact depends on whether the
+
+624
+00:42:04.570 --> 00:42:07.077
+drug is flow- or capacity-limited.
+
+625
+00:42:07.217 --> 00:42:13.064
+Fourth, Organ-independent elimination (Hofmann degradation of atracurium,
+
+626
+00:42:13.064 --> 00:42:19.551
+ester hydrolysis of remifentanil and suxamethonium) gives predictable handling in
+
+627
+00:42:19.551 --> 00:42:21.873
+hepatic and renal failure. 5.
+
+628
+00:42:22.013 --> 00:42:26.727
+Key pharmacogenetic variants are essential safety knowledge:
+
+629
+00:42:26.727 --> 00:42:32.306
+plasma-cholinesterase atypia (suxamethonium apnoea), acetylator status,
+
+630
+00:42:32.306 --> 00:42:36.627
+CYP2D6 (codeine), malignant hyperthermia and porphyria.
+
+631
+00:42:37.127 --> 00:42:39.601
+Thank you. That concludes the station.
+

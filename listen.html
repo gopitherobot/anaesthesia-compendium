@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Listen — Anaesthesia Compendium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="hdr"></div>
+<main class="wrap">
+  <div class="crumb"><a href="index.html">Library</a> › <span id="cb">Listen</span></div>
+  <div id="warn"></div>
+  <div class="detail has-side" id="layout">
+    <section>
+      <h1 class="dtitle" id="title">…</h1>
+      <p class="dsub" id="sub"></p>
+      <div class="panel player">
+        <div class="coverbar">
+          <img id="cover" alt="" src="">
+          <div>
+            <div class="playbtns">
+              <button class="btn primary" id="playpause">► Play</button>
+              <button class="btn" data-skip="-10">« 10s</button>
+              <button class="btn" data-skip="10">10s »</button>
+              <button class="btn" id="speed">1×</button>
+              <button class="btn" id="autoscroll">Auto-scroll: On</button>
+            </div>
+            <div class="dsub" style="margin-top:8px"><span id="clock">0:00</span> / <span id="dur">0:00</span></div>
+          </div>
+        </div>
+        <audio id="audio" preload="metadata" controls></audio>
+      </div>
+      <div class="panel" style="margin-top:16px">
+        <div class="transcript" id="transcript"></div>
+      </div>
+    </section>
+    <aside>
+      <div class="sticky-side panel">
+        <strong style="display:block;margin-bottom:8px">All topics</strong>
+        <div class="side-list" id="sidelist"></div>
+      </div>
+    </aside>
+  </div>
+</main>
+<footer class="foot"><div class="wrap">© <span id="yr"></span> Anaesthesia Compendium · Educational content only.</div></footer>
+<script src="config.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/listen.js"></script>
+</body>
+</html>
