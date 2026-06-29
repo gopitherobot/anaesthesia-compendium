@@ -49,7 +49,7 @@ const AC = {
     return `
     <header class="topbar">
       <a class="brand" href="index.html">
-        <span class="brand-mark">A<span>C</span></span>
+        <img class="brand-logo" src="assets/logo-mark.png" alt="" width="40" height="40">
         <span class="brand-name">Anaesthesia Compendium</span>
       </a>
       <nav class="modes">
