@@ -1,4 +1,15 @@
 /* Shared helpers for all pages */
+
+/* Always open a page at the top (web + mobile). Disable the browser's scroll
+   restoration and reset scroll on load — but respect in-page #anchors. */
+(function () {
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+  const top = () => { if (!location.hash) window.scrollTo(0, 0); };
+  top();
+  window.addEventListener("load", top);
+  window.addEventListener("pageshow", top); // bfcache (back/forward) restores
+})();
+
 const AC = {
   qs: (k) => new URLSearchParams(location.search).get(k),
 
@@ -189,8 +200,12 @@ const AC = {
     }).join("");
     container.querySelectorAll(".nav-head").forEach(h =>
       h.addEventListener("click", () => h.parentElement.classList.toggle("open")));
+    // centre the active item inside the panel only (never scroll the window)
     const act = container.querySelector(".nav-item.is-active");
-    if (act) act.scrollIntoView({ block: "center" });
+    if (act) {
+      const cr = container.getBoundingClientRect(), ar = act.getBoundingClientRect();
+      container.scrollTop += (ar.top - cr.top) - container.clientHeight / 2 + ar.height / 2;
+    }
   },
 
   mediaWarning() {
