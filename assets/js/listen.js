@@ -1,8 +1,19 @@
 (async function () {
-  const id = (AC.qs("id") || "001").padStart(3, "0");
-  document.getElementById("hdr").innerHTML = AC.header("listen", id);
-  document.getElementById("warn").innerHTML = AC.mediaWarning();
+  const raw = AC.qs("id");
   document.getElementById("yr").textContent = new Date().getFullYear();
+
+  // ---- no topic chosen → mode hub ----
+  if (!raw) {
+    document.getElementById("hdr").innerHTML = AC.header("listen", null);
+    await AC.renderHub("listen");
+    return;
+  }
+
+  // ---- topic view ----
+  const id = raw.padStart(3, "0");
+  document.getElementById("hdr").innerHTML = AC.header("listen", id);
+  document.getElementById("topic").classList.remove("hide");
+  document.getElementById("warn").innerHTML = AC.mediaWarning();
 
   let t, index;
   try { [t, index] = await Promise.all([AC.loadTopic(id), AC.loadIndex()]); }
@@ -71,10 +82,6 @@
     if (e.code === "ArrowRight") audio.currentTime += 5;
   });
 
-  // ---- side list ----
-  document.getElementById("sidelist").innerHTML = index.map(x =>
-    `<a class="side-item ${x.id === id ? "is-active" : ""}" href="listen.html?id=${x.id}">
-      <span class="n">${x.id}</span><span>${AC.esc(x.title)}</span></a>`).join("");
-  const act = document.querySelector(".side-item.is-active");
-  if (act) act.scrollIntoView({ block: "center" });
+  // ---- collapsible side panel ----
+  AC.renderSidePanel(document.getElementById("sidelist"), "listen", id, index);
 })();

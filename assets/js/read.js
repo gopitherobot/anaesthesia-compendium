@@ -1,7 +1,18 @@
 (async function () {
-  const id = (AC.qs("id") || "001").padStart(3, "0");
-  document.getElementById("hdr").innerHTML = AC.header("read", id);
+  const raw = AC.qs("id");
   document.getElementById("yr").textContent = new Date().getFullYear();
+
+  // ---- no topic chosen → mode hub ----
+  if (!raw) {
+    document.getElementById("hdr").innerHTML = AC.header("read", null);
+    await AC.renderHub("read");
+    return;
+  }
+
+  // ---- topic view ----
+  const id = raw.padStart(3, "0");
+  document.getElementById("hdr").innerHTML = AC.header("read", id);
+  document.getElementById("topic").classList.remove("hide");
 
   let t, index;
   try { [t, index] = await Promise.all([AC.loadTopic(id), AC.loadIndex()]); }
@@ -15,9 +26,7 @@
 
   const wrap = document.getElementById("qa");
   wrap.innerHTML = (t.qa || []).map(b => {
-    if (!b.q) { // intro / outro examiner-only line
-      return `<div class="qa"><p class="intro">${AC.esc(b.a || "")}</p></div>`;
-    }
+    if (!b.q) return `<div class="qa"><p class="intro">${AC.esc(b.a || "")}</p></div>`;
     const paras = b.a.split(/\n\n+/).map(p => `<p>${AC.esc(p)}</p>`).join("");
     return `<div class="qa">
       <div class="q"><span class="lbl">Examiner</span>${AC.esc(b.q)}</div>
@@ -36,9 +45,9 @@
   const blocks = [...wrap.querySelectorAll(".qa")];
   find.addEventListener("input", () => {
     const term = find.value.trim().toLowerCase();
-    blocks.forEach(b => {
-      const hit = !term || b.textContent.toLowerCase().includes(term);
-      b.classList.toggle("hide", !hit);
-    });
+    blocks.forEach(b => b.classList.toggle("hide", !(!term || b.textContent.toLowerCase().includes(term))));
   });
+
+  // collapsible side panel
+  AC.renderSidePanel(document.getElementById("sidelist"), "read", id, index);
 })();

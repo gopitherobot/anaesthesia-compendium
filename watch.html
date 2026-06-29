@@ -5,44 +5,47 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Watch — Anaesthesia Compendium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/css/style.css?v=5">
+<link rel="stylesheet" href="assets/css/style.css?v=6">
 </head>
 <body>
 <div id="hdr"></div>
-<main class="wrap">
-  <div class="crumb"><a href="index.html">Library</a> › <span id="cb">Watch</span></div>
-  <div id="warn"></div>
-  <div class="detail has-side">
-    <section>
-      <h1 class="dtitle" id="title">…</h1>
-      <p class="dsub" id="sub"></p>
-      <div class="panel" style="padding:10px">
-        <video id="video" controls preload="metadata" playsinline
-               style="width:100%;border-radius:10px;background:#000;aspect-ratio:16/9"></video>
-        <div class="playbtns" style="margin-top:10px">
-          <button class="btn" id="speed">1×</button>
-          <button class="btn" id="cc">Subtitles: On</button>
-          <button class="btn" id="autoscroll">Auto-scroll: On</button>
+<main>
+  <div id="hub" class="hide"></div>
+  <div id="topic" class="wrap hide">
+    <div class="crumb"><a href="watch.html">Watch</a> › <span id="cb"></span></div>
+    <div id="warn"></div>
+    <div class="detail has-side">
+      <section>
+        <h1 class="dtitle" id="title">…</h1>
+        <p class="dsub" id="sub"></p>
+        <div class="panel" style="padding:10px">
+          <video id="video" controls preload="metadata" playsinline
+                 style="width:100%;border-radius:10px;background:#000;aspect-ratio:16/9"></video>
+          <div class="playbtns" style="margin-top:10px">
+            <button class="btn" id="speed">1×</button>
+            <button class="btn" id="cc">Subtitles: On</button>
+            <button class="btn" id="autoscroll">Auto-scroll: On</button>
+          </div>
         </div>
-      </div>
-      <div class="panel" style="margin-top:16px">
-        <div class="transcript" id="transcript" style="height:40vh;min-height:260px"></div>
-      </div>
-    </section>
-    <aside>
-      <div class="sticky-side panel">
-        <strong style="display:block;margin-bottom:8px">All topics</strong>
-        <div class="side-list" id="sidelist"></div>
-      </div>
-    </aside>
+        <div class="panel" style="margin-top:16px">
+          <div class="transcript" id="transcript" style="height:40vh;min-height:260px"></div>
+        </div>
+      </section>
+      <aside>
+        <div class="sticky-side panel sidepanel">
+          <div class="sidehead">All topics</div>
+          <div class="side-nav" id="sidelist"></div>
+        </div>
+      </aside>
+    </div>
   </div>
 </main>
 <footer class="foot"><div class="wrap">© <span id="yr"></span> Anaesthesia Compendium · Educational content only.</div></footer>
 <script src="config.js"></script>
-<script src="assets/js/common.js?v=5"></script>
-<script src="assets/js/watch.js?v=5"></script>
+<script src="assets/js/common.js?v=6"></script>
+<script src="assets/js/watch.js?v=6"></script>
 </body>
 </html>
