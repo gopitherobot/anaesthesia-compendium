@@ -155,6 +155,7 @@ const AC = {
           <button class="chip is-active" data-sec="all">All</button>
           <button class="chip" data-sec="Pharmacology">Pharmacology</button>
           <button class="chip" data-sec="Physiology">Physiology</button>
+          <button class="chip" data-sec="Physics &amp; Equipment">Physics &amp; Equipment</button>
         </div>
         <div class="tlist" id="hublist">${rows}</div>
         <div class="empty hide" id="hubempty">No topics match your search.</div>

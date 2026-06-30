@@ -1,0 +1,2322 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.193
+Welcome to Anaesthesia Compendium. Today's viva station: pressure,
+
+2
+00:00:05.193 --> 00:00:09.578
+flow and fluid dynamics. I shall take the candidate through it,
+
+3
+00:00:09.578 --> 00:00:12.013
+question by question. Let us begin.
+
+4
+00:00:12.513 --> 00:00:17.845
+Let us begin. Why are pressure and flow such important concepts in anaesthesia,
+
+5
+00:00:17.845 --> 00:00:19.532
+and how are they related?
+
+6
+00:00:20.032 --> 00:00:24.446
+Pressure and flow are among the most pervasive physical concepts in anaesthesia,
+
+7
+00:00:24.446 --> 00:00:28.970
+because our practice is built upon the movement of fluids — both gases and liquids
+
+8
+00:00:28.970 --> 00:00:33.164
+— driven by pressure differences, and because we measure pressures and flows
+
+9
+00:00:33.164 --> 00:00:33.771
+constantly.
+
+10
+00:00:33.911 --> 00:00:38.004
+A fluid is anything that flows, encompassing both gases and liquids,
+
+11
+00:00:38.004 --> 00:00:41.074
+and the principles of fluid dynamics apply to both.
+
+12
+00:00:41.074 --> 00:00:45.889
+Pressure is force per unit area, and flow is the volume of fluid passing a point
+
+13
+00:00:45.889 --> 00:00:46.732
+per unit time.
+
+14
+00:00:46.872 --> 00:00:50.844
+The two are fundamentally linked, because flow is driven by a difference in
+
+15
+00:00:50.844 --> 00:00:55.080
+pressure: fluid moves from a region of higher pressure to one of lower pressure,
+
+16
+00:00:55.080 --> 00:00:59.475
+and the relationship between the driving pressure difference and the resulting flow
+
+17
+00:00:59.475 --> 00:01:01.805
+is governed by the resistance of the system.
+
+18
+00:01:01.945 --> 00:01:05.983
+This pressure–flow–resistance relationship is the unifying principle,
+
+19
+00:01:05.983 --> 00:01:08.206
+analogous to Ohm's law in electricity,
+
+20
+00:01:08.206 --> 00:01:12.185
+where flow equals the pressure difference divided by the resistance.
+
+21
+00:01:12.325 --> 00:01:15.957
+These concepts underlie an enormous range of anaesthetic phenomena:
+
+22
+00:01:15.957 --> 00:01:19.805
+the flow of gases through the anaesthetic machine and breathing system;
+
+23
+00:01:19.805 --> 00:01:23.978
+the flow of blood through vessels and of intravenous fluids through cannulae;
+
+24
+00:01:23.978 --> 00:01:27.772
+the movement of air in and out of the lungs against airway resistance;
+
+25
+00:01:27.772 --> 00:01:31.675
+and the function of the many devices we use to measure and control flow.
+
+26
+00:01:31.815 --> 00:01:36.318
+So pressure and flow are central because anaesthesia is the management of fluid
+
+27
+00:01:36.318 --> 00:01:38.599
+movement driven by pressure differences,
+
+28
+00:01:38.599 --> 00:01:42.133
+related through resistance in a manner analogous to Ohm's law,
+
+29
+00:01:42.133 --> 00:01:45.839
+and these principles underlie gas delivery, blood and fluid flow,
+
+30
+00:01:45.839 --> 00:01:48.860
+ventilation and the measurement devices we rely upon.
+
+31
+00:01:49.360 --> 00:01:53.371
+Define the types of pressure relevant to clinical measurement,
+
+32
+00:01:53.371 --> 00:01:55.376
+including hydrostatic pressure.
+
+33
+00:01:55.876 --> 00:01:58.152
+Pressure, defined as force per unit area,
+
+34
+00:01:58.152 --> 00:02:01.983
+is expressed in several ways depending on the reference point chosen,
+
+35
+00:02:01.983 --> 00:02:05.424
+and distinguishing these is important for correct measurement.
+
+36
+00:02:05.424 --> 00:02:09.977
+Absolute pressure is the pressure measured relative to a perfect vacuum — the true
+
+37
+00:02:09.977 --> 00:02:10.809
+total pressure.
+
+38
+00:02:10.949 --> 00:02:15.403
+Gauge pressure is the pressure measured relative to the surrounding atmospheric
+
+39
+00:02:15.403 --> 00:02:19.745
+pressure, so that it is the amount by which the pressure exceeds atmospheric;
+
+40
+00:02:19.745 --> 00:02:22.789
+most clinical and cylinder gauges read gauge pressure,
+
+41
+00:02:22.789 --> 00:02:24.875
+reading zero at atmospheric pressure,
+
+42
+00:02:24.875 --> 00:02:28.315
+so that absolute pressure is gauge pressure plus atmospheric.
+
+43
+00:02:28.455 --> 00:02:32.544
+Atmospheric pressure itself is the pressure exerted by the weight of the
+
+44
+00:02:32.544 --> 00:02:36.122
+atmosphere, about one hundred and one kilopascals at sea level,
+
+45
+00:02:36.122 --> 00:02:37.372
+falling with altitude.
+
+46
+00:02:37.512 --> 00:02:41.909
+A particularly important form for clinical measurement is hydrostatic pressure —
+
+47
+00:02:41.909 --> 00:02:45.206
+the pressure exerted by a column of fluid due to its weight,
+
+48
+00:02:45.206 --> 00:02:47.514
+which depends on the height of the column,
+
+49
+00:02:47.514 --> 00:02:50.867
+the density of the fluid and the acceleration due to gravity.
+
+50
+00:02:51.007 --> 00:02:55.133
+Hydrostatic pressure explains why a column of fluid can be used to measure
+
+51
+00:02:55.133 --> 00:02:57.754
+pressure, as in the mercury or water manometer,
+
+52
+00:02:57.754 --> 00:03:00.263
+and why the height of a fluid column matters:
+
+53
+00:03:00.263 --> 00:03:03.999
+the pressure at the bottom of a taller or denser column is greater.
+
+54
+00:03:04.139 --> 00:03:07.695
+It is clinically critical in the levelling of pressure transducers,
+
+55
+00:03:07.695 --> 00:03:11.995
+since a transducer placed above or below the reference point reads falsely low or
+
+56
+00:03:11.995 --> 00:03:15.074
+high by the hydrostatic pressure of the height difference,
+
+57
+00:03:15.074 --> 00:03:17.516
+and in the height of an intravenous fluid bag,
+
+58
+00:03:17.516 --> 00:03:20.117
+which provides the driving pressure for infusion.
+
+59
+00:03:20.257 --> 00:03:24.326
+So clinical pressures are expressed as absolute, gauge or atmospheric,
+
+60
+00:03:24.326 --> 00:03:28.801
+and hydrostatic pressure — the pressure of a fluid column proportional to its
+
+61
+00:03:28.801 --> 00:03:31.184
+height and density — underlies manometry,
+
+62
+00:03:31.184 --> 00:03:35.020
+the levelling of transducers and the driving of gravity infusions.
+
+63
+00:03:35.520 --> 00:03:38.912
+Define flow, and distinguish it from velocity.
+
+64
+00:03:39.412 --> 00:03:42.476
+Flow and velocity are related but distinct quantities,
+
+65
+00:03:42.476 --> 00:03:47.241
+and confusing them leads to error, so the distinction is worth establishing clearly.
+
+66
+00:03:47.381 --> 00:03:49.836
+Flow, more precisely volumetric flow rate,
+
+67
+00:03:49.836 --> 00:03:54.512
+is the volume of fluid passing a given point per unit time — for instance litres
+
+68
+00:03:54.512 --> 00:03:57.493
+per minute of gas or millilitres per hour of fluid.
+
+69
+00:03:57.633 --> 00:04:02.190
+Velocity, by contrast, is the speed at which the fluid is moving — the distance
+
+70
+00:04:02.190 --> 00:04:04.844
+travelled per unit time, in metres per second.
+
+71
+00:04:04.984 --> 00:04:08.968
+The two are connected through the cross-sectional area of the conduit:
+
+72
+00:04:08.968 --> 00:04:12.953
+the volumetric flow equals the velocity of the fluid multiplied by the
+
+73
+00:04:12.953 --> 00:04:15.514
+cross-sectional area through which it passes.
+
+74
+00:04:15.514 --> 00:04:18.189
+This relationship has an important consequence.
+
+75
+00:04:18.329 --> 00:04:22.775
+For a constant volumetric flow, the velocity must change inversely with the
+
+76
+00:04:22.775 --> 00:04:25.324
+cross-sectional area: where a tube narrows,
+
+77
+00:04:25.324 --> 00:04:29.592
+the same volume of fluid per unit time must pass through a smaller area,
+
+78
+00:04:29.592 --> 00:04:33.327
+so the velocity increases; where it widens, the velocity falls.
+
+79
+00:04:33.467 --> 00:04:38.074
+This is the principle of continuity — what flows in must flow out — and it explains
+
+80
+00:04:38.074 --> 00:04:40.461
+why fluid speeds up through a constriction,
+
+81
+00:04:40.461 --> 00:04:44.624
+which is fundamental to the Bernoulli and Venturi effects we shall discuss.
+
+82
+00:04:44.764 --> 00:04:46.892
+It also matters in the circulation,
+
+83
+00:04:46.892 --> 00:04:51.877
+where blood velocity is high in the narrow aorta and very low in the vast combined
+
+84
+00:04:51.877 --> 00:04:55.281
+cross-section of the capillaries, facilitating exchange.
+
+85
+00:04:55.421 --> 00:04:59.775
+So flow is the volume passing per unit time while velocity is the speed of
+
+86
+00:04:59.775 --> 00:05:02.481
+movement, related by the cross-sectional area,
+
+87
+00:05:02.481 --> 00:05:07.187
+with the consequence that for constant flow the velocity rises where the conduit
+
+88
+00:05:07.187 --> 00:05:12.011
+narrows and falls where it widens — the principle of continuity underlying much of
+
+89
+00:05:12.011 --> 00:05:12.893
+fluid dynamics.
+
+90
+00:05:24.407 --> 00:05:29.079
+Describe laminar flow and the Hagen-Poiseuille relationship.
+
+91
+00:05:29.579 --> 00:05:34.456
+Laminar flow is the smooth, orderly flow of a fluid that occurs at lower flow rates
+
+92
+00:05:34.456 --> 00:05:38.745
+through smooth, straight tubes, and it is described quantitatively by the
+
+93
+00:05:38.745 --> 00:05:43.445
+Hagen-Poiseuille relationship, one of the most important in anaesthetic physics.
+
+94
+00:05:43.585 --> 00:05:47.464
+In laminar flow, the fluid moves in concentric layers, or laminae,
+
+95
+00:05:47.464 --> 00:05:50.520
+that slide smoothly over one another without mixing,
+
+96
+00:05:50.520 --> 00:05:54.928
+with the central layer moving fastest and the layer at the wall essentially
+
+97
+00:05:54.928 --> 00:05:58.689
+stationary, giving a parabolic velocity profile across the tube.
+
+98
+00:05:58.829 --> 00:06:03.388
+For such flow, the Hagen-Poiseuille equation states that the flow rate is directly
+
+99
+00:06:03.388 --> 00:06:07.891
+proportional to the pressure difference driving it and to the fourth power of the
+
+100
+00:06:07.891 --> 00:06:12.505
+radius of the tube, and inversely proportional to the length of the tube and to the
+
+101
+00:06:12.505 --> 00:06:13.784
+viscosity of the fluid.
+
+102
+00:06:13.924 --> 00:06:18.537
+The most striking and clinically important feature is the dependence on the fourth
+
+103
+00:06:18.537 --> 00:06:22.645
+power of the radius: doubling the radius increases the flow sixteen-fold,
+
+104
+00:06:22.645 --> 00:06:25.401
+while halving it reduces the flow to a sixteenth.
+
+105
+00:06:25.541 --> 00:06:30.272
+This extreme sensitivity to radius dominates the relationship and has profound
+
+106
+00:06:30.272 --> 00:06:34.761
+practical consequences for the flow through cannulae, airways and vessels.
+
+107
+00:06:34.761 --> 00:06:39.856
+The dependence on viscosity, rather than density, is characteristic of laminar flow.
+
+108
+00:06:39.996 --> 00:06:43.621
+So laminar flow is smooth, layered flow with a parabolic profile,
+
+109
+00:06:43.621 --> 00:06:48.194
+governed by the Hagen-Poiseuille relationship in which flow is proportional to the
+
+110
+00:06:48.194 --> 00:06:52.712
+driving pressure and to the fourth power of the radius and inversely proportional
+
+111
+00:06:52.712 --> 00:06:57.285
+to length and viscosity — the fourth-power dependence on radius being the dominant
+
+112
+00:06:57.285 --> 00:06:59.516
+and most clinically significant feature.
+
+113
+00:07:00.016 --> 00:07:05.456
+Draw out the practical consequences of that fourth-power dependence on radius.
+
+114
+00:07:05.956 --> 00:07:10.524
+The dependence of laminar flow on the fourth power of the radius is one of the most
+
+115
+00:07:10.524 --> 00:07:13.496
+clinically consequential facts in anaesthetic physics,
+
+116
+00:07:13.496 --> 00:07:16.303
+and its implications recur throughout our practice.
+
+117
+00:07:16.443 --> 00:07:20.121
+The first and most direct application is to intravenous access:
+
+118
+00:07:20.121 --> 00:07:24.850
+the flow through a cannula depends on the fourth power of its internal radius and
+
+119
+00:07:24.850 --> 00:07:26.951
+inversely on its length, so a short,
+
+120
+00:07:26.951 --> 00:07:30.629
+wide cannula delivers vastly more flow than a long, narrow one.
+
+121
+00:07:30.769 --> 00:07:33.285
+This is why, for rapid fluid resuscitation,
+
+122
+00:07:33.285 --> 00:07:38.141
+a short large-bore peripheral cannula is far superior to a long narrow central line
+
+123
+00:07:38.141 --> 00:07:42.938
+of the same gauge — the length and radius working against the central line despite
+
+124
+00:07:42.938 --> 00:07:44.167
+its central position.
+
+125
+00:07:44.307 --> 00:07:46.659
+The standard cannula gauges reflect this,
+
+126
+00:07:46.659 --> 00:07:50.963
+each step up in bore producing a disproportionate increase in maximal flow.
+
+127
+00:07:51.103 --> 00:07:53.702
+The same principle governs airway resistance:
+
+128
+00:07:53.702 --> 00:07:56.302
+a small reduction in the radius of an airway,
+
+129
+00:07:56.302 --> 00:08:00.750
+as in a partially obstructed or oedematous airway, or a narrow tracheal tube,
+
+130
+00:08:00.750 --> 00:08:04.505
+produces a large increase in resistance and a large fall in flow,
+
+131
+00:08:04.505 --> 00:08:08.028
+which is why airway oedema is so dangerous in small children,
+
+132
+00:08:08.028 --> 00:08:12.592
+whose airways are already narrow, and why the smallest appropriate reduction in
+
+133
+00:08:12.592 --> 00:08:15.423
+tracheal tube size markedly increases resistance.
+
+134
+00:08:15.563 --> 00:08:20.482
+It governs vascular resistance, where small changes in arteriolar radius produce
+
+135
+00:08:20.482 --> 00:08:24.971
+large changes in resistance and flow, the basis of vascular tone control.
+
+136
+00:08:25.111 --> 00:08:28.661
+So the fourth-power law means that radius dominates flow,
+
+137
+00:08:28.661 --> 00:08:31.899
+explaining why short wide cannulae resuscitate best,
+
+138
+00:08:31.899 --> 00:08:35.450
+why small airway narrowing causes large resistance rises,
+
+139
+00:08:35.450 --> 00:08:39.809
+and why arteriolar radius is the key regulator of vascular resistance.
+
+140
+00:08:40.309 --> 00:08:44.256
+Describe turbulent flow and the Reynolds number.
+
+141
+00:08:44.756 --> 00:08:49.141
+Turbulent flow is the disorderly form of fluid flow that occurs at higher flow
+
+142
+00:08:49.141 --> 00:08:52.738
+rates, through constrictions, sharp bends or irregular passages,
+
+143
+00:08:52.738 --> 00:08:55.549
+and it differs from laminar flow in its character,
+
+144
+00:08:55.549 --> 00:08:59.540
+its governing relationships and the property of the fluid that matters.
+
+145
+00:08:59.680 --> 00:09:04.548
+In turbulent flow, the orderly layers break down into chaotic eddies and swirls,
+
+146
+00:09:04.548 --> 00:09:08.260
+with mixing across the stream and a flatter velocity profile;
+
+147
+00:09:08.260 --> 00:09:12.641
+energy is dissipated in the eddies, so turbulent flow is less efficient,
+
+148
+00:09:12.641 --> 00:09:15.744
+requiring a greater pressure to drive a given flow.
+
+149
+00:09:15.884 --> 00:09:19.352
+The relationships governing it differ from the laminar case:
+
+150
+00:09:19.352 --> 00:09:24.033
+in turbulent flow the flow rate is no longer directly proportional to the driving
+
+151
+00:09:24.033 --> 00:09:28.831
+pressure but to its square root, so that to double turbulent flow the pressure must
+
+152
+00:09:28.831 --> 00:09:33.397
+be quadrupled, and the flow depends on the density of the fluid rather than its
+
+153
+00:09:33.397 --> 00:09:33.975
+viscosity.
+
+154
+00:09:34.115 --> 00:09:38.787
+Whether flow is laminar or turbulent is predicted by the Reynolds number,
+
+155
+00:09:38.787 --> 00:09:42.755
+a dimensionless quantity calculated from the fluid's velocity,
+
+156
+00:09:42.755 --> 00:09:46.019
+density and viscosity and the diameter of the tube.
+
+157
+00:09:46.159 --> 00:09:50.556
+A low Reynolds number, below about two thousand, predicts laminar flow;
+
+158
+00:09:50.556 --> 00:09:55.202
+a high Reynolds number, above about four thousand, predicts turbulent flow;
+
+159
+00:09:55.202 --> 00:09:59.413
+between these lies a transitional zone. High velocity, high density,
+
+160
+00:09:59.413 --> 00:10:02.820
+low viscosity and large diameter all favour turbulence.
+
+161
+00:10:02.960 --> 00:10:07.799
+So turbulent flow is chaotic, eddying flow in which flow is proportional to the
+
+162
+00:10:07.799 --> 00:10:12.271
+square root of the pressure and depends on density rather than viscosity,
+
+163
+00:10:12.271 --> 00:10:17.233
+and the Reynolds number, computed from velocity, density, viscosity and diameter,
+
+164
+00:10:17.233 --> 00:10:20.603
+predicts the transition from laminar to turbulent flow.
+
+165
+00:10:32.116 --> 00:10:37.364
+Define viscosity, and comment on the non-Newtonian behaviour of blood.
+
+166
+00:10:37.864 --> 00:10:41.512
+Viscosity is the property of a fluid that governs laminar flow,
+
+167
+00:10:41.512 --> 00:10:45.392
+and understanding it, together with the special behaviour of blood,
+
+168
+00:10:45.392 --> 00:10:47.997
+is important for both gas and fluid dynamics.
+
+169
+00:10:48.137 --> 00:10:52.788
+Viscosity is a measure of a fluid's internal friction — its resistance to the
+
+170
+00:10:52.788 --> 00:10:57.198
+sliding of its layers over one another, and hence its resistance to flow.
+
+171
+00:10:57.198 --> 00:11:00.339
+A viscous fluid such as syrup resists flow strongly;
+
+172
+00:11:00.339 --> 00:11:03.540
+a fluid of low viscosity such as water flows readily.
+
+173
+00:11:03.680 --> 00:11:06.326
+Viscosity governs the rate of laminar flow,
+
+174
+00:11:06.326 --> 00:11:08.971
+appearing in the Hagen-Poiseuille equation,
+
+175
+00:11:08.971 --> 00:11:13.462
+and it generally falls with rising temperature for liquids but rises with
+
+176
+00:11:13.462 --> 00:11:14.816
+temperature for gases.
+
+177
+00:11:14.956 --> 00:11:19.487
+A Newtonian fluid is one whose viscosity is constant regardless of the flow
+
+178
+00:11:19.487 --> 00:11:22.871
+conditions — water and most simple fluids are Newtonian.
+
+179
+00:11:23.011 --> 00:11:25.412
+Blood, however, is a non-Newtonian fluid:
+
+180
+00:11:25.412 --> 00:11:29.512
+its viscosity is not constant but changes with the conditions of flow,
+
+181
+00:11:29.512 --> 00:11:32.909
+principally because it is a suspension of cells in plasma.
+
+182
+00:11:33.049 --> 00:11:37.029
+At low flow rates and in small vessels its apparent viscosity falls,
+
+183
+00:11:37.029 --> 00:11:41.770
+partly because the red cells align and stream in the centre — and in the smallest
+
+184
+00:11:41.770 --> 00:11:46.160
+vessels the Fahraeus-Lindqvist effect reduces the effective haematocrit and
+
+185
+00:11:46.160 --> 00:11:46.745
+viscosity.
+
+186
+00:11:46.885 --> 00:11:50.279
+Blood viscosity also rises markedly with the haematocrit,
+
+187
+00:11:50.279 --> 00:11:54.805
+so that polycythaemia greatly increases viscosity and the work of the heart,
+
+188
+00:11:54.805 --> 00:11:56.293
+while anaemia reduces it.
+
+189
+00:11:56.433 --> 00:12:00.490
+So viscosity is a fluid's internal friction governing laminar flow,
+
+190
+00:12:00.490 --> 00:12:04.485
+constant in a Newtonian fluid such as water but variable in blood,
+
+191
+00:12:04.485 --> 00:12:09.328
+which is non-Newtonian — its apparent viscosity falling at low flow and in small
+
+192
+00:12:09.328 --> 00:12:14.353
+vessels and rising steeply with haematocrit, with consequences for the circulation.
+
+193
+00:12:14.853 --> 00:12:19.717
+How is resistance to flow defined and related to these principles?
+
+194
+00:12:20.217 --> 00:12:24.902
+Resistance to flow is the opposition that a system offers to the passage of fluid,
+
+195
+00:12:24.902 --> 00:12:28.330
+and it provides the unifying link between pressure and flow,
+
+196
+00:12:28.330 --> 00:12:30.329
+analogous to electrical resistance.
+
+197
+00:12:30.469 --> 00:12:33.286
+Resistance is defined, by analogy with Ohm's law,
+
+198
+00:12:33.286 --> 00:12:37.770
+as the pressure difference driving the flow divided by the flow rate produced;
+
+199
+00:12:37.770 --> 00:12:42.139
+equivalently, flow equals the pressure difference divided by the resistance.
+
+200
+00:12:42.279 --> 00:12:46.799
+A system of high resistance requires a large pressure difference to produce a given
+
+201
+00:12:46.799 --> 00:12:51.047
+flow, while a low-resistance system allows the same flow for a small pressure.
+
+202
+00:12:51.187 --> 00:12:55.048
+The determinants of resistance follow from the flow relationships:
+
+203
+00:12:55.048 --> 00:12:59.729
+for laminar flow through a tube, rearranging the Hagen-Poiseuille equation shows
+
+204
+00:12:59.729 --> 00:13:04.234
+that resistance is proportional to the length and the viscosity and inversely
+
+205
+00:13:04.234 --> 00:13:08.564
+proportional to the fourth power of the radius — so resistance, like flow,
+
+206
+00:13:08.564 --> 00:13:13.011
+is dominated by the radius, a small narrowing greatly increasing resistance.
+
+207
+00:13:13.151 --> 00:13:17.399
+Resistances combine like electrical resistances: in series they add,
+
+208
+00:13:17.399 --> 00:13:21.834
+while in parallel the total resistance is less than any individual one,
+
+209
+00:13:21.834 --> 00:13:26.894
+which is why the many parallel capillaries of a vascular bed offer relatively low
+
+210
+00:13:26.894 --> 00:13:27.956
+total resistance.
+
+211
+00:13:28.096 --> 00:13:32.864
+This concept of resistance underlies systemic and pulmonary vascular resistance in
+
+212
+00:13:32.864 --> 00:13:35.772
+the circulation, airway resistance in ventilation,
+
+213
+00:13:35.772 --> 00:13:38.912
+and the resistance of breathing systems and equipment.
+
+214
+00:13:39.052 --> 00:13:42.628
+So resistance is the pressure difference divided by the flow,
+
+215
+00:13:42.628 --> 00:13:47.495
+dominated for laminar flow by the fourth power of the radius and also by length and
+
+216
+00:13:47.495 --> 00:13:50.075
+viscosity, combining in series and parallel,
+
+217
+00:13:50.075 --> 00:13:54.765
+and it is the unifying concept linking pressure and flow across the circulation,
+
+218
+00:13:54.765 --> 00:13:56.524
+the airways and our equipment.
+
+219
+00:13:57.024 --> 00:13:59.392
+Explain the Bernoulli principle.
+
+220
+00:13:59.892 --> 00:14:04.452
+The Bernoulli principle describes the relationship between the velocity and the
+
+221
+00:14:04.452 --> 00:14:09.012
+pressure of a fluid in motion, and it explains a family of effects important in
+
+222
+00:14:09.012 --> 00:14:10.281
+anaesthetic equipment.
+
+223
+00:14:10.421 --> 00:14:14.709
+The principle, derived from the conservation of energy in a flowing fluid,
+
+224
+00:14:14.709 --> 00:14:18.939
+states that as the velocity of a fluid increases, its pressure decreases,
+
+225
+00:14:18.939 --> 00:14:19.808
+and conversely.
+
+226
+00:14:19.948 --> 00:14:24.278
+The underlying reason is that the total energy of the fluid — the sum of its
+
+227
+00:14:24.278 --> 00:14:26.899
+pressure energy, its kinetic energy of motion,
+
+228
+00:14:26.899 --> 00:14:30.831
+and its potential energy of height — is conserved along a streamline;
+
+229
+00:14:30.831 --> 00:14:34.420
+so if the kinetic energy increases because the fluid speeds up,
+
+230
+00:14:34.420 --> 00:14:38.295
+the pressure energy must fall to compensate, and the pressure drops.
+
+231
+00:14:38.435 --> 00:14:43.107
+The most important application arises where a fluid flows through a constriction.
+
+232
+00:14:43.247 --> 00:14:47.745
+By the principle of continuity, the fluid must speed up as it passes through the
+
+233
+00:14:47.745 --> 00:14:51.849
+narrowing to maintain the same volumetric flow; by Bernoulli's principle,
+
+234
+00:14:51.849 --> 00:14:56.516
+this increase in velocity is accompanied by a fall in pressure at the constriction.
+
+235
+00:14:56.656 --> 00:15:01.139
+Thus a region of low pressure is created at the narrowest point of a constriction
+
+236
+00:15:01.139 --> 00:15:02.800
+where the fluid moves fastest.
+
+237
+00:15:02.940 --> 00:15:07.593
+This counterintuitive result — that pressure is lowest where the fluid is moving
+
+238
+00:15:07.593 --> 00:15:12.187
+fastest, at the narrowest point — is the basis of the Venturi effect and of gas
+
+239
+00:15:12.187 --> 00:15:13.351
+entrainment devices.
+
+240
+00:15:13.491 --> 00:15:16.781
+So the Bernoulli principle, from the conservation of energy,
+
+241
+00:15:16.781 --> 00:15:19.798
+states that a faster-moving fluid has a lower pressure,
+
+242
+00:15:19.798 --> 00:15:24.240
+with the key consequence that fluid speeding up through a constriction develops a
+
+243
+00:15:24.240 --> 00:15:27.421
+low pressure there — the foundation of the Venturi effect.
+
+244
+00:15:38.935 --> 00:15:43.137
+Describe the Venturi effect and its clinical applications.
+
+245
+00:15:43.637 --> 00:15:48.186
+The Venturi effect is the practical application of the Bernoulli principle to a
+
+246
+00:15:48.186 --> 00:15:52.793
+constriction, and it is exploited in several important pieces of anaesthetic and
+
+247
+00:15:52.793 --> 00:15:56.075
+respiratory equipment, chiefly to entrain a second fluid.
+
+248
+00:15:56.215 --> 00:16:00.380
+When a fluid flows through a Venturi — a tube with a narrowing followed by a
+
+249
+00:16:00.380 --> 00:16:04.272
+gradual widening — the velocity increases and the pressure falls at the
+
+250
+00:16:04.272 --> 00:16:06.903
+constriction, as Bernoulli's principle predicts.
+
+251
+00:16:07.043 --> 00:16:11.801
+If a side opening is placed at this low-pressure point, the low pressure draws in,
+
+252
+00:16:11.801 --> 00:16:14.877
+or entrains, fluid from outside through that opening,
+
+253
+00:16:14.877 --> 00:16:19.635
+mixing it with the main stream. This entrainment of a second fluid is the basis of
+
+254
+00:16:19.635 --> 00:16:21.144
+the clinical applications.
+
+255
+00:16:21.284 --> 00:16:26.335
+The Venturi, or fixed-performance, oxygen mask uses a jet of oxygen passing through
+
+256
+00:16:26.335 --> 00:16:31.324
+a constriction to entrain a fixed, large volume of room air, delivering a precise,
+
+257
+00:16:31.324 --> 00:16:35.949
+constant inspired oxygen concentration regardless of the patient's breathing
+
+258
+00:16:35.949 --> 00:16:39.965
+pattern — the ratio of entrained air to oxygen, set by the device,
+
+259
+00:16:39.965 --> 00:16:41.487
+fixing the concentration.
+
+260
+00:16:41.627 --> 00:16:46.175
+Nebulisers use the effect to entrain and atomise liquid into a fine mist.
+
+261
+00:16:46.175 --> 00:16:51.036
+Venturi-based suction and the entrainment in some jet-ventilation systems work
+
+262
+00:16:51.036 --> 00:16:54.213
+similarly, a driving jet entraining additional gas.
+
+263
+00:16:54.353 --> 00:16:58.446
+The gradual widening of the Venturi after the constriction is important,
+
+264
+00:16:58.446 --> 00:17:02.993
+allowing the kinetic energy to be recovered as pressure with minimal turbulence.
+
+265
+00:17:03.133 --> 00:17:08.175
+So the Venturi effect uses the low pressure at a constriction to entrain a second
+
+266
+00:17:08.175 --> 00:17:12.906
+fluid, exploited in fixed-performance oxygen masks delivering precise oxygen
+
+267
+00:17:12.906 --> 00:17:17.512
+concentrations, in nebulisers, and in jet-ventilation and suction devices.
+
+268
+00:17:18.012 --> 00:17:21.511
+What is the Coanda effect, and where is it relevant?
+
+269
+00:17:22.011 --> 00:17:26.880
+The Coanda effect is a related phenomenon of fluid dynamics describing the tendency
+
+270
+00:17:26.880 --> 00:17:31.221
+of a fluid jet to follow and cling to a nearby surface or wall rather than
+
+271
+00:17:31.221 --> 00:17:36.032
+travelling in a straight line, and it has both clinical relevance and applications
+
+272
+00:17:36.032 --> 00:17:36.795
+in equipment.
+
+273
+00:17:36.935 --> 00:17:40.326
+When a high-velocity jet of fluid passes close to a surface,
+
+274
+00:17:40.326 --> 00:17:45.017
+the entrainment of fluid between the jet and the surface lowers the pressure there,
+
+275
+00:17:45.017 --> 00:17:49.708
+by the Bernoulli mechanism, so the jet is drawn towards and adheres to the surface,
+
+276
+00:17:49.708 --> 00:17:52.081
+following its contour even around a curve.
+
+277
+00:17:52.221 --> 00:17:56.806
+At a branching point, this can cause a jet to attach preferentially to one wall and
+
+278
+00:17:56.806 --> 00:18:00.563
+so pass down one branch rather than dividing evenly between the two.
+
+279
+00:18:00.703 --> 00:18:04.787
+The Coanda effect has clinical relevance in the airway and circulation:
+
+280
+00:18:04.787 --> 00:18:07.031
+at the branching of airways or vessels,
+
+281
+00:18:07.031 --> 00:18:10.828
+it may cause uneven distribution of flow between the two branches,
+
+282
+00:18:10.828 --> 00:18:15.085
+so that secretions, emboli or gas flow may preferentially follow one side,
+
+283
+00:18:15.085 --> 00:18:19.399
+which can contribute to maldistribution of ventilation or to the lodging of
+
+284
+00:18:19.399 --> 00:18:21.183
+material in particular bronchi.
+
+285
+00:18:21.323 --> 00:18:26.346
+It also explains the maldistribution of flow past irregularities such as plaques or
+
+286
+00:18:26.346 --> 00:18:26.891
+stenoses.
+
+287
+00:18:27.031 --> 00:18:30.399
+In equipment, the effect is harnessed in fluidic devices,
+
+288
+00:18:30.399 --> 00:18:34.771
+in which the switching of a gas jet between channels by the Coanda effect,
+
+289
+00:18:34.771 --> 00:18:36.958
+controlled by small pressure signals,
+
+290
+00:18:36.958 --> 00:18:41.212
+is used to create valveless logic — the principle behind certain fluidic
+
+291
+00:18:41.212 --> 00:18:43.457
+ventilators that have no moving parts.
+
+292
+00:18:43.597 --> 00:18:48.032
+So the Coanda effect is the tendency of a jet to cling to an adjacent surface,
+
+293
+00:18:48.032 --> 00:18:52.580
+relevant to the uneven distribution of flow at airway and vascular branch points
+
+294
+00:18:52.580 --> 00:18:55.480
+and harnessed in the valveless fluidic ventilators.
+
+295
+00:18:55.980 --> 00:19:00.055
+Distinguish flow through an orifice from flow through a tube.
+
+296
+00:19:00.555 --> 00:19:04.773
+The distinction between flow through an orifice and flow through a tube is an
+
+297
+00:19:04.773 --> 00:19:06.800
+important one in anaesthetic physics,
+
+298
+00:19:06.800 --> 00:19:10.032
+because the two are governed by different fluid properties,
+
+299
+00:19:10.032 --> 00:19:11.840
+which has practical consequences.
+
+300
+00:19:11.980 --> 00:19:15.729
+A tube is a passage whose length is much greater than its diameter,
+
+301
+00:19:15.729 --> 00:19:20.373
+whereas an orifice is a constriction whose length is small relative to its diameter
+
+302
+00:19:20.373 --> 00:19:22.220
+— essentially a thin restriction.
+
+303
+00:19:22.360 --> 00:19:24.647
+Flow through a long tube, at low rates,
+
+304
+00:19:24.647 --> 00:19:29.103
+tends to be laminar and so is governed by the Hagen-Poiseuille relationship,
+
+305
+00:19:29.103 --> 00:19:31.448
+depending on the viscosity of the fluid.
+
+306
+00:19:31.588 --> 00:19:33.866
+Flow through an orifice, by contrast,
+
+307
+00:19:33.866 --> 00:19:37.005
+tends to be turbulent even at relatively low flows,
+
+308
+00:19:37.005 --> 00:19:39.159
+because of the abrupt constriction,
+
+309
+00:19:39.159 --> 00:19:43.407
+and so depends on the density of the fluid rather than its viscosity.
+
+310
+00:19:43.547 --> 00:19:48.108
+This distinction explains the behaviour of certain devices and the rationale for
+
+311
+00:19:48.108 --> 00:19:49.819
+using particular gas mixtures.
+
+312
+00:19:49.959 --> 00:19:54.542
+A constriction in the airway, such as a stenosis or a partially closed glottis,
+
+313
+00:19:54.542 --> 00:19:58.313
+behaves as an orifice, so flow through it depends on gas density;
+
+314
+00:19:58.313 --> 00:20:01.561
+this is why a low-density helium–oxygen mixture, Heliox,
+
+315
+00:20:01.561 --> 00:20:05.854
+improves flow through such an obstruction, reducing the work of breathing,
+
+316
+00:20:05.854 --> 00:20:09.393
+whereas it would not help laminar flow through a normal tube.
+
+317
+00:20:09.533 --> 00:20:13.829
+The behaviour of flowmeters also reflects this distinction, as we shall see,
+
+318
+00:20:13.829 --> 00:20:17.503
+the variable-orifice flowmeter behaving differently at low flows,
+
+319
+00:20:17.503 --> 00:20:21.572
+where the gap is long and thin and viscosity matters, and at high flows,
+
+320
+00:20:21.572 --> 00:20:24.851
+where it behaves more like an orifice and density matters.
+
+321
+00:20:24.991 --> 00:20:29.126
+So flow through a long tube is typically laminar and viscosity-dependent,
+
+322
+00:20:29.126 --> 00:20:33.714
+while flow through a short orifice is typically turbulent and density-dependent —
+
+323
+00:20:33.714 --> 00:20:38.303
+explaining the benefit of low-density Heliox through airway constrictions and the
+
+324
+00:20:38.303 --> 00:20:39.945
+dual behaviour of flowmeters.
+
+325
+00:20:51.459 --> 00:20:55.320
+Describe the variable-orifice flowmeter, the rotameter.
+
+326
+00:20:55.820 --> 00:20:59.286
+The variable-orifice flowmeter, commonly called the rotameter,
+
+327
+00:20:59.286 --> 00:21:03.535
+is the classic device for measuring and setting gas flows on the anaesthetic
+
+328
+00:21:03.535 --> 00:21:07.784
+machine, and its operation elegantly combines the principles of flow we have
+
+329
+00:21:07.784 --> 00:21:08.343
+discussed.
+
+330
+00:21:08.483 --> 00:21:12.391
+The rotameter consists of a vertical, transparent tube that is tapered,
+
+331
+00:21:12.391 --> 00:21:15.143
+being narrower at the bottom and wider at the top,
+
+332
+00:21:15.143 --> 00:21:17.400
+containing a lightweight bobbin or float.
+
+333
+00:21:17.540 --> 00:21:20.896
+Gas enters at the bottom and flows upward, lifting the bobbin;
+
+334
+00:21:20.896 --> 00:21:25.388
+the bobbin rises until the upward force of the gas flow balances the downward force
+
+335
+00:21:25.388 --> 00:21:26.308
+of gravity on it.
+
+336
+00:21:26.448 --> 00:21:28.745
+As the bobbin rises in the widening tube,
+
+337
+00:21:28.745 --> 00:21:33.059
+the annular gap between the bobbin and the tube wall — the variable orifice —
+
+338
+00:21:33.059 --> 00:21:37.710
+increases, so that a higher flow is needed to keep the bobbin suspended at a higher
+
+339
+00:21:37.710 --> 00:21:40.847
+level; the height of the bobbin thus indicates the flow,
+
+340
+00:21:40.847 --> 00:21:42.640
+read against a calibrated scale.
+
+341
+00:21:42.780 --> 00:21:45.811
+The orifice is variable, widening as the bobbin rises,
+
+342
+00:21:45.811 --> 00:21:50.189
+while the pressure difference across the bobbin stays roughly constant — hence
+
+343
+00:21:50.189 --> 00:21:52.209
+variable-orifice, constant-pressure.
+
+344
+00:21:52.349 --> 00:21:55.470
+The device depends on both viscosity and density:
+
+345
+00:21:55.470 --> 00:22:00.374
+at low flows the gap is long and thin, flow is laminar and viscosity matters;
+
+346
+00:22:00.374 --> 00:22:05.405
+at high flows the gap is short and wide, flow is turbulent and density matters.
+
+347
+00:22:05.545 --> 00:22:09.531
+Each rotameter is therefore calibrated for a specific gas and is not
+
+348
+00:22:09.531 --> 00:22:13.106
+interchangeable. The bobbin must rotate freely and not stick,
+
+349
+00:22:13.106 --> 00:22:16.447
+and is read at the top, or at the centre of a ball float.
+
+350
+00:22:16.587 --> 00:22:19.120
+So the rotameter is a variable-orifice,
+
+351
+00:22:19.120 --> 00:22:24.318
+constant-pressure flowmeter in which a bobbin rises in a tapered tube until flow
+
+352
+00:22:24.318 --> 00:22:28.801
+balances gravity, indicating flow on a gas-specific calibrated scale,
+
+353
+00:22:28.801 --> 00:22:33.739
+its behaviour depending on viscosity at low flows and density at high flows.
+
+354
+00:22:34.239 --> 00:22:37.865
+Briefly, what other methods are used to measure gas flow?
+
+355
+00:22:38.365 --> 00:22:40.579
+Beyond the variable-orifice rotameter,
+
+356
+00:22:40.579 --> 00:22:43.551
+several other methods are used to measure gas flow,
+
+357
+00:22:43.551 --> 00:22:47.687
+particularly in modern electronic anaesthetic machines and ventilators,
+
+358
+00:22:47.687 --> 00:22:49.843
+each exploiting a physical principle.
+
+359
+00:22:49.983 --> 00:22:54.351
+The pneumotachograph measures flow by sensing the small pressure drop across a
+
+360
+00:22:54.351 --> 00:22:59.000
+fixed, known resistance placed in the gas stream — a fine mesh or array of parallel
+
+361
+00:22:59.000 --> 00:23:01.744
+tubes designed to keep the flow laminar, so that,
+
+362
+00:23:01.744 --> 00:23:03.816
+by the Hagen-Poiseuille relationship,
+
+363
+00:23:03.816 --> 00:23:06.393
+the pressure drop is proportional to the flow;
+
+364
+00:23:06.393 --> 00:23:09.473
+integrating the flow signal over time gives the volume,
+
+365
+00:23:09.473 --> 00:23:11.657
+which is how tidal volumes are derived.
+
+366
+00:23:11.797 --> 00:23:15.893
+Variants use a fixed orifice or a flap whose pressure drop indicates flow.
+
+367
+00:23:16.033 --> 00:23:20.420
+The hot-wire anemometer measures flow from the cooling of a heated wire by the
+
+368
+00:23:20.420 --> 00:23:22.838
+passing gas: faster flow removes more heat,
+
+369
+00:23:22.838 --> 00:23:27.449
+and the electrical power needed to keep the wire at constant temperature indicates
+
+370
+00:23:27.449 --> 00:23:28.236
+the flow rate.
+
+371
+00:23:28.376 --> 00:23:32.746
+Ultrasonic flowmeters measure flow from its effect on the transit time of
+
+372
+00:23:32.746 --> 00:23:35.799
+ultrasound pulses sent with and against the stream.
+
+373
+00:23:35.799 --> 00:23:38.912
+The Wright respirometer is a mechanical vane device,
+
+374
+00:23:38.912 --> 00:23:43.701
+in which the gas flow turns a vane whose rotation is geared to a dial indicating
+
+375
+00:23:43.701 --> 00:23:44.120
+volume.
+
+376
+00:23:44.260 --> 00:23:48.198
+Bellows and water-displacement spirometers measure volume directly.
+
+377
+00:23:48.198 --> 00:23:52.431
+Each method has its accuracy, its sources of error and its applications.
+
+378
+00:23:52.571 --> 00:23:55.865
+So gas flow is also measured by the pneumotachograph,
+
+379
+00:23:55.865 --> 00:23:59.594
+sensing the pressure drop across a fixed laminar resistance;
+
+380
+00:23:59.594 --> 00:24:03.323
+by hot-wire anemometers; by ultrasonic transit-time devices;
+
+381
+00:24:03.323 --> 00:24:08.358
+and by mechanical vane respirometers — methods used in modern machines to measure
+
+382
+00:24:08.358 --> 00:24:10.533
+flows and, by integration, volumes.
+
+383
+00:24:11.033 --> 00:24:15.279
+Apply these principles to intravenous fluid administration.
+
+384
+00:24:15.779 --> 00:24:20.468
+The administration of intravenous fluids is a direct and everyday application of
+
+385
+00:24:20.468 --> 00:24:23.281
+the principles of pressure, flow and resistance,
+
+386
+00:24:23.281 --> 00:24:26.915
+and understanding it allows rational choices in resuscitation.
+
+387
+00:24:27.055 --> 00:24:31.498
+The flow of fluid into a vein is driven by a pressure difference — the hydrostatic
+
+388
+00:24:31.498 --> 00:24:34.153
+pressure of the fluid column from the raised bag,
+
+389
+00:24:34.153 --> 00:24:37.079
+plus any applied pressure from a pressure bag or pump,
+
+390
+00:24:37.079 --> 00:24:41.576
+minus the venous pressure — and opposed by the resistance of the giving set and the
+
+391
+00:24:41.576 --> 00:24:42.009
+cannula.
+
+392
+00:24:42.149 --> 00:24:46.356
+The resistance is dominated, through the Hagen-Poiseuille relationship,
+
+393
+00:24:46.356 --> 00:24:51.274
+by the cannula: flow is proportional to the fourth power of its internal radius and
+
+394
+00:24:51.274 --> 00:24:55.717
+inversely proportional to its length. The practical consequences are clear.
+
+395
+00:24:55.857 --> 00:24:58.262
+To achieve rapid flow for resuscitation,
+
+396
+00:24:58.262 --> 00:25:03.011
+one chooses a cannula of large bore and short length, since both maximise flow,
+
+397
+00:25:03.011 --> 00:25:07.399
+and one raises the driving pressure by elevating or pressurising the bag.
+
+398
+00:25:07.539 --> 00:25:12.144
+A short, wide peripheral cannula will therefore deliver fluid far faster than a
+
+399
+00:25:12.144 --> 00:25:16.982
+long, narrow central catheter, even though the latter is centrally placed — a point
+
+400
+00:25:16.982 --> 00:25:19.313
+of real importance in major haemorrhage,
+
+401
+00:25:19.313 --> 00:25:24.093
+where the temptation to rely on a central line for rapid transfusion is misguided.
+
+402
+00:25:24.233 --> 00:25:28.154
+Warming fluids reduces their viscosity slightly and so aids flow,
+
+403
+00:25:28.154 --> 00:25:33.160
+besides preventing hypothermia. The standard cannula gauges are calibrated to known
+
+404
+00:25:33.160 --> 00:25:37.865
+maximal flow rates, each larger bore giving a disproportionately greater flow.
+
+405
+00:25:38.005 --> 00:25:42.650
+So intravenous flow is driven by the hydrostatic and applied pressure and opposed
+
+406
+00:25:42.650 --> 00:25:47.352
+by resistance dominated by the cannula's radius to the fourth power and its length
+
+407
+00:25:47.352 --> 00:25:51.825
+— so that short, wide cannulae and raised driving pressure give the rapid flow
+
+408
+00:25:51.825 --> 00:25:53.259
+needed for resuscitation.
+
+409
+00:26:04.772 --> 00:26:09.807
+Explain wall tension and the law of Laplace, with its clinical relevance.
+
+410
+00:26:10.307 --> 00:26:14.897
+The law of Laplace relates the pressure within a curved structure to the tension in
+
+411
+00:26:14.897 --> 00:26:18.548
+its wall and its radius, and it has wide relevance in anaesthesia,
+
+412
+00:26:18.548 --> 00:26:20.594
+applying to blood vessels, the heart,
+
+413
+00:26:20.594 --> 00:26:23.747
+the alveoli and other curved fluid-containing structures.
+
+414
+00:26:23.887 --> 00:26:26.234
+The law states that, for a given structure,
+
+415
+00:26:26.234 --> 00:26:28.909
+the relationship between the transmural pressure,
+
+416
+00:26:28.909 --> 00:26:31.966
+the wall tension and the radius depends on the geometry:
+
+417
+00:26:31.966 --> 00:26:34.041
+for a cylinder such as a blood vessel,
+
+418
+00:26:34.041 --> 00:26:38.081
+the wall tension is proportional to the pressure multiplied by the radius;
+
+419
+00:26:38.081 --> 00:26:40.538
+for a sphere such as an alveolus or a bubble,
+
+420
+00:26:40.538 --> 00:26:43.540
+the relationship involves the pressure, the radius and,
+
+421
+00:26:43.540 --> 00:26:46.488
+where a surface separates fluids, the surface tension,
+
+422
+00:26:46.488 --> 00:26:51.019
+with the pressure inside being proportional to twice the surface tension divided by
+
+423
+00:26:51.019 --> 00:26:51.620
+the radius.
+
+424
+00:26:51.760 --> 00:26:53.787
+The clinical applications are several.
+
+425
+00:26:53.927 --> 00:26:58.436
+In the vasculature, Laplace's law explains why the thin-walled capillaries can
+
+426
+00:26:58.436 --> 00:27:03.003
+withstand their pressure despite their delicacy — because their radius is tiny,
+
+427
+00:27:03.003 --> 00:27:07.050
+the wall tension is low — and why an aneurysm, having a larger radius,
+
+428
+00:27:07.050 --> 00:27:10.172
+experiences greater wall tension at the same pressure,
+
+429
+00:27:10.172 --> 00:27:13.063
+predisposing it to further dilatation and rupture.
+
+430
+00:27:13.203 --> 00:27:18.124
+In the heart, it explains why a dilated ventricle with a large radius has a greater
+
+431
+00:27:18.124 --> 00:27:22.512
+wall tension and so a higher myocardial oxygen demand at a given pressure.
+
+432
+00:27:22.512 --> 00:27:27.078
+In the lung, it explains the behaviour of the alveoli and the crucial role of
+
+433
+00:27:27.078 --> 00:27:27.731
+surfactant.
+
+434
+00:27:27.871 --> 00:27:32.450
+So the law of Laplace relates transmural pressure to wall tension and radius —
+
+435
+00:27:32.450 --> 00:27:36.911
+tension proportional to pressure times radius in a cylinder — explaining the
+
+436
+00:27:36.911 --> 00:27:40.257
+resilience of capillaries, the rupture risk of aneurysms,
+
+437
+00:27:40.257 --> 00:27:44.895
+the increased oxygen demand of the dilated heart, and the behaviour of alveoli.
+
+438
+00:27:45.395 --> 00:27:49.192
+Discuss surface tension and its role in the alveolus.
+
+439
+00:27:49.692 --> 00:27:53.008
+Surface tension is a property of liquid surfaces that,
+
+440
+00:27:53.008 --> 00:27:56.140
+applied through the law of Laplace to the alveolus,
+
+441
+00:27:56.140 --> 00:28:01.053
+has profound importance in respiratory physiology and explains the vital role of
+
+442
+00:28:01.053 --> 00:28:02.343
+pulmonary surfactant.
+
+443
+00:28:02.483 --> 00:28:06.812
+Surface tension arises at the interface between a liquid and a gas because the
+
+444
+00:28:06.812 --> 00:28:11.420
+molecules at the surface are attracted more strongly to their neighbours within the
+
+445
+00:28:11.420 --> 00:28:16.027
+liquid than to the gas, creating a tension that tends to minimise the surface area,
+
+446
+00:28:16.027 --> 00:28:19.357
+making the surface behave like a stretched elastic membrane.
+
+447
+00:28:19.497 --> 00:28:22.350
+In the alveolus, lined by a thin film of fluid,
+
+448
+00:28:22.350 --> 00:28:26.235
+this surface tension tends to contract the alveolus, generating,
+
+449
+00:28:26.235 --> 00:28:31.152
+by the law of Laplace, an inward pressure proportional to the surface tension and
+
+450
+00:28:31.152 --> 00:28:35.583
+inversely proportional to the alveolar radius. This creates two problems.
+
+451
+00:28:35.723 --> 00:28:40.324
+First, the surface tension makes the lung stiffer and increases the work needed to
+
+452
+00:28:40.324 --> 00:28:40.885
+expand it.
+
+453
+00:28:41.025 --> 00:28:45.863
+Second, and more seriously, the Laplace relationship implies that smaller alveoli,
+
+454
+00:28:45.863 --> 00:28:50.700
+with their smaller radius, would generate a higher collapsing pressure than larger
+
+455
+00:28:50.700 --> 00:28:55.478
+ones, so that small alveoli would tend to empty into large ones and collapse — an
+
+456
+00:28:55.478 --> 00:28:56.599
+unstable situation.
+
+457
+00:28:56.739 --> 00:29:00.324
+Pulmonary surfactant, secreted by the alveolar type-two cells,
+
+458
+00:29:00.324 --> 00:29:03.389
+solves these problems: it lowers the surface tension,
+
+459
+00:29:03.389 --> 00:29:07.494
+and crucially it lowers it more in smaller alveoli than in larger ones,
+
+460
+00:29:07.494 --> 00:29:11.600
+because its molecules are more concentrated when the alveolus is small,
+
+461
+00:29:11.600 --> 00:29:15.532
+thereby stabilising alveoli of different sizes, preventing collapse,
+
+462
+00:29:15.532 --> 00:29:19.117
+reducing the work of breathing and keeping the lung compliant.
+
+463
+00:29:19.257 --> 00:29:23.854
+So surface tension at the alveolar air–liquid interface, through Laplace's law,
+
+464
+00:29:23.854 --> 00:29:26.938
+tends to collapse small alveoli and stiffen the lung,
+
+465
+00:29:26.938 --> 00:29:31.012
+and pulmonary surfactant counteracts this by lowering surface tension,
+
+466
+00:29:31.012 --> 00:29:34.852
+more so in smaller alveoli, stabilising them and easing breathing.
+
+467
+00:29:35.352 --> 00:29:38.704
+Finally, draw together the relevance of pressure,
+
+468
+00:29:38.704 --> 00:29:41.987
+flow and fluid dynamics to anaesthetic practice.
+
+469
+00:29:42.487 --> 00:29:45.621
+Drawing the station together, the principles of pressure,
+
+470
+00:29:45.621 --> 00:29:48.976
+flow and fluid dynamics run through the whole of anaesthesia,
+
+471
+00:29:48.976 --> 00:29:53.540
+because our specialty is fundamentally the management of fluids — gases and liquids
+
+472
+00:29:53.540 --> 00:29:57.940
+— moving under pressure, and a secure grasp of these principles informs both our
+
+473
+00:29:57.940 --> 00:30:00.855
+use of equipment and our understanding of physiology.
+
+474
+00:30:00.995 --> 00:30:05.402
+The unifying relationship is that flow is driven by a pressure difference and
+
+475
+00:30:05.402 --> 00:30:08.035
+opposed by resistance, analogous to Ohm's law.
+
+476
+00:30:08.175 --> 00:30:12.099
+The character of flow — laminar, smooth and viscosity-dependent,
+
+477
+00:30:12.099 --> 00:30:16.759
+governed by the Hagen-Poiseuille relationship with its dominant fourth-power
+
+478
+00:30:16.759 --> 00:30:20.805
+dependence on radius, or turbulent, chaotic and density-dependent,
+
+479
+00:30:20.805 --> 00:30:25.711
+predicted by the Reynolds number — determines how fluids behave in our conduits.
+
+480
+00:30:25.851 --> 00:30:29.231
+From these flow the practical themes: the choice of short,
+
+481
+00:30:29.231 --> 00:30:31.445
+wide cannulae for rapid resuscitation;
+
+482
+00:30:31.445 --> 00:30:35.408
+the disproportionate effect of small airway narrowing on resistance;
+
+483
+00:30:35.408 --> 00:30:39.138
+the use of low-density Heliox through orifice-like obstructions;
+
+484
+00:30:39.138 --> 00:30:41.993
+the function of rotameters and pneumotachographs;
+
+485
+00:30:41.993 --> 00:30:46.423
+the Bernoulli and Venturi effects underlying fixed-performance oxygen masks,
+
+486
+00:30:46.423 --> 00:30:51.201
+nebulisers and jet ventilation; the Coanda effect in flow distribution and fluidic
+
+487
+00:30:51.201 --> 00:30:54.698
+ventilators; and, through Laplace's law and surface tension,
+
+488
+00:30:54.698 --> 00:30:59.535
+the behaviour of vessels, the dilated heart and the alveolus with its dependence on
+
+489
+00:30:59.535 --> 00:31:00.176
+surfactant.
+
+490
+00:31:00.316 --> 00:31:04.987
+So pressure, flow and fluid dynamics are not abstract physics but the working
+
+491
+00:31:04.987 --> 00:31:08.930
+principles behind gas delivery, fluid resuscitation, ventilation,
+
+492
+00:31:08.930 --> 00:31:13.662
+monitoring and much of cardiorespiratory physiology — a foundation that repays
+
+493
+00:31:13.662 --> 00:31:15.057
+thorough understanding.
+
+494
+00:31:26.571 --> 00:31:31.520
+Apply these flow principles to airway resistance and the work of breathing.
+
+495
+00:31:32.020 --> 00:31:36.144
+Airway resistance and the work of breathing are direct applications of the
+
+496
+00:31:36.144 --> 00:31:40.435
+principles of flow, and understanding them physically illuminates both normal
+
+497
+00:31:40.435 --> 00:31:43.945
+respiratory mechanics and the effects of disease and equipment.
+
+498
+00:31:44.085 --> 00:31:48.406
+Air moving in and out of the lungs is driven by the pressure difference between the
+
+499
+00:31:48.406 --> 00:31:51.893
+alveoli and the mouth and opposed by the resistance of the airways.
+
+500
+00:31:52.033 --> 00:31:54.788
+In the larger airways and at higher flow rates,
+
+501
+00:31:54.788 --> 00:31:58.891
+and wherever the airway branches or narrows, flow is partly turbulent,
+
+502
+00:31:58.891 --> 00:32:02.408
+depending on gas density; in the smaller peripheral airways,
+
+503
+00:32:02.408 --> 00:32:06.101
+where the total cross-sectional area is large and velocity low,
+
+504
+00:32:06.101 --> 00:32:08.914
+flow is largely laminar, depending on viscosity,
+
+505
+00:32:08.914 --> 00:32:13.662
+and governed by the Hagen-Poiseuille relationship with its dominant dependence on
+
+506
+00:32:13.662 --> 00:32:15.479
+the fourth power of the radius.
+
+507
+00:32:15.619 --> 00:32:19.613
+This fourth-power dependence explains why narrowing of the airways — by
+
+508
+00:32:19.613 --> 00:32:24.000
+bronchoconstriction, secretions, oedema or a narrow tracheal tube — so greatly
+
+509
+00:32:24.000 --> 00:32:26.925
+increases resistance and the work needed to breathe.
+
+510
+00:32:27.065 --> 00:32:31.954
+The work of breathing is the energy expended to move air against the elastic recoil
+
+511
+00:32:31.954 --> 00:32:35.605
+of the lung and chest wall and against this airway resistance;
+
+512
+00:32:35.605 --> 00:32:39.374
+it rises when resistance increases, as in asthma or obstruction,
+
+513
+00:32:39.374 --> 00:32:40.847
+or when compliance falls.
+
+514
+00:32:40.987 --> 00:32:44.648
+During anaesthesia we add the resistance of the breathing system,
+
+515
+00:32:44.648 --> 00:32:48.422
+the tracheal tube and the valves, increasing the work of breathing,
+
+516
+00:32:48.422 --> 00:32:51.407
+which is why we often support or control ventilation,
+
+517
+00:32:51.407 --> 00:32:53.829
+and why tube and circuit dimensions matter.
+
+518
+00:32:53.969 --> 00:32:58.279
+In turbulent obstruction, low-density Heliox can reduce the work.
+
+519
+00:32:58.419 --> 00:33:03.391
+So airway resistance follows the flow principles — turbulent and density-dependent
+
+520
+00:33:03.391 --> 00:33:07.879
+in large airways, laminar and viscosity-dependent with fourth-power radius
+
+521
+00:33:07.879 --> 00:33:12.669
+sensitivity in small ones — and the work of breathing rises with resistance and
+
+522
+00:33:12.669 --> 00:33:17.036
+falls with compliance, increased by anaesthetic equipment and reducible,
+
+523
+00:33:17.036 --> 00:33:19.219
+in turbulent obstruction, by Heliox.
+
+524
+00:33:19.719 --> 00:33:24.196
+What is the hazard of siphoning and free flow in infusion systems,
+
+525
+00:33:24.196 --> 00:33:26.503
+and how is it related to pressure?
+
+526
+00:33:27.003 --> 00:33:31.845
+Siphoning and free flow are recognised hazards of intravenous infusion systems that
+
+527
+00:33:31.845 --> 00:33:34.936
+arise directly from the physics of pressure and flow,
+
+528
+00:33:34.936 --> 00:33:39.195
+and understanding them is important for the safe use of infusion devices,
+
+529
+00:33:39.195 --> 00:33:43.045
+particularly syringe and volumetric pumps delivering potent drugs.
+
+530
+00:33:43.185 --> 00:33:48.040
+Free flow is the uncontrolled, rapid flow of fluid or drug to the patient when the
+
+531
+00:33:48.040 --> 00:33:52.954
+controlling mechanism is bypassed — for example if the giving set is removed from a
+
+532
+00:33:52.954 --> 00:33:55.856
+volumetric pump without closing the roller clamp,
+
+533
+00:33:55.856 --> 00:33:58.816
+allowing gravity to drive an unregulated infusion;
+
+534
+00:33:58.816 --> 00:34:01.895
+this can deliver a dangerous bolus of a potent drug.
+
+535
+00:34:02.035 --> 00:34:06.482
+It is prevented by anti-free-flow mechanisms in the giving set and by always
+
+536
+00:34:06.482 --> 00:34:08.413
+clamping before removing the set.
+
+537
+00:34:08.553 --> 00:34:11.789
+Siphoning is a related hazard specific to syringe pumps:
+
+538
+00:34:11.789 --> 00:34:15.833
+if the syringe is mounted at a height significantly above the patient,
+
+539
+00:34:15.833 --> 00:34:20.224
+the hydrostatic pressure of the vertical fluid column can siphon the syringe
+
+540
+00:34:20.224 --> 00:34:24.847
+contents into the patient, drawing the plunger down faster than the pump intends
+
+541
+00:34:24.847 --> 00:34:27.158
+and delivering an uncontrolled overdose;
+
+542
+00:34:27.158 --> 00:34:31.664
+this is worsened if the syringe is loosely mounted or the plunger not properly
+
+543
+00:34:31.664 --> 00:34:32.127
+engaged.
+
+544
+00:34:32.267 --> 00:34:37.121
+The hydrostatic pressure responsible is the height of the column multiplied by the
+
+545
+00:34:37.121 --> 00:34:41.205
+fluid density and gravity, the same principle as in any fluid column.
+
+546
+00:34:41.345 --> 00:34:45.637
+Siphoning is prevented by mounting the pump at or near the patient's level,
+
+547
+00:34:45.637 --> 00:34:49.414
+ensuring the syringe is correctly seated with the plunger secured,
+
+548
+00:34:49.414 --> 00:34:51.073
+and using anti-siphon valves.
+
+549
+00:34:51.213 --> 00:34:56.217
+So siphoning and free flow are uncontrolled infusion hazards driven by hydrostatic
+
+550
+00:34:56.217 --> 00:35:01.099
+and gravitational pressure when the pump's control is bypassed or the syringe is
+
+551
+00:35:01.099 --> 00:35:03.601
+raised, prevented by anti-free-flow sets,
+
+552
+00:35:03.601 --> 00:35:06.164
+correct syringe mounting at patient level,
+
+553
+00:35:06.164 --> 00:35:09.155
+secure plunger engagement and anti-siphon valves.
+
+554
+00:35:20.668 --> 00:35:24.059
+Thank you. A comprehensive and accomplished account,
+
+555
+00:35:24.059 --> 00:35:28.102
+and a fitting close to this opening batch of physics stations.
+
+556
+00:35:28.102 --> 00:35:29.863
+That concludes the station.
+
+557
+00:35:30.363 --> 00:35:33.840
+Before we close, here are the take-home messages.
+
+558
+00:35:33.980 --> 00:35:39.704
+First, Flow is driven by a pressure difference and opposed by resistance (analogous
+
+559
+00:35:39.704 --> 00:35:44.462
+to Ohm's law: flow equals pressure difference divided by resistance);
+
+560
+00:35:44.462 --> 00:35:48.669
+flow is volume per unit time, distinct from velocity (speed),
+
+561
+00:35:48.669 --> 00:35:50.876
+related by cross-sectional area.
+
+562
+00:35:51.016 --> 00:35:56.274
+Second, Laminar flow (smooth, viscosity-dependent) obeys the Hagen-Poiseuille
+
+563
+00:35:56.274 --> 00:36:01.943
+relationship - flow proportional to driving pressure and to the fourth power of the
+
+564
+00:36:01.943 --> 00:36:04.811
+radius, inversely to length and viscosity;
+
+565
+00:36:04.811 --> 00:36:10.274
+the fourth-power dependence on radius dominates (short wide cannulae resuscitate
+
+566
+00:36:10.274 --> 00:36:14.099
+best; small airway narrowing greatly raises resistance).
+
+567
+00:36:14.239 --> 00:36:19.986
+Third, Turbulent flow (chaotic, density-dependent) gives flow proportional to the
+
+568
+00:36:19.986 --> 00:36:25.520
+square root of pressure; the Reynolds number predicts the laminar-to-turbulent
+
+569
+00:36:25.520 --> 00:36:31.267
+transition; orifice flow is turbulent/density-dependent (hence low-density Heliox
+
+570
+00:36:31.267 --> 00:36:36.447
+helps airway obstruction) while tube flow is laminar/viscosity-dependent.
+
+571
+00:36:36.587 --> 00:36:42.001
+Fourth, The Bernoulli principle (faster fluid has lower pressure) underlies the
+
+572
+00:36:42.001 --> 00:36:47.347
+Venturi effect, which entrains a second fluid at a constriction - exploited in
+
+573
+00:36:47.347 --> 00:36:52.692
+fixed-performance oxygen masks (precise FiO2), nebulisers and jet ventilation;
+
+574
+00:36:52.692 --> 00:36:58.107
+the Coanda effect (jet clinging to a wall) affects branch-point flow and drives
+
+575
+00:36:58.107 --> 00:36:59.477
+fluidic ventilators.
+
+576
+00:36:59.617 --> 00:37:05.274
+Fifth, Laplace's law (wall tension proportional to pressure times radius in a
+
+577
+00:37:05.274 --> 00:37:08.212
+cylinder) explains capillary resilience,
+
+578
+00:37:08.212 --> 00:37:13.354
+aneurysm rupture risk and the dilated heart's increased oxygen demand;
+
+579
+00:37:13.354 --> 00:37:14.529
+alveolar surface
+
+580
+00:37:15.029 --> 00:37:17.504
+Thank you. That concludes the station.
+

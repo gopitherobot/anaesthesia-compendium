@@ -163,7 +163,11 @@ def fmt_dur(sec):
 
 
 def section_for(num: int) -> str:
-    return "Pharmacology" if num <= 35 else "Physiology"
+    if num <= 35:
+        return "Pharmacology"
+    if num <= 87:
+        return "Physiology"
+    return "Physics & Equipment"
 
 
 def main():
@@ -188,15 +192,15 @@ def main():
 
     index = []
     for sp in scripts:
-        base = sp.name[:-len(SCRIPT_SUFFIX)]          # 001_Principles_of_Pharmacokinetics
-        m = re.match(r'^(\d{3})_(.*)$', base)
+        base = sp.name[:-len(SCRIPT_SUFFIX)]          # 001_Principles…  or  040b_Smooth_Muscle…
+        m = re.match(r'^(\d{3})([A-Za-z]?)_(.*)$', base)
         if not m:
             print(f"   skip (bad name): {sp.name}"); continue
-        num = int(m.group(1)); nid = m.group(1)
+        num = int(m.group(1)); suffix = m.group(2).lower(); nid = m.group(1) + suffix
 
         title, turns = parse_script(sp)
         if not title:
-            title = m.group(2).replace("_", " ")
+            title = m.group(3).replace("_", " ")
         cues = parse_vtt(work / f"{base}_Podcast.vtt")
         speaker_turns = load_turns(work / f"{base}_turns.json")
         if speaker_turns:
@@ -243,7 +247,7 @@ def main():
         (out / "data" / "topics" / f"{nid}.json").write_text(
             json.dumps(topic, ensure_ascii=False), encoding="utf-8")
 
-        index.append({"id": nid, "num": num, "title": title,
+        index.append({"id": nid, "num": num, "suffix": suffix, "title": title,
                       "section": section_for(num),
                       "durationText": fmt_dur(dur),
                       "questionCount": topic["questionCount"],
@@ -251,7 +255,7 @@ def main():
                       "audio": audio_file, "video": video_file})
         print(f"  [{nid}] {title}  ({len(cues)} cues, {topic['questionCount']} Q, {fmt_dur(dur)})")
 
-    index.sort(key=lambda t: t["num"])
+    index.sort(key=lambda t: (t["num"], t.get("suffix", "")))
     (out / "data" / "topics.json").write_text(
         json.dumps({"count": len(index), "topics": index}, ensure_ascii=False, indent=0),
         encoding="utf-8")

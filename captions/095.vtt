@@ -1,0 +1,2514 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.412
+Welcome to Anaesthesia Compendium. Today's viva station: vaporisers.
+
+2
+00:00:05.412 --> 00:00:10.648
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.148 --> 00:00:14.366
+Let us begin. What is the purpose of a vaporiser,
+
+4
+00:00:14.366 --> 00:00:16.993
+and what physical problem must it solve?
+
+5
+00:00:17.493 --> 00:00:21.932
+A vaporiser is the device on the anaesthetic machine that converts a liquid
+
+6
+00:00:21.932 --> 00:00:26.785
+volatile anaesthetic agent into its vapour and adds it to the fresh gas flow in an
+
+7
+00:00:26.785 --> 00:00:31.639
+accurately controlled concentration, so that the anaesthetist can deliver a known,
+
+8
+00:00:31.639 --> 00:00:34.539
+adjustable concentration of agent to the patient.
+
+9
+00:00:34.679 --> 00:00:36.981
+Its purpose is therefore the controlled,
+
+10
+00:00:36.981 --> 00:00:40.435
+accurate and stable delivery of volatile anaesthetic vapour.
+
+11
+00:00:40.435 --> 00:00:45.039
+The physical problem it must solve arises from the nature of volatile agents and
+
+12
+00:00:45.039 --> 00:00:46.881
+their saturated vapour pressure.
+
+13
+00:00:47.021 --> 00:00:51.254
+A volatile agent in a closed container produces a vapour whose pressure,
+
+14
+00:00:51.254 --> 00:00:55.603
+the saturated vapour pressure, depends on the agent and rises steeply with
+
+15
+00:00:55.603 --> 00:01:00.423
+temperature; for the common agents this saturated vapour pressure is high relative
+
+16
+00:01:00.423 --> 00:01:02.833
+to the concentrations we wish to deliver,
+
+17
+00:01:02.833 --> 00:01:07.594
+so that gas fully saturated with agent contains far more than a clinically useful
+
+18
+00:01:07.594 --> 00:01:11.709
+concentration — for example, saturated sevoflurane vapour represents a
+
+19
+00:01:11.709 --> 00:01:14.648
+concentration far above the few per cent required.
+
+20
+00:01:14.788 --> 00:01:19.359
+The vaporiser must therefore take a controlled fraction of saturated vapour and
+
+21
+00:01:19.359 --> 00:01:23.815
+dilute it precisely into the fresh gas to give the low concentration desired,
+
+22
+00:01:23.815 --> 00:01:27.923
+and it must do this stably despite the cooling that evaporation causes,
+
+23
+00:01:27.923 --> 00:01:32.495
+despite changes in flow and temperature, and accurately for the specific agent.
+
+24
+00:01:32.635 --> 00:01:35.376
+The challenge is thus to produce a controlled,
+
+25
+00:01:35.376 --> 00:01:40.083
+dilute and stable output from a liquid whose vapour is far too concentrated and
+
+26
+00:01:40.083 --> 00:01:43.301
+whose evaporation tends to cool and so destabilise it.
+
+27
+00:01:43.441 --> 00:01:47.801
+So the vaporiser's purpose is to add volatile agent to the fresh gas in an
+
+28
+00:01:47.801 --> 00:01:49.921
+accurately controlled concentration,
+
+29
+00:01:49.921 --> 00:01:54.693
+and the physical problem it solves is to dilute the agent's high saturated vapour
+
+30
+00:01:54.693 --> 00:01:58.345
+pressure precisely to the low clinical concentration required,
+
+31
+00:01:58.345 --> 00:02:02.940
+stably despite the cooling of evaporation and changes in flow and temperature.
+
+32
+00:02:03.440 --> 00:02:08.581
+Explain saturated vapour pressure and how it relates to vaporiser output.
+
+33
+00:02:09.081 --> 00:02:13.590
+Saturated vapour pressure is the key physical property underlying vaporiser
+
+34
+00:02:13.590 --> 00:02:18.339
+function, and understanding it explains both how the vaporiser produces a known
+
+35
+00:02:18.339 --> 00:02:21.945
+concentration and why temperature compensation is necessary.
+
+36
+00:02:22.085 --> 00:02:26.767
+The saturated vapour pressure of a volatile agent is the partial pressure exerted
+
+37
+00:02:26.767 --> 00:02:31.448
+by its vapour when the vapour is in equilibrium with the liquid agent in a closed
+
+38
+00:02:31.448 --> 00:02:36.129
+space — that is, when the gas above the liquid is fully saturated and can hold no
+
+39
+00:02:36.129 --> 00:02:37.979
+more vapour at that temperature.
+
+40
+00:02:38.119 --> 00:02:42.702
+Its essential features are that it depends only on the agent and the temperature,
+
+41
+00:02:42.702 --> 00:02:47.399
+rising steeply as temperature rises, and being independent of the ambient pressure.
+
+42
+00:02:47.539 --> 00:02:52.017
+The concentration of agent in fully saturated vapour is the saturated vapour
+
+43
+00:02:52.017 --> 00:02:55.258
+pressure expressed as a fraction of the total pressure:
+
+44
+00:02:55.258 --> 00:02:58.440
+for an agent with a saturated vapour pressure of, say,
+
+45
+00:02:58.440 --> 00:03:00.974
+twenty-two kilopascals at room temperature,
+
+46
+00:03:00.974 --> 00:03:05.747
+fully saturated vapour at atmospheric pressure contains about twenty-two per cent
+
+47
+00:03:05.747 --> 00:03:09.341
+agent — far above the clinical requirement of a few per cent.
+
+48
+00:03:09.481 --> 00:03:14.238
+The vaporiser works by fully saturating a small portion of the gas flow with agent
+
+49
+00:03:14.238 --> 00:03:18.589
+and then diluting this with the remaining gas to achieve the desired output
+
+50
+00:03:18.589 --> 00:03:19.401
+concentration.
+
+51
+00:03:19.541 --> 00:03:23.159
+Because the saturated vapour pressure rises with temperature,
+
+52
+00:03:23.159 --> 00:03:27.904
+the concentration of agent in the saturated portion rises as the vaporiser warms
+
+53
+00:03:27.904 --> 00:03:32.767
+and falls as it cools — and the evaporation of agent cools the liquid — so without
+
+54
+00:03:32.767 --> 00:03:36.267
+compensation the output would fall as the vaporiser cooled.
+
+55
+00:03:36.407 --> 00:03:40.877
+So saturated vapour pressure is the temperature-dependent equilibrium vapour
+
+56
+00:03:40.877 --> 00:03:45.642
+pressure of the agent, determining the high concentration of the saturated vapour
+
+57
+00:03:45.642 --> 00:03:49.819
+that the vaporiser must dilute, and because it varies with temperature,
+
+58
+00:03:49.819 --> 00:03:54.702
+and evaporation cools the agent, the vaporiser requires temperature compensation to
+
+59
+00:03:54.702 --> 00:03:56.055
+keep its output stable.
+
+60
+00:03:56.555 --> 00:04:01.312
+Describe the principle of the variable-bypass plenum vaporiser.
+
+61
+00:04:01.812 --> 00:04:06.555
+The variable-bypass plenum vaporiser is the standard design of agent-specific
+
+62
+00:04:06.555 --> 00:04:11.112
+vaporiser used on the anaesthetic machine, and its principle of operation,
+
+63
+00:04:11.112 --> 00:04:13.699
+splitting the gas flow and recombining it,
+
+64
+00:04:13.699 --> 00:04:17.087
+is central to understanding controlled vapour delivery.
+
+65
+00:04:17.227 --> 00:04:21.785
+The term plenum denotes that the gas is driven through the vaporiser under a slight
+
+66
+00:04:21.785 --> 00:04:25.629
+positive pressure from the machine, as opposed to being drawn through.
+
+67
+00:04:25.629 --> 00:04:28.704
+The incoming fresh gas flow is divided into two streams.
+
+68
+00:04:28.844 --> 00:04:32.492
+One stream, the smaller, is directed into the vaporising chamber,
+
+69
+00:04:32.492 --> 00:04:36.981
+where it passes over or through the liquid agent — often via wicks that increase
+
+70
+00:04:36.981 --> 00:04:41.077
+the surface area — and becomes fully saturated with vapour at the chamber
+
+71
+00:04:41.077 --> 00:04:41.751
+temperature.
+
+72
+00:04:41.891 --> 00:04:45.917
+The other, larger stream bypasses the vaporising chamber entirely.
+
+73
+00:04:45.917 --> 00:04:48.358
+The two streams recombine at the outlet,
+
+74
+00:04:48.358 --> 00:04:53.299
+the saturated vapour from the chamber being diluted by the bypass gas to give the
+
+75
+00:04:53.299 --> 00:04:54.947
+final output concentration.
+
+76
+00:04:55.087 --> 00:04:59.877
+The proportion of gas directed into the chamber versus the bypass — the splitting
+
+77
+00:04:59.877 --> 00:05:02.775
+ratio — is set by the concentration control dial,
+
+78
+00:05:02.775 --> 00:05:06.559
+which the anaesthetist turns to select the output concentration;
+
+79
+00:05:06.559 --> 00:05:11.172
+a higher setting directs more gas through the chamber, giving a higher output.
+
+80
+00:05:11.312 --> 00:05:16.025
+The vaporiser is calibrated so that the dial setting corresponds to the actual
+
+81
+00:05:16.025 --> 00:05:20.616
+delivered concentration, accounting for the saturated vapour pressure of the
+
+82
+00:05:20.616 --> 00:05:24.362
+specific agent, which is why each vaporiser is agent-specific.
+
+83
+00:05:24.362 --> 00:05:27.504
+Temperature and flow compensation maintain accuracy.
+
+84
+00:05:27.644 --> 00:05:32.665
+So the variable-bypass plenum vaporiser splits the fresh gas into a stream that is
+
+85
+00:05:32.665 --> 00:05:36.461
+fully saturated in the vaporising chamber and a bypass stream,
+
+86
+00:05:36.461 --> 00:05:40.748
+recombining them so that the saturated vapour is diluted to the output
+
+87
+00:05:40.748 --> 00:05:45.830
+concentration, the splitting ratio set by the concentration dial and calibrated for
+
+88
+00:05:45.830 --> 00:05:46.993
+the specific agent.
+
+89
+00:05:58.507 --> 00:06:03.051
+How is temperature compensation achieved, and why is it necessary?
+
+90
+00:06:03.551 --> 00:06:07.943
+Temperature compensation is essential to the accurate function of the plenum
+
+91
+00:06:07.943 --> 00:06:11.873
+vaporiser, because the output would otherwise vary with temperature,
+
+92
+00:06:11.873 --> 00:06:16.150
+and it is achieved by a combination of the vaporiser's construction and an
+
+93
+00:06:16.150 --> 00:06:18.057
+automatic compensating mechanism.
+
+94
+00:06:18.197 --> 00:06:20.779
+The necessity arises from two linked effects.
+
+95
+00:06:20.919 --> 00:06:24.001
+First, the saturated vapour pressure of the agent,
+
+96
+00:06:24.001 --> 00:06:27.514
+and so the concentration in the saturated portion of gas,
+
+97
+00:06:27.514 --> 00:06:31.459
+rises with temperature and falls as the vaporiser cools; second,
+
+98
+00:06:31.459 --> 00:06:35.095
+the evaporation of agent draws latent heat from the liquid,
+
+99
+00:06:35.095 --> 00:06:38.177
+cooling it progressively as the vaporiser is used.
+
+100
+00:06:38.317 --> 00:06:43.175
+Without compensation, the vaporiser would therefore cool during use and its output
+
+101
+00:06:43.175 --> 00:06:47.085
+would fall, becoming inaccurate. Two design features address this.
+
+102
+00:06:47.225 --> 00:06:51.782
+The vaporiser is constructed of metal of high thermal capacity and high thermal
+
+103
+00:06:51.782 --> 00:06:56.397
+conductivity, so that it acts as a heat reservoir and readily conducts heat from
+
+104
+00:06:56.397 --> 00:06:58.646
+the surroundings to the cooling liquid,
+
+105
+00:06:58.646 --> 00:07:03.376
+minimising and slowing the temperature fall and keeping the temperature relatively
+
+106
+00:07:03.376 --> 00:07:03.780
+stable.
+
+107
+00:07:03.920 --> 00:07:08.768
+Second, an automatic temperature-compensating mechanism adjusts the splitting ratio
+
+108
+00:07:08.768 --> 00:07:12.856
+as the temperature changes: typically a temperature-sensitive element,
+
+109
+00:07:12.856 --> 00:07:15.777
+such as a bimetallic strip or an expansion device,
+
+110
+00:07:15.777 --> 00:07:19.106
+alters the size of the bypass or chamber channel so that,
+
+111
+00:07:19.106 --> 00:07:22.669
+as the vaporiser cools and the saturated concentration falls,
+
+112
+00:07:22.669 --> 00:07:25.881
+more gas is directed through the chamber to compensate,
+
+113
+00:07:25.881 --> 00:07:29.093
+keeping the output constant, and conversely on warming.
+
+114
+00:07:29.233 --> 00:07:33.095
+This maintains a stable output over the range of clinical temperatures.
+
+115
+00:07:33.235 --> 00:07:38.039
+So temperature compensation is necessary because the saturated vapour pressure
+
+116
+00:07:38.039 --> 00:07:41.242
+falls and the agent cools by latent heat during use,
+
+117
+00:07:41.242 --> 00:07:43.952
+and it is achieved by high-thermal-capacity,
+
+118
+00:07:43.952 --> 00:07:48.694
+high-conductivity construction acting as a heat reservoir and by an automatic
+
+119
+00:07:48.694 --> 00:07:52.390
+temperature-sensitive mechanism, such as a bimetallic strip,
+
+120
+00:07:52.390 --> 00:07:56.147
+that adjusts the splitting ratio to hold the output constant.
+
+121
+00:07:56.647 --> 00:08:01.276
+What other factors affect vaporiser output, and how are they managed?
+
+122
+00:08:01.776 --> 00:08:06.531
+Besides temperature, several other factors can affect the output of a vaporiser,
+
+123
+00:08:06.531 --> 00:08:11.167
+and a complete account must consider how the design manages them and where the
+
+124
+00:08:11.167 --> 00:08:14.020
+anaesthetist must remain aware of their effects.
+
+125
+00:08:14.020 --> 00:08:16.219
+The first is the fresh gas flow rate.
+
+126
+00:08:16.359 --> 00:08:21.001
+A well-designed vaporiser is calibrated to give an accurate output over a wide
+
+127
+00:08:21.001 --> 00:08:25.882
+range of flows, the design ensuring full saturation of the chamber gas across this
+
+128
+00:08:25.882 --> 00:08:30.703
+range, but at very low and very high flows accuracy may fall — at very high flows
+
+129
+00:08:30.703 --> 00:08:34.037
+the chamber gas may not fully saturate, reducing output,
+
+130
+00:08:34.037 --> 00:08:36.775
+and at very low flows other effects intervene.
+
+131
+00:08:36.915 --> 00:08:39.325
+The second is the carrier gas composition:
+
+132
+00:08:39.325 --> 00:08:42.079
+the output is slightly affected by the gas used,
+
+133
+00:08:42.079 --> 00:08:46.210
+since the addition of nitrous oxide, which is more soluble in the agent,
+
+134
+00:08:46.210 --> 00:08:50.858
+can transiently alter output, and the viscosity and density of the carrier affect
+
+135
+00:08:50.858 --> 00:08:53.555
+the splitting; these effects are usually small.
+
+136
+00:08:53.695 --> 00:08:57.647
+The third is intermittent back pressure from the patient or ventilator,
+
+137
+00:08:57.647 --> 00:09:01.656
+transmitted back into the vaporiser, which can cause the pumping effect,
+
+138
+00:09:01.656 --> 00:09:06.110
+where the fluctuating pressure intermittently compresses and expands the chamber
+
+139
+00:09:06.110 --> 00:09:09.450
+gas, episodically increasing the output above the set value;
+
+140
+00:09:09.450 --> 00:09:13.458
+this is minimised by design features such as a long inlet tube, baffles,
+
+141
+00:09:13.458 --> 00:09:16.799
+or check valves to reduce the transmission of back pressure.
+
+142
+00:09:16.939 --> 00:09:20.092
+A related pressurising effect can also alter output.
+
+143
+00:09:20.092 --> 00:09:24.457
+Tilting or tipping the vaporiser can allow liquid agent into the bypass,
+
+144
+00:09:24.457 --> 00:09:28.944
+causing a dangerously high output, so vaporisers must be kept upright and,
+
+145
+00:09:28.944 --> 00:09:30.763
+if tipped, flushed before use.
+
+146
+00:09:30.903 --> 00:09:34.396
+So vaporiser output is affected by flow rate, carrier gas,
+
+147
+00:09:34.396 --> 00:09:38.432
+intermittent back pressure causing the pumping effect, and tilting,
+
+148
+00:09:38.432 --> 00:09:41.022
+managed by calibration across a flow range,
+
+149
+00:09:41.022 --> 00:09:44.154
+by design features minimising back-pressure effects,
+
+150
+00:09:44.154 --> 00:09:48.672
+and by keeping the vaporiser upright — with the anaesthetist aware of these
+
+151
+00:09:48.672 --> 00:09:49.335
+influences.
+
+152
+00:09:49.835 --> 00:09:54.571
+Why does desflurane require a special vaporiser, and how does it work?
+
+153
+00:09:55.071 --> 00:09:59.924
+Desflurane requires a fundamentally different vaporiser from the other volatile
+
+154
+00:09:59.924 --> 00:10:02.995
+agents because of its unusual physical properties,
+
+155
+00:10:02.995 --> 00:10:07.786
+and the design of its vaporiser is an instructive contrast to the conventional
+
+156
+00:10:07.786 --> 00:10:08.831
+plenum vaporiser.
+
+157
+00:10:08.971 --> 00:10:11.382
+The peculiarity of desflurane is twofold:
+
+158
+00:10:11.382 --> 00:10:14.028
+it has a very high saturated vapour pressure,
+
+159
+00:10:14.028 --> 00:10:16.968
+close to atmospheric pressure at room temperature,
+
+160
+00:10:16.968 --> 00:10:20.673
+and a boiling point of only about twenty-three degrees Celsius,
+
+161
+00:10:20.673 --> 00:10:22.731
+just above normal room temperature.
+
+162
+00:10:22.871 --> 00:10:27.627
+These properties make it unsuitable for a conventional variable-bypass vaporiser:
+
+163
+00:10:27.627 --> 00:10:32.325
+its saturated vapour pressure is so high that small changes in temperature would
+
+164
+00:10:32.325 --> 00:10:35.143
+cause enormous, unpredictable changes in output,
+
+165
+00:10:35.143 --> 00:10:37.669
+and because it boils near room temperature,
+
+166
+00:10:37.669 --> 00:10:42.366
+the cooling of evaporation or a warm theatre could cause it to boil erratically,
+
+167
+00:10:42.366 --> 00:10:45.655
+making conventional temperature compensation impossible.
+
+168
+00:10:45.795 --> 00:10:48.936
+The solution is a heated, pressurised vaporiser,
+
+169
+00:10:48.936 --> 00:10:51.555
+exemplified by the desflurane vaporiser.
+
+170
+00:10:51.695 --> 00:10:56.285
+In this design, the desflurane is contained in a sump that is electrically heated
+
+171
+00:10:56.285 --> 00:11:00.989
+to a constant temperature well above its boiling point, around thirty-nine degrees,
+
+172
+00:11:00.989 --> 00:11:04.559
+so that it is maintained as a pressurised vapour at a constant,
+
+173
+00:11:04.559 --> 00:11:08.356
+high and reproducible pressure, independent of ambient temperature.
+
+174
+00:11:08.496 --> 00:11:11.850
+This pure desflurane vapour is then injected, or metered,
+
+175
+00:11:11.850 --> 00:11:14.675
+into the fresh gas flow through a control valve,
+
+176
+00:11:14.675 --> 00:11:19.323
+the amount being electronically adjusted in proportion to the fresh gas flow to
+
+177
+00:11:19.323 --> 00:11:20.912
+give the set concentration.
+
+178
+00:11:21.052 --> 00:11:23.706
+Thus rather than passing gas over the liquid,
+
+179
+00:11:23.706 --> 00:11:28.305
+the device produces vapour at a controlled pressure and meters it into the gas
+
+180
+00:11:28.305 --> 00:11:32.551
+stream. The vaporiser requires electrical power and warms up before use.
+
+181
+00:11:32.691 --> 00:11:37.202
+So desflurane requires a special vaporiser because its high saturated vapour
+
+182
+00:11:37.202 --> 00:11:41.832
+pressure and near-room-temperature boiling point preclude conventional design,
+
+183
+00:11:41.832 --> 00:11:46.699
+and its heated, pressurised vaporiser holds the agent as vapour at a constant high
+
+184
+00:11:46.699 --> 00:11:51.447
+temperature and pressure and meters it electronically into the fresh gas flow in
+
+185
+00:11:51.447 --> 00:11:52.872
+proportion to that flow.
+
+186
+00:12:04.385 --> 00:12:09.228
+Describe the filling of vaporisers and the safety features involved.
+
+187
+00:12:09.728 --> 00:12:14.241
+The filling of vaporisers with liquid agent is a procedure with important safety
+
+188
+00:12:14.241 --> 00:12:18.247
+implications, and a system of safety features is built into the filling
+
+189
+00:12:18.247 --> 00:12:22.704
+arrangements to prevent errors, principally the filling of a vaporiser with the
+
+190
+00:12:22.704 --> 00:12:23.381
+wrong agent.
+
+191
+00:12:23.521 --> 00:12:28.283
+The central hazard is that a vaporiser filled with an agent other than the one for
+
+192
+00:12:28.283 --> 00:12:32.754
+which it is calibrated would deliver an incorrect, and potentially dangerous,
+
+193
+00:12:32.754 --> 00:12:37.400
+concentration, because the calibration depends on the specific agent's saturated
+
+194
+00:12:37.400 --> 00:12:41.813
+vapour pressure; an agent of higher saturated vapour pressure in a vaporiser
+
+195
+00:12:41.813 --> 00:12:46.284
+calibrated for a less volatile agent would cause an overdose, and vice versa.
+
+196
+00:12:46.424 --> 00:12:49.897
+To prevent this, agent-specific keyed filling systems are used:
+
+197
+00:12:49.897 --> 00:12:54.031
+each agent's bottle and the vaporiser's filler port have a uniquely shaped,
+
+198
+00:12:54.031 --> 00:12:58.551
+colour-coded keyed fitting, so that a vaporiser can only be filled from the bottle
+
+199
+00:12:58.551 --> 00:13:02.851
+of its correct agent, the keyed filler physically preventing connection of the
+
+200
+00:13:02.851 --> 00:13:03.512
+wrong agent.
+
+201
+00:13:03.652 --> 00:13:07.449
+The colour coding of agents and vaporisers further aids recognition.
+
+202
+00:13:07.589 --> 00:13:12.140
+The filling system is also designed to minimise spillage and the escape of vapour
+
+203
+00:13:12.140 --> 00:13:16.578
+into the theatre, reducing pollution, and to allow filling without overfilling,
+
+204
+00:13:16.578 --> 00:13:18.994
+a level indicator showing the liquid level,
+
+205
+00:13:18.994 --> 00:13:23.376
+since overfilling can allow liquid into the bypass and cause excessive output.
+
+206
+00:13:23.516 --> 00:13:27.418
+Vaporisers should be filled in a well-ventilated area, kept upright,
+
+207
+00:13:27.418 --> 00:13:28.508
+and not overfilled.
+
+208
+00:13:28.648 --> 00:13:31.452
+So vaporiser filling employs agent-specific keyed,
+
+209
+00:13:31.452 --> 00:13:35.658
+colour-coded fillers that physically prevent filling with the wrong agent —
+
+210
+00:13:35.658 --> 00:13:39.976
+guarding against the dangerous error of incorrect calibration — together with
+
+211
+00:13:39.976 --> 00:13:43.790
+measures to limit spillage and pollution and to prevent overfilling,
+
+212
+00:13:43.790 --> 00:13:47.379
+with the vaporiser kept upright and filled to the correct level.
+
+213
+00:13:47.879 --> 00:13:51.377
+What are drawover vaporisers, and where are they used?
+
+214
+00:13:51.877 --> 00:13:56.775
+Drawover vaporisers are a distinct class of vaporiser designed to operate without a
+
+215
+00:13:56.775 --> 00:14:01.320
+pressurised gas supply, the gas being drawn through them by the patient's own
+
+216
+00:14:01.320 --> 00:14:04.034
+respiratory effort or a self-inflating device,
+
+217
+00:14:04.034 --> 00:14:07.280
+and they have an important role in particular settings.
+
+218
+00:14:07.420 --> 00:14:11.938
+Unlike the plenum vaporiser, through which gas is driven under positive pressure
+
+219
+00:14:11.938 --> 00:14:16.569
+from the anaesthetic machine, the drawover vaporiser is designed to offer very low
+
+220
+00:14:16.569 --> 00:14:21.031
+resistance to flow, so that the patient can draw air through it by inspiration,
+
+221
+00:14:21.031 --> 00:14:24.363
+or a bellows or self-inflating bag can draw gas through it;
+
+222
+00:14:24.363 --> 00:14:28.655
+this makes it suitable for use where no compressed gas supply or anaesthetic
+
+223
+00:14:28.655 --> 00:14:29.841
+machine is available.
+
+224
+00:14:29.981 --> 00:14:34.897
+Examples include the older Oxford Miniature Vaporiser and the Epstein Macintosh
+
+225
+00:14:34.897 --> 00:14:35.955
+Oxford vaporiser.
+
+226
+00:14:36.095 --> 00:14:40.268
+Their key features are low internal resistance, robustness, simplicity,
+
+227
+00:14:40.268 --> 00:14:45.088
+and the ability to function with air as the carrier gas drawn from the atmosphere,
+
+228
+00:14:45.088 --> 00:14:46.911
+with oxygen added if available.
+
+229
+00:14:47.051 --> 00:14:51.571
+They are calibrated differently and may have less precise temperature compensation,
+
+230
+00:14:51.571 --> 00:14:55.983
+though some incorporate it, and they are typically used with a non-rebreathing or
+
+231
+00:14:55.983 --> 00:14:58.869
+simple breathing system incorporating one-way valves.
+
+232
+00:14:59.009 --> 00:15:02.271
+Their principal applications are in field anaesthesia,
+
+233
+00:15:02.271 --> 00:15:06.075
+military and remote settings, in resource-limited environments,
+
+234
+00:15:06.075 --> 00:15:08.914
+and in some transport and emergency situations,
+
+235
+00:15:08.914 --> 00:15:13.625
+where their independence from compressed gas and electrical supplies and their
+
+236
+00:15:13.625 --> 00:15:16.161
+simplicity and reliability are invaluable.
+
+237
+00:15:16.301 --> 00:15:21.190
+So drawover vaporisers are low-resistance vaporisers through which gas is drawn by
+
+238
+00:15:21.190 --> 00:15:25.602
+the patient's effort or a manual device rather than driven under pressure,
+
+239
+00:15:25.602 --> 00:15:30.491
+calibrated for use with air, and valued for their independence from compressed gas
+
+240
+00:15:30.491 --> 00:15:34.605
+supplies in field, military, remote and resource-limited anaesthesia.
+
+241
+00:15:46.119 --> 00:15:51.687
+Describe the modern injection or cassette vaporiser of electronic machines.
+
+242
+00:15:52.187 --> 00:15:56.642
+Modern electronically controlled anaesthetic machines may dispense with the
+
+243
+00:15:56.642 --> 00:16:00.504
+conventional mounted plenum vaporiser in favour of an integrated,
+
+244
+00:16:00.504 --> 00:16:02.643
+electronically controlled vaporiser,
+
+245
+00:16:02.643 --> 00:16:06.029
+of which the injection and cassette designs are examples,
+
+246
+00:16:06.029 --> 00:16:10.128
+and these represent an evolution in vapour delivery worth describing.
+
+247
+00:16:10.268 --> 00:16:13.500
+In one approach, exemplified by the cassette vaporiser,
+
+248
+00:16:13.500 --> 00:16:17.378
+the agent is held in an electronically controlled vaporising unit,
+
+249
+00:16:17.378 --> 00:16:21.609
+sometimes a removable agent-specific cassette identified by the machine,
+
+250
+00:16:21.609 --> 00:16:26.017
+and the machine measures the fresh gas flow and the agent concentration and
+
+251
+00:16:26.017 --> 00:16:30.306
+electronically controls the addition of vapour to achieve the set output,
+
+252
+00:16:30.306 --> 00:16:33.009
+using feedback from concentration measurement.
+
+253
+00:16:33.149 --> 00:16:36.713
+The agent may be vaporised in a controlled chamber and metered,
+
+254
+00:16:36.713 --> 00:16:41.295
+or injected as measured quantities of liquid or vapour into the fresh gas stream,
+
+255
+00:16:41.295 --> 00:16:45.368
+the electronic control system continuously adjusting to maintain the set
+
+256
+00:16:45.368 --> 00:16:48.140
+concentration regardless of flow and temperature,
+
+257
+00:16:48.140 --> 00:16:51.987
+using direct measurement of the delivered concentration as feedback.
+
+258
+00:16:52.127 --> 00:16:57.006
+The advantages are precise control across a wide range of flows including very low
+
+259
+00:16:57.006 --> 00:17:00.219
+flows, automatic compensation for changing conditions,
+
+260
+00:17:00.219 --> 00:17:03.075
+agent identification preventing the wrong agent,
+
+261
+00:17:03.075 --> 00:17:06.288
+integration with the machine's monitoring and control,
+
+262
+00:17:06.288 --> 00:17:10.751
+and the ability to support advanced low-flow and closed-circuit techniques.
+
+263
+00:17:10.891 --> 00:17:14.545
+The system depends on electrical power and electronic function,
+
+264
+00:17:14.545 --> 00:17:19.243
+with appropriate alarms and backups. These designs allow the machine to deliver a
+
+265
+00:17:19.243 --> 00:17:23.999
+precisely controlled concentration measured directly rather than relying solely on
+
+266
+00:17:23.999 --> 00:17:25.333
+mechanical calibration.
+
+267
+00:17:25.473 --> 00:17:30.374
+So the modern injection or cassette vaporiser holds the agent in an electronically
+
+268
+00:17:30.374 --> 00:17:35.275
+controlled, often agent-specific unit and meters vapour or injects liquid into the
+
+269
+00:17:35.275 --> 00:17:39.100
+fresh gas under feedback control from concentration measurement,
+
+270
+00:17:39.100 --> 00:17:42.985
+offering precise output across all flows, automatic compensation,
+
+271
+00:17:42.985 --> 00:17:46.212
+agent identification and integration with the machine,
+
+272
+00:17:46.212 --> 00:17:48.364
+while depending on electrical power.
+
+273
+00:17:48.864 --> 00:17:53.579
+What are the principal hazards of vaporisers, and how are they prevented?
+
+274
+00:17:54.079 --> 00:17:57.951
+Vaporisers, delivering potent agents in controlled concentrations,
+
+275
+00:17:57.951 --> 00:18:01.764
+carry several hazards that can harm the patient through overdose,
+
+276
+00:18:01.764 --> 00:18:06.047
+underdose or the wrong agent, and a systematic account of these and their
+
+277
+00:18:06.047 --> 00:18:07.455
+prevention is important.
+
+278
+00:18:07.595 --> 00:18:12.338
+The first is the wrong agent, filling a vaporiser with an agent other than its
+
+279
+00:18:12.338 --> 00:18:15.683
+calibration, causing a dangerous overdose or underdose;
+
+280
+00:18:15.683 --> 00:18:19.941
+this is prevented by agent-specific keyed fillers, colour coding, and,
+
+281
+00:18:19.941 --> 00:18:22.677
+in electronic machines, agent identification.
+
+282
+00:18:22.817 --> 00:18:24.993
+The second is overfilling or tilting,
+
+283
+00:18:24.993 --> 00:18:29.461
+allowing liquid agent into the bypass and causing a dangerously high output;
+
+284
+00:18:29.461 --> 00:18:33.753
+prevented by filling to the correct level, keeping the vaporiser upright,
+
+285
+00:18:33.753 --> 00:18:35.105
+and flushing if tipped.
+
+286
+00:18:35.245 --> 00:18:38.330
+The third is the simultaneous use of two vaporisers,
+
+287
+00:18:38.330 --> 00:18:43.075
+delivering a mixture of agents; prevented by the back bar interlock that permits
+
+288
+00:18:43.075 --> 00:18:44.973
+only one vaporiser on at a time.
+
+289
+00:18:45.113 --> 00:18:49.903
+The fourth is incorrect output from the effects already discussed — back pressure
+
+290
+00:18:49.903 --> 00:18:52.327
+and the pumping effect, extremes of flow,
+
+291
+00:18:52.327 --> 00:18:54.987
+or temperature outside the compensated range;
+
+292
+00:18:54.987 --> 00:18:58.831
+minimised by design and by operating within the calibrated range.
+
+293
+00:18:58.971 --> 00:19:03.548
+The fifth is leaving the vaporiser off when intended on, risking awareness,
+
+294
+00:19:03.548 --> 00:19:06.111
+or on when intended off, risking overdose,
+
+295
+00:19:06.111 --> 00:19:08.735
+detected by agent concentration monitoring.
+
+296
+00:19:08.735 --> 00:19:13.435
+The sixth is leaks from a poorly seated vaporiser, detected by the leak test.
+
+297
+00:19:13.575 --> 00:19:17.700
+The seventh is the pollution and the hazard of liquid agent spillage.
+
+298
+00:19:17.700 --> 00:19:22.303
+Agent concentration monitoring provides an essential independent check of the
+
+299
+00:19:22.303 --> 00:19:24.156
+actual delivered concentration.
+
+300
+00:19:24.296 --> 00:19:27.908
+So vaporiser hazards — the wrong agent, overfilling and tilting,
+
+301
+00:19:27.908 --> 00:19:31.464
+two vaporisers at once, incorrect output, being left on or off,
+
+302
+00:19:31.464 --> 00:19:35.302
+and leaks — are prevented by keyed fillers and agent identification,
+
+303
+00:19:35.302 --> 00:19:38.237
+correct filling and upright handling, the interlock,
+
+304
+00:19:38.237 --> 00:19:42.131
+operating within the calibrated range, the leak test, and, above all,
+
+305
+00:19:42.131 --> 00:19:44.840
+monitoring of the delivered agent concentration.
+
+306
+00:19:45.340 --> 00:19:50.716
+Finally, draw together the principles of the vaporiser as they bear on practice.
+
+307
+00:19:51.216 --> 00:19:55.239
+Drawing the station together, the vaporiser is the device that allows the
+
+308
+00:19:55.239 --> 00:19:57.664
+controlled delivery of volatile anaesthesia,
+
+309
+00:19:57.664 --> 00:20:02.073
+and understanding its principles is essential to its safe use and to recognising
+
+310
+00:20:02.073 --> 00:20:05.765
+the factors that affect the concentration delivered to the patient.
+
+311
+00:20:05.905 --> 00:20:10.670
+Its purpose is to add volatile agent to the fresh gas in an accurately controlled
+
+312
+00:20:10.670 --> 00:20:15.494
+concentration, solving the physical problem of diluting the agent's high saturated
+
+313
+00:20:15.494 --> 00:20:18.965
+vapour pressure to the low clinical concentration required,
+
+314
+00:20:18.965 --> 00:20:21.436
+stably despite the cooling of evaporation.
+
+315
+00:20:21.576 --> 00:20:26.430
+The standard variable-bypass plenum vaporiser achieves this by splitting the fresh
+
+316
+00:20:26.430 --> 00:20:30.810
+gas into a stream saturated in the vaporising chamber and a bypass stream,
+
+317
+00:20:30.810 --> 00:20:35.546
+recombining them at a ratio set by the concentration dial and calibrated for the
+
+318
+00:20:35.546 --> 00:20:40.459
+specific agent, with temperature compensation by high-thermal-capacity construction
+
+319
+00:20:40.459 --> 00:20:45.135
+and a bimetallic mechanism, and management of the effects of flow, carrier gas,
+
+320
+00:20:45.135 --> 00:20:47.325
+back pressure and the pumping effect.
+
+321
+00:20:47.465 --> 00:20:51.321
+Desflurane, with its near-atmospheric saturated vapour pressure and
+
+322
+00:20:51.321 --> 00:20:54.487
+near-room-temperature boiling point, requires a heated,
+
+323
+00:20:54.487 --> 00:20:57.940
+pressurised vaporiser that meters its vapour electronically.
+
+324
+00:20:58.080 --> 00:21:00.435
+Drawover vaporisers, of low resistance,
+
+325
+00:21:00.435 --> 00:21:03.152
+serve field and resource-limited anaesthesia,
+
+326
+00:21:03.152 --> 00:21:07.379
+and modern electronic injection and cassette vaporisers offer precise,
+
+327
+00:21:07.379 --> 00:21:09.131
+feedback-controlled delivery.
+
+328
+00:21:09.271 --> 00:21:13.541
+Throughout, agent-specific keyed fillers, the interlock, upright handling,
+
+329
+00:21:13.541 --> 00:21:16.657
+operation within the calibrated range, and, crucially,
+
+330
+00:21:16.657 --> 00:21:21.273
+monitoring of the delivered agent concentration guard against the hazards of the
+
+331
+00:21:21.273 --> 00:21:23.351
+wrong agent, overdose and underdose.
+
+332
+00:21:23.491 --> 00:21:28.133
+So the vaporiser unites the physics of saturated vapour pressure and temperature
+
+333
+00:21:28.133 --> 00:21:32.891
+with precise engineering and safeguards to deliver controlled volatile anaesthesia
+
+334
+00:21:32.891 --> 00:21:36.547
+— a device whose principles underpin its safe and accurate use.
+
+335
+00:21:48.060 --> 00:21:53.863
+What is the role of wicks and the vaporising chamber design in the plenum vaporiser?
+
+336
+00:21:54.363 --> 00:21:56.403
+The design of the vaporising chamber,
+
+337
+00:21:56.403 --> 00:21:58.995
+and in particular the use of wicks and baffles,
+
+338
+00:21:58.995 --> 00:22:01.917
+is important to the function of the plenum vaporiser,
+
+339
+00:22:01.917 --> 00:22:06.494
+because it ensures that the gas passing through the chamber becomes fully saturated
+
+340
+00:22:06.494 --> 00:22:10.299
+with agent, which is the assumption on which the calibration depends.
+
+341
+00:22:10.439 --> 00:22:13.834
+For the vaporiser to deliver its calibrated concentration,
+
+342
+00:22:13.834 --> 00:22:18.693
+the portion of gas directed into the vaporising chamber must emerge fully saturated
+
+343
+00:22:18.693 --> 00:22:22.966
+with vapour at the chamber temperature; if it were only partly saturated,
+
+344
+00:22:22.966 --> 00:22:25.308
+the output would be lower than intended.
+
+345
+00:22:25.448 --> 00:22:27.710
+To achieve full saturation efficiently,
+
+346
+00:22:27.710 --> 00:22:32.234
+the chamber is designed to maximise the contact between the gas and the liquid
+
+347
+00:22:32.234 --> 00:22:34.728
+agent and the surface area for evaporation.
+
+348
+00:22:34.868 --> 00:22:39.525
+Wicks — absorbent materials that draw the liquid agent up by capillary action and
+
+349
+00:22:39.525 --> 00:22:43.896
+present a large wetted surface to the gas — greatly increase the area of the
+
+350
+00:22:43.896 --> 00:22:48.553
+liquid-gas interface, so that the gas is fully saturated even at higher flows and
+
+351
+00:22:48.553 --> 00:22:49.588
+over a short path.
+
+352
+00:22:49.728 --> 00:22:54.552
+Baffles direct the gas over a tortuous path across the liquid and wick surfaces,
+
+353
+00:22:54.552 --> 00:22:57.205
+prolonging contact and promoting saturation.
+
+354
+00:22:57.205 --> 00:23:00.883
+This design allows the vaporiser to maintain full saturation,
+
+355
+00:23:00.883 --> 00:23:05.707
+and hence accurate output, across the range of flows for which it is calibrated.
+
+356
+00:23:05.847 --> 00:23:10.693
+The large wetted surface also means that evaporation, and so the cooling it causes,
+
+357
+00:23:10.693 --> 00:23:15.365
+is distributed, working with the high-thermal-capacity construction to stabilise
+
+358
+00:23:15.365 --> 00:23:16.065
+temperature.
+
+359
+00:23:16.205 --> 00:23:21.150
+So wicks and baffles in the vaporising chamber maximise the surface area and the
+
+360
+00:23:21.150 --> 00:23:23.746
+contact time between gas and liquid agent,
+
+361
+00:23:23.746 --> 00:23:28.505
+ensuring the chamber gas becomes fully saturated as the calibration requires,
+
+362
+00:23:28.505 --> 00:23:33.512
+maintaining accurate output across the flow range and distributing the cooling of
+
+363
+00:23:33.512 --> 00:23:34.253
+evaporation.
+
+364
+00:23:34.753 --> 00:23:39.809
+How does ambient pressure, as at altitude, affect vaporiser output?
+
+365
+00:23:40.309 --> 00:23:45.068
+The effect of ambient pressure on vaporiser output is a point of some subtlety,
+
+366
+00:23:45.068 --> 00:23:49.888
+because the volatile agent exerts its anaesthetic effect by its partial pressure
+
+367
+00:23:49.888 --> 00:23:52.659
+rather than its volumes-percent concentration,
+
+368
+00:23:52.659 --> 00:23:55.008
+and altitude affects these differently.
+
+369
+00:23:55.148 --> 00:23:59.772
+A conventional variable-bypass vaporiser is calibrated to deliver a set
+
+370
+00:23:59.772 --> 00:24:03.745
+volumes-percent concentration at normal atmospheric pressure.
+
+371
+00:24:03.885 --> 00:24:07.916
+The saturated vapour pressure of the agent depends only on temperature,
+
+372
+00:24:07.916 --> 00:24:12.629
+not on ambient pressure, so at a given temperature the partial pressure of agent in
+
+373
+00:24:12.629 --> 00:24:14.616
+the saturated chamber gas is fixed.
+
+374
+00:24:14.756 --> 00:24:19.267
+When the ambient pressure falls, as at altitude, the situation is as follows:
+
+375
+00:24:19.267 --> 00:24:23.778
+the vaporiser continues to deliver approximately the same partial pressure of
+
+376
+00:24:23.778 --> 00:24:27.176
+agent, because the saturated vapour pressure is unchanged,
+
+377
+00:24:27.176 --> 00:24:31.979
+but this partial pressure now represents a higher volumes-percent concentration of
+
+378
+00:24:31.979 --> 00:24:33.444
+the lower total pressure.
+
+379
+00:24:33.584 --> 00:24:38.276
+Thus the volumes-percent shown may differ from that at sea level, but, importantly,
+
+380
+00:24:38.276 --> 00:24:42.967
+the partial pressure of agent — which determines the depth of anaesthesia — remains
+
+381
+00:24:42.967 --> 00:24:47.433
+close to that intended, so the clinical effect is largely preserved despite the
+
+382
+00:24:47.433 --> 00:24:47.941
+altitude.
+
+383
+00:24:48.081 --> 00:24:52.929
+In effect the vaporiser is partly self-compensating in terms of partial pressure.
+
+384
+00:24:52.929 --> 00:24:57.777
+Conversely, in a hyperbaric environment the volumes-percent delivered for a given
+
+385
+00:24:57.777 --> 00:24:59.153
+partial pressure falls.
+
+386
+00:24:59.293 --> 00:25:03.400
+The desflurane vaporiser, which controls partial pressure differently,
+
+387
+00:25:03.400 --> 00:25:08.211
+requires specific consideration, and its output may need adjustment with altitude.
+
+388
+00:25:08.351 --> 00:25:13.336
+So because the agent acts by its partial pressure and the saturated vapour pressure
+
+389
+00:25:13.336 --> 00:25:15.439
+is independent of ambient pressure,
+
+390
+00:25:15.439 --> 00:25:19.944
+a conventional vaporiser delivers a roughly constant agent partial pressure
+
+391
+00:25:19.944 --> 00:25:24.148
+regardless of altitude, preserving the clinical effect even though the
+
+392
+00:25:24.148 --> 00:25:28.834
+volumes-percent concentration changes — a useful self-compensation in terms of
+
+393
+00:25:28.834 --> 00:25:29.855
+partial pressure.
+
+394
+00:25:41.368 --> 00:25:45.549
+Distinguish the pressurising effect from the pumping effect.
+
+395
+00:25:46.049 --> 00:25:50.668
+The pumping effect and the pressurising effect are two distinct phenomena by which
+
+396
+00:25:50.668 --> 00:25:55.173
+intermittent positive pressure from the breathing system or ventilator can alter
+
+397
+00:25:55.173 --> 00:25:59.679
+vaporiser output, and distinguishing them completes the account of back-pressure
+
+398
+00:25:59.679 --> 00:26:00.129
+effects.
+
+399
+00:26:00.269 --> 00:26:02.448
+The pumping effect, discussed earlier,
+
+400
+00:26:02.448 --> 00:26:07.150
+arises from the intermittent positive pressure transmitted back into the vaporiser
+
+401
+00:26:07.150 --> 00:26:09.443
+during controlled or manual ventilation:
+
+402
+00:26:09.443 --> 00:26:13.801
+the fluctuating pressure intermittently compresses the gas in the vaporising
+
+403
+00:26:13.801 --> 00:26:18.158
+chamber and then, as the pressure falls, allows it to expand and surge back,
+
+404
+00:26:18.158 --> 00:26:21.541
+carrying extra saturated vapour into the bypass and outlet,
+
+405
+00:26:21.541 --> 00:26:25.268
+so that the output is episodically increased above the set value;
+
+406
+00:26:25.268 --> 00:26:29.854
+it is most marked at low flows, low dial settings and low chamber liquid levels,
+
+407
+00:26:29.854 --> 00:26:34.384
+and is minimised by design features such as a long inlet tube, a small chamber,
+
+408
+00:26:34.384 --> 00:26:35.875
+baffles, or a check valve.
+
+409
+00:26:36.015 --> 00:26:38.028
+The pressurising effect, by contrast,
+
+410
+00:26:38.028 --> 00:26:42.436
+concerns the effect of a sustained increase in the pressure within the vaporiser.
+
+411
+00:26:42.576 --> 00:26:46.687
+When the pressure in the vaporiser is raised — for instance by downstream
+
+412
+00:26:46.687 --> 00:26:49.672
+resistance or pressurisation — the gas is compressed,
+
+413
+00:26:49.672 --> 00:26:54.290
+so that a given volume contains more molecules, but the partial pressure of agent,
+
+414
+00:26:54.290 --> 00:26:57.162
+set by the saturated vapour pressure, is unchanged;
+
+415
+00:26:57.162 --> 00:27:00.598
+the result is that the concentration of agent, as a fraction,
+
+416
+00:27:00.598 --> 00:27:04.822
+in the compressed gas is reduced, so the output concentration tends to fall
+
+417
+00:27:04.822 --> 00:27:07.131
+slightly under sustained raised pressure.
+
+418
+00:27:07.271 --> 00:27:11.586
+Thus the pumping effect, from fluctuating pressure, tends to increase output,
+
+419
+00:27:11.586 --> 00:27:16.295
+while the pressurising effect, from sustained raised pressure, tends to decrease it.
+
+420
+00:27:16.435 --> 00:27:21.297
+So the pumping effect is the episodic increase in output caused by fluctuating back
+
+421
+00:27:21.297 --> 00:27:24.929
+pressure surging vapour from the chamber, minimised by design,
+
+422
+00:27:24.929 --> 00:27:29.498
+whereas the pressurising effect is the slight decrease in output concentration
+
+423
+00:27:29.498 --> 00:27:34.009
+under sustained raised pressure as the compressed gas dilutes the fixed agent
+
+424
+00:27:34.009 --> 00:27:38.109
+partial pressure — distinct consequences of pressure on the vaporiser.
+
+425
+00:27:38.609 --> 00:27:43.132
+Describe the measured-flow vaporiser as a contrasting principle.
+
+426
+00:27:43.632 --> 00:27:47.920
+The measured-flow vaporiser represents an alternative principle to the
+
+427
+00:27:47.920 --> 00:27:52.636
+variable-bypass design, now largely of historical and conceptual interest but
+
+428
+00:27:52.636 --> 00:27:57.413
+instructive as a contrast, exemplified by the Copper Kettle and the Vernitrol.
+
+429
+00:27:57.553 --> 00:28:01.770
+In the variable-bypass vaporiser, the total fresh gas flow is split,
+
+430
+00:28:01.770 --> 00:28:06.421
+a portion passing through the vaporising chamber and the rest bypassing it,
+
+431
+00:28:06.421 --> 00:28:09.521
+the splitting ratio set by the concentration dial.
+
+432
+00:28:09.661 --> 00:28:12.157
+In the measured-flow vaporiser, by contrast,
+
+433
+00:28:12.157 --> 00:28:16.639
+a separately measured small flow of oxygen, set on its own dedicated flowmeter,
+
+434
+00:28:16.639 --> 00:28:19.078
+is directed through the vaporising chamber,
+
+435
+00:28:19.078 --> 00:28:21.574
+where it becomes fully saturated with agent,
+
+436
+00:28:21.574 --> 00:28:26.113
+and this saturated gas is then added to a separately measured main flow of fresh
+
+437
+00:28:26.113 --> 00:28:30.310
+gas; the final concentration is calculated from the known saturated vapour
+
+438
+00:28:30.310 --> 00:28:34.792
+pressure, the measured flow through the vaporiser, and the measured total flow.
+
+439
+00:28:34.932 --> 00:28:38.798
+The Copper Kettle was so named because it was constructed of copper,
+
+440
+00:28:38.798 --> 00:28:40.902
+a metal of high thermal conductivity,
+
+441
+00:28:40.902 --> 00:28:43.859
+to act as a heat reservoir and maintain temperature,
+
+442
+00:28:43.859 --> 00:28:47.668
+with a sintered disc to produce fine bubbles and ensure saturation.
+
+443
+00:28:47.808 --> 00:28:52.042
+The advantage was that, with knowledge of the saturated vapour pressure,
+
+444
+00:28:52.042 --> 00:28:54.689
+the output could be calculated for any agent,
+
+445
+00:28:54.689 --> 00:28:57.806
+making the device not agent-specific in the same way;
+
+446
+00:28:57.806 --> 00:29:01.805
+the disadvantage was the need for calculation and the risk of error,
+
+447
+00:29:01.805 --> 00:29:06.687
+and the device has been superseded by the calibrated agent-specific variable-bypass
+
+448
+00:29:06.687 --> 00:29:09.333
+vaporiser, which is simpler and safer to use.
+
+449
+00:29:09.473 --> 00:29:12.889
+So the measured-flow vaporiser, such as the Copper Kettle,
+
+450
+00:29:12.889 --> 00:29:17.189
+directs a separately measured flow through the vaporising chamber to full
+
+451
+00:29:17.189 --> 00:29:19.957
+saturation and adds it to a measured main flow,
+
+452
+00:29:19.957 --> 00:29:24.846
+the concentration being calculated from the saturated vapour pressure and the flows
+
+453
+00:29:24.846 --> 00:29:27.673
+— a contrasting principle requiring calculation,
+
+454
+00:29:27.673 --> 00:29:31.148
+now superseded by the calibrated variable-bypass vaporiser.
+
+455
+00:29:31.648 --> 00:29:36.597
+Distinguish a vaporiser placed inside the circle from one outside it.
+
+456
+00:29:37.097 --> 00:29:41.040
+A vaporiser may be positioned either outside the breathing circle,
+
+457
+00:29:41.040 --> 00:29:44.086
+in the fresh gas line, or inside the circle itself,
+
+458
+00:29:44.086 --> 00:29:48.686
+and the distinction between a vaporiser outside the circle and one inside the
+
+459
+00:29:48.686 --> 00:29:52.031
+circle has important implications for output and safety.
+
+460
+00:29:52.171 --> 00:29:55.656
+The standard arrangement is the vaporiser outside the circle:
+
+461
+00:29:55.656 --> 00:29:59.313
+the plenum vaporiser sits on the back bar in the fresh gas flow,
+
+462
+00:29:59.313 --> 00:30:03.484
+before the gas enters the circle, so that the fresh gas is charged with a
+
+463
+00:30:03.484 --> 00:30:06.912
+controlled concentration of agent before joining the circle;
+
+464
+00:30:06.912 --> 00:30:10.340
+this is the usual position for calibrated plenum vaporisers,
+
+465
+00:30:10.340 --> 00:30:15.083
+which require the driving pressure of the fresh gas flow and are calibrated for it.
+
+466
+00:30:15.223 --> 00:30:20.254
+A vaporiser inside the circle, by contrast, is placed within the circular gas path,
+
+467
+00:30:20.254 --> 00:30:23.831
+so that the recirculating gas passes through it repeatedly;
+
+468
+00:30:23.831 --> 00:30:26.741
+such a vaporiser must be of very low resistance,
+
+469
+00:30:26.741 --> 00:30:30.014
+since the patient or ventilator drives gas through it,
+
+470
+00:30:30.014 --> 00:30:34.743
+and is typically a simple drawover-type vaporiser without precise calibration.
+
+471
+00:30:34.883 --> 00:30:39.227
+The behaviour of a vaporiser inside the circle is complex and potentially
+
+472
+00:30:39.227 --> 00:30:43.572
+hazardous: because the gas passes through it repeatedly and recirculates,
+
+473
+00:30:43.572 --> 00:30:46.251
+the concentration can build up unpredictably,
+
+474
+00:30:46.251 --> 00:30:49.465
+especially at low fresh gas flows or high ventilation,
+
+475
+00:30:49.465 --> 00:30:53.095
+with a risk of a dangerously high concentration accumulating;
+
+476
+00:30:53.095 --> 00:30:56.131
+the output is not simply related to a dial setting.
+
+477
+00:30:56.271 --> 00:31:00.944
+For this reason, and because precise calibrated vaporisers cannot be used inside
+
+478
+00:31:00.944 --> 00:31:05.733
+the circle, the vaporiser-inside-the-circle arrangement requires great caution and
+
+479
+00:31:05.733 --> 00:31:09.647
+continuous agent monitoring, and is little used in modern practice.
+
+480
+00:31:09.787 --> 00:31:13.385
+So a vaporiser outside the circle, the standard arrangement,
+
+481
+00:31:13.385 --> 00:31:18.302
+charges the fresh gas with a calibrated concentration before it enters the circle,
+
+482
+00:31:18.302 --> 00:31:23.159
+whereas a low-resistance vaporiser inside the circle is passed through repeatedly
+
+483
+00:31:23.159 --> 00:31:27.177
+by recirculating gas, risking unpredictable concentration build-up,
+
+484
+00:31:27.177 --> 00:31:30.715
+requiring caution and agent monitoring, and is little used.
+
+485
+00:31:42.228 --> 00:31:48.073
+How is the output of a vaporiser affected by the composition of the carrier gas?
+
+486
+00:31:48.573 --> 00:31:52.885
+The composition of the carrier gas passing through the vaporiser has a modest
+
+487
+00:31:52.885 --> 00:31:55.629
+effect on its output, and although usually small,
+
+488
+00:31:55.629 --> 00:31:59.773
+this effect is worth understanding as a refinement of vaporiser behaviour.
+
+489
+00:31:59.913 --> 00:32:04.574
+The vaporiser is typically calibrated using oxygen, or air, as the carrier gas,
+
+490
+00:32:04.574 --> 00:32:07.523
+and its output is most accurate with that carrier.
+
+491
+00:32:07.523 --> 00:32:12.479
+When the carrier gas composition changes, two effects can alter the output slightly.
+
+492
+00:32:12.619 --> 00:32:16.385
+The first is a transient effect when nitrous oxide is introduced:
+
+493
+00:32:16.385 --> 00:32:20.036
+nitrous oxide is somewhat soluble in the liquid volatile agent,
+
+494
+00:32:20.036 --> 00:32:24.556
+so when a nitrous-oxide-containing mixture first passes through the vaporiser,
+
+495
+00:32:24.556 --> 00:32:27.512
+some nitrous oxide dissolves into the liquid agent,
+
+496
+00:32:27.512 --> 00:32:32.090
+transiently reducing the volume of gas emerging and so transiently lowering the
+
+497
+00:32:32.090 --> 00:32:36.726
+output, until the liquid becomes saturated with nitrous oxide and equilibrium is
+
+498
+00:32:36.726 --> 00:32:39.971
+restored, after which the output returns towards normal;
+
+499
+00:32:39.971 --> 00:32:43.680
+the reverse transient occurs when nitrous oxide is discontinued.
+
+500
+00:32:43.820 --> 00:32:48.087
+The second effect is that the different viscosity and density of the carrier gas
+
+501
+00:32:48.087 --> 00:32:52.247
+mixture slightly alter the splitting ratio between the chamber and the bypass,
+
+502
+00:32:52.247 --> 00:32:56.567
+because the flow characteristics through the channels depend on these properties,
+
+503
+00:32:56.567 --> 00:32:58.327
+causing a small change in output.
+
+504
+00:32:58.467 --> 00:33:02.390
+These effects are generally small and of limited clinical significance,
+
+505
+00:33:02.390 --> 00:33:06.589
+particularly with modern agent monitoring that measures the actual delivered
+
+506
+00:33:06.589 --> 00:33:07.363
+concentration.
+
+507
+00:33:07.503 --> 00:33:11.442
+So the carrier gas composition affects vaporiser output modestly:
+
+508
+00:33:11.442 --> 00:33:16.290
+introducing nitrous oxide causes a transient fall in output as it dissolves into
+
+509
+00:33:16.290 --> 00:33:18.410
+the liquid agent until equilibrium,
+
+510
+00:33:18.410 --> 00:33:23.440
+and the differing viscosity and density of the carrier slightly alter the splitting
+
+511
+00:33:23.440 --> 00:33:28.409
+ratio — small effects, monitored and corrected by agent concentration measurement.
+
+512
+00:33:28.909 --> 00:33:33.347
+What calibration, servicing and checking do vaporisers require?
+
+513
+00:33:33.847 --> 00:33:37.358
+Vaporisers, as precision devices delivering potent agents,
+
+514
+00:33:37.358 --> 00:33:41.173
+require periodic calibration and servicing and a pre-use check,
+
+515
+00:33:41.173 --> 00:33:44.321
+and an awareness of these is part of their safe use.
+
+516
+00:33:44.461 --> 00:33:48.585
+Each vaporiser is calibrated by the manufacturer for its specific agent,
+
+517
+00:33:48.585 --> 00:33:53.339
+so that the dial setting corresponds to the actual delivered concentration over the
+
+518
+00:33:53.339 --> 00:33:57.921
+range of flows and temperatures; this calibration can drift over time with wear,
+
+519
+00:33:57.921 --> 00:34:02.273
+and vaporisers therefore require periodic servicing and recalibration by the
+
+520
+00:34:02.273 --> 00:34:06.913
+manufacturer or an approved service, at recommended intervals, with records kept,
+
+521
+00:34:06.913 --> 00:34:08.803
+after which accuracy is verified.
+
+522
+00:34:08.943 --> 00:34:13.336
+Between services, the anaesthetist checks the vaporiser before use as part of the
+
+523
+00:34:13.336 --> 00:34:17.839
+machine check: confirming that it is correctly and securely seated on the back bar,
+
+524
+00:34:17.839 --> 00:34:21.961
+that the interlock functions so that only one vaporiser can be on at a time,
+
+525
+00:34:21.961 --> 00:34:26.192
+that it contains an adequate level of the correct agent and is not overfilled,
+
+526
+00:34:26.192 --> 00:34:30.586
+that the filling port is closed, and that there is no leak — a leak from a poorly
+
+527
+00:34:30.586 --> 00:34:33.678
+seated vaporiser being a cause of dilution and awareness,
+
+528
+00:34:33.678 --> 00:34:37.529
+detected by the leak test performed with the vaporiser both off and on.
+
+529
+00:34:37.669 --> 00:34:41.693
+The vaporiser must be kept upright to avoid liquid entering the bypass;
+
+530
+00:34:41.693 --> 00:34:45.774
+if it has been tipped, it should be flushed with a high flow before use.
+
+531
+00:34:45.774 --> 00:34:50.478
+Agent concentration monitoring during use provides a continuous check of the actual
+
+532
+00:34:50.478 --> 00:34:50.875
+output.
+
+533
+00:34:51.015 --> 00:34:55.931
+So vaporisers require periodic manufacturer calibration and servicing with records,
+
+534
+00:34:55.931 --> 00:35:00.611
+and a pre-use check confirming correct secure seating, a functioning interlock,
+
+535
+00:35:00.611 --> 00:35:04.639
+the correct agent at an adequate level, a closed filler and no leak,
+
+536
+00:35:04.639 --> 00:35:07.305
+with upright handling and flushing if tipped,
+
+537
+00:35:07.305 --> 00:35:09.852
+and continuous agent monitoring during use.
+
+538
+00:35:21.365 --> 00:35:27.413
+Comment on the environmental impact of volatile agents and its mitigation through
+
+539
+00:35:27.413 --> 00:35:28.832
+vaporiser practice.
+
+540
+00:35:29.332 --> 00:35:34.375
+The environmental impact of the volatile anaesthetic agents has become an important
+
+541
+00:35:34.375 --> 00:35:38.993
+consideration, and vaporiser and anaesthetic practice bear directly upon it,
+
+542
+00:35:38.993 --> 00:35:40.937
+so a brief account is warranted.
+
+543
+00:35:41.077 --> 00:35:44.161
+The volatile agents are potent greenhouse gases, which,
+
+544
+00:35:44.161 --> 00:35:48.197
+when exhaled and vented to the atmosphere through the scavenging system,
+
+545
+00:35:48.197 --> 00:35:52.738
+contribute to global warming; they differ considerably in their warming potential
+
+546
+00:35:52.738 --> 00:35:57.279
+and atmospheric lifetime, desflurane having the greatest global warming potential
+
+547
+00:35:57.279 --> 00:36:01.260
+and the longest atmospheric persistence, sevoflurane considerably less,
+
+548
+00:36:01.260 --> 00:36:05.184
+and the agents differing accordingly in their environmental footprint.
+
+549
+00:36:05.324 --> 00:36:07.645
+Nitrous oxide, often used as a carrier,
+
+550
+00:36:07.645 --> 00:36:11.335
+is additionally a greenhouse gas and depletes the ozone layer,
+
+551
+00:36:11.335 --> 00:36:15.679
+and is very long-lived. The mitigation of this impact through practice is
+
+552
+00:36:15.679 --> 00:36:18.060
+several-fold and bears on vaporiser use.
+
+553
+00:36:18.200 --> 00:36:23.164
+The most effective measure is the use of low fresh gas flows with a circle system,
+
+554
+00:36:23.164 --> 00:36:27.463
+which greatly reduces the quantity of agent used and vented for a given
+
+555
+00:36:27.463 --> 00:36:32.488
+anaesthetic, since the vaporiser output is largely recirculated rather than wasted;
+
+556
+00:36:32.488 --> 00:36:33.880
+high flows waste agent.
+
+557
+00:36:34.020 --> 00:36:37.894
+The choice of agent towards those of lower environmental impact,
+
+558
+00:36:37.894 --> 00:36:42.434
+the reduction or avoidance of nitrous oxide and especially desflurane where
+
+559
+00:36:42.434 --> 00:36:46.854
+suitable, and the use of total intravenous anaesthesia as an alternative,
+
+560
+00:36:46.854 --> 00:36:48.185
+all reduce the impact.
+
+561
+00:36:48.325 --> 00:36:52.925
+Technologies to capture and recycle or destroy waste anaesthetic agents from the
+
+562
+00:36:52.925 --> 00:36:55.109
+scavenging system are being developed.
+
+563
+00:36:55.249 --> 00:36:59.187
+So the volatile agents are greenhouse gases of differing potency,
+
+564
+00:36:59.187 --> 00:37:02.458
+desflurane and nitrous oxide being the most impactful,
+
+565
+00:37:02.458 --> 00:37:07.365
+and their environmental footprint is mitigated by low-flow anaesthesia minimising
+
+566
+00:37:07.365 --> 00:37:12.212
+waste, by choosing lower-impact agents and avoiding desflurane and nitrous oxide
+
+567
+00:37:12.212 --> 00:37:15.301
+where appropriate, by total intravenous techniques,
+
+568
+00:37:15.301 --> 00:37:17.543
+and by emerging capture technologies.
+
+569
+00:37:18.043 --> 00:37:23.888
+What is the role of agent concentration monitoring in relation to the vaporiser?
+
+570
+00:37:24.388 --> 00:37:29.039
+Agent concentration monitoring, the continuous measurement of the inspired and
+
+571
+00:37:29.039 --> 00:37:31.543
+end-tidal concentration of volatile agent,
+
+572
+00:37:31.543 --> 00:37:33.987
+is an essential adjunct to the vaporiser,
+
+573
+00:37:33.987 --> 00:37:38.757
+providing an independent confirmation of the concentration actually delivered to
+
+574
+00:37:38.757 --> 00:37:42.692
+the patient, and its role completes the safe use of the vaporiser.
+
+575
+00:37:42.832 --> 00:37:47.555
+While the vaporiser is designed and calibrated to deliver the concentration set on
+
+576
+00:37:47.555 --> 00:37:52.162
+its dial, a number of factors — the effects of flow, temperature, back pressure,
+
+577
+00:37:52.162 --> 00:37:55.733
+the pumping effect, low-flow technique, a leak, a malfunction,
+
+578
+00:37:55.733 --> 00:38:00.340
+or the wrong agent — can cause the actual delivered or inspired concentration to
+
+579
+00:38:00.340 --> 00:38:02.011
+differ from the dial setting.
+
+580
+00:38:02.151 --> 00:38:06.782
+Agent monitoring measures the actual concentration in the breathing system,
+
+581
+00:38:06.782 --> 00:38:11.414
+usually by infrared absorption, displaying the inspired and end-tidal agent
+
+582
+00:38:11.414 --> 00:38:13.884
+concentration and identifying the agent.
+
+583
+00:38:14.024 --> 00:38:18.801
+This provides several safeguards: it confirms that the intended concentration is
+
+584
+00:38:18.801 --> 00:38:22.981
+being delivered, detecting under-delivery that might risk awareness or
+
+585
+00:38:22.981 --> 00:38:25.309
+over-delivery that might risk overdose;
+
+586
+00:38:25.309 --> 00:38:29.549
+it reveals the changing relationship between dial setting and delivered
+
+587
+00:38:29.549 --> 00:38:32.057
+concentration during low-flow anaesthesia,
+
+588
+00:38:32.057 --> 00:38:35.222
+where the inspired concentration may lag the setting;
+
+589
+00:38:35.222 --> 00:38:40.118
+it can identify the wrong agent; and it allows the anaesthetic to be titrated to a
+
+590
+00:38:40.118 --> 00:38:44.835
+measured end-tidal concentration related to the minimum alveolar concentration,
+
+591
+00:38:44.835 --> 00:38:49.075
+a more reliable guide to anaesthetic depth than the dial setting alone.
+
+592
+00:38:49.215 --> 00:38:53.600
+Thus agent monitoring is the independent check that closes the loop between the
+
+593
+00:38:53.600 --> 00:38:55.487
+vaporiser setting and the patient.
+
+594
+00:38:55.627 --> 00:39:00.412
+So agent concentration monitoring continuously measures the actual inspired and
+
+595
+00:39:00.412 --> 00:39:04.774
+end-tidal volatile concentration, independently confirming the delivered
+
+596
+00:39:04.774 --> 00:39:08.954
+concentration, detecting under- or over-delivery and the wrong agent,
+
+597
+00:39:08.954 --> 00:39:13.739
+guiding low-flow technique, and allowing titration to an end-tidal target — the
+
+598
+00:39:13.739 --> 00:39:16.768
+essential independent check on vaporiser function.
+
+599
+00:39:17.268 --> 00:39:20.530
+Thank you. A comprehensive and accomplished account,
+
+600
+00:39:20.530 --> 00:39:25.673
+and a fitting close to this batch of physics stations. That concludes the station.
+
+601
+00:39:26.173 --> 00:39:29.651
+Before we close, here are the take-home messages.
+
+602
+00:39:29.791 --> 00:39:34.805
+First, The vaporiser adds volatile agent to the fresh gas in an accurately
+
+603
+00:39:34.805 --> 00:39:39.820
+controlled concentration, solving the problem of diluting the agent's high
+
+604
+00:39:39.820 --> 00:39:43.140
+saturated vapour pressure (temperature-dependent,
+
+605
+00:39:43.140 --> 00:39:46.529
+agent-specific) down to the few per cent required,
+
+606
+00:39:46.529 --> 00:39:49.375
+stably despite the cooling of evaporation.
+
+607
+00:39:49.515 --> 00:39:54.801
+Second, The variable-bypass plenum vaporiser splits fresh gas into a stream fully
+
+608
+00:39:54.801 --> 00:39:58.455
+saturated in the vaporising chamber and a bypass stream,
+
+609
+00:39:58.455 --> 00:40:03.806
+recombining them at a splitting ratio set by the concentration dial and calibrated
+
+610
+00:40:03.806 --> 00:40:06.808
+for the SPECIFIC agent (hence agent-specific);
+
+611
+00:40:06.808 --> 00:40:10.201
+temperature compensation uses high-thermal-capacity,
+
+612
+00:40:10.201 --> 00:40:15.226
+high-conductivity construction (a heat reservoir) plus a bimetallic mechanism
+
+613
+00:40:15.226 --> 00:40:17.184
+adjusting the splitting ratio.
+
+614
+00:40:17.324 --> 00:40:22.824
+Third, Output is also affected by flow rate (accurate over a calibrated range),
+
+615
+00:40:22.824 --> 00:40:28.533
+carrier gas, intermittent back pressure (the pumping effect, minimised by design),
+
+616
+00:40:28.533 --> 00:40:33.894
+and tilting (liquid into the bypass causes dangerous overdose - keep upright,
+
+617
+00:40:33.894 --> 00:40:35.287
+flush if tipped). 4.
+
+618
+00:40:35.427 --> 00:40:40.996
+Desflurane needs a special heated, pressurised vaporiser because its saturated
+
+619
+00:40:40.996 --> 00:40:46.851
+vapour pressure is near atmospheric and it boils at about 23 degrees Celsius - the
+
+620
+00:40:46.851 --> 00:40:52.207
+agent is held as vapour at a constant high temperature/pressure and metered
+
+621
+00:40:52.207 --> 00:40:56.205
+electronically into the fresh gas in proportion to flow.
+
+622
+00:40:56.345 --> 00:41:01.733
+Fourth, Vaporiser safety: agent-specific keyed colour-coded fillers prevent the
+
+623
+00:41:01.733 --> 00:41:06.847
+wrong agent, the back bar interlock allows only one vaporiser on at a time,
+
+624
+00:41:06.847 --> 00:41:10.939
+correct filling level and upright handling prevent overdose,
+
+625
+00:41:10.939 --> 00:41:15.099
+drawover vaporisers (low resistance) serve field anaesthesia,
+
+626
+00:41:15.099 --> 00:41:20.555
+and monitoring of the delivered agent concentration is the essential independent
+
+627
+00:41:20.555 --> 00:41:20.964
+check.
+
+628
+00:41:32.477 --> 00:41:34.952
+Thank you. That concludes the station.
+

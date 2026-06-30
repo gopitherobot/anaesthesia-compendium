@@ -1,0 +1,2538 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.448
+Welcome to Anaesthesia Compendium. Today's viva station: ventilators.
+
+2
+00:00:05.448 --> 00:00:10.648
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.148 --> 00:00:15.302
+Let us begin. What is the purpose of an anaesthetic ventilator,
+
+4
+00:00:15.302 --> 00:00:16.951
+and what must it achieve?
+
+5
+00:00:17.451 --> 00:00:22.164
+An anaesthetic ventilator is the device that mechanically inflates the patient's
+
+6
+00:00:22.164 --> 00:00:26.523
+lungs, taking over or supporting the work of breathing during anaesthesia,
+
+7
+00:00:26.523 --> 00:00:30.882
+and its purpose is to deliver controlled or assisted ventilation reliably,
+
+8
+00:00:30.882 --> 00:00:34.240
+accurately and safely while the patient is anaesthetised,
+
+9
+00:00:34.240 --> 00:00:36.715
+paralysed or unable to breathe adequately.
+
+10
+00:00:36.855 --> 00:00:41.100
+Mechanical ventilation is needed in anaesthesia for several reasons:
+
+11
+00:00:41.100 --> 00:00:46.220
+general anaesthesia and muscle relaxants depress or abolish spontaneous breathing;
+
+12
+00:00:46.220 --> 00:00:49.966
+many operations require the patient to be still and apnoeic;
+
+13
+00:00:49.966 --> 00:00:54.836
+and controlled ventilation allows the precise management of carbon dioxide and
+
+14
+00:00:54.836 --> 00:00:55.585
+oxygenation.
+
+15
+00:00:55.725 --> 00:00:58.277
+The ventilator must achieve several things.
+
+16
+00:00:58.277 --> 00:01:02.015
+It must deliver a tidal volume, or generate an airway pressure,
+
+17
+00:01:02.015 --> 00:01:05.575
+sufficient to ventilate the lungs adequately, at a set rate,
+
+18
+00:01:05.575 --> 00:01:09.016
+with a controlled ratio of inspiratory to expiratory time.
+
+19
+00:01:09.156 --> 00:01:11.544
+It must do so accurately and reproducibly,
+
+20
+00:01:11.544 --> 00:01:16.036
+compensating for the compliance and resistance of the patient and the breathing
+
+21
+00:01:16.036 --> 00:01:20.642
+system. It must allow the composition of the gas — oxygen and anaesthetic agent —
+
+22
+00:01:20.642 --> 00:01:23.599
+to be controlled, working with the breathing system.
+
+23
+00:01:23.739 --> 00:01:27.948
+It must permit a range of ventilatory modes to suit different patients and
+
+24
+00:01:27.948 --> 00:01:30.736
+situations, from full control to partial support.
+
+25
+00:01:30.876 --> 00:01:35.423
+And, crucially, it must be safe, incorporating monitoring and alarms to detect
+
+26
+00:01:35.423 --> 00:01:39.736
+disconnection, obstruction, excessive pressure and inadequate ventilation,
+
+27
+00:01:39.736 --> 00:01:42.417
+since failure of ventilation is rapidly fatal.
+
+28
+00:01:42.557 --> 00:01:47.067
+So the anaesthetic ventilator mechanically inflates the lungs to take over or
+
+29
+00:01:47.067 --> 00:01:51.166
+support breathing during anaesthesia, and it must deliver an adequate,
+
+30
+00:01:51.166 --> 00:01:55.558
+accurate and reproducible tidal volume or pressure at a controlled rate and
+
+31
+00:01:55.558 --> 00:01:59.248
+inspiratory-expiratory ratio, allow control of gas composition,
+
+32
+00:01:59.248 --> 00:02:01.531
+offer a range of modes, and, above all,
+
+33
+00:02:01.531 --> 00:02:06.451
+be safe with monitoring and alarms against the rapidly fatal failure of ventilation.
+
+34
+00:02:06.951 --> 00:02:09.724
+How may ventilators be classified?
+
+35
+00:02:10.224 --> 00:02:12.883
+Ventilators may be classified in several ways,
+
+36
+00:02:12.883 --> 00:02:15.773
+and although the classifications can seem complex,
+
+37
+00:02:15.773 --> 00:02:19.877
+they organise an understanding of how a ventilator controls the breath,
+
+38
+00:02:19.877 --> 00:02:22.363
+which is fundamental to using it correctly.
+
+39
+00:02:22.503 --> 00:02:27.148
+One major basis of classification is the variable that the ventilator controls
+
+40
+00:02:27.148 --> 00:02:29.649
+during inspiration — the control variable.
+
+41
+00:02:29.789 --> 00:02:32.190
+A volume controller, or volume generator,
+
+42
+00:02:32.190 --> 00:02:35.937
+delivers a set tidal volume regardless of the pressure required,
+
+43
+00:02:35.937 --> 00:02:40.797
+so the volume is guaranteed but the pressure varies with compliance and resistance.
+
+44
+00:02:40.937 --> 00:02:45.516
+A pressure controller, or pressure generator, generates a set airway pressure,
+
+45
+00:02:45.516 --> 00:02:50.272
+so the pressure is guaranteed but the delivered volume varies with compliance and
+
+46
+00:02:50.272 --> 00:02:54.968
+resistance. A second basis is the cycling mechanism — what determines the change
+
+47
+00:02:54.968 --> 00:02:56.788
+from inspiration to expiration.
+
+48
+00:02:56.928 --> 00:03:00.013
+A time-cycled ventilator changes after a set time;
+
+49
+00:03:00.013 --> 00:03:03.653
+a volume-cycled ventilator after a set volume is delivered;
+
+50
+00:03:03.653 --> 00:03:07.355
+a pressure-cycled ventilator when a set pressure is reached;
+
+51
+00:03:07.355 --> 00:03:11.797
+and a flow-cycled ventilator when inspiratory flow falls to a set level.
+
+52
+00:03:11.937 --> 00:03:15.980
+A third basis is the source of power and the mechanism — pneumatically or
+
+53
+00:03:15.980 --> 00:03:20.244
+electrically driven, and the mechanical arrangement such as the bag-in-bottle
+
+54
+00:03:20.244 --> 00:03:22.903
+bellows, the piston, or the intermittent blower.
+
+55
+00:03:23.043 --> 00:03:27.105
+A fourth is the breathing-system relationship — minute-volume dividers,
+
+56
+00:03:27.105 --> 00:03:29.794
+bag-squeezers and intermittent flow generators.
+
+57
+00:03:29.794 --> 00:03:34.371
+Modern microprocessor-controlled ventilators combine these features flexibly and
+
+58
+00:03:34.371 --> 00:03:38.147
+can behave as volume or pressure controllers with various cycling.
+
+59
+00:03:38.287 --> 00:03:42.467
+So ventilators are classified by their control variable (volume or pressure
+
+60
+00:03:42.467 --> 00:03:46.870
+generator), their cycling mechanism (time-, volume-, pressure- or flow-cycled),
+
+61
+00:03:46.870 --> 00:03:50.493
+their power source and mechanism (pneumatic or electric; bellows,
+
+62
+00:03:50.493 --> 00:03:55.119
+piston or blower), and their relationship to the breathing system — classifications
+
+63
+00:03:55.119 --> 00:03:58.575
+that describe how the ventilator controls and ends the breath.
+
+64
+00:03:59.075 --> 00:04:03.512
+Distinguish volume-controlled from pressure-controlled ventilation.
+
+65
+00:04:04.012 --> 00:04:08.585
+Volume-controlled and pressure-controlled ventilation are the two fundamental modes
+
+66
+00:04:08.585 --> 00:04:12.828
+of delivering a mechanical breath, distinguished by which variable is set and
+
+67
+00:04:12.828 --> 00:04:17.346
+guaranteed, and understanding their differences and respective merits is essential
+
+68
+00:04:17.346 --> 00:04:18.668
+to rational ventilation.
+
+69
+00:04:18.808 --> 00:04:23.469
+In volume-controlled ventilation, the ventilator delivers a set tidal volume into
+
+70
+00:04:23.469 --> 00:04:26.692
+the lungs, regardless of the pressure required to do so;
+
+71
+00:04:26.692 --> 00:04:30.951
+the volume is therefore guaranteed and the minute ventilation predictable,
+
+72
+00:04:30.951 --> 00:04:35.612
+but the airway pressure generated depends on the compliance and resistance of the
+
+73
+00:04:35.612 --> 00:04:39.122
+lungs and system and may rise to high levels if these worsen,
+
+74
+00:04:39.122 --> 00:04:42.403
+with a risk of barotrauma unless a pressure limit is set.
+
+75
+00:04:42.543 --> 00:04:45.351
+The flow is typically delivered at a constant rate,
+
+76
+00:04:45.351 --> 00:04:48.985
+giving a characteristic rising airway pressure during inspiration.
+
+77
+00:04:49.125 --> 00:04:51.156
+In pressure-controlled ventilation,
+
+78
+00:04:51.156 --> 00:04:54.580
+the ventilator generates a set inspiratory airway pressure,
+
+79
+00:04:54.580 --> 00:04:59.396
+held constant through inspiration, and the tidal volume that results depends on the
+
+80
+00:04:59.396 --> 00:05:03.458
+compliance and resistance — so the pressure is guaranteed and limited,
+
+81
+00:05:03.458 --> 00:05:07.984
+protecting against barotrauma, but the delivered volume varies and may fall if
+
+82
+00:05:07.984 --> 00:05:12.336
+compliance worsens, with a risk of inadequate ventilation unless monitored.
+
+83
+00:05:12.476 --> 00:05:16.884
+The flow pattern is decelerating, high at first then falling as the lungs fill,
+
+84
+00:05:16.884 --> 00:05:20.455
+which can give better gas distribution and lower peak pressures.
+
+85
+00:05:20.595 --> 00:05:25.179
+The choice between them balances the guarantee of volume against the limitation of
+
+86
+00:05:25.179 --> 00:05:29.484
+pressure: volume control assures minute ventilation but risks high pressures,
+
+87
+00:05:29.484 --> 00:05:33.117
+while pressure control limits pressure but risks variable volume.
+
+88
+00:05:33.257 --> 00:05:36.024
+Modern hybrid modes aim to combine the advantages,
+
+89
+00:05:36.024 --> 00:05:38.847
+delivering a target volume within a pressure limit.
+
+90
+00:05:38.987 --> 00:05:43.898
+So volume-controlled ventilation guarantees a set tidal volume but allows variable,
+
+91
+00:05:43.898 --> 00:05:48.454
+potentially high pressure, while pressure-controlled ventilation guarantees a
+
+92
+00:05:48.454 --> 00:05:51.295
+limited set pressure but allows variable volume;
+
+93
+00:05:51.295 --> 00:05:55.200
+the choice trades assured ventilation against pressure limitation,
+
+94
+00:05:55.200 --> 00:05:57.035
+with hybrid modes seeking both.
+
+95
+00:06:08.548 --> 00:06:12.345
+Describe the bag-in-bottle, or bellows, ventilator.
+
+96
+00:06:12.845 --> 00:06:17.581
+The bag-in-bottle, or bellows, ventilator is a classic and widely used design of
+
+97
+00:06:17.581 --> 00:06:22.494
+anaesthetic ventilator, and understanding it illustrates the important principle of
+
+98
+00:06:22.494 --> 00:06:25.453
+separating the driving gas from the patient's gas.
+
+99
+00:06:25.593 --> 00:06:30.255
+In this design, a bellows containing the patient's gas — the gas of the breathing
+
+100
+00:06:30.255 --> 00:06:34.110
+system — is enclosed within a rigid transparent chamber, or bottle.
+
+101
+00:06:34.110 --> 00:06:38.599
+The space between the bellows and the chamber wall is connected to a supply of
+
+102
+00:06:38.599 --> 00:06:39.289
+driving gas.
+
+103
+00:06:39.429 --> 00:06:43.631
+During inspiration, driving gas is admitted into the chamber around the bellows,
+
+104
+00:06:43.631 --> 00:06:47.833
+compressing the bellows and so driving the patient's gas from within it into the
+
+105
+00:06:47.833 --> 00:06:51.983
+breathing system and the lungs; the volume delivered corresponds to the bellows
+
+106
+00:06:51.983 --> 00:06:52.613
+compression.
+
+107
+00:06:52.753 --> 00:06:56.287
+During expiration, the driving gas is vented from the chamber,
+
+108
+00:06:56.287 --> 00:07:00.904
+and the bellows refills with gas from the breathing system as the patient exhales
+
+109
+00:07:00.904 --> 00:07:03.697
+and fresh gas flows in, the bellows re-expanding.
+
+110
+00:07:03.837 --> 00:07:08.043
+The essential feature is that the driving gas, which powers the ventilator,
+
+111
+00:07:08.043 --> 00:07:11.856
+is kept entirely separate from the patient's gas within the bellows,
+
+112
+00:07:11.856 --> 00:07:16.511
+so the patient breathes only the controlled breathing-system gas and is not exposed
+
+113
+00:07:16.511 --> 00:07:17.576
+to the driving gas.
+
+114
+00:07:17.716 --> 00:07:22.424
+The bellows may be ascending, rising on expiration — preferred because it collapses
+
+115
+00:07:22.424 --> 00:07:24.636
+and is obviously empty if disconnected,
+
+116
+00:07:24.636 --> 00:07:27.755
+giving a visible disconnection warning — or descending,
+
+117
+00:07:27.755 --> 00:07:32.009
+which can fill by gravity even if disconnected and so mask a disconnection.
+
+118
+00:07:32.149 --> 00:07:35.456
+The bellows movement provides a visual monitor of ventilation.
+
+119
+00:07:35.596 --> 00:07:39.675
+So the bag-in-bottle ventilator drives the patient's gas from a bellows by
+
+120
+00:07:39.675 --> 00:07:42.982
+admitting separate driving gas into the surrounding chamber,
+
+121
+00:07:42.982 --> 00:07:45.241
+keeping driving and patient gas separate;
+
+122
+00:07:45.241 --> 00:07:49.706
+the ascending bellows is preferred for the visible disconnection warning it gives
+
+123
+00:07:49.706 --> 00:07:53.068
+by collapsing, and the bellows movement monitors ventilation.
+
+124
+00:07:53.568 --> 00:07:58.197
+Why is the separation of driving gas and patient gas important?
+
+125
+00:07:58.697 --> 00:08:02.060
+The separation of the driving gas from the patient's gas,
+
+126
+00:08:02.060 --> 00:08:05.009
+achieved in the bag-in-bottle and similar designs,
+
+127
+00:08:05.009 --> 00:08:07.840
+is an important safety and functional principle,
+
+128
+00:08:07.840 --> 00:08:11.497
+and explaining it clarifies a key aspect of ventilator design.
+
+129
+00:08:11.637 --> 00:08:16.258
+In many ventilators, the power to inflate the lungs is provided by a flow of
+
+130
+00:08:16.258 --> 00:08:21.183
+driving gas, often oxygen or air at pipeline pressure, which acts upon a bellows,
+
+131
+00:08:21.183 --> 00:08:23.797
+piston or bag containing the patient's gas.
+
+132
+00:08:23.937 --> 00:08:27.289
+If the driving gas and the patient's gas were not separated,
+
+133
+00:08:27.289 --> 00:08:31.366
+the driving gas would enter the breathing system and the patient's lungs,
+
+134
+00:08:31.366 --> 00:08:33.489
+with several undesirable consequences:
+
+135
+00:08:33.489 --> 00:08:37.343
+it would dilute and alter the carefully controlled composition of the
+
+136
+00:08:37.343 --> 00:08:41.420
+breathing-system gas — the oxygen concentration and the anaesthetic agent
+
+137
+00:08:41.420 --> 00:08:45.442
+concentration — so that the patient might receive an unintended mixture,
+
+138
+00:08:45.442 --> 00:08:48.514
+risking awareness or an incorrect oxygen concentration;
+
+139
+00:08:48.514 --> 00:08:51.084
+it would consume large volumes of driving gas;
+
+140
+00:08:51.084 --> 00:08:55.105
+and it would couple the patient's ventilation to the driving gas supply.
+
+141
+00:08:55.245 --> 00:08:58.245
+By keeping the driving gas in a separate compartment,
+
+142
+00:08:58.245 --> 00:09:01.188
+acting only mechanically upon the bellows or piston,
+
+143
+00:09:01.188 --> 00:09:04.811
+the patient breathes solely the controlled breathing-system gas,
+
+144
+00:09:04.811 --> 00:09:07.357
+and the composition delivered remains as set,
+
+145
+00:09:07.357 --> 00:09:11.885
+while the driving gas merely provides the motive power and is vented separately.
+
+146
+00:09:12.025 --> 00:09:16.647
+This separation thus preserves the integrity of the delivered gas mixture and the
+
+147
+00:09:16.647 --> 00:09:19.215
+control of anaesthetic depth and oxygenation.
+
+148
+00:09:19.355 --> 00:09:23.357
+Some modern ventilators use a piston driven by an electric motor,
+
+149
+00:09:23.357 --> 00:09:28.283
+dispensing with a driving gas altogether and so achieving the same separation by
+
+150
+00:09:28.283 --> 00:09:32.347
+mechanical means, with the advantage of not consuming driving gas.
+
+151
+00:09:32.487 --> 00:09:37.100
+So separating driving gas from patient gas is important because it prevents the
+
+152
+00:09:37.100 --> 00:09:41.305
+driving gas from diluting and altering the controlled composition of the
+
+153
+00:09:41.305 --> 00:09:45.918
+breathing-system gas, preserving the set oxygen and agent concentration and the
+
+154
+00:09:45.918 --> 00:09:50.649
+control of anaesthesia, while providing the motive power separately — achieved by
+
+155
+00:09:50.649 --> 00:09:53.393
+the bellows-in-bottle or by an electric piston.
+
+156
+00:09:53.893 --> 00:09:58.075
+What is positive end-expiratory pressure, and why is it used?
+
+157
+00:09:58.575 --> 00:10:01.592
+Positive end-expiratory pressure, abbreviated PEEP,
+
+158
+00:10:01.592 --> 00:10:05.971
+is the maintenance of a positive airway pressure at the end of expiration,
+
+159
+00:10:05.971 --> 00:10:10.704
+above atmospheric, and it is an important adjunct to mechanical ventilation with
+
+160
+00:10:10.704 --> 00:10:13.721
+significant physiological effects and applications.
+
+161
+00:10:13.861 --> 00:10:17.693
+Normally, at the end of expiration during mechanical ventilation,
+
+162
+00:10:17.693 --> 00:10:21.231
+the airway pressure returns to atmospheric, zero; with PEEP,
+
+163
+00:10:21.231 --> 00:10:25.771
+a valve or mechanism maintains a set positive pressure — commonly five to ten
+
+164
+00:10:25.771 --> 00:10:28.659
+centimetres of water or more — at end-expiration,
+
+165
+00:10:28.659 --> 00:10:32.315
+so that the lungs do not fully deflate to their resting state.
+
+166
+00:10:32.455 --> 00:10:37.024
+The principal purpose of PEEP is to prevent the collapse of alveoli and small
+
+167
+00:10:37.024 --> 00:10:40.644
+airways at end-expiration and to re-expand collapsed alveoli,
+
+168
+00:10:40.644 --> 00:10:43.730
+thereby increasing the functional residual capacity,
+
+169
+00:10:43.730 --> 00:10:47.647
+reducing the atelectasis that readily develops during anaesthesia,
+
+170
+00:10:47.647 --> 00:10:52.572
+and improving oxygenation by reducing the shunt of blood through unventilated lung.
+
+171
+00:10:52.712 --> 00:10:57.116
+It is therefore used to improve oxygenation in anaesthesia and especially in
+
+172
+00:10:57.116 --> 00:11:00.883
+critical illness such as the acute respiratory distress syndrome.
+
+173
+00:11:01.023 --> 00:11:06.170
+PEEP also has effects to be considered: by raising the mean intrathoracic pressure,
+
+174
+00:11:06.170 --> 00:11:09.518
+it can impede venous return and reduce cardiac output,
+
+175
+00:11:09.518 --> 00:11:14.417
+particularly in the hypovolaemic patient; it can overdistend compliant alveoli,
+
+176
+00:11:14.417 --> 00:11:17.207
+risking barotrauma and increasing dead space;
+
+177
+00:11:17.207 --> 00:11:20.308
+and excessive PEEP can compromise the circulation.
+
+178
+00:11:20.448 --> 00:11:25.130
+The optimal PEEP balances the improvement in oxygenation and lung recruitment
+
+179
+00:11:25.130 --> 00:11:26.955
+against these adverse effects.
+
+180
+00:11:27.095 --> 00:11:32.274
+So PEEP maintains a positive airway pressure at end-expiration to prevent alveolar
+
+181
+00:11:32.274 --> 00:11:35.307
+collapse, increase functional residual capacity,
+
+182
+00:11:35.307 --> 00:11:39.160
+reduce atelectasis and improve oxygenation by reducing shunt,
+
+183
+00:11:39.160 --> 00:11:44.024
+but it raises intrathoracic pressure and may impede venous return and cardiac
+
+184
+00:11:44.024 --> 00:11:49.267
+output and risk overdistension, so the optimal level balances benefit against these
+
+185
+00:11:49.267 --> 00:11:49.772
+effects.
+
+186
+00:12:01.285 --> 00:12:05.573
+Describe the assisted and supported modes of ventilation.
+
+187
+00:12:06.073 --> 00:12:08.023
+Beyond full controlled ventilation,
+
+188
+00:12:08.023 --> 00:12:12.646
+ventilators offer assisted and supported modes that allow the patient to contribute
+
+189
+00:12:12.646 --> 00:12:17.213
+to or trigger breaths, and these are increasingly used in anaesthesia and critical
+
+190
+00:12:17.213 --> 00:12:20.444
+care to maintain some respiratory effort and ease weaning,
+
+191
+00:12:20.444 --> 00:12:22.393
+so an account of them is warranted.
+
+192
+00:12:22.533 --> 00:12:27.458
+In fully controlled ventilation, the ventilator delivers all breaths at a set rate
+
+193
+00:12:27.458 --> 00:12:29.741
+and pattern regardless of the patient,
+
+194
+00:12:29.741 --> 00:12:32.684
+appropriate for the paralysed or apnoeic patient.
+
+195
+00:12:32.684 --> 00:12:35.206
+Assisted and supported modes, by contrast,
+
+196
+00:12:35.206 --> 00:12:38.149
+respond to the patient's own inspiratory efforts.
+
+197
+00:12:38.289 --> 00:12:42.365
+In pressure-support ventilation, the patient triggers each breath by their
+
+198
+00:12:42.365 --> 00:12:46.551
+inspiratory effort, and the ventilator responds by delivering a set level of
+
+199
+00:12:46.551 --> 00:12:48.810
+positive pressure to support that breath,
+
+200
+00:12:48.810 --> 00:12:51.564
+augmenting the patient's spontaneous tidal volume;
+
+201
+00:12:51.564 --> 00:12:56.025
+the patient controls the rate and timing, and the ventilator provides assistance,
+
+202
+00:12:56.025 --> 00:13:00.156
+which can be adjusted from full support to minimal as the patient recovers.
+
+203
+00:13:00.296 --> 00:13:03.072
+In synchronised intermittent mandatory ventilation,
+
+204
+00:13:03.072 --> 00:13:07.371
+the ventilator delivers a set number of mandatory breaths synchronised with the
+
+205
+00:13:07.371 --> 00:13:11.508
+patient's efforts, while allowing the patient to take additional spontaneous
+
+206
+00:13:11.508 --> 00:13:14.120
+breaths, often pressure-supported, between them.
+
+207
+00:13:14.260 --> 00:13:19.129
+Triggering may be by a fall in pressure or a change in flow caused by the patient's
+
+208
+00:13:19.129 --> 00:13:21.535
+effort, the sensitivity being adjustable.
+
+209
+00:13:21.675 --> 00:13:24.687
+These modes maintain respiratory muscle activity,
+
+210
+00:13:24.687 --> 00:13:27.699
+may improve patient comfort and gas distribution,
+
+211
+00:13:27.699 --> 00:13:30.650
+reduce the haemodynamic effects of full control,
+
+212
+00:13:30.650 --> 00:13:33.109
+and facilitate weaning from ventilation.
+
+213
+00:13:33.249 --> 00:13:37.667
+They require the patient to have some respiratory drive and an appropriate level of
+
+214
+00:13:37.667 --> 00:13:38.305
+anaesthesia.
+
+215
+00:13:38.445 --> 00:13:42.745
+So assisted and supported modes, such as pressure-support and synchronised
+
+216
+00:13:42.745 --> 00:13:44.779
+intermittent mandatory ventilation,
+
+217
+00:13:44.779 --> 00:13:49.369
+allow the patient to trigger breaths that the ventilator augments or interposes
+
+218
+00:13:49.369 --> 00:13:52.564
+with mandatory breaths, maintaining respiratory effort,
+
+219
+00:13:52.564 --> 00:13:54.830
+improving comfort and gas distribution,
+
+220
+00:13:54.830 --> 00:13:57.677
+reducing haemodynamic effects and aiding weaning,
+
+221
+00:13:57.677 --> 00:13:59.885
+requiring preserved respiratory drive.
+
+222
+00:14:00.385 --> 00:14:05.271
+Explain the inspiratory-to-expiratory ratio and the inspiratory pause.
+
+223
+00:14:05.771 --> 00:14:07.851
+The timing of the ventilatory cycle,
+
+224
+00:14:07.851 --> 00:14:10.683
+expressed as the inspiratory-to-expiratory ratio,
+
+225
+00:14:10.683 --> 00:14:12.764
+and the use of an inspiratory pause,
+
+226
+00:14:12.764 --> 00:14:17.446
+are important parameters that influence gas exchange and the haemodynamic effects
+
+227
+00:14:17.446 --> 00:14:22.069
+of ventilation, and adjusting them appropriately is part of skilled ventilation.
+
+228
+00:14:22.209 --> 00:14:26.830
+The respiratory cycle is divided into an inspiratory and an expiratory phase,
+
+229
+00:14:26.830 --> 00:14:31.750
+and their relative durations are expressed as the inspiratory-to-expiratory ratio,
+
+230
+00:14:31.750 --> 00:14:36.490
+conventionally about one to two in normal ventilation — inspiration occupying a
+
+231
+00:14:36.490 --> 00:14:39.191
+third of the cycle and expiration two-thirds.
+
+232
+00:14:39.331 --> 00:14:43.809
+This longer expiratory time allows adequate time for passive expiration,
+
+233
+00:14:43.809 --> 00:14:47.541
+which is important because expiration is passive and slower,
+
+234
+00:14:47.541 --> 00:14:52.579
+and insufficient expiratory time leads to incomplete exhalation and gas trapping.
+
+235
+00:14:52.719 --> 00:14:57.334
+The ratio may be altered for particular purposes: a longer inspiratory time,
+
+236
+00:14:57.334 --> 00:15:01.281
+or even an inverse ratio with inspiration longer than expiration,
+
+237
+00:15:01.281 --> 00:15:06.017
+can improve oxygenation in stiff lungs by raising the mean airway pressure and
+
+238
+00:15:06.017 --> 00:15:10.997
+improving gas distribution, but reduces expiratory time and risks gas trapping and
+
+239
+00:15:10.997 --> 00:15:13.183
+haemodynamic compromise; conversely,
+
+240
+00:15:13.183 --> 00:15:17.555
+conditions with airflow obstruction and slow expiration, such as asthma,
+
+241
+00:15:17.555 --> 00:15:20.591
+require a longer expiratory time, a smaller ratio,
+
+242
+00:15:20.591 --> 00:15:24.356
+to allow complete exhalation and avoid dynamic hyperinflation.
+
+243
+00:15:24.496 --> 00:15:27.109
+An inspiratory pause, or end-inspiratory hold,
+
+244
+00:15:27.109 --> 00:15:31.654
+holds the delivered volume in the lungs briefly at the end of inspiration before
+
+245
+00:15:31.654 --> 00:15:36.028
+expiration; this allows time for gas to redistribute within the lungs to less
+
+246
+00:15:36.028 --> 00:15:40.232
+compliant regions, improving the evenness of ventilation and gas exchange,
+
+247
+00:15:40.232 --> 00:15:44.550
+and it allows the measurement of the plateau pressure that reflects alveolar
+
+248
+00:15:44.550 --> 00:15:45.061
+pressure.
+
+249
+00:15:45.201 --> 00:15:49.177
+So the inspiratory-to-expiratory ratio, normally about one to two,
+
+250
+00:15:49.177 --> 00:15:51.827
+allots time to the passive expiratory phase,
+
+251
+00:15:51.827 --> 00:15:56.526
+adjusted longer for oxygenation or shorter to allow exhalation in obstruction,
+
+252
+00:15:56.526 --> 00:16:01.525
+while an inspiratory pause holds the breath briefly to improve gas distribution and
+
+253
+00:16:01.525 --> 00:16:03.633
+allow plateau-pressure measurement.
+
+254
+00:16:15.147 --> 00:16:19.840
+What is the minute-volume divider, and how does it differ from a bag-squeezer?
+
+255
+00:16:20.340 --> 00:16:24.770
+The minute-volume divider and the bag-squeezer represent two contrasting older
+
+256
+00:16:24.770 --> 00:16:26.928
+approaches to anaesthetic ventilation,
+
+257
+00:16:26.928 --> 00:16:31.016
+and although now largely superseded by versatile electronic ventilators,
+
+258
+00:16:31.016 --> 00:16:35.673
+the distinction illustrates different relationships between the ventilator and the
+
+259
+00:16:35.673 --> 00:16:36.639
+fresh gas supply.
+
+260
+00:16:36.779 --> 00:16:40.956
+A minute-volume divider, exemplified historically by the Manley ventilator,
+
+261
+00:16:40.956 --> 00:16:45.578
+takes the entire fresh gas flow delivered by the anaesthetic machine and divides it
+
+262
+00:16:45.578 --> 00:16:49.811
+into tidal volumes: all the fresh gas is collected and then delivered to the
+
+263
+00:16:49.811 --> 00:16:54.322
+patient in breaths, so that the minute volume delivered to the patient equals the
+
+264
+00:16:54.322 --> 00:16:58.889
+fresh gas flow set on the machine, and the tidal volume and rate are determined by
+
+265
+00:16:58.889 --> 00:17:00.949
+how the ventilator divides that flow.
+
+266
+00:17:01.089 --> 00:17:05.691
+Thus the anaesthetist sets the minute ventilation by setting the fresh gas flow,
+
+267
+00:17:05.691 --> 00:17:10.120
+and the ventilator divides it; the entire fresh gas flow goes to the patient,
+
+268
+00:17:10.120 --> 00:17:13.399
+so it works with a non-circle, non-absorbing arrangement.
+
+269
+00:17:13.539 --> 00:17:16.448
+A bag-squeezer, or bag-in-bottle type, by contrast,
+
+270
+00:17:16.448 --> 00:17:21.069
+mechanically squeezes a bag or bellows to deliver a tidal volume independently of
+
+271
+00:17:21.069 --> 00:17:25.234
+the fresh gas flow, the tidal volume and rate being set on the ventilator
+
+272
+00:17:25.234 --> 00:17:29.569
+regardless of the fresh gas flow; this is the arrangement used with a circle
+
+273
+00:17:29.569 --> 00:17:33.848
+system, where the fresh gas flow and the ventilation are set independently.
+
+274
+00:17:33.988 --> 00:17:38.087
+The key difference is therefore whether the minute volume is determined by,
+
+275
+00:17:38.087 --> 00:17:42.459
+and equal to, the fresh gas flow, as in the divider, or set independently of it,
+
+276
+00:17:42.459 --> 00:17:43.716
+as in the bag-squeezer.
+
+277
+00:17:43.856 --> 00:17:48.360
+So the minute-volume divider delivers the whole fresh gas flow to the patient as
+
+278
+00:17:48.360 --> 00:17:52.525
+divided tidal volumes, the minute volume equalling the set fresh gas flow,
+
+279
+00:17:52.525 --> 00:17:57.198
+whereas the bag-squeezer delivers a tidal volume set independently of the fresh gas
+
+280
+00:17:57.198 --> 00:18:01.870
+flow, suiting the circle system — contrasting relationships between ventilation and
+
+281
+00:18:01.870 --> 00:18:02.715
+fresh gas flow.
+
+282
+00:18:03.215 --> 00:18:07.606
+What are the cardiovascular and respiratory effects of intermittent
+
+283
+00:18:07.606 --> 00:18:09.572
+positive-pressure ventilation?
+
+284
+00:18:10.072 --> 00:18:12.534
+Intermittent positive-pressure ventilation,
+
+285
+00:18:12.534 --> 00:18:15.911
+the mechanical inflation of the lungs by positive pressure,
+
+286
+00:18:15.911 --> 00:18:20.490
+has important physiological effects that differ from those of normal spontaneous
+
+287
+00:18:20.490 --> 00:18:25.013
+breathing, and understanding them is essential to anticipating and managing the
+
+288
+00:18:25.013 --> 00:18:27.245
+consequences of mechanical ventilation.
+
+289
+00:18:27.385 --> 00:18:31.932
+The fundamental difference is that spontaneous breathing generates a negative
+
+290
+00:18:31.932 --> 00:18:34.176
+intrathoracic pressure to draw air in,
+
+291
+00:18:34.176 --> 00:18:38.959
+whereas positive-pressure ventilation applies a positive pressure to push air in,
+
+292
+00:18:38.959 --> 00:18:42.148
+raising the intrathoracic pressure during inspiration.
+
+293
+00:18:42.288 --> 00:18:46.476
+The principal cardiovascular effect follows from this raised intrathoracic
+
+294
+00:18:46.476 --> 00:18:49.928
+pressure: it impedes the venous return of blood to the heart,
+
+295
+00:18:49.928 --> 00:18:53.776
+reducing the right ventricular filling and hence the cardiac output,
+
+296
+00:18:53.776 --> 00:18:57.171
+an effect most marked with high airway pressures, high PEEP,
+
+297
+00:18:57.171 --> 00:19:01.811
+and in the hypovolaemic patient, in whom positive-pressure ventilation can cause a
+
+298
+00:19:01.811 --> 00:19:03.792
+significant fall in blood pressure.
+
+299
+00:19:03.932 --> 00:19:08.594
+The raised intrathoracic pressure also affects the pulmonary circulation and the
+
+300
+00:19:08.594 --> 00:19:10.225
+afterload of the ventricles.
+
+301
+00:19:10.365 --> 00:19:14.615
+The respiratory effects include changes in the distribution of ventilation:
+
+302
+00:19:14.615 --> 00:19:18.864
+positive-pressure ventilation tends to distribute gas preferentially to the
+
+303
+00:19:18.864 --> 00:19:21.697
+non-dependent, more compliant regions of the lung,
+
+304
+00:19:21.697 --> 00:19:24.983
+while perfusion remains greatest in the dependent regions,
+
+305
+00:19:24.983 --> 00:19:29.573
+worsening the matching of ventilation and perfusion and increasing dead space and
+
+306
+00:19:29.573 --> 00:19:31.952
+shunt compared with spontaneous breathing,
+
+307
+00:19:31.952 --> 00:19:34.899
+with a tendency to atelectasis in dependent regions.
+
+308
+00:19:35.039 --> 00:19:38.309
+These effects are mitigated by appropriate fluid loading,
+
+309
+00:19:38.309 --> 00:19:41.408
+by limiting airway pressures, by PEEP to recruit lung,
+
+310
+00:19:41.408 --> 00:19:43.359
+and by lung-protective strategies.
+
+311
+00:19:43.499 --> 00:19:47.991
+So intermittent positive-pressure ventilation raises intrathoracic pressure,
+
+312
+00:19:47.991 --> 00:19:51.241
+which impedes venous return and reduces cardiac output,
+
+313
+00:19:51.241 --> 00:19:54.078
+especially with high pressures and hypovolaemia,
+
+314
+00:19:54.078 --> 00:19:56.620
+and alters the distribution of ventilation,
+
+315
+00:19:56.620 --> 00:20:01.230
+worsening ventilation-perfusion matching and promoting dependent atelectasis —
+
+316
+00:20:01.230 --> 00:20:05.131
+effects requiring attention to filling, pressures and recruitment.
+
+317
+00:20:16.644 --> 00:20:22.809
+Explain barotrauma, volutrauma and the principles of lung-protective ventilation.
+
+318
+00:20:23.309 --> 00:20:26.293
+Mechanical ventilation can itself injure the lungs,
+
+319
+00:20:26.293 --> 00:20:31.091
+and the recognition of ventilator-induced lung injury has led to the principles of
+
+320
+00:20:31.091 --> 00:20:35.480
+lung-protective ventilation, which are now fundamental to safe ventilation,
+
+321
+00:20:35.480 --> 00:20:37.411
+particularly of the injured lung.
+
+322
+00:20:37.551 --> 00:20:41.489
+Ventilator-induced lung injury arises through several mechanisms.
+
+323
+00:20:41.489 --> 00:20:44.640
+Barotrauma is injury from excessive airway pressure,
+
+324
+00:20:44.640 --> 00:20:48.336
+which can rupture alveoli and cause air leaks — pneumothorax,
+
+325
+00:20:48.336 --> 00:20:50.820
+surgical emphysema and pneumomediastinum.
+
+326
+00:20:50.960 --> 00:20:55.844
+Volutrauma is injury from excessive tidal volume overdistending the alveoli,
+
+327
+00:20:55.844 --> 00:21:01.243
+now recognised as a major mechanism, the overstretching damaging the alveolar walls.
+
+328
+00:21:01.383 --> 00:21:05.833
+Atelectrauma is injury from the repeated opening and closing of collapsed alveoli
+
+329
+00:21:05.833 --> 00:21:09.020
+with each breath, the cyclical shear stress damaging them.
+
+330
+00:21:09.160 --> 00:21:13.425
+Biotrauma is the release of inflammatory mediators from the injured lung,
+
+331
+00:21:13.425 --> 00:21:17.457
+which can propagate injury and contribute to multi-organ dysfunction.
+
+332
+00:21:17.457 --> 00:21:21.664
+These mechanisms, especially in the already injured lung as in the acute
+
+333
+00:21:21.664 --> 00:21:24.819
+respiratory distress syndrome, can worsen lung damage.
+
+334
+00:21:24.959 --> 00:21:29.466
+Lung-protective ventilation aims to minimise this injury by using a low tidal
+
+335
+00:21:29.466 --> 00:21:34.031
+volume, of the order of six millilitres per kilogram of predicted body weight,
+
+336
+00:21:34.031 --> 00:21:38.245
+to avoid volutrauma; limiting the plateau and driving pressures to avoid
+
+337
+00:21:38.245 --> 00:21:42.928
+barotrauma; applying adequate PEEP to keep alveoli open and prevent the cyclical
+
+338
+00:21:42.928 --> 00:21:47.669
+collapse of atelectrauma; and accepting a degree of permissive hypercapnia rather
+
+339
+00:21:47.669 --> 00:21:50.303
+than ventilating aggressively to normocarbia.
+
+340
+00:21:50.443 --> 00:21:53.099
+These principles, established in critical care,
+
+341
+00:21:53.099 --> 00:21:55.925
+are increasingly applied in the operating theatre.
+
+342
+00:21:56.065 --> 00:22:00.399
+So ventilator-induced lung injury arises from barotrauma, volutrauma,
+
+343
+00:22:00.399 --> 00:22:05.360
+atelectrauma and biotrauma, and lung-protective ventilation minimises it by low
+
+344
+00:22:05.360 --> 00:22:09.631
+tidal volumes, limited plateau and driving pressures, adequate PEEP,
+
+345
+00:22:09.631 --> 00:22:14.844
+and permissive hypercapnia — principles fundamental to ventilating the injured lung
+
+346
+00:22:14.844 --> 00:22:17.356
+and increasingly applied in anaesthesia.
+
+347
+00:22:17.856 --> 00:22:22.503
+How does the fresh gas flow interact with the delivered tidal volume,
+
+348
+00:22:22.503 --> 00:22:24.725
+and what is fresh gas decoupling?
+
+349
+00:22:25.225 --> 00:22:29.865
+The interaction between the fresh gas flow and the tidal volume delivered by the
+
+350
+00:22:29.865 --> 00:22:33.983
+ventilator is a subtle but important aspect of anaesthetic ventilation,
+
+351
+00:22:33.983 --> 00:22:38.217
+and the concept of fresh gas decoupling addresses a problem it can cause.
+
+352
+00:22:38.357 --> 00:22:42.276
+In a traditional anaesthetic ventilator connected to a circle system,
+
+353
+00:22:42.276 --> 00:22:46.649
+the fresh gas flow from the machine enters the breathing system continuously,
+
+354
+00:22:46.649 --> 00:22:51.307
+including during the inspiratory phase when the ventilator is delivering a breath.
+
+355
+00:22:51.447 --> 00:22:55.991
+Consequently, during inspiration, the fresh gas flowing in is added to the volume
+
+356
+00:22:55.991 --> 00:23:00.478
+the ventilator delivers, so that the actual tidal volume the patient receives is
+
+357
+00:23:00.478 --> 00:23:04.966
+the ventilator's set volume plus the fresh gas that flows in during inspiration;
+
+358
+00:23:04.966 --> 00:23:09.510
+thus changing the fresh gas flow changes the delivered tidal volume — an increase
+
+359
+00:23:09.510 --> 00:23:13.717
+in fresh gas flow increasing the tidal volume — which is the fresh gas flow
+
+360
+00:23:13.717 --> 00:23:14.615
+coupling effect.
+
+361
+00:23:14.755 --> 00:23:18.904
+This can cause unintended changes in ventilation when the fresh gas flow is
+
+362
+00:23:18.904 --> 00:23:21.560
+altered, and inaccuracy in the delivered volume.
+
+363
+00:23:21.700 --> 00:23:26.085
+Fresh gas decoupling is a design solution incorporated in modern machines that
+
+364
+00:23:26.085 --> 00:23:30.302
+separates, or decouples, the fresh gas flow from the tidal volume delivery:
+
+365
+00:23:30.302 --> 00:23:34.912
+by means of a valve, the fresh gas flow is diverted away from the patient circuit,
+
+366
+00:23:34.912 --> 00:23:38.229
+often into the reservoir bag, during the inspiratory phase,
+
+367
+00:23:38.229 --> 00:23:40.928
+so that it does not add to the delivered breath,
+
+368
+00:23:40.928 --> 00:23:43.346
+and is delivered during expiration instead;
+
+369
+00:23:43.346 --> 00:23:46.775
+thus the tidal volume the patient receives is the set volume,
+
+370
+00:23:46.775 --> 00:23:48.687
+independent of the fresh gas flow.
+
+371
+00:23:48.827 --> 00:23:52.005
+This improves the accuracy and constancy of ventilation.
+
+372
+00:23:52.145 --> 00:23:55.198
+So fresh gas flow coupling means that, traditionally,
+
+373
+00:23:55.198 --> 00:23:59.460
+fresh gas entering during inspiration adds to the ventilator's set volume,
+
+374
+00:23:59.460 --> 00:24:02.743
+so the delivered tidal volume varies with fresh gas flow,
+
+375
+00:24:02.743 --> 00:24:07.120
+while fresh gas decoupling diverts the fresh gas away from the breath during
+
+376
+00:24:07.120 --> 00:24:11.727
+inspiration, making the delivered tidal volume independent of the fresh gas flow
+
+377
+00:24:11.727 --> 00:24:13.052
+and improving accuracy.
+
+378
+00:24:13.552 --> 00:24:17.691
+What monitoring is essential during mechanical ventilation?
+
+379
+00:24:18.191 --> 00:24:21.908
+Mechanical ventilation, sustaining the patient's gas exchange,
+
+380
+00:24:21.908 --> 00:24:24.606
+demands comprehensive monitoring with alarms,
+
+381
+00:24:24.606 --> 00:24:29.403
+because failures of ventilation are rapidly fatal and many are silent until they
+
+382
+00:24:29.403 --> 00:24:34.020
+cause harm, so a systematic account of the essential monitoring is important.
+
+383
+00:24:34.160 --> 00:24:37.590
+Capnography is arguably the single most important monitor,
+
+384
+00:24:37.590 --> 00:24:40.961
+displaying the end-tidal carbon dioxide and the waveform:
+
+385
+00:24:40.961 --> 00:24:44.273
+it confirms ventilation and the placement of the airway,
+
+386
+00:24:44.273 --> 00:24:48.767
+reveals the adequacy of ventilation, and detects disconnection, obstruction,
+
+387
+00:24:48.767 --> 00:24:52.848
+rebreathing and many other events by the loss or change of the trace.
+
+388
+00:24:52.988 --> 00:24:55.984
+Airway pressure monitoring displays the inspiratory,
+
+389
+00:24:55.984 --> 00:24:59.615
+plateau and end-expiratory pressures and the pressure waveform,
+
+390
+00:24:59.615 --> 00:25:03.303
+detecting high pressures that risk barotrauma, obstruction, and,
+
+391
+00:25:03.303 --> 00:25:08.028
+by a low or absent pressure, disconnection; high- and low-pressure alarms are set.
+
+392
+00:25:08.168 --> 00:25:12.748
+Volume and flow monitoring measure the delivered and expired tidal and minute
+
+393
+00:25:12.748 --> 00:25:16.376
+volumes, confirming adequate ventilation and detecting leaks,
+
+394
+00:25:16.376 --> 00:25:20.243
+disconnection and changes in compliance, with a low-volume alarm.
+
+395
+00:25:20.383 --> 00:25:24.031
+A disconnection alarm, often based on pressure or volume,
+
+396
+00:25:24.031 --> 00:25:28.511
+specifically warns of the common and dangerous event of disconnection.
+
+397
+00:25:28.511 --> 00:25:32.927
+Inspired oxygen concentration is monitored to ensure adequate oxygen,
+
+398
+00:25:32.927 --> 00:25:36.831
+and oxygen saturation by pulse oximetry confirms oxygenation.
+
+399
+00:25:36.971 --> 00:25:40.895
+Agent concentration monitoring confirms the delivered anaesthetic.
+
+400
+00:25:40.895 --> 00:25:44.165
+Pressure-volume and flow-volume loops can be displayed,
+
+401
+00:25:44.165 --> 00:25:48.863
+giving information on compliance, resistance and the response to interventions.
+
+402
+00:25:48.863 --> 00:25:51.776
+The alarms must be enabled and appropriately set.
+
+403
+00:25:51.916 --> 00:25:56.598
+So essential monitoring during ventilation comprises capnography (confirming and
+
+404
+00:25:56.598 --> 00:25:59.466
+assessing ventilation and detecting many faults),
+
+405
+00:25:59.466 --> 00:26:03.095
+airway pressure monitoring with high- and low-pressure alarms,
+
+406
+00:26:03.095 --> 00:26:07.426
+volume and flow monitoring with a low-volume alarm, a disconnection alarm,
+
+407
+00:26:07.426 --> 00:26:10.937
+inspired oxygen and oxygen saturation, and agent monitoring,
+
+408
+00:26:10.937 --> 00:26:15.678
+with loops as adjuncts — a comprehensive system against the rapidly fatal failure
+
+409
+00:26:15.678 --> 00:26:16.556
+of ventilation.
+
+410
+00:26:28.069 --> 00:26:33.488
+How do anaesthetic ventilators differ from intensive-care ventilators?
+
+411
+00:26:33.988 --> 00:26:38.688
+Anaesthetic ventilators and intensive-care ventilators share the basic function of
+
+412
+00:26:38.688 --> 00:26:43.388
+mechanical ventilation but differ in design and capability to suit their different
+
+413
+00:26:43.388 --> 00:26:46.598
+contexts, and an awareness of the differences is useful,
+
+414
+00:26:46.598 --> 00:26:49.177
+particularly as the distinction has narrowed.
+
+415
+00:26:49.317 --> 00:26:54.032
+The traditional anaesthetic ventilator is integrated with the anaesthetic machine
+
+416
+00:26:54.032 --> 00:26:57.933
+and the circle breathing system with its carbon dioxide absorption,
+
+417
+00:26:57.933 --> 00:27:00.261
+designed to work with the recirculating,
+
+418
+00:27:00.261 --> 00:27:02.822
+agent-containing gas and the fresh gas flow,
+
+419
+00:27:02.822 --> 00:27:05.151
+often pneumatically driven by a bellows,
+
+420
+00:27:05.151 --> 00:27:08.411
+and providing the modes needed for the relatively short,
+
+421
+00:27:08.411 --> 00:27:12.078
+controlled circumstances of anaesthesia in a paralysed patient;
+
+422
+00:27:12.078 --> 00:27:16.502
+historically its range of modes and its ability to support the spontaneously
+
+423
+00:27:16.502 --> 00:27:19.355
+breathing or difficult patient were more limited.
+
+424
+00:27:19.495 --> 00:27:21.891
+The intensive-care ventilator, by contrast,
+
+425
+00:27:21.891 --> 00:27:26.294
+is designed for the prolonged ventilation of often critically ill patients with
+
+426
+00:27:26.294 --> 00:27:30.641
+severe lung disease, providing a wide range of sophisticated modes — including
+
+427
+00:27:30.641 --> 00:27:32.647
+advanced pressure, volume, assisted,
+
+428
+00:27:32.647 --> 00:27:36.158
+supported and weaning modes — fine triggering and flow control,
+
+429
+00:27:36.158 --> 00:27:38.889
+the capacity to deliver high pressures and flows,
+
+430
+00:27:38.889 --> 00:27:41.118
+and accommodation of spontaneous effort,
+
+431
+00:27:41.118 --> 00:27:45.465
+but it does not provide volatile anaesthesia and uses a different gas-delivery
+
+432
+00:27:45.465 --> 00:27:49.923
+arrangement, typically a continuous high-flow non-rebreathing or blending system
+
+433
+00:27:49.923 --> 00:27:51.985
+rather than a circle with absorption.
+
+434
+00:27:52.125 --> 00:27:56.371
+The distinction has narrowed because modern anaesthetic workstations now
+
+435
+00:27:56.371 --> 00:28:00.558
+incorporate ventilators with intensive-care-like modes and performance,
+
+436
+00:28:00.558 --> 00:28:05.099
+and some intensive-care ventilators can be adapted for anaesthesia with agent
+
+437
+00:28:05.099 --> 00:28:05.629
+delivery.
+
+438
+00:28:05.769 --> 00:28:10.566
+So anaesthetic ventilators are integrated with the anaesthetic machine and circle
+
+439
+00:28:10.566 --> 00:28:15.007
+system for delivering volatile anaesthesia in shorter, controlled settings,
+
+440
+00:28:15.007 --> 00:28:19.923
+while intensive-care ventilators offer more sophisticated modes and performance for
+
+441
+00:28:19.923 --> 00:28:24.838
+prolonged ventilation of the critically ill without volatile agents — a distinction
+
+442
+00:28:24.838 --> 00:28:29.161
+narrowing as modern anaesthetic workstations acquire advanced ventilatory
+
+443
+00:28:29.161 --> 00:28:29.812
+capability.
+
+444
+00:28:30.312 --> 00:28:34.073
+What are the principal hazards and failures of ventilators,
+
+445
+00:28:34.073 --> 00:28:35.667
+and how are they managed?
+
+446
+00:28:36.167 --> 00:28:38.923
+Ventilators, sustaining the patient's breathing,
+
+447
+00:28:38.923 --> 00:28:41.162
+can fail or cause harm in several ways,
+
+448
+00:28:41.162 --> 00:28:45.871
+and a systematic understanding of these hazards and their management is essential,
+
+449
+00:28:45.871 --> 00:28:50.695
+because ventilatory failure is one of the most rapidly lethal events in anaesthesia.
+
+450
+00:28:50.835 --> 00:28:55.482
+The most feared hazard is disconnection or a major leak, interrupting ventilation;
+
+451
+00:28:55.482 --> 00:28:59.903
+it is common, often at the patient connection, and is detected by capnography,
+
+452
+00:28:59.903 --> 00:29:02.907
+by low airway pressure and low expired volume alarms,
+
+453
+00:29:02.907 --> 00:29:07.271
+and by the disconnection alarm, the ascending bellows collapsing as a visible
+
+454
+00:29:07.271 --> 00:29:11.805
+warning, and managed by promptly identifying and correcting the disconnection or
+
+455
+00:29:11.805 --> 00:29:13.619
+reverting to manual ventilation.
+
+456
+00:29:13.759 --> 00:29:17.868
+Obstruction of the breathing system or airway raises the airway pressure,
+
+457
+00:29:17.868 --> 00:29:20.795
+detected by the high-pressure alarm and capnography,
+
+458
+00:29:20.795 --> 00:29:23.103
+and managed by relieving the obstruction.
+
+459
+00:29:23.243 --> 00:29:27.985
+Barotrauma from excessive pressure is guarded against by pressure limits and alarms
+
+460
+00:29:27.985 --> 00:29:29.813
+and by lung-protective settings.
+
+461
+00:29:29.953 --> 00:29:32.190
+Inadequate or excessive ventilation,
+
+462
+00:29:32.190 --> 00:29:35.111
+from incorrect settings or changing compliance,
+
+463
+00:29:35.111 --> 00:29:40.020
+is detected by capnography and volume monitoring and corrected by adjusting the
+
+464
+00:29:40.020 --> 00:29:44.556
+settings. Delivery of an incorrect gas or loss of anaesthetic agent risks
+
+465
+00:29:44.556 --> 00:29:47.041
+awareness, detected by agent monitoring.
+
+466
+00:29:47.181 --> 00:29:50.042
+Power or driving-gas failure stops a ventilator,
+
+467
+00:29:50.042 --> 00:29:54.631
+managed by reverting to manual ventilation with the reservoir bag and oxygen,
+
+468
+00:29:54.631 --> 00:29:57.193
+which must always be immediately available.
+
+469
+00:29:57.193 --> 00:30:01.901
+Misassembly and valve failure are detected by the pre-use check and monitoring.
+
+470
+00:30:02.041 --> 00:30:04.778
+The overarching defences are the pre-use check,
+
+471
+00:30:04.778 --> 00:30:07.398
+comprehensive monitoring with enabled alarms,
+
+472
+00:30:07.398 --> 00:30:10.949
+the constant availability of the means of manual ventilation,
+
+473
+00:30:10.949 --> 00:30:13.860
+and the anaesthetist's vigilance and preparedness.
+
+474
+00:30:14.000 --> 00:30:17.723
+So ventilator hazards — disconnection, obstruction, barotrauma,
+
+475
+00:30:17.723 --> 00:30:20.560
+inadequate or excessive ventilation, agent loss,
+
+476
+00:30:20.560 --> 00:30:24.283
+and power or driving-gas failure — are detected by capnography,
+
+477
+00:30:24.283 --> 00:30:26.824
+pressure and volume monitoring with alarms,
+
+478
+00:30:26.824 --> 00:30:30.429
+and managed by correction or reversion to manual ventilation,
+
+479
+00:30:30.429 --> 00:30:35.157
+with the pre-use check, vigilant monitoring and immediate availability of manual
+
+480
+00:30:35.157 --> 00:30:37.403
+ventilation as the essential defences.
+
+481
+00:30:48.916 --> 00:30:54.144
+Finally, draw together the principles of mechanical ventilation as they bear on
+
+482
+00:30:54.144 --> 00:30:54.740
+practice.
+
+483
+00:30:55.240 --> 00:30:59.504
+Drawing the station together, the anaesthetic ventilator is the device that
+
+484
+00:30:59.504 --> 00:31:02.461
+sustains the patient's breathing during anaesthesia,
+
+485
+00:31:02.461 --> 00:31:04.735
+and understanding its principles, modes,
+
+486
+00:31:04.735 --> 00:31:08.659
+physiological effects and hazards is fundamental to safe ventilation.
+
+487
+00:31:08.799 --> 00:31:13.509
+Its purpose is to deliver controlled or assisted ventilation reliably and safely,
+
+488
+00:31:13.509 --> 00:31:16.881
+guaranteeing either a set tidal volume, in volume control,
+
+489
+00:31:16.881 --> 00:31:21.475
+or a limited set pressure, in pressure control, each with its merits and risks,
+
+490
+00:31:21.475 --> 00:31:26.185
+and cycling between inspiration and expiration by time, volume, pressure or flow.
+
+491
+00:31:26.325 --> 00:31:30.771
+The bag-in-bottle and electric piston designs separate the driving power from the
+
+492
+00:31:30.771 --> 00:31:33.899
+patient's gas, preserving the controlled gas composition.
+
+493
+00:31:34.039 --> 00:31:38.230
+A range of modes, from full control to pressure support and synchronised
+
+494
+00:31:38.230 --> 00:31:42.887
+intermittent ventilation, allows ventilation to be matched to the patient and to
+
+495
+00:31:42.887 --> 00:31:46.322
+weaning, with PEEP to recruit lung and improve oxygenation,
+
+496
+00:31:46.322 --> 00:31:50.572
+and the inspiratory-expiratory ratio and pause adjusted for gas exchange.
+
+497
+00:31:50.712 --> 00:31:54.654
+Mechanical ventilation, however, raises intrathoracic pressure,
+
+498
+00:31:54.654 --> 00:31:58.846
+impeding venous return and altering ventilation-perfusion matching,
+
+499
+00:31:58.846 --> 00:32:04.039
+and can injure the lung through barotrauma, volutrauma, atelectrauma and biotrauma,
+
+500
+00:32:04.039 --> 00:32:08.044
+mitigated by lung-protective ventilation with low tidal volumes,
+
+501
+00:32:08.044 --> 00:32:10.296
+limited pressures and adequate PEEP.
+
+502
+00:32:10.436 --> 00:32:14.612
+Above all, because ventilatory failure is rapidly fatal and often silent,
+
+503
+00:32:14.612 --> 00:32:18.272
+comprehensive monitoring — capnography, airway pressure, volume,
+
+504
+00:32:18.272 --> 00:32:22.448
+disconnection and oxygen alarms — and the constant availability of manual
+
+505
+00:32:22.448 --> 00:32:25.823
+ventilation, together with the pre-use check and vigilance,
+
+506
+00:32:25.823 --> 00:32:27.481
+are the essential safeguards.
+
+507
+00:32:27.621 --> 00:32:32.293
+So mechanical ventilation unites the physics of gas delivery with respiratory
+
+508
+00:32:32.293 --> 00:32:35.387
+physiology and rigorous safety, and its principled,
+
+509
+00:32:35.387 --> 00:32:40.059
+monitored and lung-protective application is fundamental to safe anaesthesia.
+
+510
+00:32:40.559 --> 00:32:44.548
+Describe high-frequency ventilation and where it is used.
+
+511
+00:32:45.048 --> 00:32:49.606
+High-frequency ventilation is a distinct mode of mechanical ventilation that
+
+512
+00:32:49.606 --> 00:32:53.145
+delivers very small tidal volumes at very high frequencies,
+
+513
+00:32:53.145 --> 00:32:58.003
+and it has particular applications worth describing as a contrast to conventional
+
+514
+00:32:58.003 --> 00:32:58.723
+ventilation.
+
+515
+00:32:58.863 --> 00:33:03.161
+Conventional ventilation delivers tidal volumes that exceed the dead space at
+
+516
+00:33:03.161 --> 00:33:06.845
+normal respiratory rates; high-frequency ventilation, by contrast,
+
+517
+00:33:06.845 --> 00:33:10.975
+delivers tidal volumes that may be smaller than the anatomical dead space,
+
+518
+00:33:10.975 --> 00:33:15.496
+at frequencies far above the normal respiratory rate — from around one to fifteen
+
+519
+00:33:15.496 --> 00:33:19.236
+hertz, that is sixty to several hundred breaths per minute or more.
+
+520
+00:33:19.376 --> 00:33:24.158
+Gas exchange under these conditions does not occur by the bulk convective movement
+
+521
+00:33:24.158 --> 00:33:27.133
+of fresh gas to the alveoli as in normal breathing,
+
+522
+00:33:27.133 --> 00:33:30.865
+but by a combination of mechanisms including enhanced diffusion,
+
+523
+00:33:30.865 --> 00:33:34.715
+the dispersion of gas, and pendelluft movement between lung units.
+
+524
+00:33:34.855 --> 00:33:37.994
+The principal forms are high-frequency jet ventilation,
+
+525
+00:33:37.994 --> 00:33:42.274
+in which short pulses of gas are injected at high velocity through a narrow
+
+526
+00:33:42.274 --> 00:33:46.782
+cannula, entraining additional gas, and high-frequency oscillatory ventilation,
+
+527
+00:33:46.782 --> 00:33:50.492
+in which a piston or diaphragm oscillates the gas back and forth.
+
+528
+00:33:50.632 --> 00:33:55.225
+The advantages are the maintenance of low peak airway pressures and small volume
+
+529
+00:33:55.225 --> 00:33:58.382
+excursions, which may reduce barotrauma and volutrauma,
+
+530
+00:33:58.382 --> 00:34:01.597
+and the provision of a relatively still operative field.
+
+531
+00:34:01.737 --> 00:34:05.405
+The applications include certain airway and thoracic surgery,
+
+532
+00:34:05.405 --> 00:34:10.095
+particularly laryngeal and tracheal surgery where a jet allows operating on an
+
+533
+00:34:10.095 --> 00:34:15.026
+unobstructed airway, and the ventilation of severe respiratory failure in critical
+
+534
+00:34:15.026 --> 00:34:17.972
+care where conventional ventilation risks injury.
+
+535
+00:34:18.112 --> 00:34:22.046
+So high-frequency ventilation delivers very small tidal volumes,
+
+536
+00:34:22.046 --> 00:34:25.550
+sometimes below the dead space, at very high frequencies,
+
+537
+00:34:25.550 --> 00:34:30.590
+achieving gas exchange by enhanced diffusion and dispersion rather than bulk flow;
+
+538
+00:34:30.590 --> 00:34:35.569
+its jet and oscillatory forms maintain low pressures and small volume excursions,
+
+539
+00:34:35.569 --> 00:34:39.872
+used in airway and thoracic surgery and in severe respiratory failure.
+
+540
+00:34:40.372 --> 00:34:43.935
+Explain triggering and patient-ventilator synchrony.
+
+541
+00:34:44.435 --> 00:34:49.056
+Triggering and patient-ventilator synchrony concern how a ventilator responds to a
+
+542
+00:34:49.056 --> 00:34:52.776
+patient's own respiratory efforts in assisted and supported modes,
+
+543
+00:34:52.776 --> 00:34:57.116
+and they are important to the comfort and effectiveness of ventilation in the
+
+544
+00:34:57.116 --> 00:34:58.920
+spontaneously breathing patient.
+
+545
+00:34:59.060 --> 00:35:03.757
+Triggering is the mechanism by which the patient's inspiratory effort initiates a
+
+546
+00:35:03.757 --> 00:35:05.844
+ventilator breath in assisted modes.
+
+547
+00:35:05.984 --> 00:35:10.071
+The ventilator detects the patient's effort and responds by delivering the
+
+548
+00:35:10.071 --> 00:35:14.268
+supported or assisted breath; detection is by sensing either a small fall in
+
+549
+00:35:14.268 --> 00:35:17.968
+pressure in the circuit caused by the patient's inspiratory effort,
+
+550
+00:35:17.968 --> 00:35:22.275
+pressure triggering, or a change in a continuous background flow caused by the
+
+551
+00:35:22.275 --> 00:35:24.319
+patient drawing gas, flow triggering,
+
+552
+00:35:24.319 --> 00:35:27.467
+the latter generally being more sensitive and responsive.
+
+553
+00:35:27.607 --> 00:35:29.698
+The trigger sensitivity is adjustable:
+
+554
+00:35:29.698 --> 00:35:34.266
+it must be set sensitive enough that the patient can trigger the ventilator without
+
+555
+00:35:34.266 --> 00:35:38.834
+excessive effort, but not so sensitive that the ventilator self-triggers on circuit
+
+556
+00:35:38.834 --> 00:35:42.796
+movement, cardiac oscillation or leaks, which is called auto-triggering.
+
+557
+00:35:42.936 --> 00:35:47.588
+Patient-ventilator synchrony is the degree to which the ventilator's delivery of
+
+558
+00:35:47.588 --> 00:35:52.472
+breaths matches the patient's own respiratory pattern and demand in timing and flow.
+
+559
+00:35:52.612 --> 00:35:56.806
+Dyssynchrony — a mismatch, such as the ventilator cycling out of phase with the
+
+560
+00:35:56.806 --> 00:36:00.947
+patient, delivering breaths the patient does not want or failing to respond to
+
+561
+00:36:00.947 --> 00:36:03.973
+efforts — causes discomfort, increased work of breathing,
+
+562
+00:36:03.973 --> 00:36:08.273
+and inefficient ventilation, and is addressed by adjusting the trigger, the flow,
+
+563
+00:36:08.273 --> 00:36:11.193
+the inspiratory time and the mode to match the patient.
+
+564
+00:36:11.333 --> 00:36:13.915
+Good synchrony improves comfort and efficiency.
+
+565
+00:36:14.055 --> 00:36:18.279
+So triggering is the patient-effort-initiated delivery of assisted breaths,
+
+566
+00:36:18.279 --> 00:36:22.335
+detected by pressure or the more responsive flow sensing with adjustable
+
+567
+00:36:22.335 --> 00:36:24.419
+sensitivity avoiding auto-triggering,
+
+568
+00:36:24.419 --> 00:36:29.094
+and patient-ventilator synchrony is the matching of the ventilator to the patient's
+
+569
+00:36:29.094 --> 00:36:33.600
+pattern, dyssynchrony causing discomfort and inefficiency and being corrected by
+
+570
+00:36:33.600 --> 00:36:36.135
+adjusting the trigger, flow, timing and mode.
+
+571
+00:36:47.648 --> 00:36:50.878
+What do compliance and resistance contribute,
+
+572
+00:36:50.878 --> 00:36:54.539
+and how are they reflected in ventilator waveforms?
+
+573
+00:36:55.039 --> 00:36:59.427
+Compliance and resistance are the two mechanical properties of the respiratory
+
+574
+00:36:59.427 --> 00:37:02.803
+system that determine the relationship between the pressure,
+
+575
+00:37:02.803 --> 00:37:04.772
+volume and flow during ventilation,
+
+576
+00:37:04.772 --> 00:37:07.811
+and the ventilator's waveforms and loops reflect them,
+
+577
+00:37:07.811 --> 00:37:10.399
+providing valuable information at the bedside.
+
+578
+00:37:10.539 --> 00:37:15.413
+Compliance is the change in volume per unit change in pressure — the distensibility
+
+579
+00:37:15.413 --> 00:37:18.349
+of the lungs and chest wall — so that a compliant,
+
+580
+00:37:18.349 --> 00:37:22.695
+easily distensible respiratory system requires little pressure to inflate,
+
+581
+00:37:22.695 --> 00:37:25.808
+while a stiff, low-compliance system, as in fibrosis,
+
+582
+00:37:25.808 --> 00:37:28.744
+oedema or the acute respiratory distress syndrome,
+
+583
+00:37:28.744 --> 00:37:31.211
+requires high pressure for a given volume.
+
+584
+00:37:31.351 --> 00:37:33.811
+Resistance is the opposition to gas flow,
+
+585
+00:37:33.811 --> 00:37:38.731
+arising chiefly from the airways and the tracheal tube, so that a high resistance,
+
+586
+00:37:38.731 --> 00:37:40.891
+as in bronchospasm or a narrow tube,
+
+587
+00:37:40.891 --> 00:37:43.831
+requires a higher pressure to drive a given flow.
+
+588
+00:37:43.971 --> 00:37:46.060
+During volume-controlled ventilation,
+
+589
+00:37:46.060 --> 00:37:48.658
+the airway pressure rises through inspiration;
+
+590
+00:37:48.658 --> 00:37:51.934
+the peak pressure reflects both resistance and compliance,
+
+591
+00:37:51.934 --> 00:37:56.509
+while the plateau pressure, measured during an inspiratory pause when there is no
+
+592
+00:37:56.509 --> 00:37:59.784
+flow, reflects the compliance and alveolar pressure alone,
+
+593
+00:37:59.784 --> 00:38:03.512
+the difference between peak and plateau reflecting the resistance.
+
+594
+00:38:03.652 --> 00:38:07.026
+The pressure-volume loop displays compliance as its slope,
+
+595
+00:38:07.026 --> 00:38:09.527
+a flatter loop indicating lower compliance,
+
+596
+00:38:09.527 --> 00:38:11.971
+and reveals overdistension or recruitment,
+
+597
+00:38:11.971 --> 00:38:15.577
+while the flow-volume loop reveals resistance and obstruction.
+
+598
+00:38:15.717 --> 00:38:20.306
+Monitoring these allows the detection of changes — falling compliance from
+
+599
+00:38:20.306 --> 00:38:25.453
+atelectasis or pneumothorax, rising resistance from bronchospasm or a kinked tube —
+
+600
+00:38:25.453 --> 00:38:27.685
+and the optimisation of ventilation.
+
+601
+00:38:27.825 --> 00:38:31.957
+So compliance, the distensibility, and resistance, the opposition to flow,
+
+602
+00:38:31.957 --> 00:38:36.200
+determine the pressure needed to ventilate; the peak pressure reflects both,
+
+603
+00:38:36.200 --> 00:38:40.164
+the plateau pressure compliance alone, and their difference resistance,
+
+604
+00:38:40.164 --> 00:38:44.687
+while the pressure-volume and flow-volume loops display compliance and resistance
+
+605
+00:38:44.687 --> 00:38:49.321
+and reveal overdistension, recruitment and obstruction — informative for optimising
+
+606
+00:38:49.321 --> 00:38:49.991
+ventilation.
+
+607
+00:38:50.491 --> 00:38:54.459
+Thank you. An excellent and complete account. Let us stop there.
+
+608
+00:38:54.959 --> 00:38:58.436
+Before we close, here are the take-home messages.
+
+609
+00:38:58.576 --> 00:39:03.995
+First, Anaesthetic ventilators deliver controlled or assisted ventilation safely;
+
+610
+00:39:03.995 --> 00:39:09.548
+they are classified by control variable (VOLUME generator - guarantees tidal volume
+
+611
+00:39:09.548 --> 00:39:12.224
+but variable, potentially high pressure;
+
+612
+00:39:12.224 --> 00:39:17.308
+PRESSURE generator - guarantees limited pressure but variable volume) and by
+
+613
+00:39:17.308 --> 00:39:20.720
+cycling (time-, volume-, pressure- or flow-cycled).
+
+614
+00:39:20.860 --> 00:39:25.932
+Second, The bag-in-bottle (bellows) and electric-piston designs separate the
+
+615
+00:39:25.932 --> 00:39:28.267
+DRIVING gas from the patient's gas,
+
+616
+00:39:28.267 --> 00:39:31.937
+preserving the controlled breathing-system composition;
+
+617
+00:39:31.937 --> 00:39:37.543
+the ASCENDING bellows is preferred because it collapses visibly on disconnection. 3.
+
+618
+00:39:37.683 --> 00:39:43.365
+PEEP maintains positive end-expiratory pressure to prevent alveolar collapse,
+
+619
+00:39:43.365 --> 00:39:46.169
+increase functional residual capacity,
+
+620
+00:39:46.169 --> 00:39:51.999
+reduce atelectasis and shunt and improve oxygenation - but raises intrathoracic
+
+621
+00:39:51.999 --> 00:39:58.051
+pressure, which (like IPPV generally) impedes venous return and can reduce cardiac
+
+622
+00:39:58.051 --> 00:40:02.109
+output, especially with hypovolaemia or high pressures.
+
+623
+00:40:02.249 --> 00:40:07.423
+Third, Ventilator-induced lung injury occurs via barotrauma (pressure),
+
+624
+00:40:07.423 --> 00:40:12.888
+volutrauma (overdistension), atelectrauma (cyclical collapse) and biotrauma
+
+625
+00:40:12.888 --> 00:40:18.717
+(inflammation); lung-protective ventilation uses low tidal volume (about 6 ml/kg
+
+626
+00:40:18.717 --> 00:40:22.579
+predicted weight), limited plateau/driving pressures,
+
+627
+00:40:22.579 --> 00:40:25.567
+adequate PEEP and permissive hypercapnia.
+
+628
+00:40:25.707 --> 00:40:30.443
+Fourth, Because ventilatory failure is rapidly fatal and often silent,
+
+629
+00:40:30.443 --> 00:40:35.246
+essential monitoring is capnography (confirms and assesses ventilation,
+
+630
+00:40:35.246 --> 00:40:39.982
+detects disconnection/obstruction), airway pressure (high/low alarms),
+
+631
+00:40:39.982 --> 00:40:43.636
+volume/flow (low-volume alarm), a disconnection alarm,
+
+632
+00:40:43.636 --> 00:40:48.981
+inspired oxygen and saturation, and agent monitoring - with the means of MANUAL
+
+633
+00:40:48.981 --> 00:40:51.755
+ventilation always immediately available.
+
+634
+00:41:03.268 --> 00:41:05.743
+Thank you. That concludes the station.
+

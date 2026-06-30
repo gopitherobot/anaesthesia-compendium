@@ -1,0 +1,2430 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.184
+Welcome to Anaesthesia Compendium. Today's viva station: neuromuscular monitoring.
+
+2
+00:00:06.184 --> 00:00:11.224
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.724 --> 00:00:16.567
+Let us begin. What is neuromuscular monitoring, and why is it important?
+
+4
+00:00:17.067 --> 00:00:21.005
+Neuromuscular monitoring is the objective measurement of the degree of
+
+5
+00:00:21.005 --> 00:00:24.436
+neuromuscular block produced by neuromuscular blocking drugs,
+
+6
+00:00:24.436 --> 00:00:28.881
+achieved by stimulating a peripheral motor nerve electrically and measuring the
+
+7
+00:00:28.881 --> 00:00:33.494
+resulting muscle response, and it is important because it is the only reliable way
+
+8
+00:00:33.494 --> 00:00:36.025
+to assess the depth of block and, critically,
+
+9
+00:00:36.025 --> 00:00:39.232
+to confirm its full reversal before the patient is woken.
+
+10
+00:00:39.372 --> 00:00:41.874
+When a neuromuscular blocking drug is given,
+
+11
+00:00:41.874 --> 00:00:44.888
+it blocks transmission at the neuromuscular junction,
+
+12
+00:00:44.888 --> 00:00:49.266
+producing paralysis whose depth varies over time with the dose and the drug's
+
+13
+00:00:49.266 --> 00:00:52.166
+pharmacology and the patient's individual response;
+
+14
+00:00:52.166 --> 00:00:55.521
+clinical signs alone are an unreliable guide to this depth.
+
+15
+00:00:55.661 --> 00:01:00.273
+Neuromuscular monitoring allows the anaesthetist to assess the depth of block
+
+16
+00:01:00.273 --> 00:01:03.447
+during surgery, to titrate further doses of relaxant,
+
+17
+00:01:03.447 --> 00:01:07.519
+to time and confirm the adequacy of reversal, and, most importantly,
+
+18
+00:01:07.519 --> 00:01:12.131
+to detect and prevent residual neuromuscular block at the end of anaesthesia.
+
+19
+00:01:12.271 --> 00:01:17.174
+Residual block — incomplete recovery of neuromuscular function at extubation — is
+
+20
+00:01:17.174 --> 00:01:21.653
+common, dangerous and often undetectable clinically, impairing the airway,
+
+21
+00:01:21.653 --> 00:01:25.164
+ventilation and the ability to protect against aspiration,
+
+22
+00:01:25.164 --> 00:01:28.493
+and increasing postoperative respiratory complications;
+
+23
+00:01:28.493 --> 00:01:32.367
+objective monitoring is the only reliable means of excluding it.
+
+24
+00:01:32.507 --> 00:01:37.304
+For these reasons quantitative neuromuscular monitoring whenever a neuromuscular
+
+25
+00:01:37.304 --> 00:01:41.381
+blocking drug is used is strongly recommended as a standard of care.
+
+26
+00:01:41.521 --> 00:01:46.204
+So neuromuscular monitoring objectively measures the depth of neuromuscular block
+
+27
+00:01:46.204 --> 00:01:49.847
+by stimulating a motor nerve and measuring the muscle response;
+
+28
+00:01:49.847 --> 00:01:54.125
+it is important to assess and titrate block during surgery and, above all,
+
+29
+00:01:54.125 --> 00:01:56.901
+to confirm full reversal and exclude the common,
+
+30
+00:01:56.901 --> 00:02:01.468
+dangerous and clinically undetectable residual block before waking the patient.
+
+31
+00:02:01.968 --> 00:02:05.531
+On what principle does the nerve stimulator work?
+
+32
+00:02:06.031 --> 00:02:10.649
+The principle of neuromuscular monitoring is to apply a standardised electrical
+
+33
+00:02:10.649 --> 00:02:15.502
+stimulus to a peripheral motor nerve and to assess the resulting contraction of the
+
+34
+00:02:15.502 --> 00:02:19.770
+muscle it supplies, the size of the response reflecting the proportion of
+
+35
+00:02:19.770 --> 00:02:22.518
+neuromuscular junctions still able to transmit,
+
+36
+00:02:22.518 --> 00:02:27.020
+and understanding the requirements of the stimulus is fundamental to reliable
+
+37
+00:02:27.020 --> 00:02:27.663
+monitoring.
+
+38
+00:02:27.803 --> 00:02:32.517
+A peripheral nerve stimulator delivers an electrical current through two electrodes
+
+39
+00:02:32.517 --> 00:02:36.664
+placed over a superficial motor nerve; the current depolarises the nerve,
+
+40
+00:02:36.664 --> 00:02:41.151
+generating action potentials that travel to the muscle and evoke a contraction,
+
+41
+00:02:41.151 --> 00:02:41.776
+the twitch.
+
+42
+00:02:41.916 --> 00:02:45.124
+For the response to reflect the degree of block reliably,
+
+43
+00:02:45.124 --> 00:02:47.600
+the stimulus must be supramaximal — that is,
+
+44
+00:02:47.600 --> 00:02:52.047
+of a current greater than that needed to excite every nerve fibre in the nerve,
+
+45
+00:02:52.047 --> 00:02:56.662
+so that the maximal possible number of muscle fibres is activated and the response
+
+46
+00:02:56.662 --> 00:02:59.307
+depends only on how many junctions are blocked,
+
+47
+00:02:59.307 --> 00:03:01.671
+not on whether all fibres were stimulated.
+
+48
+00:03:01.811 --> 00:03:04.824
+The stimulus is a brief, square, monophasic pulse,
+
+49
+00:03:04.824 --> 00:03:08.500
+conventionally of about zero point two milliseconds duration,
+
+50
+00:03:08.500 --> 00:03:13.321
+short enough to excite the nerve once without directly stimulating the muscle or
+
+51
+00:03:13.321 --> 00:03:14.888
+causing repetitive firing.
+
+52
+00:03:15.028 --> 00:03:18.744
+The current required is typically fifty to sixty milliamps or more.
+
+53
+00:03:18.744 --> 00:03:23.293
+The response — the evoked muscle contraction — is then assessed, by feel or sight,
+
+54
+00:03:23.293 --> 00:03:27.841
+or, better, measured objectively. The degree of block is judged from the reduction
+
+55
+00:03:27.841 --> 00:03:29.449
+and pattern of the responses.
+
+56
+00:03:29.589 --> 00:03:33.298
+So the nerve stimulator works by delivering a supramaximal, brief,
+
+57
+00:03:33.298 --> 00:03:36.219
+square electrical pulse to a peripheral motor nerve,
+
+58
+00:03:36.219 --> 00:03:40.658
+exciting all its fibres so that the evoked muscle contraction reflects only the
+
+59
+00:03:40.658 --> 00:03:43.074
+proportion of junctions still transmitting;
+
+60
+00:03:43.074 --> 00:03:45.434
+the response is then assessed or measured,
+
+61
+00:03:45.434 --> 00:03:48.917
+and the degree of block judged from its reduction and pattern.
+
+62
+00:03:49.417 --> 00:03:52.724
+Describe the patterns of stimulation used.
+
+63
+00:03:53.224 --> 00:03:57.638
+Several distinct patterns of electrical stimulation are used in neuromuscular
+
+64
+00:03:57.638 --> 00:04:02.224
+monitoring, each giving particular information about the depth and nature of the
+
+65
+00:04:02.224 --> 00:04:06.696
+block, and knowing them is essential to using the monitor and interpreting the
+
+66
+00:04:06.696 --> 00:04:07.155
+results.
+
+67
+00:04:07.295 --> 00:04:09.620
+The single twitch is a single stimulus,
+
+68
+00:04:09.620 --> 00:04:14.092
+usually at one hertz or zero point one hertz, evoking a single contraction;
+
+69
+00:04:14.092 --> 00:04:18.505
+comparing its height to a pre-block control indicates the degree of block,
+
+70
+00:04:18.505 --> 00:04:21.844
+but it requires a control and is relatively insensitive.
+
+71
+00:04:21.984 --> 00:04:24.673
+The train-of-four, the most widely used pattern,
+
+72
+00:04:24.673 --> 00:04:27.587
+delivers four stimuli at two hertz over two seconds;
+
+73
+00:04:27.587 --> 00:04:32.181
+in a non-depolarising block the successive responses fade in a characteristic way,
+
+74
+00:04:32.181 --> 00:04:36.384
+and the ratio of the fourth to the first response, the train-of-four ratio,
+
+75
+00:04:36.384 --> 00:04:39.857
+and the number of palpable responses, the train-of-four count,
+
+76
+00:04:39.857 --> 00:04:42.379
+quantify the block without needing a control.
+
+77
+00:04:42.519 --> 00:04:46.629
+Tetanic stimulation delivers a sustained high-frequency stimulus,
+
+78
+00:04:46.629 --> 00:04:51.308
+typically fifty hertz for five seconds, provoking a sustained contraction;
+
+79
+00:04:51.308 --> 00:04:54.975
+in non-depolarising block this is not sustained but fades,
+
+80
+00:04:54.975 --> 00:04:58.327
+and tetanus is followed by post-tetanic potentiation.
+
+81
+00:04:58.467 --> 00:05:03.320
+Post-tetanic count, used in deep block when there is no response to train-of-four,
+
+82
+00:05:03.320 --> 00:05:05.865
+applies a tetanus and then single twitches,
+
+83
+00:05:05.865 --> 00:05:09.475
+counting the post-tetanic responses to gauge very deep block.
+
+84
+00:05:09.615 --> 00:05:13.187
+Double-burst stimulation delivers two short bursts of tetanus,
+
+85
+00:05:13.187 --> 00:05:15.837
+making fade easier to feel than train-of-four.
+
+86
+00:05:15.837 --> 00:05:18.660
+Each pattern suits a different depth and purpose.
+
+87
+00:05:18.800 --> 00:05:23.238
+So the patterns are the single twitch, needing a control; the train-of-four,
+
+88
+00:05:23.238 --> 00:05:27.325
+four stimuli at two hertz quantifying block by fade without a control;
+
+89
+00:05:27.325 --> 00:05:31.938
+tetanic stimulation revealing fade; the post-tetanic count for very deep block;
+
+90
+00:05:31.938 --> 00:05:36.376
+and double-burst stimulation making fade easier to detect — each suited to a
+
+91
+00:05:36.376 --> 00:05:38.128
+particular depth and question.
+
+92
+00:05:49.641 --> 00:05:53.823
+Explain the train-of-four in detail and its interpretation.
+
+93
+00:05:54.323 --> 00:05:58.840
+The train-of-four is the most important and widely used pattern of stimulation,
+
+94
+00:05:58.840 --> 00:06:02.900
+and a detailed understanding of it and its interpretation is central to
+
+95
+00:06:02.900 --> 00:06:07.532
+neuromuscular monitoring, because it allows the depth of a non-depolarising block
+
+96
+00:06:07.532 --> 00:06:10.963
+to be quantified at the bedside without a pre-block control.
+
+97
+00:06:11.103 --> 00:06:15.962
+The train-of-four consists of four supramaximal stimuli delivered at a frequency of
+
+98
+00:06:15.962 --> 00:06:20.412
+two hertz, that is, two seconds apart over the train, evoking four twitches.
+
+99
+00:06:20.412 --> 00:06:24.159
+In the absence of block, all four responses are of equal height.
+
+100
+00:06:24.299 --> 00:06:26.379
+In a partial non-depolarising block,
+
+101
+00:06:26.379 --> 00:06:31.174
+the responses progressively diminish across the train — the phenomenon of fade — so
+
+102
+00:06:31.174 --> 00:06:34.121
+that the fourth response is smaller than the first;
+
+103
+00:06:34.121 --> 00:06:37.067
+this fade occurs because the non-depolarising drug,
+
+104
+00:06:37.067 --> 00:06:41.285
+by blocking the presynaptic acetylcholine receptors that normally sustain
+
+105
+00:06:41.285 --> 00:06:44.174
+transmitter release during repetitive stimulation,
+
+106
+00:06:44.174 --> 00:06:48.853
+impairs the mobilisation of acetylcholine, so each successive response is weaker.
+
+107
+00:06:48.993 --> 00:06:53.524
+Two measures are derived. The train-of-four ratio is the height of the fourth
+
+108
+00:06:53.524 --> 00:06:58.349
+response divided by the first, expressed as a fraction; it falls as block deepens,
+
+109
+00:06:58.349 --> 00:07:00.644
+and recovers toward one as block wanes,
+
+110
+00:07:00.644 --> 00:07:05.057
+a ratio of less than zero point nine indicating significant residual block.
+
+111
+00:07:05.197 --> 00:07:09.581
+The train-of-four count is simply the number of palpable or visible responses,
+
+112
+00:07:09.581 --> 00:07:11.885
+from four down to zero; as block deepens,
+
+113
+00:07:11.885 --> 00:07:15.818
+the responses disappear from the fourth backwards, so a count of, say,
+
+114
+00:07:15.818 --> 00:07:19.021
+one or two indicates a deeper block suitable for surgery.
+
+115
+00:07:19.161 --> 00:07:23.961
+Importantly, fade requires no control value, since it is a ratio within the train.
+
+116
+00:07:24.101 --> 00:07:27.405
+So the train-of-four delivers four stimuli at two hertz;
+
+117
+00:07:27.405 --> 00:07:31.653
+in non-depolarising block the responses fade, the fourth being smallest,
+
+118
+00:07:31.653 --> 00:07:35.015
+owing to impaired presynaptic acetylcholine mobilisation;
+
+119
+00:07:35.015 --> 00:07:38.732
+the train-of-four ratio of fourth to first quantifies recovery,
+
+120
+00:07:38.732 --> 00:07:42.094
+with less than zero point nine indicating residual block,
+
+121
+00:07:42.094 --> 00:07:46.224
+and the count of responses gauges depth, needing no pre-block control.
+
+122
+00:07:46.724 --> 00:07:52.464
+How does the pattern of response differ between depolarising and non-depolarising
+
+123
+00:07:52.464 --> 00:07:52.889
+block?
+
+124
+00:07:53.389 --> 00:07:57.602
+The patterns of response to stimulation differ in a characteristic and
+
+125
+00:07:57.602 --> 00:08:01.815
+diagnostically important way between depolarising and non-depolarising
+
+126
+00:08:01.815 --> 00:08:06.750
+neuromuscular block, and understanding this difference allows the type of block to
+
+127
+00:08:06.750 --> 00:08:11.565
+be identified and the unusual phase-two block of suxamethonium to be recognised.
+
+128
+00:08:11.705 --> 00:08:15.573
+In a non-depolarising block, produced by the competitive agents,
+
+129
+00:08:15.573 --> 00:08:18.595
+the responses to repetitive stimulation show fade:
+
+130
+00:08:18.595 --> 00:08:22.765
+the train-of-four shows progressive diminution of the four responses,
+
+131
+00:08:22.765 --> 00:08:24.880
+with a reduced train-of-four ratio,
+
+132
+00:08:24.880 --> 00:08:27.963
+and tetanic stimulation is not sustained but fades,
+
+133
+00:08:27.963 --> 00:08:32.979
+followed by post-tetanic potentiation — a transient enhancement of the twitch after
+
+134
+00:08:32.979 --> 00:08:36.303
+a tetanus, because the tetanus mobilises acetylcholine.
+
+135
+00:08:36.443 --> 00:08:41.061
+These phenomena of fade and post-tetanic potentiation are the hallmark of
+
+136
+00:08:41.061 --> 00:08:45.680
+non-depolarising block and arise from the block of presynaptic receptors.
+
+137
+00:08:45.820 --> 00:08:50.350
+In a normal depolarising, or phase-one, block, produced by suxamethonium,
+
+138
+00:08:50.350 --> 00:08:53.576
+the responses are quite different: there is no fade,
+
+139
+00:08:53.576 --> 00:08:57.361
+the train-of-four responses being reduced but all equally so,
+
+140
+00:08:57.361 --> 00:09:00.029
+the train-of-four ratio remaining near one;
+
+141
+00:09:00.029 --> 00:09:02.883
+tetanic stimulation is sustained without fade;
+
+142
+00:09:02.883 --> 00:09:05.489
+and there is no post-tetanic potentiation.
+
+143
+00:09:05.629 --> 00:09:10.759
+This is because the depolarising agent acts purely postsynaptically by persistent
+
+144
+00:09:10.759 --> 00:09:11.709
+depolarisation.
+
+145
+00:09:11.849 --> 00:09:17.055
+However, with large or repeated doses of suxamethonium the block may change its
+
+146
+00:09:17.055 --> 00:09:22.392
+character to a phase-two, or dual, block that resembles a non-depolarising block,
+
+147
+00:09:22.392 --> 00:09:25.225
+showing fade and post-tetanic potentiation.
+
+148
+00:09:25.365 --> 00:09:29.580
+So non-depolarising block shows fade and post-tetanic potentiation,
+
+149
+00:09:29.580 --> 00:09:34.361
+the hallmark of competitive block; normal depolarising phase-one block shows
+
+150
+00:09:34.361 --> 00:09:37.947
+reduced but equal responses without fade or potentiation;
+
+151
+00:09:37.947 --> 00:09:42.540
+and a phase-two block from excessive suxamethonium acquires the fade of a
+
+152
+00:09:42.540 --> 00:09:47.509
+non-depolarising block — allowing the type and phase of block to be identified.
+
+153
+00:09:48.009 --> 00:09:52.212
+Which nerves and muscles are used, and what are the considerations?
+
+154
+00:09:52.712 --> 00:09:57.172
+The choice of nerve to stimulate and muscle to monitor is an important practical
+
+155
+00:09:57.172 --> 00:09:59.124
+aspect of neuromuscular monitoring,
+
+156
+00:09:59.124 --> 00:10:03.640
+because different muscles vary in their sensitivity to block and in how well they
+
+157
+00:10:03.640 --> 00:10:06.651
+reflect the muscles whose function matters clinically,
+
+158
+00:10:06.651 --> 00:10:09.160
+and the site must be accessible and reliable.
+
+159
+00:10:09.300 --> 00:10:12.813
+The most commonly used site is the ulnar nerve at the wrist,
+
+160
+00:10:12.813 --> 00:10:15.213
+stimulated by electrodes over its course,
+
+161
+00:10:15.213 --> 00:10:19.721
+evoking contraction of the adductor pollicis muscle, which adducts the thumb;
+
+162
+00:10:19.721 --> 00:10:23.234
+this site is accessible, gives a clear, measurable response,
+
+163
+00:10:23.234 --> 00:10:26.044
+and the adductor pollicis is well characterised,
+
+164
+00:10:26.044 --> 00:10:29.908
+making it the standard for monitoring and for confirming recovery.
+
+165
+00:10:30.048 --> 00:10:32.819
+Alternative sites include the facial nerve,
+
+166
+00:10:32.819 --> 00:10:37.524
+monitoring the orbicularis oculi or corrugator supercilii around the eye,
+
+167
+00:10:37.524 --> 00:10:42.421
+and the posterior tibial nerve at the ankle, monitoring the flexor hallucis.
+
+168
+00:10:42.561 --> 00:10:47.348
+An important consideration is that muscles differ in sensitivity: the diaphragm,
+
+169
+00:10:47.348 --> 00:10:52.194
+the larynx and the other central, airway-related muscles are relatively resistant
+
+170
+00:10:52.194 --> 00:10:56.741
+to block, recovering earlier, while the peripheral adductor pollicis is more
+
+171
+00:10:56.741 --> 00:10:58.476
+sensitive and recovers later.
+
+172
+00:10:58.616 --> 00:11:01.628
+This means the adductor pollicis is a conservative,
+
+173
+00:11:01.628 --> 00:11:04.934
+safe site for confirming recovery — if it has recovered,
+
+174
+00:11:04.934 --> 00:11:09.245
+the airway muscles have certainly recovered — whereas the facial muscles,
+
+175
+00:11:09.245 --> 00:11:11.489
+behaving more like the airway muscles,
+
+176
+00:11:11.489 --> 00:11:16.154
+may overestimate recovery of the adductor pollicis and so should not be used to
+
+177
+00:11:16.154 --> 00:11:17.453
+confirm full recovery.
+
+178
+00:11:17.593 --> 00:11:22.265
+The thumb must be free to move and the response measured at the adductor pollicis.
+
+179
+00:11:22.405 --> 00:11:26.586
+So the ulnar nerve at the wrist, evoking adductor pollicis contraction,
+
+180
+00:11:26.586 --> 00:11:30.944
+is the standard site, accessible and conservative for confirming recovery;
+
+181
+00:11:30.944 --> 00:11:35.066
+the facial and tibial nerves are alternatives, but the facial muscles,
+
+182
+00:11:35.066 --> 00:11:37.421
+resembling the resistant airway muscles,
+
+183
+00:11:37.421 --> 00:11:42.308
+overestimate recovery and should not be used to confirm it — the sensitive adductor
+
+184
+00:11:42.308 --> 00:11:44.016
+pollicis being the safe site.
+
+185
+00:11:55.529 --> 00:11:59.263
+How is the muscle response measured objectively?
+
+186
+00:11:59.763 --> 00:12:04.594
+Although the muscle response to stimulation can be assessed subjectively by feeling
+
+187
+00:12:04.594 --> 00:12:09.134
+or watching the twitch, objective, quantitative measurement of the response is
+
+188
+00:12:09.134 --> 00:12:13.092
+greatly superior and is necessary to detect residual block reliably,
+
+189
+00:12:13.092 --> 00:12:17.748
+and understanding the methods of objective measurement explains why quantitative
+
+190
+00:12:17.748 --> 00:12:19.261
+monitoring is recommended.
+
+191
+00:12:19.401 --> 00:12:24.186
+Subjective assessment — feeling the strength of the thumb adduction or watching it,
+
+192
+00:12:24.186 --> 00:12:26.550
+and judging fade by hand — is unreliable,
+
+193
+00:12:26.550 --> 00:12:31.219
+because the human hand and eye cannot reliably detect fade once the train-of-four
+
+194
+00:12:31.219 --> 00:12:33.294
+ratio exceeds about zero point four,
+
+195
+00:12:33.294 --> 00:12:37.964
+so significant residual block with a ratio between zero point four and zero point
+
+196
+00:12:37.964 --> 00:12:42.633
+nine is missed; subjective assessment therefore cannot confirm adequate recovery.
+
+197
+00:12:42.773 --> 00:12:46.904
+Objective monitoring measures the response quantitatively and displays the
+
+198
+00:12:46.904 --> 00:12:50.197
+train-of-four ratio as a number. There are several methods.
+
+199
+00:12:50.337 --> 00:12:54.850
+Acceleromyography measures the acceleration of the moving thumb with a small
+
+200
+00:12:54.850 --> 00:12:59.720
+piezoelectric accelerometer, since by Newton's law acceleration is proportional to
+
+201
+00:12:59.720 --> 00:13:01.857
+force; it is simple and widely used.
+
+202
+00:13:01.997 --> 00:13:06.748
+Electromyography measures the electrical compound action potential of the muscle
+
+203
+00:13:06.748 --> 00:13:10.015
+evoked by the stimulus, a direct measure of activation.
+
+204
+00:13:10.015 --> 00:13:12.390
+Mechanomyography, the research standard,
+
+205
+00:13:12.390 --> 00:13:17.379
+measures the actual force of contraction with a transducer under controlled tension.
+
+206
+00:13:17.519 --> 00:13:22.367
+Kinemyography measures the bending of a piezoelectric strip in the moving thumb.
+
+207
+00:13:22.367 --> 00:13:24.972
+Each gives a numerical train-of-four ratio,
+
+208
+00:13:24.972 --> 00:13:29.699
+allowing recovery to be confirmed objectively at a ratio of zero point nine or
+
+209
+00:13:29.699 --> 00:13:30.063
+above.
+
+210
+00:13:30.203 --> 00:13:34.980
+So objective measurement is necessary because subjective assessment cannot detect
+
+211
+00:13:34.980 --> 00:13:38.991
+fade above a ratio of about zero point four, missing residual block;
+
+212
+00:13:38.991 --> 00:13:42.942
+objective methods — acceleromyography measuring thumb acceleration,
+
+213
+00:13:42.942 --> 00:13:46.186
+electromyography measuring the muscle action potential,
+
+214
+00:13:46.186 --> 00:13:51.082
+mechanomyography measuring force, and kinemyography measuring bending — display the
+
+215
+00:13:51.082 --> 00:13:55.800
+train-of-four ratio numerically, allowing recovery to be confirmed at a ratio of
+
+216
+00:13:55.800 --> 00:13:57.275
+zero point nine or above.
+
+217
+00:13:57.775 --> 00:14:03.023
+What is residual neuromuscular block, and how is adequate recovery defined?
+
+218
+00:14:03.523 --> 00:14:08.234
+Residual neuromuscular block is the persistence of a clinically significant degree
+
+219
+00:14:08.234 --> 00:14:10.991
+of neuromuscular block into the recovery period,
+
+220
+00:14:10.991 --> 00:14:15.587
+and defining it and the criteria for adequate recovery is of central importance,
+
+221
+00:14:15.587 --> 00:14:20.298
+because residual block is common, dangerous and the principal reason neuromuscular
+
+222
+00:14:20.298 --> 00:14:21.677
+monitoring is essential.
+
+223
+00:14:21.817 --> 00:14:26.194
+Residual block is present when neuromuscular function has not fully recovered at
+
+224
+00:14:26.194 --> 00:14:28.218
+the time of extubation and emergence,
+
+225
+00:14:28.218 --> 00:14:31.609
+even though the patient may appear to be moving and breathing.
+
+226
+00:14:31.749 --> 00:14:36.489
+It matters because incomplete recovery impairs the function of the pharyngeal and
+
+227
+00:14:36.489 --> 00:14:39.006
+airway muscles, causing airway obstruction,
+
+228
+00:14:39.006 --> 00:14:42.692
+impaired swallowing and a greatly increased risk of aspiration;
+
+229
+00:14:42.692 --> 00:14:44.740
+it weakens the respiratory muscles,
+
+230
+00:14:44.740 --> 00:14:48.603
+impairing ventilation and the response to hypoxia and hypercarbia;
+
+231
+00:14:48.603 --> 00:14:50.651
+and it causes distressing weakness.
+
+232
+00:14:50.791 --> 00:14:55.500
+These translate into an increased incidence of postoperative airway and respiratory
+
+233
+00:14:55.500 --> 00:14:56.295
+complications.
+
+234
+00:14:56.435 --> 00:15:01.280
+The accepted objective criterion for adequate recovery is a train-of-four ratio of
+
+235
+00:15:01.280 --> 00:15:05.652
+zero point nine or greater, measured objectively at the adductor pollicis;
+
+236
+00:15:05.652 --> 00:15:10.497
+this threshold was established because below it the pharyngeal and airway function
+
+237
+00:15:10.497 --> 00:15:13.629
+and the hypoxic ventilatory response remain impaired,
+
+238
+00:15:13.629 --> 00:15:17.469
+while at zero point nine and above they are essentially restored.
+
+239
+00:15:17.609 --> 00:15:20.431
+Clinical tests such as a sustained head-lift,
+
+240
+00:15:20.431 --> 00:15:25.573
+hand-grip or the ability to sustain a tetanus are insensitive and cannot exclude a
+
+241
+00:15:25.573 --> 00:15:28.833
+ratio below zero point nine, so they are inadequate;
+
+242
+00:15:28.833 --> 00:15:34.100
+only objective measurement to a ratio of zero point nine confirms adequate recovery.
+
+243
+00:15:34.240 --> 00:15:39.029
+So residual neuromuscular block is clinically significant incomplete recovery at
+
+244
+00:15:39.029 --> 00:15:42.322
+emergence, causing airway obstruction, aspiration risk,
+
+245
+00:15:42.322 --> 00:15:47.171
+impaired ventilation and weakness; adequate recovery is defined as an objectively
+
+246
+00:15:47.171 --> 00:15:52.079
+measured train-of-four ratio of zero point nine or above at the adductor pollicis,
+
+247
+00:15:52.079 --> 00:15:55.432
+a threshold that clinical tests cannot reliably confirm,
+
+248
+00:15:55.432 --> 00:15:57.707
+making objective monitoring necessary.
+
+249
+00:16:09.220 --> 00:16:12.804
+How is monitoring used to guide reversal of block?
+
+250
+00:16:13.304 --> 00:16:17.907
+Neuromuscular monitoring is used to guide the reversal of neuromuscular block in a
+
+251
+00:16:17.907 --> 00:16:22.285
+rational, drug-specific way, and understanding this guides the safe and timely
+
+252
+00:16:22.285 --> 00:16:25.709
+antagonism of block and the confirmation of its completeness,
+
+253
+00:16:25.709 --> 00:16:28.067
+which differs between the reversal agents.
+
+254
+00:16:28.207 --> 00:16:32.220
+With the traditional anticholinesterase reversal, such as neostigmine,
+
+255
+00:16:32.220 --> 00:16:36.634
+monitoring is essential because neostigmine can only reverse a block that has
+
+256
+00:16:36.634 --> 00:16:41.163
+already partially recovered — it has a ceiling and cannot antagonise a profound
+
+257
+00:16:41.163 --> 00:16:45.864
+block — so reversal should not be attempted until there is evidence of spontaneous
+
+258
+00:16:45.864 --> 00:16:49.246
+recovery, conventionally at least two, and preferably four,
+
+259
+00:16:49.246 --> 00:16:53.660
+responses to the train-of-four; giving neostigmine when the block is too deep
+
+260
+00:16:53.660 --> 00:16:56.068
+results in inadequate or delayed reversal.
+
+261
+00:16:56.208 --> 00:17:00.582
+After giving the reversal, monitoring confirms that recovery proceeds to a
+
+262
+00:17:00.582 --> 00:17:03.952
+train-of-four ratio of zero point nine before extubation.
+
+263
+00:17:04.092 --> 00:17:08.367
+With sugammadex, the selective relaxant-binding agent that reverses the
+
+264
+00:17:08.367 --> 00:17:12.340
+aminosteroid relaxants rocuronium and vecuronium by encapsulation,
+
+265
+00:17:12.340 --> 00:17:16.735
+monitoring guides the dose: sugammadex can reverse even a profound block,
+
+266
+00:17:16.735 --> 00:17:21.612
+and the dose is chosen according to the depth — a larger dose for a deeper block,
+
+267
+00:17:21.612 --> 00:17:26.488
+guided by the post-tetanic count and train-of-four — and monitoring then confirms
+
+268
+00:17:26.488 --> 00:17:29.137
+full recovery to a ratio of zero point nine.
+
+269
+00:17:29.277 --> 00:17:34.176
+In both cases monitoring both indicates when and how much reversal to give and
+
+270
+00:17:34.176 --> 00:17:39.389
+confirms its adequacy, preventing both premature extubation with residual block and
+
+271
+00:17:39.389 --> 00:17:40.520
+unnecessary delay.
+
+272
+00:17:40.660 --> 00:17:45.575
+So monitoring guides reversal by indicating when anticholinesterase reversal may be
+
+273
+00:17:45.575 --> 00:17:50.371
+given — only once spontaneous recovery to two to four train-of-four responses has
+
+274
+00:17:50.371 --> 00:17:54.872
+appeared, since neostigmine cannot reverse a deep block — and by guiding the
+
+275
+00:17:54.872 --> 00:17:57.122
+sugammadex dose to the measured depth;
+
+276
+00:17:57.122 --> 00:18:02.037
+in both cases it then confirms recovery to a train-of-four ratio of zero point nine
+
+277
+00:18:02.037 --> 00:18:03.103
+before extubation.
+
+278
+00:18:03.603 --> 00:18:06.675
+How is very deep, intense block monitored?
+
+279
+00:18:07.175 --> 00:18:09.407
+The monitoring of very deep, or intense,
+
+280
+00:18:09.407 --> 00:18:13.704
+neuromuscular block — block so profound that there is no response even to the
+
+281
+00:18:13.704 --> 00:18:17.443
+train-of-four — requires a special pattern, the post-tetanic count,
+
+282
+00:18:17.443 --> 00:18:22.019
+and understanding it completes the range of monitoring across all depths of block,
+
+283
+00:18:22.019 --> 00:18:26.427
+which is important when profound block is needed and when judging the timing of
+
+284
+00:18:26.427 --> 00:18:26.929
+reversal.
+
+285
+00:18:27.069 --> 00:18:29.263
+When neuromuscular block is very deep,
+
+286
+00:18:29.263 --> 00:18:33.709
+as is required for certain surgery or shortly after a large dose of relaxant,
+
+287
+00:18:33.709 --> 00:18:38.385
+the muscle does not respond at all to single-twitch or train-of-four stimulation,
+
+288
+00:18:38.385 --> 00:18:43.061
+so these patterns show zero responses and cannot distinguish degrees of very deep
+
+289
+00:18:43.061 --> 00:18:45.544
+block or indicate when recovery will begin.
+
+290
+00:18:45.684 --> 00:18:48.095
+The post-tetanic count addresses this.
+
+291
+00:18:48.235 --> 00:18:51.569
+A tetanic stimulus is applied for five seconds, which,
+
+292
+00:18:51.569 --> 00:18:56.693
+through post-tetanic potentiation, transiently mobilises acetylcholine and enhances
+
+293
+00:18:56.693 --> 00:19:01.571
+transmission; immediately afterwards, single twitches are applied at one hertz,
+
+294
+00:19:01.571 --> 00:19:06.325
+and the number of these post-tetanic twitches that are detectable is counted.
+
+295
+00:19:06.465 --> 00:19:10.439
+In a very deep block, even though there is no train-of-four response,
+
+296
+00:19:10.439 --> 00:19:12.973
+a few post-tetanic twitches may be elicited,
+
+297
+00:19:12.973 --> 00:19:17.580
+and the post-tetanic count — the number of these responses — gauges the depth of
+
+298
+00:19:17.580 --> 00:19:20.460
+the block: a lower count indicates a deeper block.
+
+299
+00:19:20.600 --> 00:19:25.013
+The post-tetanic count also predicts the time until the first train-of-four
+
+300
+00:19:25.013 --> 00:19:28.425
+response reappears, allowing the anticipation of recovery.
+
+301
+00:19:28.425 --> 00:19:33.190
+It is used when a profound block is maintained and to judge when reversal will be
+
+302
+00:19:33.190 --> 00:19:33.720
+feasible.
+
+303
+00:19:33.860 --> 00:19:36.804
+So very deep block, with no train-of-four response,
+
+304
+00:19:36.804 --> 00:19:39.055
+is monitored by the post-tetanic count:
+
+305
+00:19:39.055 --> 00:19:43.788
+a tetanus is applied to potentiate transmission, then single twitches are counted,
+
+306
+00:19:43.788 --> 00:19:48.521
+the number of post-tetanic responses gauging the depth of block and predicting the
+
+307
+00:19:48.521 --> 00:19:53.196
+time to the return of the train-of-four — allowing profound block to be monitored
+
+308
+00:19:53.196 --> 00:19:54.639
+and recovery anticipated.
+
+309
+00:19:55.139 --> 00:19:59.811
+What are the sources of error and artefact in neuromuscular monitoring?
+
+310
+00:20:11.324 --> 00:20:13.660
+Neuromuscular monitoring, though valuable,
+
+311
+00:20:13.660 --> 00:20:16.774
+is subject to a number of sources of error and artefact,
+
+312
+00:20:16.774 --> 00:20:21.390
+and an awareness of these is necessary to obtain reliable measurements and to avoid
+
+313
+00:20:21.390 --> 00:20:25.672
+being misled, since an erroneous reading could result in residual block being
+
+314
+00:20:25.672 --> 00:20:27.452
+missed or block being misjudged.
+
+315
+00:20:27.592 --> 00:20:30.526
+A first group concerns the stimulus and electrodes:
+
+316
+00:20:30.526 --> 00:20:34.150
+an inadequate or non-supramaximal current, from poorly applied,
+
+317
+00:20:34.150 --> 00:20:37.256
+dried or wrongly placed electrodes, or a flat battery,
+
+318
+00:20:37.256 --> 00:20:40.765
+gives a falsely reduced or absent response that mimics block;
+
+319
+00:20:40.765 --> 00:20:45.597
+the electrodes must be correctly placed over the nerve and the current supramaximal.
+
+320
+00:20:45.737 --> 00:20:49.988
+Direct stimulation of the muscle, if the electrodes are placed over the muscle
+
+321
+00:20:49.988 --> 00:20:54.238
+rather than the nerve, evokes a contraction even when the junction is blocked,
+
+322
+00:20:54.238 --> 00:20:55.764
+falsely suggesting recovery.
+
+323
+00:20:55.904 --> 00:20:57.952
+A second group concerns the patient:
+
+324
+00:20:57.952 --> 00:21:02.446
+hypothermia and a cold or poorly perfused limb reduce the response and slow the
+
+325
+00:21:02.446 --> 00:21:07.054
+apparent recovery, and the temperature of the monitored limb affects the reading,
+
+326
+00:21:07.054 --> 00:21:11.435
+so the limb should be kept warm; oedema and abnormal limb position interfere.
+
+327
+00:21:11.575 --> 00:21:15.734
+A monitored limb that is the site of a blood-pressure cuff or that is positioned
+
+328
+00:21:15.734 --> 00:21:16.929
+awkwardly gives errors.
+
+329
+00:21:17.069 --> 00:21:21.674
+A third group concerns technique: failure to establish a control, where needed;
+
+330
+00:21:21.674 --> 00:21:25.405
+movement and external interference; and, with acceleromyography,
+
+331
+00:21:25.405 --> 00:21:29.369
+the need for the thumb to move freely and for a stabilising preload.
+
+332
+00:21:29.369 --> 00:21:32.749
+Stimulation patterns applied too frequently cause fatigue.
+
+333
+00:21:32.889 --> 00:21:37.419
+So neuromuscular-monitoring errors arise from an inadequate or non-supramaximal
+
+334
+00:21:37.419 --> 00:21:39.770
+stimulus from poor electrodes or current,
+
+335
+00:21:39.770 --> 00:21:43.153
+from direct muscle stimulation falsely suggesting recovery,
+
+336
+00:21:43.153 --> 00:21:47.740
+from hypothermia and poor perfusion of the monitored limb reducing the response,
+
+337
+00:21:47.740 --> 00:21:52.385
+and from movement, awkward positioning and improper technique — all to be avoided
+
+338
+00:21:52.385 --> 00:21:55.538
+by correct electrode placement, a supramaximal current,
+
+339
+00:21:55.538 --> 00:21:58.233
+a warm freely moving limb and proper technique.
+
+340
+00:21:58.733 --> 00:22:04.706
+Briefly, how does monitoring differ in special situations such as the eye or with
+
+341
+00:22:04.706 --> 00:22:05.517
+myasthenia?
+
+342
+00:22:06.017 --> 00:22:10.457
+Neuromuscular monitoring requires particular consideration in certain special
+
+343
+00:22:10.457 --> 00:22:14.320
+situations — when using the facial nerve, in neuromuscular disease,
+
+344
+00:22:14.320 --> 00:22:19.048
+and in particular surgical contexts — and a brief account of these illustrates how
+
+345
+00:22:19.048 --> 00:22:22.508
+the general principles are applied with appropriate caution.
+
+346
+00:22:22.648 --> 00:22:26.200
+When the ulnar nerve and adductor pollicis are inaccessible,
+
+347
+00:22:26.200 --> 00:22:30.818
+the facial nerve is often used, monitoring the orbicularis oculi or corrugator
+
+348
+00:22:30.818 --> 00:22:35.673
+supercilii; however, as noted, these muscles resemble the resistant airway muscles
+
+349
+00:22:35.673 --> 00:22:38.456
+and recover earlier than the adductor pollicis,
+
+350
+00:22:38.456 --> 00:22:42.719
+so while they are acceptable for monitoring the onset and depth of block
+
+351
+00:22:42.719 --> 00:22:45.265
+intraoperatively and for timing intubation,
+
+352
+00:22:45.265 --> 00:22:48.580
+they should not be relied upon to confirm full recovery,
+
+353
+00:22:48.580 --> 00:22:51.363
+for which the adductor pollicis should be used.
+
+354
+00:22:51.503 --> 00:22:56.518
+In neuromuscular disease the response is altered and monitoring must be interpreted
+
+355
+00:22:56.518 --> 00:23:00.748
+accordingly: in myasthenia gravis the patient is markedly sensitive to
+
+356
+00:23:00.748 --> 00:23:04.433
+non-depolarising agents and shows exaggerated block and fade,
+
+357
+00:23:04.433 --> 00:23:08.663
+so reduced doses and careful monitoring are needed; in the myasthenic,
+
+358
+00:23:08.663 --> 00:23:12.409
+or Eaton-Lambert, syndrome there is also abnormal sensitivity.
+
+359
+00:23:12.549 --> 00:23:16.066
+In patients with upper motor neurone lesions or hemiplegia,
+
+360
+00:23:16.066 --> 00:23:20.954
+the affected limb shows resistance to block, giving a falsely reassuring response,
+
+361
+00:23:20.954 --> 00:23:25.603
+so an unaffected limb should be monitored. Burns and prolonged immobility also
+
+362
+00:23:25.603 --> 00:23:26.736
+alter the response.
+
+363
+00:23:26.876 --> 00:23:31.204
+The principles of supramaximal stimulation and objective measurement remain,
+
+364
+00:23:31.204 --> 00:23:34.108
+applied with awareness of the altered pharmacology.
+
+365
+00:23:34.248 --> 00:23:37.880
+So in special situations monitoring is applied with caution:
+
+366
+00:23:37.880 --> 00:23:42.117
+the facial nerve may monitor onset and depth but not confirm recovery,
+
+367
+00:23:42.117 --> 00:23:44.538
+for which the adductor pollicis is used;
+
+368
+00:23:44.538 --> 00:23:49.320
+neuromuscular diseases such as myasthenia alter sensitivity and require careful
+
+369
+00:23:49.320 --> 00:23:53.799
+interpretation; and a limb affected by an upper motor neurone lesion shows
+
+370
+00:23:53.799 --> 00:23:57.309
+misleading resistance, so an unaffected limb is monitored.
+
+371
+00:23:57.809 --> 00:24:02.311
+Summarise the clinical applications of neuromuscular monitoring.
+
+372
+00:24:02.811 --> 00:24:07.281
+Drawing the uses together, neuromuscular monitoring is applied throughout the
+
+373
+00:24:07.281 --> 00:24:10.880
+course of neuromuscular block to guide its use and, above all,
+
+374
+00:24:10.880 --> 00:24:13.260
+to ensure its safe and complete reversal,
+
+375
+00:24:13.260 --> 00:24:17.847
+and summarising its applications shows why it is regarded as a standard of care
+
+376
+00:24:17.847 --> 00:24:19.472
+whenever a relaxant is used.
+
+377
+00:24:19.612 --> 00:24:24.349
+At induction and intubation, monitoring the onset of block by the disappearance of
+
+378
+00:24:24.349 --> 00:24:28.856
+the train-of-four indicates when intubating conditions are established and the
+
+379
+00:24:28.856 --> 00:24:30.300
+optimal time to intubate.
+
+380
+00:24:30.440 --> 00:24:35.154
+During maintenance, monitoring guides the titration of further doses of relaxant to
+
+381
+00:24:35.154 --> 00:24:39.130
+maintain an appropriate depth of block for the surgery — for example a
+
+382
+00:24:39.130 --> 00:24:42.197
+train-of-four count of one or two for most procedures,
+
+383
+00:24:42.197 --> 00:24:46.797
+or a profound block monitored by the post-tetanic count where the surgery demands
+
+384
+00:24:46.797 --> 00:24:47.933
+complete immobility.
+
+385
+00:24:48.073 --> 00:24:51.711
+It allows the depth of block to be matched to the surgical need,
+
+386
+00:24:51.711 --> 00:24:55.519
+avoiding both inadequate relaxation and excessive, prolonged block.
+
+387
+00:24:55.659 --> 00:25:00.309
+At the end of surgery, monitoring guides the timing and dosing of reversal —
+
+388
+00:25:00.309 --> 00:25:05.327
+indicating when neostigmine may be given or the appropriate sugammadex dose — and,
+
+389
+00:25:05.327 --> 00:25:10.161
+most importantly, confirms recovery to a train-of-four ratio of zero point nine
+
+390
+00:25:10.161 --> 00:25:12.853
+before extubation, excluding residual block.
+
+391
+00:25:12.993 --> 00:25:17.498
+It identifies the type and phase of block and detects abnormal responses.
+
+392
+00:25:17.498 --> 00:25:22.188
+Throughout, it individualises management to the patient's variable response.
+
+393
+00:25:22.328 --> 00:25:26.947
+So neuromuscular monitoring is applied to time intubation by the onset of block,
+
+394
+00:25:26.947 --> 00:25:30.989
+to titrate the depth of block to the surgical need during maintenance,
+
+395
+00:25:30.989 --> 00:25:34.280
+to guide the timing and dose of reversal, and, crucially,
+
+396
+00:25:34.280 --> 00:25:38.611
+to confirm full recovery to a train-of-four ratio of zero point nine before
+
+397
+00:25:38.611 --> 00:25:42.595
+extubation — individualising management and excluding residual block.
+
+398
+00:25:54.108 --> 00:25:56.455
+Finally, draw the station together.
+
+399
+00:25:56.955 --> 00:26:01.610
+Drawing the station together, neuromuscular monitoring is the objective measurement
+
+400
+00:26:01.610 --> 00:26:06.041
+of the depth of neuromuscular block by stimulating a peripheral motor nerve and
+
+401
+00:26:06.041 --> 00:26:08.117
+measuring the evoked muscle response,
+
+402
+00:26:08.117 --> 00:26:11.931
+and it is essential to the safe use of neuromuscular blocking drugs.
+
+403
+00:26:12.071 --> 00:26:15.936
+The nerve stimulator delivers a supramaximal, brief, square pulse,
+
+404
+00:26:15.936 --> 00:26:19.919
+and the response is assessed by various patterns: the train-of-four,
+
+405
+00:26:19.919 --> 00:26:22.438
+four stimuli at two hertz, is the mainstay,
+
+406
+00:26:22.438 --> 00:26:26.596
+quantifying non-depolarising block by the fade of the responses and the
+
+407
+00:26:26.596 --> 00:26:28.822
+train-of-four ratio without a control;
+
+408
+00:26:28.822 --> 00:26:31.516
+the post-tetanic count gauges very deep block;
+
+409
+00:26:31.516 --> 00:26:34.620
+and tetanus and double-burst stimulation reveal fade.
+
+410
+00:26:34.760 --> 00:26:38.959
+Non-depolarising block shows fade and post-tetanic potentiation,
+
+411
+00:26:38.959 --> 00:26:41.715
+distinguishing it from depolarising block.
+
+412
+00:26:41.855 --> 00:26:46.635
+The ulnar nerve and adductor pollicis are the standard, conservative site,
+
+413
+00:26:46.635 --> 00:26:49.800
+and objective measurement — by acceleromyography,
+
+414
+00:26:49.800 --> 00:26:55.098
+electromyography or mechanomyography — is necessary because the hand cannot detect
+
+415
+00:26:55.098 --> 00:26:57.940
+fade above a ratio of about zero point four.
+
+416
+00:26:58.080 --> 00:27:02.896
+The overriding purpose is to confirm recovery to a train-of-four ratio of zero
+
+417
+00:27:02.896 --> 00:27:07.836
+point nine, excluding the common, dangerous and clinically undetectable residual
+
+418
+00:27:07.836 --> 00:27:11.541
+block, and to guide reversal with neostigmine or sugammadex.
+
+419
+00:27:11.681 --> 00:27:16.327
+So neuromuscular monitoring unites the physiology of the neuromuscular junction
+
+420
+00:27:16.327 --> 00:27:20.856
+with objective measurement to assess and titrate block, distinguish its type,
+
+421
+00:27:20.856 --> 00:27:25.560
+guide reversal, and above all confirm full recovery — making it an indispensable
+
+422
+00:27:25.560 --> 00:27:29.324
+standard of care whenever neuromuscular blocking drugs are used.
+
+423
+00:27:29.824 --> 00:27:34.560
+Describe the construction and features of a peripheral nerve stimulator.
+
+424
+00:27:35.060 --> 00:27:39.254
+The peripheral nerve stimulator is the device that delivers the electrical
+
+425
+00:27:39.254 --> 00:27:43.902
+stimulus, and an understanding of its construction and essential features explains
+
+426
+00:27:43.902 --> 00:27:48.492
+how a reliable, reproducible stimulus is achieved and why certain design features
+
+427
+00:27:48.492 --> 00:27:50.249
+matter for accurate monitoring.
+
+428
+00:27:50.389 --> 00:27:54.515
+The stimulator is a battery-powered device delivering current through a pair of
+
+429
+00:27:54.515 --> 00:27:56.917
+electrodes applied to the skin over the nerve.
+
+430
+00:27:57.057 --> 00:28:00.487
+A fundamental feature is that it is a constant-current device:
+
+431
+00:28:00.487 --> 00:28:04.856
+it delivers a set current regardless of the changing resistance of the skin and
+
+432
+00:28:04.856 --> 00:28:07.069
+tissues, rather than a constant voltage,
+
+433
+00:28:07.069 --> 00:28:10.775
+because the response of the nerve depends on the current delivered,
+
+434
+00:28:10.775 --> 00:28:15.310
+and the skin impedance varies; by adjusting its output voltage to maintain the set
+
+435
+00:28:15.310 --> 00:28:18.629
+current, the constant-current design ensures a reproducible,
+
+436
+00:28:18.629 --> 00:28:22.999
+supramaximal stimulus despite changes in electrode contact and skin resistance.
+
+437
+00:28:23.139 --> 00:28:27.465
+The stimulus is a brief, square, monophasic pulse of about zero point two
+
+438
+00:28:27.465 --> 00:28:31.672
+milliseconds and a current adjustable up to sixty or seventy milliamps.
+
+439
+00:28:31.812 --> 00:28:36.337
+The electrodes should be silver–silver chloride gel electrodes for good contact,
+
+440
+00:28:36.337 --> 00:28:39.560
+placed over the nerve with the negative electrode distal,
+
+441
+00:28:39.560 --> 00:28:43.859
+since the cathode is the more effective stimulating electrode and its distal
+
+442
+00:28:43.859 --> 00:28:46.404
+placement stimulates the nerve most reliably.
+
+443
+00:28:46.544 --> 00:28:51.110
+The device should provide the standard patterns — single twitch, train-of-four,
+
+444
+00:28:51.110 --> 00:28:55.677
+tetanus, post-tetanic count and double-burst — at the correct frequencies and a
+
+445
+00:28:55.677 --> 00:29:00.475
+supramaximal current, and indicate a fault such as a high impedance or low battery.
+
+446
+00:29:00.615 --> 00:29:03.768
+So the peripheral nerve stimulator is a battery-powered,
+
+447
+00:29:03.768 --> 00:29:08.443
+constant-current device that maintains a set current despite varying skin impedance
+
+448
+00:29:08.443 --> 00:29:10.977
+to give a reproducible supramaximal stimulus;
+
+449
+00:29:10.977 --> 00:29:15.651
+it delivers a brief square monophasic pulse through gel electrodes with the cathode
+
+450
+00:29:15.651 --> 00:29:19.987
+placed distally over the nerve, provides the standard stimulation patterns at
+
+451
+00:29:19.987 --> 00:29:24.380
+correct frequencies, and signals faults such as high impedance or low battery.
+
+452
+00:29:24.880 --> 00:29:28.725
+What is the margin of safety at the neuromuscular junction,
+
+453
+00:29:28.725 --> 00:29:30.811
+and its relevance to monitoring?
+
+454
+00:29:31.311 --> 00:29:35.933
+The margin of safety of neuromuscular transmission is a physiological concept of
+
+455
+00:29:35.933 --> 00:29:39.804
+direct relevance to the interpretation of neuromuscular monitoring,
+
+456
+00:29:39.804 --> 00:29:44.483
+because it explains why the evoked response is insensitive to the early stages of
+
+457
+00:29:44.483 --> 00:29:48.932
+block and why a normal twitch does not exclude substantial receptor blockade.
+
+458
+00:29:49.072 --> 00:29:52.984
+The neuromuscular junction possesses a considerable margin of safety:
+
+459
+00:29:52.984 --> 00:29:57.180
+there are many more postsynaptic acetylcholine receptors than are strictly
+
+460
+00:29:57.180 --> 00:30:01.546
+necessary to generate an end-plate potential large enough to trigger a muscle
+
+461
+00:30:01.546 --> 00:30:06.139
+action potential, and far more transmitter is released than the minimum required.
+
+462
+00:30:06.279 --> 00:30:10.728
+As a consequence, a substantial proportion of the receptors — of the order of
+
+463
+00:30:10.728 --> 00:30:15.236
+seventy to seventy-five per cent — must be blocked by a non-depolarising agent
+
+464
+00:30:15.236 --> 00:30:18.299
+before the twitch response begins to diminish at all,
+
+465
+00:30:18.299 --> 00:30:23.153
+and essentially complete transmission is maintained until that threshold is crossed.
+
+466
+00:30:23.293 --> 00:30:25.576
+The relevance to monitoring is twofold.
+
+467
+00:30:25.716 --> 00:30:30.083
+First, it means the single twitch and the train-of-four are relatively insensitive
+
+468
+00:30:30.083 --> 00:30:32.640
+in the early phase of block and during recovery:
+
+469
+00:30:32.640 --> 00:30:36.794
+the twitch height returns to normal while a significant fraction of receptors,
+
+470
+00:30:36.794 --> 00:30:39.351
+perhaps up to seventy per cent, remains blocked,
+
+471
+00:30:39.351 --> 00:30:43.665
+so a recovered twitch height does not exclude residual block — which is precisely
+
+472
+00:30:43.665 --> 00:30:47.393
+why the train-of-four ratio and fade, rather than twitch height alone,
+
+473
+00:30:47.393 --> 00:30:49.311
+are needed to detect residual block.
+
+474
+00:30:49.451 --> 00:30:53.423
+Second, it explains the steepness of the relationship near full block.
+
+475
+00:30:53.423 --> 00:30:57.963
+Thus the margin of safety underlies the need for sensitive measures of recovery.
+
+476
+00:30:58.103 --> 00:31:01.418
+So the neuromuscular junction has a large margin of safety,
+
+477
+00:31:01.418 --> 00:31:03.553
+with excess receptors and transmitter,
+
+478
+00:31:03.553 --> 00:31:08.160
+so that about seventy to seventy-five per cent of receptors must be blocked before
+
+479
+00:31:08.160 --> 00:31:12.487
+the twitch falls and the twitch recovers while many receptors remain blocked;
+
+480
+00:31:12.487 --> 00:31:17.151
+this insensitivity is why twitch height alone cannot exclude residual block and why
+
+481
+00:31:17.151 --> 00:31:20.353
+the train-of-four ratio and fade are needed to detect it.
+
+482
+00:31:31.867 --> 00:31:37.349
+Compare the onset and recovery of block at different muscles, and the implications.
+
+483
+00:31:37.849 --> 00:31:42.364
+The onset and recovery of neuromuscular block differ between muscle groups in a
+
+484
+00:31:42.364 --> 00:31:44.479
+consistent and clinically useful way,
+
+485
+00:31:44.479 --> 00:31:49.108
+and understanding this time course explains both how monitoring guides the timing
+
+486
+00:31:49.108 --> 00:31:53.508
+of intubation and why the site of monitoring matters for confirming recovery.
+
+487
+00:31:53.648 --> 00:31:57.227
+The centrally located, well-perfused muscles — the diaphragm,
+
+488
+00:31:57.227 --> 00:32:02.096
+the laryngeal adductors and the other airway muscles — have both a faster onset and
+
+489
+00:32:02.096 --> 00:32:06.496
+a faster recovery of block than the peripheral muscles such as the adductor
+
+490
+00:32:06.496 --> 00:32:07.024
+pollicis.
+
+491
+00:32:07.164 --> 00:32:11.721
+The faster onset at the diaphragm and larynx occurs because their rich blood flow
+
+492
+00:32:11.721 --> 00:32:16.222
+delivers the drug rapidly, even though they are somewhat resistant and require a
+
+493
+00:32:16.222 --> 00:32:20.555
+higher concentration; the net effect is that the larynx is paralysed quickly,
+
+494
+00:32:20.555 --> 00:32:23.143
+which is relevant to the timing of intubation.
+
+495
+00:32:23.283 --> 00:32:27.748
+The faster recovery means these central muscles regain function earlier than the
+
+496
+00:32:27.748 --> 00:32:30.707
+peripheral muscles. The implications follow directly.
+
+497
+00:32:30.847 --> 00:32:35.656
+For timing intubation, monitoring the onset of block — for instance at the facial
+
+498
+00:32:35.656 --> 00:32:38.685
+nerve, which behaves more like the central muscles,
+
+499
+00:32:38.685 --> 00:32:43.019
+or simply allowing adequate time — indicates when laryngeal relaxation is
+
+500
+00:32:43.019 --> 00:32:43.732
+established.
+
+501
+00:32:43.872 --> 00:32:47.738
+For confirming recovery, the relationship is reversed in usefulness:
+
+502
+00:32:47.738 --> 00:32:52.002
+because the peripheral adductor pollicis recovers later than the airway and
+
+503
+00:32:52.002 --> 00:32:56.665
+respiratory muscles, full recovery there guarantees recovery of the more important
+
+504
+00:32:56.665 --> 00:33:00.474
+central muscles, making it the safe, conservative site; conversely,
+
+505
+00:33:00.474 --> 00:33:04.852
+monitoring a central-behaving muscle such as the facial would falsely suggest
+
+506
+00:33:04.852 --> 00:33:08.832
+recovery before the periphery, and so the airway, had truly recovered.
+
+507
+00:33:08.972 --> 00:33:12.294
+So the central airway muscles, the diaphragm and larynx,
+
+508
+00:33:12.294 --> 00:33:16.801
+show faster onset and faster recovery than the peripheral adductor pollicis;
+
+509
+00:33:16.801 --> 00:33:20.182
+the faster central onset guides the timing of intubation,
+
+510
+00:33:20.182 --> 00:33:24.927
+while the later peripheral recovery makes the adductor pollicis the conservative
+
+511
+00:33:24.927 --> 00:33:29.553
+site for confirming recovery, since its recovery guarantees that of the airway
+
+512
+00:33:29.553 --> 00:33:30.028
+muscles.
+
+513
+00:33:30.528 --> 00:33:35.499
+Describe double-burst stimulation and how it compares with the train-of-four.
+
+514
+00:33:35.999 --> 00:33:40.192
+Double-burst stimulation is a pattern specifically designed to improve the
+
+515
+00:33:40.192 --> 00:33:43.649
+detection of residual block by manual, subjective assessment,
+
+516
+00:33:43.649 --> 00:33:48.070
+and understanding it and its comparison with the train-of-four illustrates the
+
+517
+00:33:48.070 --> 00:33:52.660
+effort to make fade easier to perceive when objective measurement is unavailable.
+
+518
+00:33:52.800 --> 00:33:57.388
+Double-burst stimulation consists of two short bursts of high-frequency tetanic
+
+519
+00:33:57.388 --> 00:34:01.163
+stimulation, each burst comprising three impulses at fifty hertz,
+
+520
+00:34:01.163 --> 00:34:05.634
+with the two bursts separated by an interval of about seven hundred and fifty
+
+521
+00:34:05.634 --> 00:34:06.389
+milliseconds.
+
+522
+00:34:06.529 --> 00:34:09.832
+Each burst is perceived as a single strong muscle contraction,
+
+523
+00:34:09.832 --> 00:34:13.720
+so the pattern produces two distinct twitches rather than the four of the
+
+524
+00:34:13.720 --> 00:34:14.465
+train-of-four.
+
+525
+00:34:14.605 --> 00:34:17.339
+In the presence of residual non-depolarising block,
+
+526
+00:34:17.339 --> 00:34:21.197
+the second contraction is weaker than the first — fade — and, crucially,
+
+527
+00:34:21.197 --> 00:34:25.377
+the difference between two strong contractions is easier for the human hand to
+
+528
+00:34:25.377 --> 00:34:29.343
+detect than the more gradual fade across the four smaller responses of the
+
+529
+00:34:29.343 --> 00:34:30.093
+train-of-four.
+
+530
+00:34:30.233 --> 00:34:33.603
+The purpose is therefore to make manual detection of fade,
+
+531
+00:34:33.603 --> 00:34:35.985
+and so of residual block, more sensitive:
+
+532
+00:34:35.985 --> 00:34:40.690
+whereas the hand cannot reliably detect train-of-four fade once the ratio exceeds
+
+533
+00:34:40.690 --> 00:34:45.222
+about zero point four, double-burst stimulation allows fade to be felt up to a
+
+534
+00:34:45.222 --> 00:34:47.836
+train-of-four ratio of around zero point six,
+
+535
+00:34:47.836 --> 00:34:50.799
+somewhat improving the detection of residual block.
+
+536
+00:34:50.939 --> 00:34:55.800
+However, even double-burst stimulation cannot detect fade up to the required ratio
+
+537
+00:34:55.800 --> 00:35:00.542
+of zero point nine, so it remains inferior to objective measurement and does not
+
+538
+00:35:00.542 --> 00:35:03.269
+exclude clinically significant residual block.
+
+539
+00:35:03.409 --> 00:35:07.781
+So double-burst stimulation delivers two bursts of three fifty-hertz impulses,
+
+540
+00:35:07.781 --> 00:35:12.041
+perceived as two strong twitches; the easier-to-feel difference between them
+
+541
+00:35:12.041 --> 00:35:14.170
+improves the manual detection of fade,
+
+542
+00:35:14.170 --> 00:35:18.598
+allowing residual block to be felt up to a ratio of about zero point six rather
+
+543
+00:35:18.598 --> 00:35:22.802
+than zero point four — better than the train-of-four for manual assessment,
+
+544
+00:35:22.802 --> 00:35:27.453
+but still inferior to objective measurement and unable to exclude residual block to
+
+545
+00:35:27.453 --> 00:35:28.967
+a ratio of zero point nine.
+
+546
+00:35:40.480 --> 00:35:45.920
+How does the train-of-four ratio relate to the clinical milestones of recovery?
+
+547
+00:35:46.420 --> 00:35:50.839
+The relationship between the measured train-of-four ratio and the recovery of
+
+548
+00:35:50.839 --> 00:35:55.544
+clinically important functions is the basis for setting the threshold for adequate
+
+549
+00:35:55.544 --> 00:35:59.618
+recovery, and understanding it explains why a ratio of zero point nine,
+
+550
+00:35:59.618 --> 00:36:02.889
+rather than a lower value, is required before extubation.
+
+551
+00:36:03.029 --> 00:36:05.144
+As neuromuscular function recovers,
+
+552
+00:36:05.144 --> 00:36:08.225
+the train-of-four ratio rises from zero toward one,
+
+553
+00:36:08.225 --> 00:36:11.427
+and the various functions return at different ratios,
+
+554
+00:36:11.427 --> 00:36:16.381
+in a sequence that has been characterised. At low ratios the patient is profoundly
+
+555
+00:36:16.381 --> 00:36:16.683
+weak.
+
+556
+00:36:16.823 --> 00:36:21.680
+As the ratio rises toward zero point four, gross motor functions begin to return,
+
+557
+00:36:21.680 --> 00:36:26.358
+and some classic clinical tests such as a brief head-lift may become possible,
+
+558
+00:36:26.358 --> 00:36:30.796
+but the pharyngeal and upper airway muscles remain significantly impaired,
+
+559
+00:36:30.796 --> 00:36:34.155
+with discoordinated swallowing and a risk of aspiration,
+
+560
+00:36:34.155 --> 00:36:37.153
+and the hypoxic ventilatory response is depressed.
+
+561
+00:36:37.293 --> 00:36:42.355
+At a ratio of about zero point seven, the historical and now-superseded threshold,
+
+562
+00:36:42.355 --> 00:36:47.417
+tidal volume and vital capacity are largely restored and a sustained head-lift may
+
+563
+00:36:47.417 --> 00:36:52.232
+be achieved, but careful study showed that pharyngeal function and the hypoxic
+
+564
+00:36:52.232 --> 00:36:55.875
+ventilatory response remain impaired below zero point nine.
+
+565
+00:36:56.015 --> 00:37:00.378
+Only at a train-of-four ratio of zero point nine or above are pharyngeal
+
+566
+00:37:00.378 --> 00:37:05.226
+coordination, airway protection and the hypoxic ventilatory response essentially
+
+567
+00:37:05.226 --> 00:37:09.711
+restored, which is why this is the accepted threshold for safe extubation.
+
+568
+00:37:09.851 --> 00:37:14.855
+Clinical tests cannot distinguish a ratio of zero point seven from zero point nine,
+
+569
+00:37:14.855 --> 00:37:16.784
+so they cannot confirm adequacy.
+
+570
+00:37:16.924 --> 00:37:20.866
+So as the train-of-four ratio rises, function returns in sequence:
+
+571
+00:37:20.866 --> 00:37:24.570
+gross movement and a brief head-lift by about zero point four,
+
+572
+00:37:24.570 --> 00:37:28.453
+tidal volume and a sustained head-lift by about zero point seven,
+
+573
+00:37:28.453 --> 00:37:33.410
+but pharyngeal coordination, airway protection and the hypoxic ventilatory response
+
+574
+00:37:33.410 --> 00:37:37.472
+only by zero point nine — which is therefore the required threshold,
+
+575
+00:37:37.472 --> 00:37:39.324
+undetectable by clinical tests.
+
+576
+00:37:39.824 --> 00:37:44.389
+Thank you. A comprehensive and accomplished account. Let us stop there.
+
+577
+00:37:44.889 --> 00:37:48.367
+Before we close, here are the take-home messages.
+
+578
+00:37:48.507 --> 00:37:53.309
+First, Neuromuscular monitoring objectively measures the depth of block by
+
+579
+00:37:53.309 --> 00:37:58.371
+delivering a SUPRAMAXIMAL, brief square electrical pulse to a peripheral motor
+
+580
+00:37:58.371 --> 00:38:01.421
+nerve and measuring the evoked muscle response;
+
+581
+00:38:01.421 --> 00:38:06.419
+its overriding purpose is to confirm full reversal and exclude RESIDUAL block
+
+582
+00:38:06.419 --> 00:38:11.740
+(common, dangerous, clinically undetectable - airway obstruction, aspiration risk,
+
+583
+00:38:11.740 --> 00:38:13.168
+impaired ventilation).
+
+584
+00:38:13.308 --> 00:38:17.910
+Second, The TRAIN-OF-FOUR (four stimuli at 2 Hz) is the mainstay:
+
+585
+00:38:17.910 --> 00:38:21.096
+in non-depolarising block the responses FADE,
+
+586
+00:38:21.096 --> 00:38:26.831
+the TOF ratio (4th/1st) quantifying recovery (>=0.9 = adequate) and the TOF count
+
+587
+00:38:26.831 --> 00:38:31.008
+(4 down to 0) gauging depth - needing no pre-block control;
+
+588
+00:38:31.008 --> 00:38:35.681
+the post-tetanic count monitors very deep block (no TOF response);
+
+589
+00:38:35.681 --> 00:38:39.292
+double-burst stimulation makes fade easier to feel.
+
+590
+00:38:39.432 --> 00:38:45.813
+Third, Non-depolarising block shows FADE and post-tetanic potentiation (block of
+
+591
+00:38:45.813 --> 00:38:50.040
+presynaptic receptors); normal depolarising (phase-1,
+
+592
+00:38:50.040 --> 00:38:56.500
+suxamethonium) block shows reduced but EQUAL responses, no fade, no potentiation;
+
+593
+00:38:56.500 --> 00:39:02.323
+excessive suxamethonium produces a phase-2/dual block that acquires fade.
+
+594
+00:39:02.463 --> 00:39:06.779
+Fourth, The ULNAR nerve -> adductor pollicis is the standard,
+
+595
+00:39:06.779 --> 00:39:11.732
+CONSERVATIVE site (peripheral muscles recover later than the resistant
+
+596
+00:39:11.732 --> 00:39:17.251
+airway/diaphragm muscles, so if adductor pollicis has recovered the airway has
+
+597
+00:39:17.251 --> 00:39:22.629
+too); the FACIAL nerve resembles airway muscles and OVERESTIMATES recovery -
+
+598
+00:39:22.629 --> 00:39:26.804
+acceptable for onset/depth but NOT for confirming recovery.
+
+599
+00:39:26.944 --> 00:39:33.160
+Fifth, Adequate recovery = an OBJECTIVELY measured TOF ratio >=0.9 (subjective
+
+600
+00:39:33.160 --> 00:39:39.137
+hand/eye assessment cannot detect fade above ~0.4, missing residual block);
+
+601
+00:39:39.137 --> 00:39:43.998
+objective methods are acceleromyography (thumb acceleration),
+
+602
+00:39:43.998 --> 00:39:47.424
+electromyography (muscle action potential),
+
+603
+00:39:47.424 --> 00:39:51.648
+mechanomyography (force) and kinemyography (bending).
+
+604
+00:39:51.788 --> 00:39:58.842
+Monitoring guides reversal: neostigmine only once >=2-4 TOF responses have returned
+
+605
+00:39:58.842 --> 00:40:05.471
+(it cannot reverse a deep block); sugammadex dose is set to the measured depth
+
+606
+00:40:05.471 --> 00:40:07.596
+(post-tetanic count/TOF).
+
+607
+00:40:19.109 --> 00:40:21.584
+Thank you. That concludes the station.
+

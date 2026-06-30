@@ -1,0 +1,2342 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.356
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.356 --> 00:00:09.453
+pressure measurement and transducers. I shall take the candidate through it,
+
+3
+00:00:09.453 --> 00:00:11.800
+question by question. Let us begin.
+
+4
+00:00:12.300 --> 00:00:17.243
+Let us begin. Why is the measurement of pressure so important in anaesthesia,
+
+5
+00:00:17.243 --> 00:00:19.361
+and what pressures do we measure?
+
+6
+00:00:19.861 --> 00:00:24.050
+The measurement of pressure is one of the most pervasive and important forms of
+
+7
+00:00:24.050 --> 00:00:26.435
+measurement in anaesthesia and critical care,
+
+8
+00:00:26.435 --> 00:00:30.306
+because so many of the variables that guide our management are pressures,
+
+9
+00:00:30.306 --> 00:00:34.176
+and their accurate measurement and interpretation underpin safe practice.
+
+10
+00:00:34.316 --> 00:00:36.712
+Pressure, defined as force per unit area,
+
+11
+00:00:36.712 --> 00:00:40.626
+is measured throughout our practice in a great variety of contexts.
+
+12
+00:00:40.626 --> 00:00:44.366
+We measure the arterial blood pressure, both non-invasively and,
+
+13
+00:00:44.366 --> 00:00:47.696
+when high accuracy or beat-to-beat information is needed,
+
+14
+00:00:47.696 --> 00:00:49.975
+invasively through an arterial cannula.
+
+15
+00:00:50.115 --> 00:00:54.210
+We measure the central venous pressure as a guide to filling and right heart
+
+16
+00:00:54.210 --> 00:00:58.520
+function, and, in selected patients, the pulmonary arterial and wedge pressures.
+
+17
+00:00:58.660 --> 00:01:03.098
+We measure airway pressures during ventilation to guard against barotrauma and to
+
+18
+00:01:03.098 --> 00:01:07.645
+assess respiratory mechanics, and the pressures within the breathing system and the
+
+19
+00:01:07.645 --> 00:01:11.261
+anaesthetic machine. We measure the pressures of the gas supplies,
+
+20
+00:01:11.261 --> 00:01:12.740
+in cylinders and pipelines.
+
+21
+00:01:12.880 --> 00:01:16.027
+In particular settings we measure intracranial pressure,
+
+22
+00:01:16.027 --> 00:01:19.063
+intra-abdominal and compartment pressures, and others.
+
+23
+00:01:19.063 --> 00:01:23.109
+Each of these requires a method suited to the magnitude of the pressure,
+
+24
+00:01:23.109 --> 00:01:27.493
+the accuracy and the dynamic response needed, and the invasiveness acceptable.
+
+25
+00:01:27.633 --> 00:01:31.558
+Understanding the principles of pressure measurement, the devices used,
+
+26
+00:01:31.558 --> 00:01:35.594
+and their sources of error is therefore fundamental to interpreting these
+
+27
+00:01:35.594 --> 00:01:39.132
+measurements correctly and recognising when they are unreliable.
+
+28
+00:01:39.272 --> 00:01:43.962
+So pressure measurement is important because arterial, venous, pulmonary, airway,
+
+29
+00:01:43.962 --> 00:01:48.362
+gas-supply, intracranial and other pressures guide our management throughout
+
+30
+00:01:48.362 --> 00:01:52.936
+anaesthesia and critical care, each requiring a method suited to its magnitude,
+
+31
+00:01:52.936 --> 00:01:56.988
+accuracy and dynamic response, and an understanding of the principles,
+
+32
+00:01:56.988 --> 00:02:01.273
+devices and errors of pressure measurement is fundamental to their correct
+
+33
+00:02:01.273 --> 00:02:02.141
+interpretation.
+
+34
+00:02:02.641 --> 00:02:06.225
+Distinguish the ways in which pressure may be measured.
+
+35
+00:02:06.725 --> 00:02:10.699
+Pressure may be measured by several fundamentally different approaches,
+
+36
+00:02:10.699 --> 00:02:14.506
+and distinguishing them provides a framework for the devices we use.
+
+37
+00:02:14.506 --> 00:02:18.032
+A first distinction is between direct and indirect measurement.
+
+38
+00:02:18.172 --> 00:02:20.863
+Direct measurement senses the pressure itself,
+
+39
+00:02:20.863 --> 00:02:24.314
+by connecting the pressure to a device that responds to it,
+
+40
+00:02:24.314 --> 00:02:28.585
+as when an arterial cannula transmits the blood pressure to a transducer;
+
+41
+00:02:28.585 --> 00:02:32.913
+this gives continuous, accurate, beat-to-beat information but is invasive.
+
+42
+00:02:33.053 --> 00:02:36.845
+Indirect measurement infers the pressure from some external effect,
+
+43
+00:02:36.845 --> 00:02:41.315
+as when a blood pressure cuff infers the arterial pressure from the pressure at
+
+44
+00:02:41.315 --> 00:02:43.296
+which flow is occluded or restored;
+
+45
+00:02:43.296 --> 00:02:46.408
+this is non-invasive but intermittent and less precise.
+
+46
+00:02:46.548 --> 00:02:51.041
+A second distinction concerns the physical principle by which the device responds
+
+47
+00:02:51.041 --> 00:02:55.312
+to pressure. Some devices balance the pressure against the weight of a liquid
+
+48
+00:02:55.312 --> 00:02:59.860
+column, the manometer principle, in which the pressure supports a height of fluid.
+
+49
+00:03:00.000 --> 00:03:04.360
+Others balance the pressure against the elastic deformation of a mechanical
+
+50
+00:03:04.360 --> 00:03:08.721
+element, such as the curved tube of a Bourdon gauge or a metal diaphragm or
+
+51
+00:03:08.721 --> 00:03:12.907
+capsule, the aneroid principle, the deformation indicating the pressure.
+
+52
+00:03:13.047 --> 00:03:17.530
+Modern electronic devices convert the pressure into an electrical signal by a
+
+53
+00:03:17.530 --> 00:03:22.129
+transducer, typically through the deformation of a diaphragm sensed by a strain
+
+54
+00:03:22.129 --> 00:03:27.020
+gauge, allowing the pressure to be displayed, recorded and processed electronically.
+
+55
+00:03:27.160 --> 00:03:30.093
+The choice depends on the magnitude of the pressure,
+
+56
+00:03:30.093 --> 00:03:32.518
+the accuracy and dynamic response required,
+
+57
+00:03:32.518 --> 00:03:35.395
+and whether continuous electronic output is needed.
+
+58
+00:03:35.535 --> 00:03:37.761
+So pressure may be measured directly,
+
+59
+00:03:37.761 --> 00:03:42.754
+sensing the pressure itself invasively for continuous accurate data, or indirectly,
+
+60
+00:03:42.754 --> 00:03:47.146
+inferring it non-invasively; and by balancing it against a liquid column,
+
+61
+00:03:47.146 --> 00:03:51.959
+against the elastic deformation of a mechanical element, or, in modern practice,
+
+62
+00:03:51.959 --> 00:03:55.929
+by an electronic transducer converting it to an electrical signal.
+
+63
+00:03:56.429 --> 00:04:00.184
+Describe the liquid manometer and its principle.
+
+64
+00:04:00.684 --> 00:04:05.489
+The liquid column manometer is the simplest and most fundamental pressure-measuring
+
+65
+00:04:05.489 --> 00:04:08.037
+device, embodying the hydrostatic principle,
+
+66
+00:04:08.037 --> 00:04:12.205
+and although now largely replaced by electronic transducers for clinical
+
+67
+00:04:12.205 --> 00:04:16.721
+monitoring, it remains the conceptual basis of pressure measurement and of the
+
+68
+00:04:16.721 --> 00:04:17.473
+units we use.
+
+69
+00:04:17.613 --> 00:04:22.006
+The manometer measures pressure by balancing it against the weight of a column of
+
+70
+00:04:22.006 --> 00:04:26.398
+liquid: the pressure to be measured is applied to one side of a liquid in a tube,
+
+71
+00:04:26.398 --> 00:04:30.736
+and it supports, or displaces, a column of the liquid whose height indicates the
+
+72
+00:04:30.736 --> 00:04:31.224
+pressure.
+
+73
+00:04:31.364 --> 00:04:36.017
+By the hydrostatic relationship, the pressure exerted by a liquid column equals the
+
+74
+00:04:36.017 --> 00:04:40.558
+height of the column multiplied by the density of the liquid and the acceleration
+
+75
+00:04:40.558 --> 00:04:45.099
+due to gravity, so that for a given liquid the height is directly proportional to
+
+76
+00:04:45.099 --> 00:04:45.828
+the pressure.
+
+77
+00:04:45.968 --> 00:04:48.671
+Mercury, being very dense, supports only a short,
+
+78
+00:04:48.671 --> 00:04:52.201
+manageable column for the pressures of the arterial circulation,
+
+79
+00:04:52.201 --> 00:04:56.725
+which is why blood pressure is traditionally expressed in millimetres of mercury —
+
+80
+00:04:56.725 --> 00:04:59.152
+the height of mercury the pressure supports.
+
+81
+00:04:59.292 --> 00:05:01.504
+Water, being less dense, gives a taller,
+
+82
+00:05:01.504 --> 00:05:05.817
+more sensitive column for the lower pressures of the venous system and airway,
+
+83
+00:05:05.817 --> 00:05:07.697
+expressed in centimetres of water.
+
+84
+00:05:07.837 --> 00:05:11.863
+The manometer is simple, requires no calibration in the usual sense,
+
+85
+00:05:11.863 --> 00:05:15.473
+and is accurate for steady pressures, but it responds slowly,
+
+86
+00:05:15.473 --> 00:05:19.439
+cannot follow rapid pressure changes such as the arterial waveform,
+
+87
+00:05:19.439 --> 00:05:22.813
+and the mercury type carries the hazard of toxic mercury.
+
+88
+00:05:22.953 --> 00:05:26.836
+So the liquid manometer measures pressure by the hydrostatic principle,
+
+89
+00:05:26.836 --> 00:05:31.375
+balancing it against a column of liquid whose height — proportional to the pressure
+
+90
+00:05:31.375 --> 00:05:34.930
+through the height, density and gravity — indicates the pressure,
+
+91
+00:05:34.930 --> 00:05:39.305
+using dense mercury for arterial pressures and water for lower venous and airway
+
+92
+00:05:39.305 --> 00:05:43.734
+pressures; simple and accurate for steady pressures but slow and unable to follow
+
+93
+00:05:43.734 --> 00:05:44.500
+rapid changes.
+
+94
+00:05:56.013 --> 00:05:59.235
+Describe the aneroid and Bourdon gauges.
+
+95
+00:05:59.735 --> 00:06:03.967
+The aneroid gauge, of which the Bourdon gauge is the principal example,
+
+96
+00:06:03.967 --> 00:06:08.915
+measures pressure by the elastic deformation of a mechanical element rather than by
+
+97
+00:06:08.915 --> 00:06:13.804
+a liquid column, and it is widely used for measuring gas pressures and as a robust
+
+98
+00:06:13.804 --> 00:06:14.817
+mechanical gauge.
+
+99
+00:06:14.957 --> 00:06:17.143
+The term aneroid means without liquid,
+
+100
+00:06:17.143 --> 00:06:20.248
+distinguishing these gauges from the liquid manometer.
+
+101
+00:06:20.388 --> 00:06:24.745
+The Bourdon gauge, encountered earlier in the context of the anaesthetic machine,
+
+102
+00:06:24.745 --> 00:06:27.488
+consists of a coiled or curved flexible metal tube,
+
+103
+00:06:27.488 --> 00:06:30.123
+flattened in cross-section and closed at one end;
+
+104
+00:06:30.123 --> 00:06:34.480
+the pressure to be measured is admitted into the tube, and as the pressure rises,
+
+105
+00:06:34.480 --> 00:06:36.578
+the tube tends to uncoil or straighten,
+
+106
+00:06:36.578 --> 00:06:40.396
+because the higher pressure within the flattened tube tends to make its
+
+107
+00:06:40.396 --> 00:06:43.193
+cross-section more circular and so to straighten it.
+
+108
+00:06:43.333 --> 00:06:47.575
+This movement of the free end is transmitted through a mechanical linkage and
+
+109
+00:06:47.575 --> 00:06:52.037
+gearing to a pointer that moves over a calibrated scale, indicating the pressure.
+
+110
+00:06:52.177 --> 00:06:56.112
+The Bourdon gauge is robust, reliable and suitable for high pressures,
+
+111
+00:06:56.112 --> 00:06:59.879
+which is why it is used to measure cylinder and pipeline pressures.
+
+112
+00:07:00.019 --> 00:07:05.000
+Other aneroid gauges use the deflection of a thin metal diaphragm or an evacuated
+
+113
+00:07:05.000 --> 00:07:09.306
+metal capsule under pressure, the deformation indicating the pressure,
+
+114
+00:07:09.306 --> 00:07:12.627
+as in some older blood-pressure gauges and altimeters.
+
+115
+00:07:12.767 --> 00:07:17.748
+The aneroid gauges require calibration and can be subject to mechanical wear and
+
+116
+00:07:17.748 --> 00:07:18.121
+drift.
+
+117
+00:07:18.261 --> 00:07:21.251
+So the aneroid gauges, principally the Bourdon gauge,
+
+118
+00:07:21.251 --> 00:07:25.820
+measure pressure by the elastic deformation of a mechanical element — the Bourdon
+
+119
+00:07:25.820 --> 00:07:29.656
+gauge by the uncoiling of a curved flattened tube as pressure rises,
+
+120
+00:07:29.656 --> 00:07:34.338
+moving a pointer over a scale — being robust and suitable for the high pressures of
+
+121
+00:07:34.338 --> 00:07:38.907
+gas cylinders and pipelines, while diaphragm and capsule types use the deflection
+
+122
+00:07:38.907 --> 00:07:39.979
+of a metal element.
+
+123
+00:07:40.479 --> 00:07:44.788
+Explain the non-invasive measurement of arterial blood pressure.
+
+124
+00:07:45.288 --> 00:07:49.227
+The non-invasive measurement of arterial blood pressure, using a cuff,
+
+125
+00:07:49.227 --> 00:07:52.097
+is the routine method of blood pressure monitoring,
+
+126
+00:07:52.097 --> 00:07:56.543
+and understanding its methods and their basis is important for interpreting the
+
+127
+00:07:56.543 --> 00:07:58.963
+readings and recognising their limitations.
+
+128
+00:07:59.103 --> 00:08:03.602
+The principle common to these methods is the use of an inflatable cuff around a
+
+129
+00:08:03.602 --> 00:08:07.246
+limb, which is inflated to occlude the artery and then deflated,
+
+130
+00:08:07.246 --> 00:08:11.176
+the pressures at which flow changes indicating the arterial pressure.
+
+131
+00:08:11.176 --> 00:08:12.713
+There are two main methods.
+
+132
+00:08:12.853 --> 00:08:15.970
+The auscultatory method, the traditional manual technique,
+
+133
+00:08:15.970 --> 00:08:19.410
+inflates the cuff above systolic pressure to occlude the artery,
+
+134
+00:08:19.410 --> 00:08:23.870
+then deflates it slowly while listening over the artery distally with a stethoscope
+
+135
+00:08:23.870 --> 00:08:27.740
+for the Korotkoff sounds: the pressure at which the sounds first appear,
+
+136
+00:08:27.740 --> 00:08:31.286
+as blood begins to spurt through, indicates the systolic pressure,
+
+137
+00:08:31.286 --> 00:08:34.995
+and the pressure at which they disappear, as flow becomes continuous,
+
+138
+00:08:34.995 --> 00:08:36.768
+indicates the diastolic pressure.
+
+139
+00:08:36.908 --> 00:08:40.857
+The oscillometric method, used by automated non-invasive monitors,
+
+140
+00:08:40.857 --> 00:08:45.704
+inflates the cuff and then deflates it in steps or continuously while sensing the
+
+141
+00:08:45.704 --> 00:08:50.311
+small oscillations in cuff pressure transmitted from the arterial pulsations:
+
+142
+00:08:50.311 --> 00:08:54.201
+the oscillations begin as the cuff pressure falls below systolic,
+
+143
+00:08:54.201 --> 00:08:57.551
+reach a maximum amplitude at the mean arterial pressure,
+
+144
+00:08:57.551 --> 00:08:59.287
+and diminish below diastolic.
+
+145
+00:08:59.427 --> 00:09:03.779
+The monitor identifies the mean arterial pressure as the point of maximal
+
+146
+00:09:03.779 --> 00:09:07.237
+oscillation, which it measures most directly and reliably,
+
+147
+00:09:07.237 --> 00:09:12.185
+and derives the systolic and diastolic pressures from the oscillation pattern by an
+
+148
+00:09:12.185 --> 00:09:12.781
+algorithm.
+
+149
+00:09:12.921 --> 00:09:16.156
+So non-invasive blood pressure is measured by a cuff:
+
+150
+00:09:16.156 --> 00:09:20.795
+the auscultatory method detecting the Korotkoff sounds of returning flow for
+
+151
+00:09:20.795 --> 00:09:25.617
+systolic and diastolic pressure, and the automated oscillometric method sensing
+
+152
+00:09:25.617 --> 00:09:30.683
+cuff-pressure oscillations, identifying the mean arterial pressure most reliably at
+
+153
+00:09:30.683 --> 00:09:34.895
+maximal oscillation and deriving systolic and diastolic by algorithm.
+
+154
+00:09:35.395 --> 00:09:39.640
+What are the sources of error in non-invasive blood pressure measurement?
+
+155
+00:09:40.140 --> 00:09:44.042
+Non-invasive blood pressure measurement, though convenient and routine,
+
+156
+00:09:44.042 --> 00:09:47.888
+is subject to a number of errors that the anaesthetist must recognise,
+
+157
+00:09:47.888 --> 00:09:50.636
+since an erroneous reading may mislead management.
+
+158
+00:09:50.776 --> 00:09:55.472
+The most important and common source of error is an incorrect cuff size relative to
+
+159
+00:09:55.472 --> 00:09:55.981
+the limb.
+
+160
+00:09:56.121 --> 00:10:00.591
+A cuff that is too narrow, or too small for the limb, gives a falsely high reading,
+
+161
+00:10:00.591 --> 00:10:04.845
+because more pressure is needed to occlude the artery through the greater bulk;
+
+162
+00:10:04.845 --> 00:10:08.345
+a cuff that is too wide or too large gives a falsely low reading.
+
+163
+00:10:08.485 --> 00:10:12.215
+The cuff width should be an appropriate proportion of the limb circumference,
+
+164
+00:10:12.215 --> 00:10:15.653
+about forty per cent, and the bladder should encircle most of the limb.
+
+165
+00:10:15.793 --> 00:10:19.607
+Other errors arise from the position of the cuff relative to the heart:
+
+166
+00:10:19.607 --> 00:10:24.064
+a limb below heart level gives a falsely high reading and one above gives a falsely
+
+167
+00:10:24.064 --> 00:10:27.609
+low reading, by the hydrostatic pressure of the height difference,
+
+168
+00:10:27.609 --> 00:10:29.596
+so the cuff should be at heart level.
+
+169
+00:10:29.736 --> 00:10:33.591
+Movement, shivering and a cuff applied over clothing cause errors,
+
+170
+00:10:33.591 --> 00:10:38.440
+particularly with the oscillometric method, which relies on detecting oscillations.
+
+171
+00:10:38.580 --> 00:10:43.488
+Irregular rhythms such as atrial fibrillation make the oscillometric measurement
+
+172
+00:10:43.488 --> 00:10:47.476
+unreliable, as the beat-to-beat variation confuses the algorithm.
+
+173
+00:10:47.616 --> 00:10:51.609
+At the extremes of pressure, in severe hypotension or hypertension,
+
+174
+00:10:51.609 --> 00:10:56.496
+and in conditions of poor peripheral perfusion, the readings become less reliable,
+
+175
+00:10:56.496 --> 00:11:01.026
+and the oscillometric method may fail. Too-frequent cycling can cause venous
+
+176
+00:11:01.026 --> 00:11:02.635
+congestion and limb injury.
+
+177
+00:11:02.775 --> 00:11:07.521
+So non-invasive blood pressure errors arise chiefly from an incorrect cuff size —
+
+178
+00:11:07.521 --> 00:11:12.209
+too small reading high, too large reading low — from the cuff not being at heart
+
+179
+00:11:12.209 --> 00:11:16.779
+level, from movement and irregular rhythms confusing the oscillometric method,
+
+180
+00:11:16.779 --> 00:11:20.823
+and from unreliability at extremes of pressure and in poor perfusion.
+
+181
+00:11:32.336 --> 00:11:37.072
+Describe the system used for invasive arterial pressure measurement.
+
+182
+00:11:37.572 --> 00:11:41.412
+Invasive arterial pressure measurement, which provides continuous,
+
+183
+00:11:41.412 --> 00:11:44.845
+beat-to-beat display of the arterial pressure and waveform,
+
+184
+00:11:44.845 --> 00:11:48.743
+employs a system connecting the artery to an electronic transducer,
+
+185
+00:11:48.743 --> 00:11:53.572
+and understanding its components is essential to using it correctly and recognising
+
+186
+00:11:53.572 --> 00:11:54.212
+its errors.
+
+187
+00:11:54.352 --> 00:11:57.105
+The system comprises several parts in sequence.
+
+188
+00:11:57.105 --> 00:12:01.438
+An arterial cannula is placed in a peripheral artery, commonly the radial,
+
+189
+00:12:01.438 --> 00:12:03.547
+and transmits the arterial pressure.
+
+190
+00:12:03.687 --> 00:12:06.288
+The cannula is connected by a length of stiff,
+
+191
+00:12:06.288 --> 00:12:09.229
+non-compliant fluid-filled tubing to the transducer;
+
+192
+00:12:09.229 --> 00:12:13.244
+the tubing must be stiff and short to transmit the pressure faithfully.
+
+193
+00:12:13.384 --> 00:12:17.534
+A continuous flush system, a bag of saline under pressure delivering a slow
+
+194
+00:12:17.534 --> 00:12:21.076
+continuous flush of a few millilitres per hour through the line,
+
+195
+00:12:21.076 --> 00:12:25.669
+keeps the cannula and tubing patent and prevents the blood clotting and damping the
+
+196
+00:12:25.669 --> 00:12:26.056
+signal.
+
+197
+00:12:26.196 --> 00:12:28.585
+The transducer, at the end of the tubing,
+
+198
+00:12:28.585 --> 00:12:32.548
+converts the pressure of the fluid column into an electrical signal.
+
+199
+00:12:32.548 --> 00:12:37.268
+A three-way tap allows the transducer to be opened to the atmosphere for zeroing.
+
+200
+00:12:37.408 --> 00:12:40.812
+The electrical signal from the transducer is amplified,
+
+201
+00:12:40.812 --> 00:12:45.763
+processed and displayed by the monitor as a continuous pressure waveform and the
+
+202
+00:12:45.763 --> 00:12:48.672
+derived systolic, diastolic and mean pressures.
+
+203
+00:12:48.812 --> 00:12:52.902
+The fluid-filled column transmits the arterial pressure to the transducer,
+
+204
+00:12:52.902 --> 00:12:57.269
+so that the fidelity of the measurement depends on the mechanical properties of
+
+205
+00:12:57.269 --> 00:13:01.083
+this fluid-filled system — its stiffness, the absence of air bubbles,
+
+206
+00:13:01.083 --> 00:13:02.465
+and its dynamic response.
+
+207
+00:13:02.605 --> 00:13:06.919
+So invasive arterial pressure is measured by a system comprising an arterial
+
+208
+00:13:06.919 --> 00:13:08.905
+cannula, stiff fluid-filled tubing,
+
+209
+00:13:08.905 --> 00:13:12.026
+a continuous pressurised flush keeping the line patent,
+
+210
+00:13:12.026 --> 00:13:15.829
+a transducer converting the fluid pressure to an electrical signal,
+
+211
+00:13:15.829 --> 00:13:20.539
+and a monitor displaying the waveform and pressures — the fidelity depending on the
+
+212
+00:13:20.539 --> 00:13:23.320
+mechanical properties of the fluid-filled column.
+
+213
+00:13:23.820 --> 00:13:27.511
+Explain the principle of the pressure transducer.
+
+214
+00:13:28.011 --> 00:13:32.064
+The pressure transducer is the device that converts the pressure transmitted
+
+215
+00:13:32.064 --> 00:13:35.157
+through the fluid-filled column into an electrical signal,
+
+216
+00:13:35.157 --> 00:13:39.264
+and understanding its principle, based on the strain gauge and the Wheatstone
+
+217
+00:13:39.264 --> 00:13:43.264
+bridge, is central to understanding modern electronic pressure measurement.
+
+218
+00:13:43.404 --> 00:13:48.658
+A transducer is any device that converts one form of energy or signal into another;
+
+219
+00:13:48.658 --> 00:13:53.089
+the pressure transducer converts a pressure into an electrical signal.
+
+220
+00:13:53.229 --> 00:13:57.228
+The pressure of the fluid column is applied to a thin diaphragm within the
+
+221
+00:13:57.228 --> 00:14:01.443
+transducer, causing it to deflect very slightly in proportion to the pressure.
+
+222
+00:14:01.583 --> 00:14:06.093
+This minute deflection is sensed by a strain gauge — a fine wire or semiconductor
+
+223
+00:14:06.093 --> 00:14:10.491
+element whose electrical resistance changes when it is stretched or compressed,
+
+224
+00:14:10.491 --> 00:14:15.001
+because stretching a wire makes it longer and thinner, increasing its resistance.
+
+225
+00:14:15.141 --> 00:14:18.263
+The strain gauge is bonded to or linked with the diaphragm,
+
+226
+00:14:18.263 --> 00:14:22.124
+so that the deflection of the diaphragm strains the gauge and changes its
+
+227
+00:14:22.124 --> 00:14:24.293
+resistance in proportion to the pressure.
+
+228
+00:14:24.433 --> 00:14:27.361
+To measure this small change in resistance accurately,
+
+229
+00:14:27.361 --> 00:14:31.697
+the strain gauges — usually four, arranged so that some are stretched and others
+
+230
+00:14:31.697 --> 00:14:34.841
+compressed — are connected in a Wheatstone bridge circuit,
+
+231
+00:14:34.841 --> 00:14:38.907
+a sensitive arrangement of four resistances that produces an output voltage
+
+232
+00:14:38.907 --> 00:14:42.810
+proportional to the imbalance caused by the change in the strain gauges'
+
+233
+00:14:42.810 --> 00:14:45.575
+resistance, and hence proportional to the pressure.
+
+234
+00:14:45.715 --> 00:14:50.516
+This small voltage is amplified and processed to give the displayed pressure.
+
+235
+00:14:50.516 --> 00:14:54.632
+The transducer must be excited by a supply voltage and calibrated.
+
+236
+00:14:54.772 --> 00:14:59.307
+So the pressure transducer converts pressure to an electrical signal by applying
+
+237
+00:14:59.307 --> 00:15:03.559
+the pressure to a diaphragm whose slight deflection strains a strain gauge,
+
+238
+00:15:03.559 --> 00:15:08.265
+changing its resistance; the strain gauges are arranged in a Wheatstone bridge that
+
+239
+00:15:08.265 --> 00:15:11.440
+produces an output voltage proportional to the pressure,
+
+240
+00:15:11.440 --> 00:15:13.311
+which is amplified and displayed.
+
+241
+00:15:24.824 --> 00:15:29.709
+Explain zeroing and levelling of the transducer, and why they matter.
+
+242
+00:15:30.209 --> 00:15:34.555
+Zeroing and levelling are two essential steps in setting up invasive pressure
+
+243
+00:15:34.555 --> 00:15:37.434
+measurement, and getting them right is fundamental,
+
+244
+00:15:37.434 --> 00:15:41.103
+because errors in either directly falsify the displayed pressure,
+
+245
+00:15:41.103 --> 00:15:42.796
+yet they are easily neglected.
+
+246
+00:15:42.936 --> 00:15:47.587
+Zeroing is the process of establishing the reference point at which the transducer
+
+247
+00:15:47.587 --> 00:15:52.238
+reads zero, by opening the transducer to the atmosphere through the three-way tap,
+
+248
+00:15:52.238 --> 00:15:54.848
+so that it is exposed to atmospheric pressure,
+
+249
+00:15:54.848 --> 00:15:57.570
+and instructing the monitor to set this as zero;
+
+250
+00:15:57.570 --> 00:16:01.938
+thereafter the transducer measures pressure relative to atmospheric, that is,
+
+251
+00:16:01.938 --> 00:16:04.717
+gauge pressure, which is what we wish to display.
+
+252
+00:16:04.857 --> 00:16:09.754
+Zeroing corrects for any offset or drift in the transducer and must be performed at
+
+253
+00:16:09.754 --> 00:16:11.641
+setup and repeated periodically.
+
+254
+00:16:11.781 --> 00:16:15.475
+Levelling concerns the height at which the transducer is placed,
+
+255
+00:16:15.475 --> 00:16:20.207
+and it matters because of the hydrostatic pressure of the fluid column between the
+
+256
+00:16:20.207 --> 00:16:21.765
+patient and the transducer.
+
+257
+00:16:21.905 --> 00:16:26.631
+The transducer must be placed at the level of the reference point in the patient —
+
+258
+00:16:26.631 --> 00:16:30.781
+for arterial and central venous pressure, the level of the right atrium,
+
+259
+00:16:30.781 --> 00:16:35.161
+approximated by the phlebostatic axis at the mid-axillary line at the fourth
+
+260
+00:16:35.161 --> 00:16:36.199
+intercostal space.
+
+261
+00:16:36.339 --> 00:16:38.857
+If the transducer is placed below this level,
+
+262
+00:16:38.857 --> 00:16:43.501
+the additional hydrostatic pressure of the fluid column makes it read falsely high;
+
+263
+00:16:43.501 --> 00:16:45.627
+if placed above, it reads falsely low,
+
+264
+00:16:45.627 --> 00:16:49.096
+the error being the height difference expressed as a pressure.
+
+265
+00:16:49.236 --> 00:16:53.788
+Thus a transducer that has been moved, or a patient whose position has changed,
+
+266
+00:16:53.788 --> 00:16:56.553
+will give erroneous readings unless re-levelled.
+
+267
+00:16:56.693 --> 00:17:01.488
+So zeroing opens the transducer to atmosphere to set the reference at atmospheric
+
+268
+00:17:01.488 --> 00:17:06.401
+pressure, correcting offset, while levelling places the transducer at the reference
+
+269
+00:17:06.401 --> 00:17:09.419
+point, the right atrial level or phlebostatic axis,
+
+270
+00:17:09.419 --> 00:17:13.622
+to avoid the hydrostatic error of a height difference — both essential,
+
+271
+00:17:13.622 --> 00:17:16.759
+since errors in either directly falsify the pressure,
+
+272
+00:17:16.759 --> 00:17:19.008
+especially the lower venous pressures.
+
+273
+00:17:19.508 --> 00:17:23.817
+What is meant by the dynamic response of the measuring system?
+
+274
+00:17:24.317 --> 00:17:28.751
+The dynamic response of the invasive pressure-measuring system describes its
+
+275
+00:17:28.751 --> 00:17:32.017
+ability to follow rapidly changing pressures faithfully,
+
+276
+00:17:32.017 --> 00:17:36.684
+and it is a crucial concept, because the arterial pressure is a rapidly changing
+
+277
+00:17:36.684 --> 00:17:40.242
+waveform and a system with poor dynamic response distorts it,
+
+278
+00:17:40.242 --> 00:17:44.733
+giving erroneous systolic and diastolic values even when the mean is correct.
+
+279
+00:17:44.873 --> 00:17:48.861
+The arterial pressure waveform is not a steady pressure but a complex,
+
+280
+00:17:48.861 --> 00:17:52.905
+rapidly fluctuating signal, which can be regarded, by Fourier analysis,
+
+281
+00:17:52.905 --> 00:17:57.519
+as the sum of a fundamental sine wave at the heart rate and a series of harmonics
+
+282
+00:17:57.519 --> 00:18:00.936
+at higher frequencies; to reproduce the waveform faithfully,
+
+283
+00:18:00.936 --> 00:18:05.436
+the measuring system must respond accurately to all these frequency components,
+
+284
+00:18:05.436 --> 00:18:07.316
+up to perhaps the tenth harmonic.
+
+285
+00:18:07.456 --> 00:18:12.375
+The dynamic response of the fluid-filled system is characterised by two properties:
+
+286
+00:18:12.375 --> 00:18:15.456
+its natural, or resonant, frequency and its damping.
+
+287
+00:18:15.596 --> 00:18:20.088
+The natural frequency is the frequency at which the system tends to oscillate when
+
+288
+00:18:20.088 --> 00:18:24.581
+disturbed, determined by the mechanical properties of the fluid-filled column — it
+
+289
+00:18:24.581 --> 00:18:28.690
+is higher when the system is stiff, short and contains a low mass of fluid,
+
+290
+00:18:28.690 --> 00:18:32.087
+and lower when the tubing is long, compliant, or contains air.
+
+291
+00:18:32.227 --> 00:18:36.432
+For faithful reproduction, the natural frequency of the system should be well above
+
+292
+00:18:36.432 --> 00:18:38.864
+the highest frequency component of the waveform,
+
+293
+00:18:38.864 --> 00:18:42.765
+so that the system does not resonate within the range of frequencies present.
+
+294
+00:18:42.905 --> 00:18:44.989
+If the natural frequency is too low,
+
+295
+00:18:44.989 --> 00:18:49.387
+the system resonates with the waveform's harmonics, exaggerating the signal.
+
+296
+00:18:49.387 --> 00:18:52.569
+The damping determines how oscillations are suppressed.
+
+297
+00:18:52.709 --> 00:18:57.031
+So the dynamic response is the system's ability to follow the rapidly changing
+
+298
+00:18:57.031 --> 00:19:00.798
+arterial waveform, which comprises a fundamental and many harmonics;
+
+299
+00:19:00.798 --> 00:19:03.292
+it is characterised by the natural frequency,
+
+300
+00:19:03.292 --> 00:19:05.951
+which should be high — favoured by stiff, short,
+
+301
+00:19:05.951 --> 00:19:10.051
+bubble-free tubing — so the system does not resonate within the waveform's
+
+302
+00:19:10.051 --> 00:19:11.824
+frequencies, and by the damping.
+
+303
+00:19:12.324 --> 00:19:16.356
+Explain damping and the concept of optimal damping.
+
+304
+00:19:16.856 --> 00:19:20.842
+Damping is the second property determining the dynamic response of the
+
+305
+00:19:20.842 --> 00:19:23.576
+pressure-measuring system, and understanding it,
+
+306
+00:19:23.576 --> 00:19:26.138
+together with the concept of optimal damping,
+
+307
+00:19:26.138 --> 00:19:30.865
+explains the common distortions of the invasive arterial trace and how to recognise
+
+308
+00:19:30.865 --> 00:19:31.149
+them.
+
+309
+00:19:31.289 --> 00:19:35.815
+Damping is the progressive dissipation of the energy of oscillation in a system,
+
+310
+00:19:35.815 --> 00:19:38.247
+tending to reduce and flatten oscillations;
+
+311
+00:19:38.247 --> 00:19:42.886
+in the fluid-filled pressure system it arises from friction and viscous resistance
+
+312
+00:19:42.886 --> 00:19:47.524
+to the movement of fluid, increased by narrow tubing, air bubbles, clots and taps.
+
+313
+00:19:47.664 --> 00:19:51.653
+The degree of damping critically affects how the system responds to the pressure
+
+314
+00:19:51.653 --> 00:19:52.101
+waveform.
+
+315
+00:19:52.241 --> 00:19:54.990
+An underdamped system, with too little damping,
+
+316
+00:19:54.990 --> 00:19:58.325
+allows the signal to oscillate excessively and overshoot,
+
+317
+00:19:58.325 --> 00:20:01.191
+so that the displayed waveform shows exaggerated,
+
+318
+00:20:01.191 --> 00:20:05.578
+sharp peaks — overestimating the systolic and underestimating the diastolic
+
+319
+00:20:05.578 --> 00:20:08.327
+pressure — with added oscillations, or ringing.
+
+320
+00:20:08.467 --> 00:20:12.953
+An overdamped system, with too much damping, suppresses the signal sluggishly,
+
+321
+00:20:12.953 --> 00:20:17.440
+so that the waveform is blunted and slurred — underestimating the systolic and
+
+322
+00:20:17.440 --> 00:20:19.626
+overestimating the diastolic pressure,
+
+323
+00:20:19.626 --> 00:20:23.997
+and losing detail — though the mean pressure remains accurate in both cases.
+
+324
+00:20:24.137 --> 00:20:28.740
+Optimal damping is the degree of damping that allows the system to respond as
+
+325
+00:20:28.740 --> 00:20:32.685
+quickly as possible while just avoiding overshoot and oscillation,
+
+326
+00:20:32.685 --> 00:20:37.347
+faithfully reproducing the waveform; in practice a slightly underdamped value,
+
+327
+00:20:37.347 --> 00:20:41.172
+a damping coefficient around zero point six to zero point seven,
+
+328
+00:20:41.172 --> 00:20:44.041
+gives the best compromise of fidelity and speed.
+
+329
+00:20:44.181 --> 00:20:47.744
+Causes of underdamping and overdamping should be sought and corrected.
+
+330
+00:20:47.884 --> 00:20:50.545
+So damping is the dissipation of oscillation,
+
+331
+00:20:50.545 --> 00:20:53.028
+arising from friction in the fluid system;
+
+332
+00:20:53.028 --> 00:20:56.635
+an underdamped system exaggerates systolic and shows ringing,
+
+333
+00:20:56.635 --> 00:21:00.538
+an overdamped system blunts the trace and underestimates systolic,
+
+334
+00:21:00.538 --> 00:21:03.554
+while the mean stays accurate, and optimal damping,
+
+335
+00:21:03.554 --> 00:21:06.037
+around zero point six to zero point seven,
+
+336
+00:21:06.037 --> 00:21:09.644
+faithfully reproduces the waveform with the fastest response.
+
+337
+00:21:21.157 --> 00:21:25.765
+How is the dynamic response of the system tested at the bedside?
+
+338
+00:21:26.265 --> 00:21:30.746
+The dynamic response of an invasive pressure system — its natural frequency and
+
+339
+00:21:30.746 --> 00:21:34.773
+damping — can be assessed quickly at the bedside by a simple manoeuvre,
+
+340
+00:21:34.773 --> 00:21:39.198
+the flush or square-wave test, and being able to perform and interpret it is a
+
+341
+00:21:39.198 --> 00:21:43.055
+valuable skill for confirming the reliability of the arterial trace.
+
+342
+00:21:43.195 --> 00:21:47.760
+The test exploits the fast-flush device incorporated in the continuous flush system.
+
+343
+00:21:47.900 --> 00:21:51.391
+When the fast flush is briefly activated and then released,
+
+344
+00:21:51.391 --> 00:21:56.184
+it suddenly exposes the transducer to the high pressure of the flush bag and then
+
+345
+00:21:56.184 --> 00:21:58.847
+abruptly returns it to the arterial pressure,
+
+346
+00:21:58.847 --> 00:22:03.522
+generating a sharp square-wave step that disturbs the system and provokes it to
+
+347
+00:22:03.522 --> 00:22:05.948
+respond, revealing its dynamic behaviour.
+
+348
+00:22:06.088 --> 00:22:09.888
+After the flush is released, the trace shows how the system settles:
+
+349
+00:22:09.888 --> 00:22:14.414
+in an optimally damped system, the trace returns to the baseline waveform after a
+
+350
+00:22:14.414 --> 00:22:18.884
+small number of rapidly diminishing oscillations — typically one or two — before
+
+351
+00:22:18.884 --> 00:22:20.616
+resuming the arterial waveform.
+
+352
+00:22:20.756 --> 00:22:25.307
+The natural frequency can be estimated from the distance between the oscillations,
+
+353
+00:22:25.307 --> 00:22:27.916
+and the damping from how quickly they diminish.
+
+354
+00:22:27.916 --> 00:22:32.135
+An underdamped system shows many oscillations that diminish slowly, ringing,
+
+355
+00:22:32.135 --> 00:22:33.023
+after the flush.
+
+356
+00:22:33.163 --> 00:22:36.013
+An overdamped system shows no oscillations at all,
+
+357
+00:22:36.013 --> 00:22:40.117
+the trace returning slowly and sluggishly to baseline without overshoot.
+
+358
+00:22:40.257 --> 00:22:44.954
+Recognising these patterns allows the anaesthetist to judge whether the displayed
+
+359
+00:22:44.954 --> 00:22:47.621
+systolic and diastolic pressures are reliable,
+
+360
+00:22:47.621 --> 00:22:52.433
+and to seek and correct causes of underdamping or overdamping, such as air bubbles,
+
+361
+00:22:52.433 --> 00:22:54.636
+clots, long compliant tubing or kinks.
+
+362
+00:22:54.776 --> 00:22:58.895
+So the dynamic response is tested by the fast-flush, or square-wave, test,
+
+363
+00:22:58.895 --> 00:23:03.015
+in which releasing a brief flush produces a step that provokes the system:
+
+364
+00:23:03.015 --> 00:23:07.301
+an optimally damped system shows one or two rapidly diminishing oscillations,
+
+365
+00:23:07.301 --> 00:23:09.694
+an underdamped one shows prolonged ringing,
+
+366
+00:23:09.694 --> 00:23:14.148
+and an overdamped one shows a sluggish return without oscillation — allowing the
+
+367
+00:23:14.148 --> 00:23:17.432
+reliability of the trace to be judged and faults corrected.
+
+368
+00:23:17.932 --> 00:23:22.732
+What are the sources of error and artefact in invasive pressure measurement?
+
+369
+00:23:23.232 --> 00:23:27.390
+Invasive pressure measurement, though the reference standard for continuous
+
+370
+00:23:27.390 --> 00:23:31.159
+pressure monitoring, is subject to a number of errors and artefacts,
+
+371
+00:23:31.159 --> 00:23:35.594
+and recognising them is essential to avoid being misled by a falsely high or low
+
+372
+00:23:35.594 --> 00:23:38.144
+reading. The errors may be grouped as follows.
+
+373
+00:23:38.284 --> 00:23:42.637
+Errors of zeroing and levelling, already discussed, are common and important:
+
+374
+00:23:42.637 --> 00:23:44.616
+failure to zero, drift of the zero,
+
+375
+00:23:44.616 --> 00:23:48.799
+or a transducer not level with the reference point, produce offset errors,
+
+376
+00:23:48.799 --> 00:23:51.852
+particularly significant for the low venous pressures.
+
+377
+00:23:51.992 --> 00:23:55.950
+Errors of dynamic response distort the waveform: an underdamped system,
+
+378
+00:23:55.950 --> 00:23:59.184
+from stiff short tubing or simply the system's properties,
+
+379
+00:23:59.184 --> 00:24:03.589
+exaggerates the systolic pressure and adds ringing, while an overdamped system,
+
+380
+00:24:03.589 --> 00:24:06.767
+from air bubbles, clots, kinks, a compliant or long line,
+
+381
+00:24:06.767 --> 00:24:11.394
+or a partially obstructed cannula, blunts the trace and underestimates the systolic
+
+382
+00:24:11.394 --> 00:24:11.896
+pressure.
+
+383
+00:24:12.036 --> 00:24:16.655
+Air bubbles in the system are a particularly common cause of overdamping and should
+
+384
+00:24:16.655 --> 00:24:21.273
+be removed. Resonance, if the natural frequency is too low, exaggerates the signal.
+
+385
+00:24:21.413 --> 00:24:25.776
+Mechanical problems include kinking or partial obstruction of the cannula,
+
+386
+00:24:25.776 --> 00:24:30.375
+which damps and distorts the trace, and a cannula tip against the vessel wall,
+
+387
+00:24:30.375 --> 00:24:34.797
+causing a flattened or whip artefact. Movement and flushing cause transient
+
+388
+00:24:34.797 --> 00:24:35.387
+artefacts.
+
+389
+00:24:35.527 --> 00:24:39.304
+Disconnection causes a fall to zero and risks rapid blood loss,
+
+390
+00:24:39.304 --> 00:24:44.100
+an important safety hazard. The mean arterial pressure is the most robust value,
+
+391
+00:24:44.100 --> 00:24:46.438
+being relatively unaffected by damping,
+
+392
+00:24:46.438 --> 00:24:49.436
+so it is preferred when the waveform is distorted.
+
+393
+00:24:49.576 --> 00:24:53.433
+So invasive pressure errors include zeroing and levelling offsets,
+
+394
+00:24:53.433 --> 00:24:57.757
+underdamping exaggerating systolic with ringing, overdamping from bubbles,
+
+395
+00:24:57.757 --> 00:25:00.445
+clots and kinks blunting the trace, resonance,
+
+396
+00:25:00.445 --> 00:25:05.237
+cannula problems and disconnection — recognised by inspecting the waveform and the
+
+397
+00:25:05.237 --> 00:25:09.736
+flush test, with the mean pressure most reliable when the trace is distorted.
+
+398
+00:25:21.249 --> 00:25:24.897
+Describe the measurement of central venous pressure.
+
+399
+00:25:25.397 --> 00:25:29.557
+The central venous pressure, the pressure in the great veins at their entry to the
+
+400
+00:25:29.557 --> 00:25:33.616
+right atrium, is an important measurement reflecting the filling and function of
+
+401
+00:25:33.616 --> 00:25:37.675
+the right heart, and it is measured by methods that illustrate the principles we
+
+402
+00:25:37.675 --> 00:25:39.755
+have discussed applied to a low pressure.
+
+403
+00:25:39.895 --> 00:25:44.394
+The central venous pressure is measured through a catheter whose tip lies in the
+
+404
+00:25:44.394 --> 00:25:46.700
+superior vena cava near the right atrium.
+
+405
+00:25:46.840 --> 00:25:49.618
+It may be measured by a fluid column manometer,
+
+406
+00:25:49.618 --> 00:25:52.632
+a simple water manometer connected to the catheter,
+
+407
+00:25:52.632 --> 00:25:57.538
+the height of the water column above the reference point indicating the pressure in
+
+408
+00:25:57.538 --> 00:26:02.208
+centimetres of water; this is simple but gives only a static reading and is now
+
+409
+00:26:02.208 --> 00:26:03.331
+largely superseded.
+
+410
+00:26:03.471 --> 00:26:07.217
+More usually it is measured by an electronic transducer system,
+
+411
+00:26:07.217 --> 00:26:11.974
+like the arterial system, displaying the central venous pressure as a continuous
+
+412
+00:26:11.974 --> 00:26:14.649
+value and waveform in millimetres of mercury.
+
+413
+00:26:14.789 --> 00:26:17.847
+Because the central venous pressure is a low pressure,
+
+414
+00:26:17.847 --> 00:26:20.678
+of the order of only a few millimetres of mercury,
+
+415
+00:26:20.678 --> 00:26:24.303
+the accuracy of zeroing and especially of levelling is critical,
+
+416
+00:26:24.303 --> 00:26:28.833
+since a small error in the height of the transducer relative to the right atrium
+
+417
+00:26:28.833 --> 00:26:30.928
+causes a proportionately large error;
+
+418
+00:26:30.928 --> 00:26:35.005
+the transducer must be carefully levelled to the right atrial reference,
+
+419
+00:26:35.005 --> 00:26:36.251
+the phlebostatic axis.
+
+420
+00:26:36.391 --> 00:26:41.241
+The central venous pressure waveform shows characteristic components reflecting the
+
+421
+00:26:41.241 --> 00:26:46.091
+cardiac cycle — the a, c and v waves — whose interpretation gives information about
+
+422
+00:26:46.091 --> 00:26:50.415
+the right heart and rhythm. The trend and response to fluid are often more
+
+423
+00:26:50.415 --> 00:26:52.519
+informative than the absolute value.
+
+424
+00:26:52.659 --> 00:26:56.129
+So the central venous pressure, reflecting right heart filling,
+
+425
+00:26:56.129 --> 00:27:00.095
+is measured through a central catheter by a water manometer or, usually,
+
+426
+00:27:00.095 --> 00:27:04.557
+an electronic transducer displaying its value and waveform; being a low pressure,
+
+427
+00:27:04.557 --> 00:27:08.633
+accurate zeroing and levelling to the right atrial reference are critical,
+
+428
+00:27:08.633 --> 00:27:11.332
+and its waveform and trend, as well as its value,
+
+429
+00:27:11.332 --> 00:27:13.480
+give information about the right heart.
+
+430
+00:27:13.980 --> 00:27:19.015
+Briefly, how are pulmonary arterial and other intravascular pressures measured?
+
+431
+00:27:19.515 --> 00:27:22.163
+Beyond the arterial and central venous pressures,
+
+432
+00:27:22.163 --> 00:27:26.324
+several other intravascular and cardiac pressures may be measured in selected
+
+433
+00:27:26.324 --> 00:27:29.567
+patients, principally through the pulmonary artery catheter,
+
+434
+00:27:29.567 --> 00:27:34.107
+and a brief account completes the picture of invasive vascular pressure measurement.
+
+435
+00:27:34.247 --> 00:27:37.987
+The pulmonary artery, or Swan–Ganz, catheter is a balloon-tipped,
+
+436
+00:27:37.987 --> 00:27:42.763
+flow-directed catheter that is advanced from a central vein through the right heart
+
+437
+00:27:42.763 --> 00:27:47.308
+into the pulmonary artery, its progress followed by the characteristic pressure
+
+438
+00:27:47.308 --> 00:27:48.689
+waveforms it encounters.
+
+439
+00:27:48.829 --> 00:27:52.443
+As it passes, it measures, through the same transducer principle,
+
+440
+00:27:52.443 --> 00:27:55.668
+the right atrial pressure, the right ventricular pressure,
+
+441
+00:27:55.668 --> 00:27:59.837
+and the pulmonary arterial pressure, each with its characteristic waveform.
+
+442
+00:27:59.977 --> 00:28:04.258
+When the balloon at the tip is inflated and wedges in a branch of the pulmonary
+
+443
+00:28:04.258 --> 00:28:08.484
+artery, it measures the pulmonary artery occlusion, or wedge, pressure, which,
+
+444
+00:28:08.484 --> 00:28:12.603
+with the flow occluded, reflects the pressure transmitted back from the left
+
+445
+00:28:12.603 --> 00:28:16.937
+atrium, giving an estimate of left atrial and left ventricular filling pressure.
+
+446
+00:28:17.077 --> 00:28:21.893
+The catheter also allows the measurement of cardiac output by thermodilution and
+
+447
+00:28:21.893 --> 00:28:25.926
+the sampling of mixed venous blood. The same transducer principles,
+
+448
+00:28:25.926 --> 00:28:30.862
+zeroing and levelling apply, and the wedge pressure in particular requires careful
+
+449
+00:28:30.862 --> 00:28:32.608
+technique and interpretation.
+
+450
+00:28:32.748 --> 00:28:37.450
+The use of the pulmonary artery catheter has declined in favour of less invasive
+
+451
+00:28:37.450 --> 00:28:40.330
+methods of assessing cardiac function and output,
+
+452
+00:28:40.330 --> 00:28:44.033
+but it remains the means of directly measuring these pressures.
+
+453
+00:28:44.173 --> 00:28:47.591
+So the pulmonary artery catheter measures the right atrial,
+
+454
+00:28:47.591 --> 00:28:52.283
+right ventricular and pulmonary arterial pressures by the transducer principle as
+
+455
+00:28:52.283 --> 00:28:56.686
+it is advanced through the heart, and the wedge pressure when its balloon is
+
+456
+00:28:56.686 --> 00:29:01.205
+inflated, estimating left heart filling — using the same zeroing and levelling
+
+457
+00:29:01.205 --> 00:29:05.549
+principles, though its use has declined in favour of less invasive methods.
+
+458
+00:29:06.049 --> 00:29:09.740
+How are airway and other non-vascular pressures measured?
+
+459
+00:29:10.240 --> 00:29:14.416
+Pressure measurement in anaesthesia extends beyond the vascular system to the
+
+460
+00:29:14.416 --> 00:29:16.965
+airway and to several other non-vascular sites,
+
+461
+00:29:16.965 --> 00:29:21.141
+and an account of these completes the range of clinical pressure measurement.
+
+462
+00:29:21.281 --> 00:29:25.679
+Airway pressure is measured during ventilation to monitor the inflation of the
+
+463
+00:29:25.679 --> 00:29:29.344
+lungs, guard against barotrauma and assess respiratory mechanics;
+
+464
+00:29:29.344 --> 00:29:32.896
+it is sensed by a transducer connected to the breathing system,
+
+465
+00:29:32.896 --> 00:29:36.110
+which displays the airway pressure waveform and the peak,
+
+466
+00:29:36.110 --> 00:29:40.225
+plateau and end-expiratory pressures, with high- and low-pressure alarms.
+
+467
+00:29:40.365 --> 00:29:44.965
+Because airway pressures are modest, of the order of tens of centimetres of water,
+
+468
+00:29:44.965 --> 00:29:47.714
+and the relevant changes are not extremely rapid,
+
+469
+00:29:47.714 --> 00:29:51.472
+the requirements are less demanding than for the arterial waveform,
+
+470
+00:29:51.472 --> 00:29:54.445
+but the measurement is essential to safe ventilation.
+
+471
+00:29:54.585 --> 00:29:59.334
+Intracranial pressure is measured in patients with brain injury by devices placed
+
+472
+00:29:59.334 --> 00:30:03.672
+within the skull — an intraventricular catheter connected to a transducer,
+
+473
+00:30:03.672 --> 00:30:06.603
+which also allows drainage of cerebrospinal fluid,
+
+474
+00:30:06.603 --> 00:30:10.647
+or a transducer-tipped probe placed in the brain tissue or ventricle;
+
+475
+00:30:10.647 --> 00:30:15.044
+accurate measurement guides the management of raised intracranial pressure.
+
+476
+00:30:15.184 --> 00:30:17.828
+Intra-abdominal pressure is measured indirectly,
+
+477
+00:30:17.828 --> 00:30:22.070
+commonly by measuring the pressure in the bladder through a urinary catheter,
+
+478
+00:30:22.070 --> 00:30:24.549
+to detect the abdominal compartment syndrome.
+
+479
+00:30:24.549 --> 00:30:28.901
+Compartment pressures in the limbs are measured to detect compartment syndrome.
+
+480
+00:30:29.041 --> 00:30:33.600
+The pressures of the gas supplies are measured by Bourdon gauges, as discussed.
+
+481
+00:30:33.600 --> 00:30:37.063
+Each uses a method suited to its magnitude and requirements.
+
+482
+00:30:37.203 --> 00:30:39.733
+So non-vascular pressures are also measured:
+
+483
+00:30:39.733 --> 00:30:44.162
+airway pressure by a transducer on the breathing system for safe ventilation;
+
+484
+00:30:44.162 --> 00:30:48.591
+intracranial pressure by intraventricular or intraparenchymal devices guiding
+
+485
+00:30:48.591 --> 00:30:52.388
+brain-injury management; intra-abdominal pressure via the bladder;
+
+486
+00:30:52.388 --> 00:30:57.046
+compartment pressures in limbs; and gas-supply pressures by Bourdon gauges — each
+
+487
+00:30:57.046 --> 00:31:01.245
+method suited to the magnitude and requirements of the pressure measured.
+
+488
+00:31:12.759 --> 00:31:17.452
+What safety considerations attend invasive pressure monitoring?
+
+489
+00:31:17.952 --> 00:31:20.649
+Invasive pressure monitoring, while valuable,
+
+490
+00:31:20.649 --> 00:31:24.844
+introduces hazards arising from the invasive access and the equipment,
+
+491
+00:31:24.844 --> 00:31:29.877
+and an awareness of these safety considerations is important to its responsible use.
+
+492
+00:31:30.017 --> 00:31:33.754
+The arterial cannula carries the risks of any arterial puncture:
+
+493
+00:31:33.754 --> 00:31:38.309
+bleeding and haematoma, which can be significant if a connection is dislodged,
+
+494
+00:31:38.309 --> 00:31:42.630
+since arterial disconnection causes rapid blood loss — a particular danger
+
+495
+00:31:42.630 --> 00:31:46.309
+requiring secure connections, visible cannula sites and alarms;
+
+496
+00:31:46.309 --> 00:31:49.812
+thrombosis and distal ischaemia, especially in end-arteries,
+
+497
+00:31:49.812 --> 00:31:54.075
+mitigated by choosing appropriate sites and small cannulae and monitoring
+
+498
+00:31:54.075 --> 00:31:57.695
+perfusion; infection, mitigated by aseptic insertion and care;
+
+499
+00:31:57.695 --> 00:32:02.367
+and the catastrophic hazard of the inadvertent intra-arterial injection of drugs
+
+500
+00:32:02.367 --> 00:32:05.403
+through an arterial line mistaken for a venous line,
+
+501
+00:32:05.403 --> 00:32:08.673
+which can cause severe distal ischaemia and tissue loss,
+
+502
+00:32:08.673 --> 00:32:10.892
+prevented by clear labelling and care.
+
+503
+00:32:11.032 --> 00:32:15.629
+Central venous and pulmonary artery catheters carry the risks of central venous
+
+504
+00:32:15.629 --> 00:32:19.353
+access — including pneumothorax, arterial puncture, arrhythmias,
+
+505
+00:32:19.353 --> 00:32:24.183
+and infection — and the pulmonary artery catheter the additional risks of pulmonary
+
+506
+00:32:24.183 --> 00:32:26.627
+artery rupture, knotting and valve damage.
+
+507
+00:32:26.767 --> 00:32:31.663
+The pressurised flush system poses a small risk of air or fluid embolism and of
+
+508
+00:32:31.663 --> 00:32:32.655
+excessive flush.
+
+509
+00:32:32.795 --> 00:32:35.155
+Electrical safety considerations apply,
+
+510
+00:32:35.155 --> 00:32:39.693
+as the patient is connected through a conductive fluid column to electrical
+
+511
+00:32:39.693 --> 00:32:43.626
+equipment, requiring appropriate isolation to prevent microshock,
+
+512
+00:32:43.626 --> 00:32:48.648
+as we shall discuss. The benefit of invasive monitoring must justify these risks in
+
+513
+00:32:48.648 --> 00:32:49.435
+each patient.
+
+514
+00:32:49.575 --> 00:32:53.840
+So invasive pressure monitoring carries hazards: arterial cannula bleeding,
+
+515
+00:32:53.840 --> 00:32:56.570
+disconnection blood loss, thrombosis, ischaemia,
+
+516
+00:32:56.570 --> 00:32:59.471
+infection and inadvertent intra-arterial injection;
+
+517
+00:32:59.471 --> 00:33:03.736
+central and pulmonary artery catheter complications; flush-system embolism;
+
+518
+00:33:03.736 --> 00:33:07.831
+and electrical microshock risk — managed by secure labelled connections,
+
+519
+00:33:07.831 --> 00:33:11.073
+aseptic technique, appropriate site and equipment choice,
+
+520
+00:33:11.073 --> 00:33:15.281
+monitoring and electrical isolation, with the benefit justifying the risk.
+
+521
+00:33:15.781 --> 00:33:20.461
+Finally, draw together the principles of pressure measurement as they bear on
+
+522
+00:33:20.461 --> 00:33:21.008
+practice.
+
+523
+00:33:21.508 --> 00:33:26.002
+Drawing the station together, the measurement of pressure pervades anaesthesia and
+
+524
+00:33:26.002 --> 00:33:29.784
+critical care, and a secure understanding of its principles, devices,
+
+525
+00:33:29.784 --> 00:33:34.168
+dynamic response and errors is fundamental to interpreting the many pressures we
+
+526
+00:33:34.168 --> 00:33:34.607
+monitor.
+
+527
+00:33:34.747 --> 00:33:38.043
+Pressure may be measured indirectly and non-invasively,
+
+528
+00:33:38.043 --> 00:33:42.597
+as the arterial pressure by the auscultatory and oscillometric cuff methods,
+
+529
+00:33:42.597 --> 00:33:47.571
+the oscillometric method identifying the mean pressure most reliably but subject to
+
+530
+00:33:47.571 --> 00:33:52.425
+errors of cuff size, level and rhythm; or directly and invasively for continuous,
+
+531
+00:33:52.425 --> 00:33:54.523
+accurate, beat-to-beat information.
+
+532
+00:33:54.663 --> 00:33:57.508
+The fundamental devices are the liquid manometer,
+
+533
+00:33:57.508 --> 00:34:01.167
+embodying the hydrostatic principle and the basis of our units;
+
+534
+00:34:01.167 --> 00:34:05.465
+the aneroid Bourdon gauge for the high pressures of the gas supplies; and,
+
+535
+00:34:05.465 --> 00:34:08.427
+for clinical monitoring, the electronic transducer,
+
+536
+00:34:08.427 --> 00:34:13.073
+which converts pressure to an electrical signal by a strain-gauge diaphragm in a
+
+537
+00:34:13.073 --> 00:34:14.119
+Wheatstone bridge.
+
+538
+00:34:14.259 --> 00:34:18.934
+Invasive measurement through a fluid-filled column demands attention to zeroing and
+
+539
+00:34:18.934 --> 00:34:22.089
+levelling, errors in which directly falsify the reading,
+
+540
+00:34:22.089 --> 00:34:26.257
+and to the dynamic response — the natural frequency, which should be high,
+
+541
+00:34:26.257 --> 00:34:30.876
+and the damping, optimally around zero point six to zero point seven — assessed by
+
+542
+00:34:30.876 --> 00:34:35.101
+the flush test, with underdamping exaggerating and overdamping blunting the
+
+543
+00:34:35.101 --> 00:34:37.917
+systolic pressure while the mean remains reliable.
+
+544
+00:34:38.057 --> 00:34:42.164
+The same principles, with appropriate methods, apply to central venous,
+
+545
+00:34:42.164 --> 00:34:45.692
+pulmonary arterial, airway, intracranial and other pressures,
+
+546
+00:34:45.692 --> 00:34:48.873
+and invasive monitoring carries hazards requiring care.
+
+547
+00:34:49.013 --> 00:34:51.726
+So pressure measurement unites the hydrostatic,
+
+548
+00:34:51.726 --> 00:34:55.881
+aneroid and transducer principles with the critical concepts of zeroing,
+
+549
+00:34:55.881 --> 00:35:00.209
+levelling and dynamic response, and their understanding — together with the
+
+550
+00:35:00.209 --> 00:35:04.884
+recognition of error and the safe conduct of invasive monitoring — is fundamental
+
+551
+00:35:04.884 --> 00:35:08.981
+to the correct interpretation of the pressures that guide our practice.
+
+552
+00:35:20.495 --> 00:35:24.463
+Thank you. An excellent and complete account. Let us stop there.
+
+553
+00:35:24.963 --> 00:35:28.440
+Before we close, here are the take-home messages.
+
+554
+00:35:28.580 --> 00:35:32.818
+First, Pressure is measured indirectly/non-invasively (the cuff:
+
+555
+00:35:32.818 --> 00:35:38.315
+auscultatory Korotkoff sounds, or oscillometry - which identifies the MEAN arterial
+
+556
+00:35:38.315 --> 00:35:43.149
+pressure most reliably at maximal oscillation) or directly/invasively for
+
+557
+00:35:43.149 --> 00:35:48.646
+continuous beat-to-beat data; non-invasive errors arise mainly from wrong cuff size
+
+558
+00:35:48.646 --> 00:35:53.215
+(too small reads high, too large reads low), cuff not at heart level,
+
+559
+00:35:53.215 --> 00:35:55.268
+movement and irregular rhythms.
+
+560
+00:35:55.408 --> 00:36:01.361
+Second, Fundamental devices: the liquid manometer (hydrostatic principle - height
+
+561
+00:36:01.361 --> 00:36:05.403
+proportional to pressure, the basis of mmHg and cmH2O),
+
+562
+00:36:05.403 --> 00:36:11.502
+the aneroid Bourdon gauge (a curved flattened tube uncoils with pressure - used for
+
+563
+00:36:11.502 --> 00:36:15.397
+gas-supply pressures), and the electronic transducer.
+
+564
+00:36:15.537 --> 00:36:20.078
+Third, The pressure transducer converts pressure to an electrical signal:
+
+565
+00:36:20.078 --> 00:36:24.495
+pressure deflects a diaphragm that strains a strain gauge (changing its
+
+566
+00:36:24.495 --> 00:36:29.596
+resistance), arranged in a Wheatstone bridge giving an output voltage proportional
+
+567
+00:36:29.596 --> 00:36:34.635
+to pressure; invasive monitoring needs ZEROING (open to atmosphere) and LEVELLING
+
+568
+00:36:34.635 --> 00:36:39.549
+(transducer at the right atrial reference/phlebostatic axis) - errors in either
+
+569
+00:36:39.549 --> 00:36:43.655
+directly falsify the reading, critically for low venous pressures.
+
+570
+00:36:43.795 --> 00:36:49.183
+Fourth, Dynamic response governs faithful reproduction of the arterial waveform (a
+
+571
+00:36:49.183 --> 00:36:54.441
+fundamental plus harmonics): the natural frequency should be HIGH (stiff, short,
+
+572
+00:36:54.441 --> 00:36:57.004
+bubble-free tubing) to avoid resonance,
+
+573
+00:36:57.004 --> 00:37:00.815
+and damping should be optimal (coefficient about 0.6-0.7);
+
+574
+00:37:00.815 --> 00:37:05.810
+UNDERdamping exaggerates systolic with ringing, OVERdamping (bubbles, clots,
+
+575
+00:37:05.810 --> 00:37:10.739
+kinks) blunts it and underestimates systolic - but the MEAN stays reliable.
+
+576
+00:37:10.879 --> 00:37:14.633
+The fast-flush (square-wave) test assesses this:
+
+577
+00:37:14.633 --> 00:37:18.388
+1-2 rapidly diminishing oscillations is optimal.
+
+578
+00:37:18.528 --> 00:37:20.923
+Fifth, The same transducer principles,
+
+579
+00:37:20.923 --> 00:37:26.093
+zeroing and levelling apply to central venous pressure (a low pressure - levelling
+
+580
+00:37:26.093 --> 00:37:31.262
+critical; a, c, v waves), pulmonary arterial and wedge pressures (pulmonary artery
+
+581
+00:37:31.262 --> 00:37:35.611
+catheter), and to airway, intracranial and intra-abdominal pressures;
+
+582
+00:37:35.611 --> 00:37:40.276
+invasive monitoring carries hazards (disconnection blood loss, thrombosis,
+
+583
+00:37:40.276 --> 00:37:43.995
+ischaemia, infection, inadvertent intra-arterial injection,
+
+584
+00:37:43.995 --> 00:37:49.291
+microshock) requiring secure labelled connections, asepsis and electrical isolation.
+
+585
+00:37:49.791 --> 00:37:52.265
+Thank you. That concludes the station.
+

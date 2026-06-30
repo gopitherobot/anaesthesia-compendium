@@ -1,0 +1,2410 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.905
+Welcome to Anaesthesia Compendium. Today's viva station: heat,
+
+2
+00:00:04.905 --> 00:00:09.349
+temperature and humidity. I shall take the candidate through it,
+
+3
+00:00:09.349 --> 00:00:11.779
+question by question. Let us begin.
+
+4
+00:00:12.279 --> 00:00:15.585
+Let us begin. Distinguish heat from temperature.
+
+5
+00:00:16.085 --> 00:00:19.961
+Heat and temperature are related but fundamentally distinct concepts,
+
+6
+00:00:19.961 --> 00:00:22.040
+and confusing them is a common error,
+
+7
+00:00:22.040 --> 00:00:25.579
+so the distinction is worth establishing clearly at the outset.
+
+8
+00:00:25.719 --> 00:00:30.008
+Heat is a form of energy — thermal energy — that flows from a hotter body to a
+
+9
+00:00:30.008 --> 00:00:34.353
+cooler one by virtue of their temperature difference; it is measured in joules,
+
+10
+00:00:34.353 --> 00:00:38.478
+the unit of energy, and the quantity of heat in a body depends on its mass,
+
+11
+00:00:38.478 --> 00:00:40.183
+its nature and its temperature.
+
+12
+00:00:40.323 --> 00:00:45.159
+Temperature, by contrast, is not energy but a measure of the average kinetic energy
+
+13
+00:00:45.159 --> 00:00:49.762
+of the molecules of a substance — how hot or cold it is — and it determines the
+
+14
+00:00:49.762 --> 00:00:54.015
+direction of heat flow, which is always from higher to lower temperature;
+
+15
+00:00:54.015 --> 00:00:56.579
+it is measured in kelvin or degrees Celsius.
+
+16
+00:00:56.719 --> 00:01:00.922
+The distinction is illustrated by considering that a small object at high
+
+17
+00:01:00.922 --> 00:01:04.781
+temperature, such as a spark, may contain little total heat energy,
+
+18
+00:01:04.781 --> 00:01:08.984
+while a large object at modest temperature, such as a bath of warm water,
+
+19
+00:01:08.984 --> 00:01:12.612
+contains a great deal; the spark is hotter but holds less heat.
+
+20
+00:01:12.752 --> 00:01:17.247
+Temperature thus tells us the intensity of the thermal state and the direction heat
+
+21
+00:01:17.247 --> 00:01:21.200
+will flow, while heat is the quantity of energy transferred or contained.
+
+22
+00:01:21.340 --> 00:01:25.730
+This distinction underlies the whole of clinical thermal physics — heat loss and
+
+23
+00:01:25.730 --> 00:01:29.297
+gain by the patient, the heat capacity of materials, latent heat,
+
+24
+00:01:29.297 --> 00:01:31.217
+and the measurement of temperature.
+
+25
+00:01:31.357 --> 00:01:35.434
+So heat is thermal energy measured in joules, flowing from hot to cold,
+
+26
+00:01:35.434 --> 00:01:39.856
+whereas temperature is a measure of the average molecular kinetic energy that
+
+27
+00:01:39.856 --> 00:01:44.220
+determines the direction of heat flow — distinct quantities whose difference
+
+28
+00:01:44.220 --> 00:01:46.632
+underlies all of clinical thermal physics.
+
+29
+00:01:47.132 --> 00:01:52.380
+Define heat capacity and specific heat capacity, and give their relevance.
+
+30
+00:01:52.880 --> 00:01:57.627
+Heat capacity and specific heat capacity describe how much heat energy a body or
+
+31
+00:01:57.627 --> 00:02:00.475
+substance must absorb to change its temperature,
+
+32
+00:02:00.475 --> 00:02:05.282
+and they are important in understanding both clinical heat loss and the design of
+
+33
+00:02:05.282 --> 00:02:07.003
+equipment such as vaporisers.
+
+34
+00:02:07.143 --> 00:02:11.200
+The heat capacity of a body is the quantity of heat required to raise its
+
+35
+00:02:11.200 --> 00:02:14.368
+temperature by one degree, measured in joules per kelvin;
+
+36
+00:02:14.368 --> 00:02:17.425
+it depends on both the mass and the nature of the body.
+
+37
+00:02:17.565 --> 00:02:22.244
+The specific heat capacity is the heat capacity per unit mass — the quantity of
+
+38
+00:02:22.244 --> 00:02:26.093
+heat required to raise one kilogram of a substance by one kelvin,
+
+39
+00:02:26.093 --> 00:02:30.889
+measured in joules per kilogram per kelvin — and it is a property of the material
+
+40
+00:02:30.889 --> 00:02:31.304
+itself.
+
+41
+00:02:31.444 --> 00:02:34.297
+Water has a notably high specific heat capacity,
+
+42
+00:02:34.297 --> 00:02:38.754
+which is why it can store and carry large amounts of heat and why the body,
+
+43
+00:02:38.754 --> 00:02:41.963
+being largely water, has considerable thermal inertia,
+
+44
+00:02:41.963 --> 00:02:46.420
+resisting rapid temperature change. The clinical relevance is several-fold.
+
+45
+00:02:46.560 --> 00:02:51.012
+The high heat capacity of the body means that warming a hypothermic patient
+
+46
+00:02:51.012 --> 00:02:53.920
+requires a large amount of energy and takes time.
+
+47
+00:02:54.060 --> 00:02:58.225
+The specific heat capacity of materials matters in vaporiser design,
+
+48
+00:02:58.225 --> 00:03:02.941
+where a material of high heat capacity and conductivity is chosen so that the
+
+49
+00:03:02.941 --> 00:03:05.085
+vaporiser acts as a heat reservoir,
+
+50
+00:03:05.085 --> 00:03:09.249
+maintaining a stable temperature despite the cooling of evaporation.
+
+51
+00:03:09.389 --> 00:03:14.083
+It also explains the heat stored in water-filled humidifiers and warming devices.
+
+52
+00:03:14.223 --> 00:03:18.946
+So heat capacity is the heat needed to raise a body's temperature by one degree,
+
+53
+00:03:18.946 --> 00:03:23.493
+and specific heat capacity is that per unit mass — water's being high — which
+
+54
+00:03:23.493 --> 00:03:27.921
+explains the body's thermal inertia, the energy needed to rewarm a patient,
+
+55
+00:03:27.921 --> 00:03:32.527
+and the use of high-heat-capacity materials in vaporisers and warming devices.
+
+56
+00:03:33.027 --> 00:03:37.635
+Explain latent heat, distinguishing fusion and vaporisation.
+
+57
+00:03:38.135 --> 00:03:42.617
+Latent heat is the energy absorbed or released when a substance changes its
+
+58
+00:03:42.617 --> 00:03:47.577
+physical state — between solid, liquid and gas — without any change in temperature,
+
+59
+00:03:47.577 --> 00:03:52.418
+and it is important in anaesthesia because the evaporation of liquids cools them,
+
+60
+00:03:52.418 --> 00:03:55.287
+affecting cylinders, vaporisers and the patient.
+
+61
+00:03:55.427 --> 00:04:00.124
+When a substance changes state, energy is required to break or rearrange the bonds
+
+62
+00:04:00.124 --> 00:04:04.420
+between its molecules, and this energy is taken in or given out at constant
+
+63
+00:04:04.420 --> 00:04:06.825
+temperature, hence latent, meaning hidden,
+
+64
+00:04:06.825 --> 00:04:11.064
+because it does not register as a temperature change. There are two kinds.
+
+65
+00:04:11.204 --> 00:04:15.684
+The latent heat of fusion is the energy required to convert a solid to a liquid,
+
+66
+00:04:15.684 --> 00:04:18.820
+or released when a liquid freezes, at the melting point.
+
+67
+00:04:18.960 --> 00:04:23.740
+The latent heat of vaporisation is the energy required to convert a liquid to a
+
+68
+00:04:23.740 --> 00:04:26.220
+gas, or released when a vapour condenses,
+
+69
+00:04:26.220 --> 00:04:28.822
+at the boiling point or during evaporation;
+
+70
+00:04:28.822 --> 00:04:31.786
+it is much larger than the latent heat of fusion,
+
+71
+00:04:31.786 --> 00:04:36.324
+because converting a liquid to a widely-spaced vapour requires breaking the
+
+72
+00:04:36.324 --> 00:04:38.139
+intermolecular bonds entirely.
+
+73
+00:04:38.279 --> 00:04:42.972
+The specific latent heat is this energy per unit mass, in joules per kilogram.
+
+74
+00:04:43.112 --> 00:04:45.777
+The clinical relevance is that evaporation,
+
+75
+00:04:45.777 --> 00:04:49.990
+requiring latent heat drawn from the surroundings, produces cooling:
+
+76
+00:04:49.990 --> 00:04:54.762
+the latent heat of vaporisation cools a nitrous oxide cylinder as it empties,
+
+77
+00:04:54.762 --> 00:04:57.551
+cools the liquid in an anaesthetic vaporiser,
+
+78
+00:04:57.551 --> 00:05:02.632
+and cools the patient through evaporation from skin, airway and surgical surfaces.
+
+79
+00:05:02.772 --> 00:05:07.476
+So latent heat is the energy of a change of state at constant temperature — of
+
+80
+00:05:07.476 --> 00:05:12.421
+fusion for solid to liquid, and the larger of vaporisation for liquid to gas — and
+
+81
+00:05:12.421 --> 00:05:17.427
+because evaporation draws latent heat from its surroundings it produces the cooling
+
+82
+00:05:17.427 --> 00:05:20.201
+seen in cylinders, vaporisers and the patient.
+
+83
+00:05:31.715 --> 00:05:34.979
+Describe the mechanisms of heat transfer.
+
+84
+00:05:35.479 --> 00:05:38.531
+Heat is transferred between bodies by four mechanisms,
+
+85
+00:05:38.531 --> 00:05:43.165
+and understanding them is essential to understanding how the anaesthetised patient
+
+86
+00:05:43.165 --> 00:05:46.273
+loses heat and how we may prevent or reverse that loss.
+
+87
+00:05:46.413 --> 00:05:50.857
+The first is conduction, the transfer of heat through direct molecular contact
+
+88
+00:05:50.857 --> 00:05:53.534
+between a body and a cooler object touching it,
+
+89
+00:05:53.534 --> 00:05:58.091
+the rate depending on the temperature difference and the thermal conductivity of
+
+90
+00:05:58.091 --> 00:06:02.649
+the materials; the patient loses heat by conduction to a cold operating table or
+
+91
+00:06:02.649 --> 00:06:06.921
+cold fluids, though this is normally a small contribution unless contact is
+
+92
+00:06:06.921 --> 00:06:07.491
+extensive.
+
+93
+00:06:07.631 --> 00:06:12.395
+The second is convection, the transfer of heat by the movement of a fluid — air or
+
+94
+00:06:12.395 --> 00:06:14.893
+liquid — carrying heat away from a surface;
+
+95
+00:06:14.893 --> 00:06:18.321
+warm air rising from the patient is replaced by cooler air,
+
+96
+00:06:18.321 --> 00:06:22.969
+continually removing heat, and this is increased by air currents in the theatre.
+
+97
+00:06:23.109 --> 00:06:25.669
+Convection is normally a major route of loss.
+
+98
+00:06:25.809 --> 00:06:30.948
+The third is radiation, the emission of heat as infrared electromagnetic waves from
+
+99
+00:06:30.948 --> 00:06:35.405
+any warm surface to cooler surroundings, requiring no contact or medium;
+
+100
+00:06:35.405 --> 00:06:40.543
+radiation to the cold surfaces of the theatre is typically the largest single route
+
+101
+00:06:40.543 --> 00:06:42.215
+of perioperative heat loss.
+
+102
+00:06:42.355 --> 00:06:47.680
+The fourth is evaporation, the loss of heat as the latent heat of vaporisation when
+
+103
+00:06:47.680 --> 00:06:52.428
+water evaporates from the skin, the respiratory tract and exposed surgical
+
+104
+00:06:52.428 --> 00:06:57.625
+surfaces; this includes insensible losses and is increased by exposed viscera and
+
+105
+00:06:57.625 --> 00:06:59.229
+by dry anaesthetic gases.
+
+106
+00:06:59.369 --> 00:07:04.512
+So heat is transferred by conduction through contact, convection by fluid movement,
+
+107
+00:07:04.512 --> 00:07:09.468
+radiation as infrared waves, and evaporation drawing latent heat — radiation and
+
+108
+00:07:09.468 --> 00:07:12.442
+convection being the major perioperative routes,
+
+109
+00:07:12.442 --> 00:07:17.398
+with evaporation and conduction contributing — and all four must be addressed to
+
+110
+00:07:17.398 --> 00:07:18.761
+keep the patient warm.
+
+111
+00:07:19.261 --> 00:07:23.251
+Apply these to perioperative heat loss and its prevention.
+
+112
+00:07:23.751 --> 00:07:27.761
+Perioperative hypothermia is a common and important complication,
+
+113
+00:07:27.761 --> 00:07:32.883
+and applying the physics of heat transfer explains both why it occurs and how it is
+
+114
+00:07:32.883 --> 00:07:33.500
+prevented.
+
+115
+00:07:33.640 --> 00:07:37.235
+The anaesthetised patient is vulnerable for several reasons:
+
+116
+00:07:37.235 --> 00:07:39.452
+anaesthesia impairs thermoregulation,
+
+117
+00:07:39.452 --> 00:07:44.065
+abolishing behavioural responses and blunting vasoconstriction and shivering;
+
+118
+00:07:44.065 --> 00:07:46.522
+the patient is exposed in a cool theatre;
+
+119
+00:07:46.522 --> 00:07:51.255
+and the initial fall in temperature after induction is dominated by an internal
+
+120
+00:07:51.255 --> 00:07:55.210
+redistribution of heat from the warm core to the cooler periphery,
+
+121
+00:07:55.210 --> 00:07:57.427
+as anaesthesia causes vasodilatation.
+
+122
+00:07:57.567 --> 00:08:02.286
+Thereafter heat is lost to the environment by the four mechanisms in roughly
+
+123
+00:08:02.286 --> 00:08:06.633
+descending order of radiation, convection, evaporation and conduction.
+
+124
+00:08:06.773 --> 00:08:11.343
+The consequences of hypothermia are significant — increased surgical site
+
+125
+00:08:11.343 --> 00:08:15.224
+infection, coagulopathy and bleeding, delayed drug metabolism,
+
+126
+00:08:15.224 --> 00:08:20.356
+patient discomfort and shivering with raised oxygen demand, and cardiac morbidity.
+
+127
+00:08:20.356 --> 00:08:22.923
+Prevention is directed at each mechanism.
+
+128
+00:08:23.063 --> 00:08:27.399
+Radiation and convection are reduced by warming the theatre and by forced-air
+
+129
+00:08:27.399 --> 00:08:30.608
+warming blankets, which blow warmed air over the patient,
+
+130
+00:08:30.608 --> 00:08:34.156
+the single most effective measure, addressing the major routes.
+
+131
+00:08:34.296 --> 00:08:38.866
+Conduction is reduced by warming mattresses and by warming intravenous and
+
+132
+00:08:38.866 --> 00:08:43.313
+irrigation fluids. Evaporation is reduced by humidifying inspired gases,
+
+133
+00:08:43.313 --> 00:08:46.278
+covering exposed surfaces and limiting exposure.
+
+134
+00:08:46.278 --> 00:08:50.787
+Pre-warming the patient before induction reduces the redistribution loss.
+
+135
+00:08:50.927 --> 00:08:52.996
+Temperature should be monitored throughout.
+
+136
+00:08:53.136 --> 00:08:57.129
+So perioperative hypothermia arises from anaesthetic impairment of
+
+137
+00:08:57.129 --> 00:09:01.728
+thermoregulation, initial redistribution, and loss by radiation, convection,
+
+138
+00:09:01.728 --> 00:09:05.963
+evaporation and conduction, and it is prevented by forced-air warming,
+
+139
+00:09:05.963 --> 00:09:09.351
+fluid warming, humidification, covering and pre-warming,
+
+140
+00:09:09.351 --> 00:09:14.373
+with monitoring throughout — measures rationally targeted at the mechanisms of heat
+
+141
+00:09:14.373 --> 00:09:14.917
+transfer.
+
+142
+00:09:15.417 --> 00:09:20.559
+Now let us turn to humidity. Define absolute and relative humidity.
+
+143
+00:09:21.059 --> 00:09:24.456
+Humidity is the amount of water vapour present in a gas,
+
+144
+00:09:24.456 --> 00:09:29.492
+and it is expressed in two distinct ways — absolute and relative humidity — both of
+
+145
+00:09:29.492 --> 00:09:34.406
+which are important in anaesthesia for understanding the conditioning of inspired
+
+146
+00:09:34.406 --> 00:09:37.379
+gases and the function of humidification devices.
+
+147
+00:09:37.519 --> 00:09:42.471
+Absolute humidity is the actual mass of water vapour present in a given volume of
+
+148
+00:09:42.471 --> 00:09:47.117
+gas, expressed in grams per cubic metre, or sometimes as the mass per litre;
+
+149
+00:09:47.117 --> 00:09:49.807
+it is a direct measure of the water content.
+
+150
+00:09:49.947 --> 00:09:54.567
+Relative humidity, by contrast, is a ratio — the mass of water vapour actually
+
+151
+00:09:54.567 --> 00:09:59.364
+present in a gas compared with the maximum mass it could hold at that temperature
+
+152
+00:09:59.364 --> 00:10:02.089
+if fully saturated, expressed as a percentage;
+
+153
+00:10:02.089 --> 00:10:06.886
+equivalently it is the ratio of the actual water vapour pressure to the saturated
+
+154
+00:10:06.886 --> 00:10:09.019
+vapour pressure at that temperature.
+
+155
+00:10:09.159 --> 00:10:13.863
+The crucial point linking them is that the maximum amount of water a gas can hold
+
+156
+00:10:13.863 --> 00:10:17.637
+rises steeply with temperature, so a gas that is fully saturated,
+
+157
+00:10:17.637 --> 00:10:20.077
+at one hundred per cent relative humidity,
+
+158
+00:10:20.077 --> 00:10:22.748
+holds far more water when warm than when cold.
+
+159
+00:10:22.888 --> 00:10:27.778
+Thus fully saturated gas at room temperature holds about seventeen grams per cubic
+
+160
+00:10:27.778 --> 00:10:32.728
+metre, whereas fully saturated gas at body temperature holds about forty-four grams
+
+161
+00:10:32.728 --> 00:10:33.683
+per cubic metre.
+
+162
+00:10:33.823 --> 00:10:38.180
+This temperature dependence explains why cooling a saturated gas causes
+
+163
+00:10:38.180 --> 00:10:43.090
+condensation, and why warming a gas lowers its relative humidity even though its
+
+164
+00:10:43.090 --> 00:10:45.300
+absolute water content is unchanged.
+
+165
+00:10:45.440 --> 00:10:49.431
+So absolute humidity is the actual mass of water vapour per unit volume,
+
+166
+00:10:49.431 --> 00:10:54.031
+while relative humidity is the percentage of the maximum the gas could hold at that
+
+167
+00:10:54.031 --> 00:10:57.910
+temperature — and because that maximum rises steeply with temperature,
+
+168
+00:10:57.910 --> 00:11:02.123
+the two must be distinguished, particularly when gases are warmed or cooled.
+
+169
+00:11:13.636 --> 00:11:17.455
+Explain saturated vapour pressure and the dew point.
+
+170
+00:11:17.955 --> 00:11:22.548
+Saturated vapour pressure and the dew point are two related concepts that follow
+
+171
+00:11:22.548 --> 00:11:25.075
+from the behaviour of water vapour in a gas,
+
+172
+00:11:25.075 --> 00:11:29.783
+and they underlie both humidity measurement and the condensation seen in breathing
+
+173
+00:11:29.783 --> 00:11:30.243
+systems.
+
+174
+00:11:30.383 --> 00:11:35.008
+The saturated vapour pressure of water is the partial pressure exerted by water
+
+175
+00:11:35.008 --> 00:11:39.750
+vapour when a gas is fully saturated — holding the maximum amount of water vapour
+
+176
+00:11:39.750 --> 00:11:43.439
+possible at that temperature, in equilibrium with liquid water.
+
+177
+00:11:43.579 --> 00:11:47.111
+Its defining feature is that it depends only on temperature,
+
+178
+00:11:47.111 --> 00:11:49.467
+rising steeply as temperature increases,
+
+179
+00:11:49.467 --> 00:11:53.883
+and being independent of the total pressure or the presence of other gases.
+
+180
+00:11:54.023 --> 00:11:59.038
+At body temperature the saturated vapour pressure of water is about six point three
+
+181
+00:11:59.038 --> 00:12:04.054
+kilopascals, an important figure because it represents the water vapour pressure of
+
+182
+00:12:04.054 --> 00:12:08.587
+fully humidified alveolar gas, which must be accounted for when calculating
+
+183
+00:12:08.587 --> 00:12:09.916
+alveolar gas tensions.
+
+184
+00:12:10.056 --> 00:12:14.457
+The dew point is the temperature to which a gas must be cooled for it to become
+
+185
+00:12:14.457 --> 00:12:17.688
+fully saturated with its existing water content — that is,
+
+186
+00:12:17.688 --> 00:12:21.476
+for the water vapour present to reach its saturated vapour pressure;
+
+187
+00:12:21.476 --> 00:12:25.821
+cooling below the dew point causes the excess water to condense out as liquid.
+
+188
+00:12:25.961 --> 00:12:29.752
+This explains the condensation, or fogging and water droplets,
+
+189
+00:12:29.752 --> 00:12:34.337
+seen in cool parts of the breathing system and on the inside of a facemask,
+
+190
+00:12:34.337 --> 00:12:38.188
+where warm saturated expired gas is cooled below its dew point.
+
+191
+00:12:38.188 --> 00:12:42.345
+The dew point is also the basis of one method of measuring humidity.
+
+192
+00:12:42.485 --> 00:12:47.269
+So saturated vapour pressure is the temperature-dependent pressure of water vapour
+
+193
+00:12:47.269 --> 00:12:51.936
+in a fully saturated gas, about six point three kilopascals at body temperature,
+
+194
+00:12:51.936 --> 00:12:56.545
+and the dew point is the temperature at which a gas becomes saturated and below
+
+195
+00:12:56.545 --> 00:13:01.271
+which water condenses — concepts underlying humidity measurement and condensation
+
+196
+00:13:01.271 --> 00:13:02.496
+in breathing systems.
+
+197
+00:13:02.996 --> 00:13:04.980
+How is humidity measured?
+
+198
+00:13:05.480 --> 00:13:10.308
+Humidity is measured by several methods, collectively the province of hygrometry,
+
+199
+00:13:10.308 --> 00:13:14.779
+ranging from simple mechanical devices to precise laboratory and electronic
+
+200
+00:13:14.779 --> 00:13:17.640
+instruments, each based on a physical principle.
+
+201
+00:13:17.780 --> 00:13:22.639
+The hair hygrometer exploits the property that a hair lengthens as humidity rises;
+
+202
+00:13:22.639 --> 00:13:25.602
+the change in length moves a pointer over a scale,
+
+203
+00:13:25.602 --> 00:13:29.513
+giving a simple but only approximate measure of relative humidity.
+
+204
+00:13:29.653 --> 00:13:32.768
+The wet-and-dry-bulb hygrometer uses two thermometers,
+
+205
+00:13:32.768 --> 00:13:35.018
+one with its bulb kept moist by a wick;
+
+206
+00:13:35.018 --> 00:13:38.132
+evaporation from the wet bulb cools it by latent heat,
+
+207
+00:13:38.132 --> 00:13:42.689
+and the difference between the two thermometer readings depends on the relative
+
+208
+00:13:42.689 --> 00:13:47.073
+humidity — the drier the air, the greater the evaporation and the larger the
+
+209
+00:13:47.073 --> 00:13:49.323
+difference — which is read from tables.
+
+210
+00:13:49.463 --> 00:13:52.635
+Regnault's hygrometer measures the dew point directly:
+
+211
+00:13:52.635 --> 00:13:57.335
+air is bubbled through ether in a silver tube to cool it until condensation just
+
+212
+00:13:57.335 --> 00:14:02.094
+appears on the tube's surface, the temperature at which this occurs being the dew
+
+213
+00:14:02.094 --> 00:14:04.503
+point, from which humidity is calculated.
+
+214
+00:14:04.643 --> 00:14:07.775
+Modern electronic methods are most used clinically:
+
+215
+00:14:07.775 --> 00:14:12.567
+the capacitance or resistance of a humidity-sensitive polymer changes with the
+
+216
+00:14:12.567 --> 00:14:17.051
+water vapour it absorbs, allowing rapid, accurate electronic measurement,
+
+217
+00:14:17.051 --> 00:14:20.429
+as used in many anaesthetic and environmental monitors.
+
+218
+00:14:20.569 --> 00:14:25.177
+Mass spectrometry and other gas-analysis techniques can also measure water vapour.
+
+219
+00:14:25.317 --> 00:14:28.229
+So humidity is measured by the hair hygrometer,
+
+220
+00:14:28.229 --> 00:14:31.821
+the wet-and-dry-bulb hygrometer using evaporative cooling,
+
+221
+00:14:31.821 --> 00:14:34.980
+Regnault's hygrometer measuring the dew point, and,
+
+222
+00:14:34.980 --> 00:14:37.148
+most usefully in clinical practice,
+
+223
+00:14:37.148 --> 00:14:42.228
+electronic transducers whose capacitance or resistance changes with absorbed water
+
+224
+00:14:42.228 --> 00:14:42.661
+vapour.
+
+225
+00:14:43.161 --> 00:14:49.007
+Why must inspired anaesthetic gases be humidified, and what happens if they are not?
+
+226
+00:14:49.507 --> 00:14:54.451
+The humidification of inspired gases is an important consideration in anaesthesia,
+
+227
+00:14:54.451 --> 00:14:57.887
+because the medical gases we deliver are essentially dry,
+
+228
+00:14:57.887 --> 00:15:02.832
+and bypassing the normal humidifying function of the upper airway has consequences
+
+229
+00:15:02.832 --> 00:15:05.123
+that must be understood and mitigated.
+
+230
+00:15:05.263 --> 00:15:10.204
+Normally, inspired air is warmed and humidified as it passes over the moist mucosa
+
+231
+00:15:10.204 --> 00:15:14.903
+of the nose, mouth and pharynx, so that by the time it reaches the trachea and
+
+232
+00:15:14.903 --> 00:15:18.157
+alveoli it is at body temperature and fully saturated,
+
+233
+00:15:18.157 --> 00:15:21.049
+about forty-four grams of water per cubic metre.
+
+234
+00:15:21.189 --> 00:15:24.229
+The cylinder and pipeline gases we deliver, however,
+
+235
+00:15:24.229 --> 00:15:28.612
+are anhydrous — completely dry — and during anaesthesia the upper airway is
+
+236
+00:15:28.612 --> 00:15:32.236
+frequently bypassed by a tracheal tube or supraglottic airway,
+
+237
+00:15:32.236 --> 00:15:35.333
+so dry gas is delivered directly to the lower airway.
+
+238
+00:15:35.473 --> 00:15:38.737
+The consequences of delivering dry, cold gas are several.
+
+239
+00:15:38.877 --> 00:15:43.395
+The respiratory mucosa is dried, impairing the function of the cilia and the
+
+240
+00:15:43.395 --> 00:15:48.209
+mucociliary escalator, leading to retained, thickened secretions, mucus plugging,
+
+241
+00:15:48.209 --> 00:15:52.073
+and impaired clearance, with a risk of atelectasis and infection;
+
+242
+00:15:52.073 --> 00:15:54.451
+over time the epithelium may be damaged.
+
+243
+00:15:54.591 --> 00:15:59.142
+Heat is lost from the airway both directly and as the latent heat needed to
+
+244
+00:15:59.142 --> 00:16:02.176
+humidify the dry gas, contributing to hypothermia.
+
+245
+00:16:02.176 --> 00:16:05.695
+These effects are most significant during long procedures,
+
+246
+00:16:05.695 --> 00:16:10.185
+in children with their higher relative ventilation, and in intensive care.
+
+247
+00:16:10.325 --> 00:16:14.528
+Therefore inspired gases are humidified, by passive or active means.
+
+248
+00:16:14.668 --> 00:16:19.329
+So inspired anaesthetic gases must be humidified because they are dry and the
+
+249
+00:16:19.329 --> 00:16:21.931
+humidifying upper airway is often bypassed,
+
+250
+00:16:21.931 --> 00:16:24.352
+and delivering dry gas dries the mucosa,
+
+251
+00:16:24.352 --> 00:16:28.589
+impairs ciliary clearance causing secretion retention and atelectasis,
+
+252
+00:16:28.589 --> 00:16:32.100
+and loses heat — consequences that warrant humidification,
+
+253
+00:16:32.100 --> 00:16:35.489
+particularly in long cases, children and intensive care.
+
+254
+00:16:47.003 --> 00:16:51.376
+Describe the methods of humidifying inspired gases.
+
+255
+00:16:51.876 --> 00:16:55.160
+Inspired gases may be humidified by several methods,
+
+256
+00:16:55.160 --> 00:16:59.835
+broadly divided into passive and active devices, each with its principles,
+
+257
+00:16:59.835 --> 00:17:01.540
+advantages and limitations.
+
+258
+00:17:01.680 --> 00:17:05.499
+The simplest and most widely used is the heat and moisture exchanger,
+
+259
+00:17:05.499 --> 00:17:09.317
+a passive device placed between the breathing system and the patient.
+
+260
+00:17:09.457 --> 00:17:13.875
+It contains a hygroscopic or condenser element that, during expiration,
+
+261
+00:17:13.875 --> 00:17:17.919
+captures the heat and moisture of the warm saturated expired gas,
+
+262
+00:17:17.919 --> 00:17:22.211
+and during the next inspiration returns them to the dry inspired gas,
+
+263
+00:17:22.211 --> 00:17:25.073
+recycling the patient's own heat and humidity.
+
+264
+00:17:25.213 --> 00:17:28.775
+It is simple, cheap, requires no external energy or water,
+
+265
+00:17:28.775 --> 00:17:33.871
+and many incorporate a filter; its limitations are that it adds some dead space and
+
+266
+00:17:33.871 --> 00:17:36.880
+resistance, achieves only partial humidification,
+
+267
+00:17:36.880 --> 00:17:39.336
+and may become obstructed by secretions.
+
+268
+00:17:39.476 --> 00:17:42.932
+Active humidifiers add heat and water from an external source.
+
+269
+00:17:43.072 --> 00:17:47.627
+The hot-water bath humidifier passes the inspired gas over or through a heated
+
+270
+00:17:47.627 --> 00:17:50.839
+reservoir of water, so that it is warmed and saturated;
+
+271
+00:17:50.839 --> 00:17:55.160
+the gas leaves fully humidified, and the degree is controlled by the water
+
+272
+00:17:55.160 --> 00:17:58.430
+temperature, though care is needed to avoid overheating,
+
+273
+00:17:58.430 --> 00:18:01.700
+condensation in the tubing, and microbial contamination,
+
+274
+00:18:01.700 --> 00:18:04.853
+and heated wire circuits are used to prevent rain-out.
+
+275
+00:18:04.993 --> 00:18:10.193
+Nebulisers add humidity as a suspension of fine water droplets rather than vapour,
+
+276
+00:18:10.193 --> 00:18:13.300
+produced by a gas jet or by ultrasonic vibration,
+
+277
+00:18:13.300 --> 00:18:16.407
+and can deliver more than fully saturated vapour.
+
+278
+00:18:16.547 --> 00:18:21.270
+So inspired gases are humidified passively by the heat and moisture exchanger,
+
+279
+00:18:21.270 --> 00:18:23.753
+which recycles expired heat and moisture,
+
+280
+00:18:23.753 --> 00:18:26.357
+and actively by hot-water bath humidifiers,
+
+281
+00:18:26.357 --> 00:18:31.080
+which warm and saturate the gas from an external reservoir, and by nebulisers,
+
+282
+00:18:31.080 --> 00:18:36.106
+which add water as fine droplets — each balancing effectiveness against complexity,
+
+283
+00:18:36.106 --> 00:18:37.923
+dead space and infection risk.
+
+284
+00:18:38.423 --> 00:18:42.135
+Explain boiling point and the effect of pressure upon it.
+
+285
+00:18:42.635 --> 00:18:46.925
+The boiling point of a liquid, and its dependence on the ambient pressure,
+
+286
+00:18:46.925 --> 00:18:51.157
+is a concept with relevance to the behaviour of anaesthetic agents and to
+
+287
+00:18:51.157 --> 00:18:52.491
+physiology at altitude.
+
+288
+00:18:52.631 --> 00:18:57.097
+The boiling point is the temperature at which the saturated vapour pressure of a
+
+289
+00:18:57.097 --> 00:18:59.944
+liquid equals the surrounding atmospheric pressure,
+
+290
+00:18:59.944 --> 00:19:04.243
+so that vaporisation occurs throughout the liquid, not merely at its surface,
+
+291
+00:19:04.243 --> 00:19:05.751
+and bubbles of vapour form.
+
+292
+00:19:05.891 --> 00:19:10.150
+Because boiling occurs when the saturated vapour pressure reaches the ambient
+
+293
+00:19:10.150 --> 00:19:13.856
+pressure, and the saturated vapour pressure rises with temperature,
+
+294
+00:19:13.856 --> 00:19:16.622
+the boiling point depends on the ambient pressure:
+
+295
+00:19:16.622 --> 00:19:19.941
+if the ambient pressure is reduced, a lower vapour pressure,
+
+296
+00:19:19.941 --> 00:19:24.366
+and hence a lower temperature, suffices for boiling, so the boiling point falls;
+
+297
+00:19:24.366 --> 00:19:27.629
+if the ambient pressure is raised, the boiling point rises.
+
+298
+00:19:27.769 --> 00:19:31.032
+This is why water boils at a lower temperature at altitude,
+
+299
+00:19:31.032 --> 00:19:33.133
+where atmospheric pressure is reduced,
+
+300
+00:19:33.133 --> 00:19:36.562
+and at a higher temperature in a pressure cooker or autoclave,
+
+301
+00:19:36.562 --> 00:19:40.654
+where pressure is raised — the raised boiling point of the autoclave being
+
+302
+00:19:40.654 --> 00:19:44.580
+precisely what allows it to reach the temperatures needed to sterilise.
+
+303
+00:19:44.720 --> 00:19:48.874
+For anaesthetic agents, the boiling point matters in vaporiser design:
+
+304
+00:19:48.874 --> 00:19:52.257
+desflurane has a boiling point close to room temperature,
+
+305
+00:19:52.257 --> 00:19:57.063
+about twenty-three degrees, so that it would boil unpredictably in a conventional
+
+306
+00:19:57.063 --> 00:20:01.573
+vaporiser, which is why it requires a special heated, pressurised vaporiser.
+
+307
+00:20:01.713 --> 00:20:05.909
+So the boiling point is the temperature at which a liquid's saturated vapour
+
+308
+00:20:05.909 --> 00:20:07.951
+pressure equals the ambient pressure,
+
+309
+00:20:07.951 --> 00:20:12.423
+and it falls with reduced pressure and rises with increased pressure — explaining
+
+310
+00:20:12.423 --> 00:20:14.521
+boiling at altitude and in autoclaves,
+
+311
+00:20:14.521 --> 00:20:17.170
+and the special vaporiser needed for desflurane,
+
+312
+00:20:17.170 --> 00:20:19.655
+whose boiling point is near room temperature.
+
+313
+00:20:31.168 --> 00:20:34.837
+What is the triple point, and is it relevant to measurement?
+
+314
+00:20:35.337 --> 00:20:39.082
+The triple point is a precisely defined physical state of a substance,
+
+315
+00:20:39.082 --> 00:20:43.201
+and although somewhat theoretical, it is relevant because it has historically
+
+316
+00:20:43.201 --> 00:20:45.983
+underpinned the definition of the temperature scale.
+
+317
+00:20:46.123 --> 00:20:50.620
+The triple point of a substance is the unique combination of temperature and
+
+318
+00:20:50.620 --> 00:20:53.164
+pressure at which all three phases — solid,
+
+319
+00:20:53.164 --> 00:20:56.064
+liquid and gas — coexist in equilibrium together.
+
+320
+00:20:56.204 --> 00:21:00.518
+For any pure substance this occurs at one exactly reproducible temperature and
+
+321
+00:21:00.518 --> 00:21:03.891
+pressure, which makes it valuable as a fixed reference point,
+
+322
+00:21:03.891 --> 00:21:07.873
+because it can be reproduced anywhere with great precision, unlike, say,
+
+323
+00:21:07.873 --> 00:21:10.860
+a melting or boiling point which varies with pressure.
+
+324
+00:21:11.000 --> 00:21:15.366
+The triple point of water, occurring at a temperature just above zero degrees
+
+325
+00:21:15.366 --> 00:21:19.506
+Celsius and a low pressure, was for many years used to define the kelvin:
+
+326
+00:21:19.506 --> 00:21:24.155
+the kelvin was defined such that the triple point of water was exactly two hundred
+
+327
+00:21:24.155 --> 00:21:27.444
+and seventy-three point one six kelvin, providing a fixed,
+
+328
+00:21:27.444 --> 00:21:30.563
+reproducible anchor for the absolute temperature scale.
+
+329
+00:21:30.703 --> 00:21:33.170
+In the most recent redefinition of the SI,
+
+330
+00:21:33.170 --> 00:21:36.988
+the kelvin has been redefined in terms of a fundamental constant,
+
+331
+00:21:36.988 --> 00:21:40.631
+the Boltzmann constant, rather than the triple point of water,
+
+332
+00:21:40.631 --> 00:21:45.154
+but the triple point remains an important and highly reproducible calibration
+
+333
+00:21:45.154 --> 00:21:46.681
+reference for thermometry.
+
+334
+00:21:46.821 --> 00:21:51.425
+So the triple point is the unique temperature and pressure at which the solid,
+
+335
+00:21:51.425 --> 00:21:55.379
+liquid and gas phases of a substance coexist, exactly reproducible,
+
+336
+00:21:55.379 --> 00:22:00.277
+and the triple point of water historically defined the kelvin and remains a precise
+
+337
+00:22:00.277 --> 00:22:02.992
+reference for the calibration of thermometers.
+
+338
+00:22:03.492 --> 00:22:07.666
+Briefly outline the principles by which temperature is measured,
+
+339
+00:22:07.666 --> 00:22:10.340
+reserving the detail for a later station.
+
+340
+00:22:10.840 --> 00:22:13.430
+Temperature is measured by a range of devices,
+
+341
+00:22:13.430 --> 00:22:17.879
+each exploiting a physical property that changes reproducibly with temperature,
+
+342
+00:22:17.879 --> 00:22:22.497
+and although the detail belongs to a dedicated station on temperature measurement,
+
+343
+00:22:22.497 --> 00:22:24.749
+the principles are worth outlining here.
+
+344
+00:22:24.889 --> 00:22:27.662
+The oldest devices are expansion thermometers,
+
+345
+00:22:27.662 --> 00:22:30.735
+which rely on the thermal expansion of a substance:
+
+346
+00:22:30.735 --> 00:22:35.617
+the mercury or alcohol thermometer uses the expansion of a liquid in a fine glass
+
+347
+00:22:35.617 --> 00:22:40.257
+capillary; the bimetallic strip uses the differential expansion of two bonded
+
+348
+00:22:40.257 --> 00:22:41.764
+metals to move a pointer.
+
+349
+00:22:41.904 --> 00:22:46.347
+These are simple but slow and unsuitable for continuous clinical monitoring.
+
+350
+00:22:46.347 --> 00:22:50.088
+The electrical devices, which dominate modern clinical practice,
+
+351
+00:22:50.088 --> 00:22:52.485
+respond quickly and can be read remotely.
+
+352
+00:22:52.625 --> 00:22:57.185
+The resistance thermometer uses the rise in the electrical resistance of a metal,
+
+353
+00:22:57.185 --> 00:23:01.351
+such as platinum, with temperature, giving an accurate and linear measure.
+
+354
+00:23:01.491 --> 00:23:06.113
+The thermistor uses a semiconductor bead whose resistance falls markedly and
+
+355
+00:23:06.113 --> 00:23:09.337
+non-linearly with temperature, giving a small, rapid,
+
+356
+00:23:09.337 --> 00:23:11.709
+sensitive probe ideal for clinical use.
+
+357
+00:23:11.849 --> 00:23:16.685
+The thermocouple uses the small voltage generated at the junction of two dissimilar
+
+358
+00:23:16.685 --> 00:23:21.171
+metals, which varies with temperature — the Seebeck effect — allowing a tiny,
+
+359
+00:23:21.171 --> 00:23:21.812
+fast probe.
+
+360
+00:23:21.952 --> 00:23:26.397
+Infrared thermometers detect the thermal radiation emitted by a surface,
+
+361
+00:23:26.397 --> 00:23:30.966
+as in the tympanic membrane thermometer, allowing non-contact measurement.
+
+362
+00:23:30.966 --> 00:23:35.349
+Each has its accuracy, speed of response and appropriate clinical site.
+
+363
+00:23:35.489 --> 00:23:40.345
+So temperature is measured by the thermal expansion of liquids and metals in simple
+
+364
+00:23:40.345 --> 00:23:43.095
+thermometers, and, in modern clinical practice,
+
+365
+00:23:43.095 --> 00:23:46.078
+by electrical devices — the resistance thermometer,
+
+366
+00:23:46.078 --> 00:23:50.408
+the thermistor and the thermocouple — and by infrared detection of emitted
+
+367
+00:23:50.408 --> 00:23:54.561
+radiation, the principles I shall expand upon in the dedicated station.
+
+368
+00:23:55.061 --> 00:23:59.215
+What are the consequences of hypothermia and, conversely,
+
+369
+00:23:59.215 --> 00:24:02.421
+of hyperthermia in the perioperative period?
+
+370
+00:24:02.921 --> 00:24:08.035
+Disturbances of body temperature in either direction have important perioperative
+
+371
+00:24:08.035 --> 00:24:13.086
+consequences, and the anaesthetist must understand both to justify the effort of
+
+372
+00:24:13.086 --> 00:24:16.180
+maintaining normothermia. Hypothermia, even mild,
+
+373
+00:24:16.180 --> 00:24:18.516
+carries a substantial burden of harm.
+
+374
+00:24:18.656 --> 00:24:23.207
+It impairs coagulation, reducing platelet function and slowing the enzymatic
+
+375
+00:24:23.207 --> 00:24:27.339
+clotting cascade, increasing blood loss and transfusion requirements.
+
+376
+00:24:27.479 --> 00:24:30.427
+It increases the rate of surgical site infection,
+
+377
+00:24:30.427 --> 00:24:34.698
+by impairing immune function and reducing wound oxygen delivery through
+
+378
+00:24:34.698 --> 00:24:39.090
+vasoconstriction. It slows the metabolism of anaesthetic drugs and muscle
+
+379
+00:24:39.090 --> 00:24:42.519
+relaxants, prolonging their effect and delaying recovery.
+
+380
+00:24:42.659 --> 00:24:47.697
+It causes shivering on emergence, which is distressing and greatly increases oxygen
+
+381
+00:24:47.697 --> 00:24:52.249
+consumption and cardiac demand, hazardous in patients with cardiac disease,
+
+382
+00:24:52.249 --> 00:24:55.223
+and it is associated with adverse cardiac events.
+
+383
+00:24:55.223 --> 00:24:58.744
+It causes patient discomfort and may impair wound healing.
+
+384
+00:24:58.884 --> 00:25:01.556
+Conversely, hyperthermia is also harmful:
+
+385
+00:25:01.556 --> 00:25:06.900
+it raises the metabolic rate and oxygen demand, causes tachycardia and fluid loss,
+
+386
+00:25:06.900 --> 00:25:09.572
+and at extremes causes organ dysfunction.
+
+387
+00:25:09.712 --> 00:25:14.174
+Importantly, a rise in temperature may signal a serious problem — sepsis,
+
+388
+00:25:14.174 --> 00:25:18.392
+a transfusion reaction, an overactive warming device, or, critically,
+
+389
+00:25:18.392 --> 00:25:23.221
+malignant hyperthermia, a rare but life-threatening pharmacogenetic reaction to
+
+390
+00:25:23.221 --> 00:25:27.927
+triggering anaesthetic agents in which a hypermetabolic state causes a rapid,
+
+391
+00:25:27.927 --> 00:25:32.389
+dangerous temperature rise requiring immediate recognition and treatment.
+
+392
+00:25:32.529 --> 00:25:36.945
+So hypothermia causes coagulopathy, infection, delayed drug metabolism,
+
+393
+00:25:36.945 --> 00:25:41.796
+shivering and cardiac risk, while hyperthermia raises metabolic demand and may
+
+394
+00:25:41.796 --> 00:25:46.709
+signal sepsis, transfusion reaction or malignant hyperthermia — both warranting
+
+395
+00:25:46.709 --> 00:25:51.623
+vigilant temperature monitoring and active management to maintain normothermia.
+
+396
+00:26:03.136 --> 00:26:07.467
+Describe the physics of the principal patient-warming devices.
+
+397
+00:26:07.967 --> 00:26:12.291
+The devices used to warm patients and fluids each apply the principles of heat
+
+398
+00:26:12.291 --> 00:26:16.394
+transfer we have discussed, and understanding their physics explains their
+
+399
+00:26:16.394 --> 00:26:18.057
+effectiveness and limitations.
+
+400
+00:26:18.197 --> 00:26:21.525
+Forced-air warming, the most effective and widely used device,
+
+401
+00:26:21.525 --> 00:26:25.818
+consists of a blower that heats air and delivers it through a disposable blanket
+
+402
+00:26:25.818 --> 00:26:30.272
+perforated on its under-surface, so that warm air is blown over the patient's skin.
+
+403
+00:26:30.412 --> 00:26:35.160
+It works principally by reducing radiant and convective loss and by adding heat by
+
+404
+00:26:35.160 --> 00:26:37.940
+convection, addressing the major routes of loss,
+
+405
+00:26:37.940 --> 00:26:41.761
+and is highly effective at maintaining and restoring normothermia.
+
+406
+00:26:41.901 --> 00:26:46.278
+Conductive warming devices, such as warming mattresses and resistive-heating
+
+407
+00:26:46.278 --> 00:26:50.770
+blankets, transfer heat by conduction through direct contact with the patient;
+
+408
+00:26:50.770 --> 00:26:53.592
+they are useful, though contact area limits them.
+
+409
+00:26:53.732 --> 00:26:58.420
+Fluid warmers heat intravenous and irrigation fluids before they reach the patient,
+
+410
+00:26:58.420 --> 00:27:03.051
+preventing the considerable heat loss that occurs when large volumes of cold fluid
+
+411
+00:27:03.051 --> 00:27:06.892
+are infused — a unit of cold fluid can absorb significant body heat;
+
+412
+00:27:06.892 --> 00:27:11.523
+they work by passing the fluid through a heated element or counter-current warmer,
+
+413
+00:27:11.523 --> 00:27:15.364
+and are essential during large-volume resuscitation and transfusion.
+
+414
+00:27:15.504 --> 00:27:18.430
+Radiant warmers, used especially for neonates,
+
+415
+00:27:18.430 --> 00:27:22.247
+transfer heat by infrared radiation from an overhead source.
+
+416
+00:27:22.247 --> 00:27:27.272
+Humidification of inspired gases reduces evaporative and respiratory heat loss.
+
+417
+00:27:27.272 --> 00:27:31.088
+Each device targets one or more mechanisms of heat transfer,
+
+418
+00:27:31.088 --> 00:27:32.869
+and they are often combined.
+
+419
+00:27:33.009 --> 00:27:36.787
+So patient-warming devices apply the physics of heat transfer:
+
+420
+00:27:36.787 --> 00:27:40.626
+forced-air warmers add convective heat and reduce radiant loss;
+
+421
+00:27:40.626 --> 00:27:42.941
+conductive mattresses warm by contact;
+
+422
+00:27:42.941 --> 00:27:47.877
+fluid warmers prevent loss from infused fluids; radiant warmers heat by infrared;
+
+423
+00:27:47.877 --> 00:27:52.508
+and humidifiers reduce respiratory loss — combined to maintain normothermia.
+
+424
+00:27:53.008 --> 00:27:56.021
+Finally, draw together the relevance of heat,
+
+425
+00:27:56.021 --> 00:27:59.301
+temperature and humidity to anaesthetic practice.
+
+426
+00:27:59.801 --> 00:28:02.557
+Drawing the station together, the physics of heat,
+
+427
+00:28:02.557 --> 00:28:05.587
+temperature and humidity pervades anaesthetic practice,
+
+428
+00:28:05.587 --> 00:28:09.114
+underlying the maintenance of the patient's thermal environment,
+
+429
+00:28:09.114 --> 00:28:13.412
+the conditioning of inspired gases, and the function of much of our equipment.
+
+430
+00:28:13.552 --> 00:28:18.143
+The fundamental distinction is between heat, thermal energy measured in joules,
+
+431
+00:28:18.143 --> 00:28:22.444
+and temperature, a measure of molecular kinetic energy that determines the
+
+432
+00:28:22.444 --> 00:28:25.989
+direction of heat flow. From these flow the practical themes.
+
+433
+00:28:26.129 --> 00:28:31.370
+Heat capacity and specific heat capacity explain the body's thermal inertia and the
+
+434
+00:28:31.370 --> 00:28:34.780
+design of vaporisers and warming devices. Latent heat,
+
+435
+00:28:34.780 --> 00:28:38.568
+drawn from the surroundings by evaporation, cools cylinders,
+
+436
+00:28:38.568 --> 00:28:40.273
+vaporisers and the patient.
+
+437
+00:28:40.413 --> 00:28:44.154
+The four mechanisms of heat transfer — conduction, convection,
+
+438
+00:28:44.154 --> 00:28:48.678
+radiation and evaporation — explain perioperative heat loss and dictate its
+
+439
+00:28:48.678 --> 00:28:53.324
+prevention by forced-air warming, fluid warming, humidification and covering,
+
+440
+00:28:53.324 --> 00:28:58.029
+while normothermia matters because hypothermia causes coagulopathy, infection,
+
+441
+00:28:58.029 --> 00:29:00.744
+delayed recovery, shivering and cardiac risk.
+
+442
+00:29:00.884 --> 00:29:05.164
+On the humidity side, the distinction of absolute and relative humidity,
+
+443
+00:29:05.164 --> 00:29:08.492
+the temperature dependence of saturated vapour pressure,
+
+444
+00:29:08.492 --> 00:29:11.761
+and the dew point explain the need to humidify the dry,
+
+445
+00:29:11.761 --> 00:29:16.695
+airway-bypassing medical gases, achieved by heat and moisture exchangers and active
+
+446
+00:29:16.695 --> 00:29:19.785
+humidifiers to protect the mucosa and conserve heat.
+
+447
+00:29:19.925 --> 00:29:24.853
+Boiling point and its pressure dependence inform vaporiser design and sterilisation.
+
+448
+00:29:24.993 --> 00:29:29.908
+So heat, temperature and humidity are not abstract thermal physics but the working
+
+449
+00:29:29.908 --> 00:29:34.703
+principles behind keeping the patient warm, conditioning the gases they breathe,
+
+450
+00:29:34.703 --> 00:29:39.258
+and operating our vaporisers, humidifiers and warming devices — a foundation
+
+451
+00:29:39.258 --> 00:29:41.356
+central to safe perioperative care.
+
+452
+00:29:41.856 --> 00:29:47.125
+Outline the body's own thermoregulation and how anaesthesia disturbs it.
+
+453
+00:29:47.625 --> 00:29:52.497
+The body normally regulates its core temperature within a remarkably narrow range
+
+454
+00:29:52.497 --> 00:29:57.067
+about a set-point, and understanding this physiological control explains why
+
+455
+00:29:57.067 --> 00:29:59.593
+anaesthesia so readily causes hypothermia.
+
+456
+00:29:59.733 --> 00:30:02.733
+Thermoregulation is coordinated by the hypothalamus,
+
+457
+00:30:02.733 --> 00:30:07.463
+which receives thermal information from peripheral and central thermoreceptors and
+
+458
+00:30:07.463 --> 00:30:11.040
+compares it against a set-point of about thirty-seven degrees.
+
+459
+00:30:11.040 --> 00:30:15.712
+When the temperature deviates, the hypothalamus triggers responses to restore it.
+
+460
+00:30:15.852 --> 00:30:20.317
+Against cold, it produces vasoconstriction to reduce cutaneous heat loss,
+
+461
+00:30:20.317 --> 00:30:23.925
+shivering and non-shivering thermogenesis to generate heat,
+
+462
+00:30:23.925 --> 00:30:27.778
+and behavioural responses such as seeking warmth; against heat,
+
+463
+00:30:27.778 --> 00:30:31.020
+it produces vasodilatation and sweating to lose heat.
+
+464
+00:30:31.160 --> 00:30:35.118
+Crucially, these responses are triggered only when the temperature crosses
+
+465
+00:30:35.118 --> 00:30:37.792
+thresholds a little above and below the set-point,
+
+466
+00:30:37.792 --> 00:30:41.482
+the small gap between the cold and warm response thresholds being the
+
+467
+00:30:41.482 --> 00:30:44.745
+interthreshold range, normally only a few tenths of a degree,
+
+468
+00:30:44.745 --> 00:30:46.456
+within which no response occurs.
+
+469
+00:30:46.596 --> 00:30:49.716
+General anaesthesia disturbs this system profoundly:
+
+470
+00:30:49.716 --> 00:30:53.316
+it abolishes behavioural responses, impairs central control,
+
+471
+00:30:53.316 --> 00:30:55.956
+and greatly widens the interthreshold range,
+
+472
+00:30:55.956 --> 00:31:00.816
+so that the patient tolerates a much larger swing of temperature before defending
+
+473
+00:31:00.816 --> 00:31:04.836
+against it — effectively becoming poikilothermic over a wide range.
+
+474
+00:31:04.976 --> 00:31:10.108
+It also causes vasodilatation, driving the initial redistribution of heat from core
+
+475
+00:31:10.108 --> 00:31:14.869
+to periphery. Regional anaesthesia similarly impairs responses in the blocked
+
+476
+00:31:14.869 --> 00:31:15.301
+region.
+
+477
+00:31:15.441 --> 00:31:20.530
+So thermoregulation is a hypothalamic set-point system defending core temperature
+
+478
+00:31:20.530 --> 00:31:25.619
+by vasomotor, shivering and behavioural responses outside a narrow interthreshold
+
+479
+00:31:25.619 --> 00:31:29.765
+range, and anaesthesia causes hypothermia by abolishing behaviour,
+
+480
+00:31:29.765 --> 00:31:34.979
+widening the interthreshold range and causing vasodilatation with core-to-periphery
+
+481
+00:31:34.979 --> 00:31:35.921
+redistribution.
+
+482
+00:31:47.435 --> 00:31:52.619
+Describe the sites used for measuring core temperature and their reliability.
+
+483
+00:31:53.119 --> 00:31:57.462
+Accurate measurement of core temperature is essential to detecting and managing
+
+484
+00:31:57.462 --> 00:31:59.551
+perioperative temperature disturbance,
+
+485
+00:31:59.551 --> 00:32:03.894
+and the various sites available differ in how faithfully they reflect true core
+
+486
+00:32:03.894 --> 00:32:05.983
+temperature and in their practicality.
+
+487
+00:32:06.123 --> 00:32:10.925
+The true core temperature is best represented by the blood in the great vessels and
+
+488
+00:32:10.925 --> 00:32:15.206
+heart. The pulmonary artery, sampled by a thermistor on a pulmonary artery
+
+489
+00:32:15.206 --> 00:32:19.893
+catheter, is the gold standard, but is invasive and reserved for patients already
+
+490
+00:32:19.893 --> 00:32:21.397
+requiring such monitoring.
+
+491
+00:32:21.537 --> 00:32:23.801
+The distal oesophagus, behind the heart,
+
+492
+00:32:23.801 --> 00:32:28.442
+gives an excellent and practical estimate of core temperature in the anaesthetised
+
+493
+00:32:28.442 --> 00:32:32.460
+patient and is widely used, provided the probe is correctly positioned.
+
+494
+00:32:32.600 --> 00:32:35.775
+The nasopharynx, close to the brain and carotid blood,
+
+495
+00:32:35.775 --> 00:32:37.656
+is also reliable if well placed.
+
+496
+00:32:37.796 --> 00:32:41.756
+The tympanic membrane, sharing its blood supply with the hypothalamus,
+
+497
+00:32:41.756 --> 00:32:45.376
+reflects core temperature well when measured by a contact probe,
+
+498
+00:32:45.376 --> 00:32:48.996
+though the common infrared aural thermometers are less reliable.
+
+499
+00:32:49.136 --> 00:32:52.110
+The bladder, by a thermistor on a urinary catheter,
+
+500
+00:32:52.110 --> 00:32:55.143
+tracks core temperature when urine flow is adequate.
+
+501
+00:32:55.143 --> 00:32:59.633
+The rectum reflects core temperature but lags behind rapid changes and may be
+
+502
+00:32:59.633 --> 00:33:00.741
+affected by faeces.
+
+503
+00:33:00.881 --> 00:33:03.478
+Skin and axillary temperatures are peripheral,
+
+504
+00:33:03.478 --> 00:33:06.695
+reading lower than core and varying with vasomotor state,
+
+505
+00:33:06.695 --> 00:33:09.799
+so they require correction or are used only for trends.
+
+506
+00:33:09.939 --> 00:33:12.686
+The site is chosen for the clinical situation,
+
+507
+00:33:12.686 --> 00:33:16.987
+oesophageal and nasopharyngeal probes being most practical under general
+
+508
+00:33:16.987 --> 00:33:17.704
+anaesthesia.
+
+509
+00:33:17.844 --> 00:33:22.379
+So core temperature is best measured at the pulmonary artery, distal oesophagus,
+
+510
+00:33:22.379 --> 00:33:26.801
+nasopharynx or tympanic membrane, with the bladder and rectum lagging and skin
+
+511
+00:33:26.801 --> 00:33:31.167
+sites peripheral — the oesophagus and nasopharynx being the practical choices
+
+512
+00:33:31.167 --> 00:33:32.244
+during anaesthesia.
+
+513
+00:33:32.744 --> 00:33:38.667
+Explain thermal conductivity and insulation as they apply to keeping the patient
+
+514
+00:33:38.667 --> 00:33:39.037
+warm.
+
+515
+00:33:39.537 --> 00:33:42.321
+Thermal conductivity and its converse, insulation,
+
+516
+00:33:42.321 --> 00:33:46.163
+govern the rate at which heat passes through materials by conduction,
+
+517
+00:33:46.163 --> 00:33:50.339
+and they are relevant both to heat loss from the patient and to the passive
+
+518
+00:33:50.339 --> 00:33:51.953
+measures used to retain heat.
+
+519
+00:33:52.093 --> 00:33:57.030
+Thermal conductivity is a property of a material describing how readily it conducts
+
+520
+00:33:57.030 --> 00:34:00.657
+heat: metals have high conductivity, conducting heat rapidly,
+
+521
+00:34:00.657 --> 00:34:04.880
+which is why a metal surface feels cold as it draws heat from the skin,
+
+522
+00:34:04.880 --> 00:34:09.459
+whereas air, foam and fabrics have low conductivity and so act as insulators,
+
+523
+00:34:09.459 --> 00:34:10.589
+impeding heat flow.
+
+524
+00:34:10.729 --> 00:34:15.522
+Insulation works largely by trapping a layer of still air, itself a poor conductor,
+
+525
+00:34:15.522 --> 00:34:18.409
+and by preventing convective movement of that air.
+
+526
+00:34:18.549 --> 00:34:22.953
+Applied to the patient, passive insulation reduces heat loss by conduction,
+
+527
+00:34:22.953 --> 00:34:26.829
+convection and radiation: a single layer of an insulating blanket,
+
+528
+00:34:26.829 --> 00:34:31.702
+drape or reflective covering can reduce heat loss appreciably by trapping still air
+
+529
+00:34:31.702 --> 00:34:34.344
+against the skin and reflecting radiant heat,
+
+530
+00:34:34.344 --> 00:34:39.042
+though adding further layers gives diminishing returns since most of the benefit
+
+531
+00:34:39.042 --> 00:34:42.976
+comes from the first layer that establishes the still-air boundary.
+
+532
+00:34:43.116 --> 00:34:46.564
+Reflective space blankets reduce radiant loss specifically.
+
+533
+00:34:46.564 --> 00:34:50.538
+Passive measures alone, however, only slow loss and cannot add heat,
+
+534
+00:34:50.538 --> 00:34:55.214
+so they are insufficient to prevent hypothermia in prolonged surgery and must be
+
+535
+00:34:55.214 --> 00:34:57.025
+supplemented by active warming.
+
+536
+00:34:57.165 --> 00:35:00.408
+Covering the head, a significant site of loss, is worthwhile.
+
+537
+00:35:00.548 --> 00:35:04.180
+So thermal conductivity determines heat flow through materials,
+
+538
+00:35:04.180 --> 00:35:08.331
+insulators such as trapped air, fabric and reflective coverings reducing
+
+539
+00:35:08.331 --> 00:35:10.637
+conductive, convective and radiant loss,
+
+540
+00:35:10.637 --> 00:35:15.134
+with most benefit from the first layer — passive measures that slow but cannot
+
+541
+00:35:15.134 --> 00:35:19.343
+reverse heat loss and so supplement, rather than replace, active warming.
+
+542
+00:35:30.856 --> 00:35:35.848
+What are the moisture requirements and hazards of humidification devices?
+
+543
+00:35:36.348 --> 00:35:38.957
+In selecting and using humidification devices,
+
+544
+00:35:38.957 --> 00:35:43.439
+the anaesthetist must consider both the moisture output required to protect the
+
+545
+00:35:43.439 --> 00:35:46.502
+airway and the hazards that the devices may introduce,
+
+546
+00:35:46.502 --> 00:35:48.828
+so a brief account of these is warranted.
+
+547
+00:35:48.968 --> 00:35:53.785
+The aim of humidification is to deliver inspired gas at a temperature and water
+
+548
+00:35:53.785 --> 00:35:58.236
+content approaching that of normal alveolar gas — fully saturated at body
+
+549
+00:35:58.236 --> 00:36:03.297
+temperature, about forty-four grams of water per cubic metre — though a more modest
+
+550
+00:36:03.297 --> 00:36:05.614
+output suffices to protect the mucosa,
+
+551
+00:36:05.614 --> 00:36:10.614
+and a minimum absolute humidity of around thirty grams per cubic metre is a common
+
+552
+00:36:10.614 --> 00:36:12.627
+target for long-term ventilation.
+
+553
+00:36:12.767 --> 00:36:16.024
+Heat and moisture exchangers achieve a partial output,
+
+554
+00:36:16.024 --> 00:36:20.849
+typically returning around two-thirds of this, adequate for routine anaesthesia,
+
+555
+00:36:20.849 --> 00:36:24.649
+while active hot-water humidifiers can achieve full saturation.
+
+556
+00:36:24.649 --> 00:36:26.399
+The hazards differ by device.
+
+557
+00:36:26.539 --> 00:36:29.129
+Heat and moisture exchangers add dead space,
+
+558
+00:36:29.129 --> 00:36:33.721
+which matters particularly in small children, and add resistance to breathing,
+
+559
+00:36:33.721 --> 00:36:36.782
+and may become occluded by secretions or condensate,
+
+560
+00:36:36.782 --> 00:36:38.784
+increasing resistance dangerously.
+
+561
+00:36:38.924 --> 00:36:43.662
+Active hot-water humidifiers carry the risks of overheating and scalding the airway
+
+562
+00:36:43.662 --> 00:36:45.774
+if the temperature is not controlled,
+
+563
+00:36:45.774 --> 00:36:50.341
+of condensation or rain-out collecting in the tubing and posing an infection and
+
+564
+00:36:50.341 --> 00:36:54.394
+aspiration risk, of microbial colonisation of the warm water reservoir,
+
+565
+00:36:54.394 --> 00:36:57.420
+and of overhydration, particularly in small patients.
+
+566
+00:36:57.560 --> 00:37:01.317
+Nebulisers can deliver excess water and may carry infection.
+
+567
+00:37:01.317 --> 00:37:05.261
+All require correct assembly, monitoring and infection control.
+
+568
+00:37:05.401 --> 00:37:08.969
+So humidification aims to deliver an adequate water content,
+
+569
+00:37:08.969 --> 00:37:13.429
+partial from heat and moisture exchangers and full from active humidifiers,
+
+570
+00:37:13.429 --> 00:37:18.364
+while their hazards — added dead space and resistance and occlusion for exchangers,
+
+571
+00:37:18.364 --> 00:37:23.121
+and scalding, condensation, infection and overhydration for active humidifiers —
+
+572
+00:37:23.121 --> 00:37:24.964
+must be recognised and managed.
+
+573
+00:37:25.464 --> 00:37:29.432
+Thank you. An excellent and complete account. Let us stop there.
+
+574
+00:37:29.932 --> 00:37:33.322
+Before we close, here are the take-home messages.
+
+575
+00:37:33.322 --> 00:37:37.750
+First, Heat is thermal energy (joules) flowing from hot to cold;
+
+576
+00:37:37.750 --> 00:37:43.423
+temperature is a measure of average molecular kinetic energy (kelvin/Celsius) that
+
+577
+00:37:43.423 --> 00:37:47.575
+determines the direction of heat flow - distinct quantities.
+
+578
+00:37:47.715 --> 00:37:53.108
+Specific heat capacity (high for water) gives the body thermal inertia and
+
+579
+00:37:53.108 --> 00:37:56.461
+underlies vaporiser and warming-device design.
+
+580
+00:37:56.601 --> 00:38:02.221
+Second, Latent heat is the energy of a change of state at constant temperature
+
+581
+00:38:02.221 --> 00:38:05.102
+(vaporisation much greater than fusion);
+
+582
+00:38:05.102 --> 00:38:11.010
+because evaporation draws latent heat from its surroundings it cools nitrous oxide
+
+583
+00:38:11.010 --> 00:38:14.180
+cylinders, vaporiser liquid and the patient.
+
+584
+00:38:14.320 --> 00:38:19.463
+Third, Heat is transferred by conduction (contact), convection (fluid movement),
+
+585
+00:38:19.463 --> 00:38:24.799
+radiation (infrared waves) and evaporation (latent heat) - radiation and convection
+
+586
+00:38:24.799 --> 00:38:27.178
+being the major perioperative routes;
+
+587
+00:38:27.178 --> 00:38:30.907
+hypothermia (from anaesthetic thermoregulatory impairment,
+
+588
+00:38:30.907 --> 00:38:36.178
+redistribution and these losses) causes coagulopathy, infection, delayed recovery,
+
+589
+00:38:36.178 --> 00:38:41.000
+shivering and cardiac risk, prevented by forced-air warming, fluid warming,
+
+590
+00:38:41.000 --> 00:38:42.800
+humidification and covering.
+
+591
+00:38:42.940 --> 00:38:48.147
+Fourth, Absolute humidity is the actual water vapour mass per volume;
+
+592
+00:38:48.147 --> 00:38:54.259
+relative humidity is the percentage of the maximum at that temperature - and that
+
+593
+00:38:54.259 --> 00:39:00.523
+maximum rises steeply with temperature (about 17 g/m3 at room temperature versus 44
+
+594
+00:39:00.523 --> 00:39:03.617
+g/m3 at body temperature when saturated),
+
+595
+00:39:03.617 --> 00:39:08.220
+so cooling saturated gas causes condensation (the dew point).
+
+596
+00:39:08.360 --> 00:39:13.406
+Fifth, Dry, airway-bypassing medical gases must be humidified to protect ciliary
+
+597
+00:39:13.406 --> 00:39:18.579
+clearance and conserve heat - passively by heat and moisture exchangers (recycling
+
+598
+00:39:18.579 --> 00:39:23.120
+expired heat and moisture) or actively by hot-water bath humidifiers and
+
+599
+00:39:23.120 --> 00:39:28.356
+nebulisers; boiling point (where saturated vapour pressure equals ambient pressure)
+
+600
+00:39:28.356 --> 00:39:31.005
+falls at altitude and rises in autoclaves,
+
+601
+00:39:31.005 --> 00:39:36.115
+and is near room temperature for desflurane (hence its special heated vaporiser).
+
+602
+00:39:36.615 --> 00:39:39.089
+Thank you. That concludes the station.
+

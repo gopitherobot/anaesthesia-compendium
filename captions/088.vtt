@@ -1,0 +1,2318 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.819
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.819 --> 00:00:08.209
+SI units and fundamental physical quantities.
+
+3
+00:00:08.209 --> 00:00:13.784
+I shall take the candidate through it, question by question. Let us begin.
+
+4
+00:00:14.284 --> 00:00:18.230
+Let us begin. What is the International System of Units,
+
+5
+00:00:18.230 --> 00:00:22.881
+and why does a standardised system of units matter in anaesthesia?
+
+6
+00:00:23.381 --> 00:00:27.533
+The International System of Units, abbreviated SI from the French Système
+
+7
+00:00:27.533 --> 00:00:31.798
+International, is the modern, internationally agreed system of measurement,
+
+8
+00:00:31.798 --> 00:00:36.063
+built upon a small set of defined base units from which all other units are
+
+9
+00:00:36.063 --> 00:00:40.157
+derived, and it provides a single, coherent and reproducible language of
+
+10
+00:00:40.157 --> 00:00:42.944
+measurement used throughout science and medicine.
+
+11
+00:00:43.084 --> 00:00:47.418
+A unit is simply an agreed standard quantity against which a measurement is
+
+12
+00:00:47.418 --> 00:00:51.232
+expressed, so that a measurement is a number multiplied by a unit.
+
+13
+00:00:51.232 --> 00:00:54.988
+A standardised system matters in anaesthesia for several reasons.
+
+14
+00:00:55.128 --> 00:00:59.600
+It ensures that measurements are unambiguous and reproducible between people,
+
+15
+00:00:59.600 --> 00:01:03.433
+places and times — a pressure or a dose means the same everywhere.
+
+16
+00:01:03.433 --> 00:01:08.253
+It allows equations relating physical quantities to be consistent and dimensionally
+
+17
+00:01:08.253 --> 00:01:08.717
+correct.
+
+18
+00:01:08.857 --> 00:01:13.761
+It underlies the safe prescription of drugs and the correct interpretation of every
+
+19
+00:01:13.761 --> 00:01:17.424
+monitored variable, from blood pressure to gas concentrations.
+
+20
+00:01:17.424 --> 00:01:21.028
+And errors in units are a recognised source of clinical harm,
+
+21
+00:01:21.028 --> 00:01:23.983
+as when a dose or a concentration is misexpressed.
+
+22
+00:01:24.123 --> 00:01:29.307
+The SI system achieves coherence by deriving all units from the base units through
+
+23
+00:01:29.307 --> 00:01:33.416
+multiplication and division without arbitrary conversion factors,
+
+24
+00:01:33.416 --> 00:01:36.197
+so that the system hangs together logically.
+
+25
+00:01:36.337 --> 00:01:38.802
+So the SI is the internationally agreed,
+
+26
+00:01:38.802 --> 00:01:42.561
+coherent system of measurement founded on defined base units,
+
+27
+00:01:42.561 --> 00:01:46.875
+and a standardised system is essential in anaesthesia for unambiguous,
+
+28
+00:01:46.875 --> 00:01:50.880
+reproducible measurement, for dimensionally consistent equations,
+
+29
+00:01:50.880 --> 00:01:55.687
+and for the safe prescription and interpretation that underpin patient safety.
+
+30
+00:01:56.187 --> 00:01:59.088
+What are the SI base units?
+
+31
+00:01:59.588 --> 00:02:01.968
+The SI is founded on seven base units,
+
+32
+00:02:01.968 --> 00:02:05.351
+each corresponding to a fundamental physical quantity,
+
+33
+00:02:05.351 --> 00:02:08.671
+from which every other unit in the system is derived.
+
+34
+00:02:08.671 --> 00:02:12.241
+The seven base quantities and their units are as follows.
+
+35
+00:02:12.241 --> 00:02:15.311
+The metre, symbol small m, is the unit of length.
+
+36
+00:02:15.451 --> 00:02:20.560
+The kilogram, symbol k g, is the unit of mass — and it is the only base unit whose
+
+37
+00:02:20.560 --> 00:02:24.985
+name retains a prefix. The second, symbol small s, is the unit of time.
+
+38
+00:02:24.985 --> 00:02:28.848
+The ampere, symbol capital A, is the unit of electric current.
+
+39
+00:02:28.988 --> 00:02:33.428
+The kelvin, symbol capital K, is the unit of thermodynamic temperature.
+
+40
+00:02:33.428 --> 00:02:37.118
+The mole, symbol m o l, is the unit of amount of substance.
+
+41
+00:02:37.118 --> 00:02:41.057
+And the candela, symbol c d, is the unit of luminous intensity,
+
+42
+00:02:41.057 --> 00:02:43.559
+the least relevant to clinical practice.
+
+43
+00:02:43.699 --> 00:02:48.297
+Each of these base units now has a precise definition tied to fundamental physical
+
+44
+00:02:48.297 --> 00:02:52.839
+constants — for instance the second is defined by a property of the caesium atom,
+
+45
+00:02:52.839 --> 00:02:57.101
+and the metre by the speed of light — which makes them reproducible anywhere
+
+46
+00:02:57.101 --> 00:02:59.400
+without reference to a physical artefact.
+
+47
+00:02:59.540 --> 00:03:03.650
+Of the seven, the ones of greatest relevance to anaesthesia are the metre,
+
+48
+00:03:03.650 --> 00:03:05.983
+kilogram, second, ampere, kelvin and mole.
+
+49
+00:03:06.123 --> 00:03:10.711
+So the seven SI base units are the metre, kilogram, second, ampere, kelvin,
+
+50
+00:03:10.711 --> 00:03:15.360
+mole and candela, corresponding to length, mass, time, current, temperature,
+
+51
+00:03:15.360 --> 00:03:17.990
+amount of substance and luminous intensity,
+
+52
+00:03:17.990 --> 00:03:22.884
+each precisely defined against fundamental constants — the foundation from which
+
+53
+00:03:22.884 --> 00:03:24.597
+all derived units are built.
+
+54
+00:03:25.097 --> 00:03:29.108
+How are derived units formed, and give important examples.
+
+55
+00:03:29.608 --> 00:03:33.933
+Derived units are formed by combining the base units through multiplication and
+
+56
+00:03:33.933 --> 00:03:38.040
+division, in accordance with the physical relationships between quantities,
+
+57
+00:03:38.040 --> 00:03:40.723
+and many are given special names for convenience,
+
+58
+00:03:40.723 --> 00:03:44.008
+but each can always be expressed in terms of the base units.
+
+59
+00:03:44.148 --> 00:03:48.586
+The principle is that the unit of any quantity follows from its definition:
+
+60
+00:03:48.586 --> 00:03:52.787
+since speed is distance divided by time, its unit is metres per second;
+
+61
+00:03:52.787 --> 00:03:55.745
+since acceleration is the rate of change of speed,
+
+62
+00:03:55.745 --> 00:03:57.993
+its unit is metres per second squared.
+
+63
+00:03:58.133 --> 00:04:02.444
+Several derived units have special names that are essential in anaesthesia.
+
+64
+00:04:02.444 --> 00:04:07.041
+The newton, the unit of force, is the force that accelerates one kilogram at one
+
+65
+00:04:07.041 --> 00:04:11.467
+metre per second squared, so it equals one kilogram-metre per second squared.
+
+66
+00:04:11.607 --> 00:04:15.403
+The pascal, the unit of pressure, is one newton per square metre.
+
+67
+00:04:15.403 --> 00:04:17.623
+The joule, the unit of energy or work,
+
+68
+00:04:17.623 --> 00:04:22.295
+is one newton-metre — the work done when a force of one newton moves through one
+
+69
+00:04:22.295 --> 00:04:24.339
+metre. The watt, the unit of power,
+
+70
+00:04:24.339 --> 00:04:27.201
+is one joule per second — the rate of doing work.
+
+71
+00:04:27.341 --> 00:04:31.494
+In the electrical domain, the volt, ohm and coulomb are derived units.
+
+72
+00:04:31.494 --> 00:04:34.934
+The hertz, the unit of frequency, is one cycle per second.
+
+73
+00:04:34.934 --> 00:04:38.968
+Each of these, though named, reduces to a combination of base units.
+
+74
+00:04:39.108 --> 00:04:43.451
+So derived units are constructed from the base units according to physical
+
+75
+00:04:43.451 --> 00:04:47.676
+definitions, with special names such as the newton, pascal, joule, watt,
+
+76
+00:04:47.676 --> 00:04:50.610
+volt and hertz for force, pressure, energy, power,
+
+77
+00:04:50.610 --> 00:04:55.187
+electrical quantities and frequency — every one ultimately expressible in base
+
+78
+00:04:55.187 --> 00:04:57.476
+units, which keeps the system coherent.
+
+79
+00:04:57.976 --> 00:05:02.093
+Explain the SI prefixes and their use.
+
+80
+00:05:13.607 --> 00:05:17.291
+The SI prefixes are standard multipliers, each a power of ten,
+
+81
+00:05:17.291 --> 00:05:22.224
+that are attached to a unit to express quantities that are very large or very small
+
+82
+00:05:22.224 --> 00:05:24.601
+without resorting to cumbersome numbers,
+
+83
+00:05:24.601 --> 00:05:29.415
+and their correct use is important for clarity and for avoiding dangerous errors.
+
+84
+00:05:29.555 --> 00:05:33.291
+Each prefix represents a factor by which the unit is multiplied.
+
+85
+00:05:33.291 --> 00:05:37.553
+Working upwards from the unit: kilo means one thousand, mega one million,
+
+86
+00:05:37.553 --> 00:05:39.304
+and giga one thousand million.
+
+87
+00:05:39.444 --> 00:05:43.329
+Working downwards: milli means one thousandth, micro one millionth,
+
+88
+00:05:43.329 --> 00:05:46.808
+nano one thousand-millionth, and pico one million-millionth.
+
+89
+00:05:46.808 --> 00:05:51.330
+Thus a milligram is a thousandth of a gram, a microgram a millionth of a gram,
+
+90
+00:05:51.330 --> 00:05:53.417
+and a nanogram a thousand-millionth.
+
+91
+00:05:53.557 --> 00:05:58.548
+These prefixes are used constantly in anaesthesia — drug doses in milligrams and
+
+92
+00:05:58.548 --> 00:06:01.106
+micrograms, gas pressures in kilopascals,
+
+93
+00:06:01.106 --> 00:06:05.099
+infusion concentrations in micrograms per millilitre, and so on.
+
+94
+00:06:05.239 --> 00:06:09.203
+The clinical importance of using them correctly cannot be overstated,
+
+95
+00:06:09.203 --> 00:06:13.742
+because a thousand-fold error arises if milligrams and micrograms are confused,
+
+96
+00:06:13.742 --> 00:06:16.098
+and such errors have caused serious harm;
+
+97
+00:06:16.098 --> 00:06:20.637
+this is why doses are written in full and why the abbreviation for microgram is
+
+98
+00:06:20.637 --> 00:06:24.716
+often spelt out rather than using the Greek symbol that can be misread.
+
+99
+00:06:24.856 --> 00:06:29.906
+So the SI prefixes are decimal multipliers — kilo, mega and giga upward; milli,
+
+100
+00:06:29.906 --> 00:06:35.148
+micro, nano and pico downward — that express large and small quantities concisely,
+
+101
+00:06:35.148 --> 00:06:37.577
+and their correct and unambiguous use,
+
+102
+00:06:37.577 --> 00:06:40.965
+particularly distinguishing milligram from microgram,
+
+103
+00:06:40.965 --> 00:06:43.395
+is a genuine matter of patient safety.
+
+104
+00:06:43.895 --> 00:06:49.224
+Let us take pressure in detail. Define it and give the units used in clinical
+
+105
+00:06:49.224 --> 00:06:49.847
+practice.
+
+106
+00:06:50.347 --> 00:06:54.983
+Pressure is one of the most important physical quantities in anaesthesia,
+
+107
+00:06:54.983 --> 00:06:57.460
+defined as force applied per unit area,
+
+108
+00:06:57.460 --> 00:07:02.159
+so that the same force concentrated over a smaller area produces a greater
+
+109
+00:07:02.159 --> 00:07:06.859
+pressure. Its SI unit is the pascal, equal to one newton per square metre.
+
+110
+00:07:06.999 --> 00:07:11.691
+The pascal, however, is a very small unit, so the kilopascal is commonly used.
+
+111
+00:07:11.691 --> 00:07:16.685
+The difficulty in clinical practice is that several non-SI units of pressure remain
+
+112
+00:07:16.685 --> 00:07:21.377
+in widespread use for historical reasons, and one must be able to relate them.
+
+113
+00:07:21.517 --> 00:07:25.811
+Atmospheric pressure at sea level is about one hundred and one kilopascals,
+
+114
+00:07:25.811 --> 00:07:29.590
+which equals about seven hundred and sixty millimetres of mercury,
+
+115
+00:07:29.590 --> 00:07:31.651
+or about one bar, or one atmosphere.
+
+116
+00:07:31.791 --> 00:07:36.162
+Blood pressure and gas partial pressures in blood are traditionally expressed in
+
+117
+00:07:36.162 --> 00:07:40.423
+millimetres of mercury, a unit derived from the height of a mercury column the
+
+118
+00:07:40.423 --> 00:07:41.625
+pressure will support.
+
+119
+00:07:41.765 --> 00:07:46.476
+Airway and central venous pressures are often expressed in centimetres of water,
+
+120
+00:07:46.476 --> 00:07:51.009
+a less dense fluid giving a larger, more convenient column for low pressures.
+
+121
+00:07:51.009 --> 00:07:55.013
+Cylinder and pipeline pressures are expressed in bar or kilopascals.
+
+122
+00:07:55.153 --> 00:07:59.739
+Useful approximate conversions are that one kilopascal is about seven and a half
+
+123
+00:07:59.739 --> 00:08:04.324
+millimetres of mercury, and one centimetre of water is about three-quarters of a
+
+124
+00:08:04.324 --> 00:08:05.585
+millimetre of mercury.
+
+125
+00:08:05.725 --> 00:08:09.289
+So pressure is force per unit area, its SI unit the pascal,
+
+126
+00:08:09.289 --> 00:08:11.644
+but clinical practice uses kilopascals,
+
+127
+00:08:11.644 --> 00:08:14.724
+millimetres of mercury for blood and gas pressures,
+
+128
+00:08:14.724 --> 00:08:17.925
+centimetres of water for airway and venous pressures,
+
+129
+00:08:17.925 --> 00:08:22.877
+and bar for cylinders — and the anaesthetist must be able to convert between them.
+
+130
+00:08:23.377 --> 00:08:25.831
+Now energy, work and power.
+
+131
+00:08:26.331 --> 00:08:30.419
+Energy, work and power are related quantities of fundamental importance,
+
+132
+00:08:30.419 --> 00:08:33.202
+and distinguishing them clearly avoids confusion.
+
+133
+00:08:33.202 --> 00:08:37.915
+Energy is the capacity to do work, and work is done when a force moves its point of
+
+134
+00:08:37.915 --> 00:08:41.947
+application through a distance; the two share the same unit, the joule.
+
+135
+00:08:42.087 --> 00:08:46.727
+One joule is the work done when a force of one newton acts through one metre.
+
+136
+00:08:46.727 --> 00:08:50.765
+Energy takes many forms — kinetic, potential, electrical, chemical,
+
+137
+00:08:50.765 --> 00:08:54.140
+thermal — and is interconvertible but conserved overall.
+
+138
+00:08:54.280 --> 00:08:57.256
+In anaesthesia the joule appears in several contexts:
+
+139
+00:08:57.256 --> 00:09:00.738
+the energy delivered by a defibrillator is measured in joules;
+
+140
+00:09:00.738 --> 00:09:05.062
+the energy content of metabolic fuels and of nutrition is measured in joules,
+
+141
+00:09:05.062 --> 00:09:07.589
+though the older calorie is still often used,
+
+142
+00:09:07.589 --> 00:09:10.172
+one calorie being about four point two joules;
+
+143
+00:09:10.172 --> 00:09:14.440
+and the work of breathing is energy expended per breath, measured in joules.
+
+144
+00:09:14.580 --> 00:09:19.028
+Power is the rate of doing work or of expending energy, its unit the watt,
+
+145
+00:09:19.028 --> 00:09:20.831
+equal to one joule per second.
+
+146
+00:09:20.971 --> 00:09:24.085
+Power describes how quickly energy is delivered or used:
+
+147
+00:09:24.085 --> 00:09:27.532
+the power of breathing is the work of breathing per unit time;
+
+148
+00:09:27.532 --> 00:09:30.145
+the power consumption of equipment is in watts;
+
+149
+00:09:30.145 --> 00:09:33.871
+and the rate of energy expenditure of the body, the metabolic rate,
+
+150
+00:09:33.871 --> 00:09:38.208
+is fundamentally a power, often expressed in watts or in kilocalories per day.
+
+151
+00:09:38.348 --> 00:09:40.307
+So energy and work share the joule,
+
+152
+00:09:40.307 --> 00:09:44.896
+energy being the capacity and work the transfer of it through force over distance,
+
+153
+00:09:44.896 --> 00:09:49.373
+while power is the rate of energy transfer measured in watts — distinctions that
+
+154
+00:09:49.373 --> 00:09:53.178
+recur in defibrillation, nutrition, the work and power of breathing,
+
+155
+00:09:53.178 --> 00:09:54.241
+and metabolic rate.
+
+156
+00:09:54.741 --> 00:09:59.349
+Describe the SI units relevant to electricity.
+
+157
+00:09:59.849 --> 00:10:04.638
+Electrical quantities have their own set of SI units, several of them derived,
+
+158
+00:10:04.638 --> 00:10:08.076
+and a working grasp of them underlies electrical safety,
+
+159
+00:10:08.076 --> 00:10:10.900
+monitoring and the function of much equipment.
+
+160
+00:10:11.040 --> 00:10:15.116
+The base electrical unit is the ampere, the unit of electric current,
+
+161
+00:10:15.116 --> 00:10:17.775
+which is the rate of flow of electric charge.
+
+162
+00:10:17.775 --> 00:10:20.020
+Charge itself is measured in coulombs,
+
+163
+00:10:20.020 --> 00:10:24.096
+one coulomb being the charge transported by one ampere in one second.
+
+164
+00:10:24.236 --> 00:10:28.595
+The potential difference, or voltage, that drives current is measured in volts;
+
+165
+00:10:28.595 --> 00:10:33.175
+one volt is the potential difference that, driving one ampere through a resistance,
+
+166
+00:10:33.175 --> 00:10:34.775
+dissipates one watt of power.
+
+167
+00:10:34.915 --> 00:10:39.551
+Resistance, the opposition to current flow, is measured in ohms; by Ohm's law,
+
+168
+00:10:39.551 --> 00:10:44.127
+the voltage across a resistor equals the current through it multiplied by its
+
+169
+00:10:44.127 --> 00:10:46.861
+resistance, so one ohm is one volt per ampere.
+
+170
+00:10:47.001 --> 00:10:49.864
+Electrical power, the rate of energy dissipation,
+
+171
+00:10:49.864 --> 00:10:53.487
+is measured in watts and equals voltage multiplied by current.
+
+172
+00:10:53.627 --> 00:10:56.926
+Other quantities include capacitance, measured in farads,
+
+173
+00:10:56.926 --> 00:11:01.152
+the ability to store charge, and the related quantities of inductance and
+
+174
+00:11:01.152 --> 00:11:05.552
+impedance, the latter being the effective opposition to alternating current.
+
+175
+00:11:05.692 --> 00:11:09.972
+These units matter in anaesthesia for understanding electrical safety — the
+
+176
+00:11:09.972 --> 00:11:14.309
+currents that cause harm, the principles of isolation and earthing — and the
+
+177
+00:11:14.309 --> 00:11:17.276
+operation of monitors, diathermy and defibrillators.
+
+178
+00:11:17.416 --> 00:11:21.929
+So the electrical SI units are the ampere for current, the coulomb for charge,
+
+179
+00:11:21.929 --> 00:11:25.284
+the volt for potential difference, the ohm for resistance,
+
+180
+00:11:25.284 --> 00:11:28.119
+the watt for power and the farad for capacitance,
+
+181
+00:11:28.119 --> 00:11:31.012
+linked by Ohm's law and by the power relationship,
+
+182
+00:11:31.012 --> 00:11:35.699
+and they underpin electrical safety and the function of electromedical equipment.
+
+183
+00:11:47.212 --> 00:11:51.649
+Explain the mole and the expression of amounts and concentrations.
+
+184
+00:11:52.149 --> 00:11:55.634
+The mole is the SI base unit for the amount of substance,
+
+185
+00:11:55.634 --> 00:11:59.791
+and it is central to chemistry, to the expression of concentrations,
+
+186
+00:11:59.791 --> 00:12:02.603
+and to understanding gas and solute behaviour.
+
+187
+00:12:02.743 --> 00:12:06.788
+The mole is defined as the amount of a substance containing a fixed,
+
+188
+00:12:06.788 --> 00:12:10.418
+very large number of elementary entities — Avogadro's number,
+
+189
+00:12:10.418 --> 00:12:14.880
+about six times ten to the twenty-third — so that one mole of any substance
+
+190
+00:12:14.880 --> 00:12:17.676
+contains the same number of molecules or atoms.
+
+191
+00:12:17.816 --> 00:12:21.976
+The mass of one mole of a substance in grams equals its molecular weight.
+
+192
+00:12:22.116 --> 00:12:25.802
+The value of the mole is that it counts particles rather than mass,
+
+193
+00:12:25.802 --> 00:12:30.259
+which matters because physical and chemical effects often depend on the number of
+
+194
+00:12:30.259 --> 00:12:34.221
+particles present rather than their mass: osmotic pressure, for example,
+
+195
+00:12:34.221 --> 00:12:37.412
+depends on the molar concentration of dissolved particles.
+
+196
+00:12:37.552 --> 00:12:41.381
+Concentrations are accordingly often expressed in moles per litre,
+
+197
+00:12:41.381 --> 00:12:45.152
+or millimoles per litre, as for the plasma electrolytes — sodium,
+
+198
+00:12:45.152 --> 00:12:48.923
+potassium and so on — which are reported in millimoles per litre.
+
+199
+00:12:49.063 --> 00:12:52.531
+Some substances are still expressed by mass concentration,
+
+200
+00:12:52.531 --> 00:12:57.135
+such as grams per litre for haemoglobin or milligrams per millilitre for drug
+
+201
+00:12:57.135 --> 00:13:01.680
+solutions, and some by other conventions. The osmole, derived from the mole,
+
+202
+00:13:01.680 --> 00:13:04.849
+expresses the number of osmotically active particles.
+
+203
+00:13:04.989 --> 00:13:07.609
+So the mole is the unit of amount of substance,
+
+204
+00:13:07.609 --> 00:13:09.671
+counting a fixed number of particles,
+
+205
+00:13:09.671 --> 00:13:12.959
+with the molar mass in grams equal to the molecular weight,
+
+206
+00:13:12.959 --> 00:13:17.528
+and it underlies the expression of concentrations in moles or millimoles per litre
+
+207
+00:13:17.528 --> 00:13:21.820
+— important because many biological effects depend on the number of particles
+
+208
+00:13:21.820 --> 00:13:23.101
+rather than their mass.
+
+209
+00:13:23.601 --> 00:13:27.335
+Distinguish temperature scales — kelvin and Celsius.
+
+210
+00:13:27.835 --> 00:13:32.139
+Temperature is measured on two scales relevant to medicine — the kelvin,
+
+211
+00:13:32.139 --> 00:13:35.069
+which is the SI base unit, and the Celsius scale,
+
+212
+00:13:35.069 --> 00:13:39.852
+in everyday clinical use — and understanding their relationship is important for
+
+213
+00:13:39.852 --> 00:13:42.363
+the gas laws and for clinical measurement.
+
+214
+00:13:42.503 --> 00:13:46.014
+The kelvin is the SI unit of thermodynamic temperature,
+
+215
+00:13:46.014 --> 00:13:50.291
+and the kelvin scale is an absolute scale: its zero, absolute zero,
+
+216
+00:13:50.291 --> 00:13:55.335
+is the theoretical point of no thermal energy, the lowest possible temperature,
+
+217
+00:13:55.335 --> 00:13:59.804
+at minus two hundred and seventy-three point one five degrees Celsius.
+
+218
+00:13:59.944 --> 00:14:04.639
+A change of one kelvin is exactly equal in size to a change of one degree Celsius,
+
+219
+00:14:04.639 --> 00:14:08.074
+so the two scales differ only in the position of their zero,
+
+220
+00:14:08.074 --> 00:14:09.907
+not in the size of their degree.
+
+221
+00:14:10.047 --> 00:14:14.758
+To convert, one adds about two hundred and seventy-three to a Celsius temperature
+
+222
+00:14:14.758 --> 00:14:16.852
+to obtain the temperature in kelvin.
+
+223
+00:14:16.992 --> 00:14:21.685
+The Celsius scale, by contrast, sets its zero at the freezing point of water and
+
+224
+00:14:21.685 --> 00:14:26.320
+one hundred at its boiling point, which is convenient for everyday and clinical
+
+225
+00:14:26.320 --> 00:14:30.837
+use, so body temperature is expressed in degrees Celsius around thirty-seven.
+
+226
+00:14:30.977 --> 00:14:35.446
+The crucial point is that for any physical calculation involving temperature —
+
+227
+00:14:35.446 --> 00:14:39.686
+particularly the gas laws, which relate the behaviour of gases to absolute
+
+228
+00:14:39.686 --> 00:14:42.723
+temperature — the absolute kelvin scale must be used,
+
+229
+00:14:42.723 --> 00:14:47.020
+because the laws hold only when temperature is measured from absolute zero.
+
+230
+00:14:47.160 --> 00:14:51.942
+So the kelvin is the absolute SI temperature scale measured from absolute zero,
+
+231
+00:14:51.942 --> 00:14:56.724
+the Celsius scale shares the same degree size but is offset to water's freezing
+
+232
+00:14:56.724 --> 00:15:01.688
+point for clinical convenience, and absolute temperature in kelvin must be used in
+
+233
+00:15:01.688 --> 00:15:04.291
+physical calculations such as the gas laws.
+
+234
+00:15:15.804 --> 00:15:19.986
+What is meant by the dimensions of a physical quantity,
+
+235
+00:15:19.986 --> 00:15:22.951
+and how is dimensional analysis useful?
+
+236
+00:15:23.451 --> 00:15:28.288
+The dimensions of a physical quantity describe its fundamental nature in terms of
+
+237
+00:15:28.288 --> 00:15:30.378
+the base quantities — such as mass,
+
+238
+00:15:30.378 --> 00:15:34.021
+length and time — independently of the particular units used,
+
+239
+00:15:34.021 --> 00:15:38.799
+and dimensional analysis, the checking of equations for dimensional consistency,
+
+240
+00:15:38.799 --> 00:15:43.099
+is a powerful tool for detecting errors and understanding relationships.
+
+241
+00:15:43.239 --> 00:15:47.650
+Every physical quantity can be expressed in terms of the base dimensions:
+
+242
+00:15:47.650 --> 00:15:51.881
+for example, velocity has dimensions of length divided by time; force,
+
+243
+00:15:51.881 --> 00:15:54.902
+by Newton's second law as mass times acceleration,
+
+244
+00:15:54.902 --> 00:15:59.375
+has dimensions of mass times length divided by time squared; and pressure,
+
+245
+00:15:59.375 --> 00:16:03.847
+force per area, has dimensions of mass divided by length and time squared.
+
+246
+00:16:03.987 --> 00:16:08.637
+The fundamental principle of dimensional analysis is that any valid physical
+
+247
+00:16:08.637 --> 00:16:13.593
+equation must be dimensionally homogeneous — the dimensions on both sides must be
+
+248
+00:16:13.593 --> 00:16:18.365
+identical, and only quantities of the same dimensions may be added or equated.
+
+249
+00:16:18.505 --> 00:16:22.316
+This provides a check: if an equation is not dimensionally consistent,
+
+250
+00:16:22.316 --> 00:16:25.311
+it must be wrong, which is a quick way to catch errors.
+
+251
+00:16:25.451 --> 00:16:28.687
+It also allows the form of a relationship to be deduced,
+
+252
+00:16:28.687 --> 00:16:30.941
+predicting how quantities must combine,
+
+253
+00:16:30.941 --> 00:16:34.987
+and it confirms that conversion between units is being done correctly.
+
+254
+00:16:35.127 --> 00:16:40.318
+So the dimensions of a quantity express its nature in terms of base quantities such
+
+255
+00:16:40.318 --> 00:16:45.509
+as mass, length and time, and dimensional analysis — requiring that valid equations
+
+256
+00:16:45.509 --> 00:16:50.075
+be dimensionally homogeneous — is a valuable means of checking equations,
+
+257
+00:16:50.075 --> 00:16:53.452
+deducing relationships and verifying unit conversions.
+
+258
+00:16:53.952 --> 00:16:59.755
+Differentiate accuracy, precision and the related ideas of error in measurement.
+
+259
+00:17:00.255 --> 00:17:04.599
+Accuracy and precision are distinct properties of a measurement, often confused,
+
+260
+00:17:04.599 --> 00:17:08.237
+and understanding the difference, together with the types of error,
+
+261
+00:17:08.237 --> 00:17:12.419
+is essential to interpreting any measured quantity or assessing any measuring
+
+262
+00:17:12.419 --> 00:17:12.799
+device.
+
+263
+00:17:12.939 --> 00:17:16.696
+Accuracy is the closeness of a measurement to the true value — an accurate
+
+264
+00:17:16.696 --> 00:17:19.488
+instrument gives readings centred on the correct value.
+
+265
+00:17:19.628 --> 00:17:22.890
+Precision, also called repeatability or reproducibility,
+
+266
+00:17:22.890 --> 00:17:27.491
+is the closeness of repeated measurements to one another — a precise instrument
+
+267
+00:17:27.491 --> 00:17:32.151
+gives consistent readings, with little scatter, whether or not they are correct.
+
+268
+00:17:32.291 --> 00:17:35.992
+The two are independent: a device may be precise but inaccurate,
+
+269
+00:17:35.992 --> 00:17:39.000
+giving consistent but systematically wrong readings,
+
+270
+00:17:39.000 --> 00:17:43.107
+or accurate on average but imprecise, scattering around the true value.
+
+271
+00:17:43.247 --> 00:17:47.000
+The classic analogy is the target: precise shots cluster tightly,
+
+272
+00:17:47.000 --> 00:17:50.003
+accurate shots centre on the bull, and ideally both.
+
+273
+00:17:50.003 --> 00:17:52.313
+Errors are correspondingly of two kinds.
+
+274
+00:17:52.453 --> 00:17:57.188
+Systematic errors, or bias, shift readings consistently in one direction — from
+
+275
+00:17:57.188 --> 00:18:01.083
+miscalibration, drift or a constant offset — and reduce accuracy;
+
+276
+00:18:01.083 --> 00:18:04.080
+they can in principle be corrected by calibration.
+
+277
+00:18:04.220 --> 00:18:06.988
+Random errors cause scatter in both directions,
+
+278
+00:18:06.988 --> 00:18:10.580
+from noise and unpredictable variation, and reduce precision;
+
+279
+00:18:10.580 --> 00:18:13.642
+they are reduced by averaging repeated measurements.
+
+280
+00:18:13.642 --> 00:18:18.471
+Calibration against a known standard corrects systematic error and is essential to
+
+281
+00:18:18.471 --> 00:18:19.708
+maintaining accuracy.
+
+282
+00:18:19.848 --> 00:18:24.730
+So accuracy is closeness to the true value and precision is consistency of repeated
+
+283
+00:18:24.730 --> 00:18:29.377
+readings; systematic errors reduce accuracy and are correctable by calibration,
+
+284
+00:18:29.377 --> 00:18:34.082
+while random errors reduce precision and are reduced by averaging — distinctions
+
+285
+00:18:34.082 --> 00:18:36.317
+fundamental to evaluating measurement.
+
+286
+00:18:36.817 --> 00:18:39.783
+Distinguish scalar and vector quantities.
+
+287
+00:18:40.283 --> 00:18:44.959
+Physical quantities are of two kinds — scalars and vectors — and the distinction
+
+288
+00:18:44.959 --> 00:18:49.518
+matters whenever direction is relevant, as it often is in the physics of flow,
+
+289
+00:18:49.518 --> 00:18:51.739
+force and cardiac electrical activity.
+
+290
+00:18:51.879 --> 00:18:56.780
+A scalar quantity has magnitude only; it is fully described by a number and a unit.
+
+291
+00:18:56.780 --> 00:19:00.146
+Examples include mass, temperature, time, energy, volume,
+
+292
+00:19:00.146 --> 00:19:04.929
+speed and pressure — to state that something has a mass of seventy kilograms or a
+
+293
+00:19:04.929 --> 00:19:08.177
+temperature of thirty-seven degrees needs no direction.
+
+294
+00:19:08.317 --> 00:19:12.316
+A vector quantity, by contrast, has both magnitude and direction,
+
+295
+00:19:12.316 --> 00:19:15.268
+and both must be specified to describe it fully;
+
+296
+00:19:15.268 --> 00:19:20.066
+it is often represented by an arrow whose length gives the magnitude and whose
+
+297
+00:19:20.066 --> 00:19:22.035
+orientation gives the direction.
+
+298
+00:19:22.175 --> 00:19:27.403
+Examples include force, velocity, acceleration and momentum — a velocity is a speed
+
+299
+00:19:27.403 --> 00:19:31.561
+in a stated direction, and a force acts in a particular direction.
+
+300
+00:19:31.701 --> 00:19:34.216
+The distinction has practical consequences:
+
+301
+00:19:34.216 --> 00:19:38.601
+vectors must be combined by vector addition, taking direction into account,
+
+302
+00:19:38.601 --> 00:19:43.337
+so that two forces or velocities do not simply add arithmetically unless they act
+
+303
+00:19:43.337 --> 00:19:44.331
+in the same line.
+
+304
+00:19:44.471 --> 00:19:49.309
+In anaesthesia, vector concepts appear in the analysis of the cardiac electrical
+
+305
+00:19:49.309 --> 00:19:54.147
+axis, where the net direction of cardiac depolarisation is a vector deduced from
+
+306
+00:19:54.147 --> 00:19:58.017
+the electrocardiogram, and in the mechanics of forces and flows.
+
+307
+00:19:58.157 --> 00:20:02.383
+So scalars have magnitude alone, such as mass, temperature and pressure,
+
+308
+00:20:02.383 --> 00:20:06.843
+while vectors have both magnitude and direction, such as force and velocity,
+
+309
+00:20:06.843 --> 00:20:11.245
+and must be combined by vector addition — a distinction relevant to forces,
+
+310
+00:20:11.245 --> 00:20:13.475
+flows and the cardiac electrical axis.
+
+311
+00:20:24.988 --> 00:20:29.553
+Define density and specific gravity, and note their relevance.
+
+312
+00:20:30.053 --> 00:20:34.654
+Density and specific gravity are related measures of how much matter is packed into
+
+313
+00:20:34.654 --> 00:20:39.032
+a given volume, and they are relevant to fluid behaviour, to the flow of gases,
+
+314
+00:20:39.032 --> 00:20:41.083
+and to several clinical measurements.
+
+315
+00:20:41.223 --> 00:20:43.924
+Density is defined as mass per unit volume,
+
+316
+00:20:43.924 --> 00:20:46.500
+its SI unit the kilogram per cubic metre,
+
+317
+00:20:46.500 --> 00:20:49.139
+though grams per millilitre is often used;
+
+318
+00:20:49.139 --> 00:20:54.291
+it describes how heavy a substance is for its size, so that mercury is very dense,
+
+319
+00:20:54.291 --> 00:20:59.505
+water has a density of about one gram per millilitre, and gases are far less dense.
+
+320
+00:20:59.645 --> 00:21:02.522
+Specific gravity, also called relative density,
+
+321
+00:21:02.522 --> 00:21:07.541
+is the ratio of the density of a substance to the density of a reference substance
+
+322
+00:21:07.541 --> 00:21:11.887
+— water for liquids and solids, air for gases — and being a ratio it is
+
+323
+00:21:11.887 --> 00:21:12.744
+dimensionless.
+
+324
+00:21:12.884 --> 00:21:15.527
+The specific gravity of urine, for example,
+
+325
+00:21:15.527 --> 00:21:17.986
+is measured to assess its concentration,
+
+326
+00:21:17.986 --> 00:21:22.719
+and that of cerebrospinal fluid relative to it matters in spinal anaesthesia.
+
+327
+00:21:22.859 --> 00:21:27.742
+Indeed, the behaviour of spinal anaesthetic solutions is described in these terms:
+
+328
+00:21:27.742 --> 00:21:31.731
+a hyperbaric solution is denser than cerebrospinal fluid and sinks,
+
+329
+00:21:31.731 --> 00:21:35.304
+an isobaric solution has the same density and tends to stay,
+
+330
+00:21:35.304 --> 00:21:38.222
+and a hypobaric solution is less dense and rises,
+
+331
+00:21:38.222 --> 00:21:41.973
+which determines the spread of the block with patient position.
+
+332
+00:21:42.113 --> 00:21:47.233
+Density also influences gas flow, denser gases being more prone to turbulent flow.
+
+333
+00:21:47.373 --> 00:21:52.320
+So density is mass per unit volume and specific gravity is the dimensionless ratio
+
+334
+00:21:52.320 --> 00:21:55.216
+of a substance's density to that of a reference,
+
+335
+00:21:55.216 --> 00:21:57.931
+and they are relevant to urine concentration,
+
+336
+00:21:57.931 --> 00:22:01.731
+to the baricity that governs the spread of spinal anaesthetics,
+
+337
+00:22:01.731 --> 00:22:03.843
+and to the flow behaviour of gases.
+
+338
+00:22:04.343 --> 00:22:07.927
+What is frequency, and where does it feature in measurement?
+
+339
+00:22:08.427 --> 00:22:13.206
+Frequency is the number of cycles of a repeating event occurring per unit time,
+
+340
+00:22:13.206 --> 00:22:16.412
+its SI unit the hertz, equal to one cycle per second,
+
+341
+00:22:16.412 --> 00:22:21.432
+and it is a quantity that features throughout physiological measurement and medical
+
+342
+00:22:21.432 --> 00:22:22.037
+equipment.
+
+343
+00:22:22.177 --> 00:22:24.656
+Any periodic phenomenon has a frequency:
+
+344
+00:22:24.656 --> 00:22:28.808
+a heart rate of sixty beats per minute is a frequency of one hertz;
+
+345
+00:22:28.808 --> 00:22:33.394
+the mains electrical supply alternates at fifty or sixty hertz; and sound,
+
+346
+00:22:33.394 --> 00:22:38.476
+ultrasound and electromagnetic radiation are all characterised by their frequency.
+
+347
+00:22:38.616 --> 00:22:42.569
+The reciprocal of frequency is the period, the time for one cycle.
+
+348
+00:22:42.569 --> 00:22:46.701
+Frequency is fundamental to several areas of anaesthetic measurement.
+
+349
+00:22:46.841 --> 00:22:51.474
+In sound and ultrasound, frequency determines pitch and, in ultrasound imaging,
+
+350
+00:22:51.474 --> 00:22:56.165
+the resolution and penetration — higher frequencies giving better resolution but
+
+351
+00:22:56.165 --> 00:22:58.980
+less penetration, which governs probe selection.
+
+352
+00:22:59.120 --> 00:23:03.592
+In the analysis of physiological signals such as the arterial pressure waveform,
+
+353
+00:23:03.592 --> 00:23:05.604
+the concept of frequency is central:
+
+354
+00:23:05.604 --> 00:23:09.628
+a complex waveform can be regarded as the sum of sine waves of different
+
+355
+00:23:09.628 --> 00:23:14.267
+frequencies, and a measurement system must be able to respond faithfully across the
+
+356
+00:23:14.267 --> 00:23:18.459
+relevant range of frequencies — its frequency response and natural resonant
+
+357
+00:23:18.459 --> 00:23:23.099
+frequency determining whether it reproduces the waveform accurately or distorts it.
+
+358
+00:23:23.239 --> 00:23:27.965
+The electrical interference that contaminates monitoring often occurs at the mains
+
+359
+00:23:27.965 --> 00:23:29.809
+frequency, which filters target.
+
+360
+00:23:29.949 --> 00:23:33.654
+So frequency is the number of cycles per second, measured in hertz,
+
+361
+00:23:33.654 --> 00:23:37.634
+and it is central to heart rate, the mains supply, sound and ultrasound,
+
+362
+00:23:37.634 --> 00:23:41.947
+and the frequency response of measurement systems that determines whether they
+
+363
+00:23:41.947 --> 00:23:44.435
+faithfully reproduce physiological waveforms.
+
+364
+00:23:44.935 --> 00:23:49.310
+Why are some non-SI units retained in clinical practice,
+
+365
+00:23:49.310 --> 00:23:51.655
+and what are the implications?
+
+366
+00:23:52.155 --> 00:23:54.714
+Despite the coherence of the SI system,
+
+367
+00:23:54.714 --> 00:24:00.095
+a number of non-SI units persist in clinical practice for historical and practical
+
+368
+00:24:00.095 --> 00:24:05.017
+reasons, and their continued use has both conveniences and hazards that the
+
+369
+00:24:05.017 --> 00:24:06.789
+anaesthetist must navigate.
+
+370
+00:24:06.929 --> 00:24:12.043
+Several units predate or sit outside the strict SI framework but remain entrenched
+
+371
+00:24:12.043 --> 00:24:16.657
+because they are familiar, convenient, or tied to established instruments.
+
+372
+00:24:16.797 --> 00:24:21.359
+Blood pressure and gas partial pressures are routinely expressed in millimetres of
+
+373
+00:24:21.359 --> 00:24:25.865
+mercury rather than kilopascals, because the mercury manometer was the historical
+
+374
+00:24:25.865 --> 00:24:28.090
+instrument and the numbers are familiar;
+
+375
+00:24:28.090 --> 00:24:31.539
+airway pressures in centimetres of water for the same reasons.
+
+376
+00:24:31.679 --> 00:24:34.000
+The litre, though not a base SI unit,
+
+377
+00:24:34.000 --> 00:24:38.643
+is universally used for volume in place of the cubic metre because it is a
+
+378
+00:24:38.643 --> 00:24:43.412
+convenient size. Time is expressed in minutes and hours rather than seconds.
+
+379
+00:24:43.552 --> 00:24:46.089
+Drug doses sometimes use older conventions,
+
+380
+00:24:46.089 --> 00:24:49.393
+and the calorie persists alongside the joule for energy.
+
+381
+00:24:49.393 --> 00:24:52.107
+The implications are twofold. On the one hand,
+
+382
+00:24:52.107 --> 00:24:54.821
+these units are practical and deeply embedded,
+
+383
+00:24:54.821 --> 00:24:58.656
+so abolishing them is neither feasible nor necessarily desirable.
+
+384
+00:24:58.796 --> 00:25:03.383
+On the other hand, the coexistence of multiple units for the same quantity is a
+
+385
+00:25:03.383 --> 00:25:07.854
+source of error and confusion, requiring fluency in conversion and vigilance,
+
+386
+00:25:07.854 --> 00:25:11.105
+particularly where a misconversion could harm a patient.
+
+387
+00:25:11.245 --> 00:25:16.267
+So non-SI units such as the millimetre of mercury, centimetre of water, litre,
+
+388
+00:25:16.267 --> 00:25:20.902
+minute and calorie are retained for historical familiarity and practical
+
+389
+00:25:20.902 --> 00:25:23.800
+convenience, and while entrenched and useful,
+
+390
+00:25:23.800 --> 00:25:28.886
+their coexistence with SI units demands fluency in conversion and care to avoid
+
+391
+00:25:28.886 --> 00:25:29.272
+error.
+
+392
+00:25:40.785 --> 00:25:46.401
+Give examples of how units and quantities are applied in everyday anaesthetic
+
+393
+00:25:46.401 --> 00:25:47.057
+practice.
+
+394
+00:25:47.557 --> 00:25:52.055
+It is worth drawing the abstract discussion of units into the concrete measurements
+
+395
+00:25:52.055 --> 00:25:56.227
+of daily anaesthetic practice, because the system of units is not an academic
+
+396
+00:25:56.227 --> 00:26:00.454
+matter but the framework within which every clinical variable is expressed and
+
+397
+00:26:00.454 --> 00:26:01.104
+interpreted.
+
+398
+00:26:01.244 --> 00:26:05.398
+Consider a routine anaesthetic. The patient's weight is in kilograms,
+
+399
+00:26:05.398 --> 00:26:10.275
+the basis of weight-based drug dosing. Drugs are drawn up and given in milligrams
+
+400
+00:26:10.275 --> 00:26:15.273
+and micrograms, with infusions in micrograms per kilogram per minute or millilitres
+
+401
+00:26:15.273 --> 00:26:15.815
+per hour.
+
+402
+00:26:15.955 --> 00:26:20.062
+Gas flows on the anaesthetic machine are set in litres per minute,
+
+403
+00:26:20.062 --> 00:26:24.293
+and the inspired oxygen as a fractional concentration or percentage.
+
+404
+00:26:24.293 --> 00:26:29.023
+Volatile agent concentration is expressed as a percentage and related to the
+
+405
+00:26:29.023 --> 00:26:30.952
+minimum alveolar concentration.
+
+406
+00:26:31.092 --> 00:26:35.654
+Airway pressures are read in centimetres of water, tidal volumes in millilitres,
+
+407
+00:26:35.654 --> 00:26:38.334
+and respiratory rate as a frequency per minute.
+
+408
+00:26:38.334 --> 00:26:43.124
+The blood pressure is in millimetres of mercury, the heart rate in beats per minute.
+
+409
+00:26:43.264 --> 00:26:48.280
+Arterial blood gas results give partial pressures of oxygen and carbon dioxide in
+
+410
+00:26:48.280 --> 00:26:51.871
+kilopascals or millimetres of mercury, the pH as a number,
+
+411
+00:26:51.871 --> 00:26:56.577
+and electrolytes in millimoles per litre. Temperature is in degrees Celsius.
+
+412
+00:26:56.577 --> 00:27:00.416
+Cylinder contents are in bar. A defibrillator delivers joules.
+
+413
+00:27:00.556 --> 00:27:02.888
+Every one of these is a number and a unit,
+
+414
+00:27:02.888 --> 00:27:07.163
+and competent practice requires fluency in all of them and in the conversions
+
+415
+00:27:07.163 --> 00:27:09.217
+between the alternative units in use.
+
+416
+00:27:09.357 --> 00:27:13.299
+So everyday anaesthesia is conducted entirely in units — kilograms,
+
+417
+00:27:13.299 --> 00:27:17.240
+milligrams and micrograms, litres per minute, centimetres of water,
+
+418
+00:27:17.240 --> 00:27:21.652
+millimetres of mercury, kilopascals, millimoles per litre, degrees Celsius,
+
+419
+00:27:21.652 --> 00:27:26.535
+bar and joules — and fluency in this language of measurement is fundamental to safe
+
+420
+00:27:26.535 --> 00:27:27.064
+practice.
+
+421
+00:27:27.564 --> 00:27:32.812
+What are the common pitfalls and sources of error relating to units in clinical
+
+422
+00:27:32.812 --> 00:27:33.409
+practice?
+
+423
+00:27:33.909 --> 00:27:38.448
+Errors involving units are a recognised and preventable cause of clinical harm,
+
+424
+00:27:38.448 --> 00:27:42.699
+and recognising the common pitfalls is an important part of safe practice.
+
+425
+00:27:42.839 --> 00:27:45.778
+The most dangerous is the confusion of prefixes,
+
+426
+00:27:45.778 --> 00:27:50.677
+particularly milligram with microgram — a thousand-fold error — which has caused
+
+427
+00:27:50.677 --> 00:27:54.963
+fatal overdoses; this is mitigated by writing doses and units in full,
+
+428
+00:27:54.963 --> 00:27:59.801
+avoiding ambiguous abbreviations and the easily misread Greek symbol for micro,
+
+429
+00:27:59.801 --> 00:28:02.679
+and by independent checking of high-risk drugs.
+
+430
+00:28:02.819 --> 00:28:07.390
+A related error is the misplacement of the decimal point, a ten-fold error,
+
+431
+00:28:07.390 --> 00:28:12.266
+mitigated by writing a leading zero before a decimal point and avoiding trailing
+
+432
+00:28:12.266 --> 00:28:12.632
+zeros.
+
+433
+00:28:12.772 --> 00:28:17.563
+Confusion between units of the same quantity is another source of error — treating
+
+434
+00:28:17.563 --> 00:28:21.595
+millimetres of mercury as kilopascals, or misconverting between them.
+
+435
+00:28:21.595 --> 00:28:23.698
+Errors arise from unit-less numbers,
+
+436
+00:28:23.698 --> 00:28:28.431
+where a value is recorded or communicated without its unit, leaving it ambiguous.
+
+437
+00:28:28.571 --> 00:28:33.242
+Concentration errors are common, particularly confusing the total dose with the
+
+438
+00:28:33.242 --> 00:28:35.549
+concentration, or percentage solutions,
+
+439
+00:28:35.549 --> 00:28:39.806
+where a one per cent solution contains ten milligrams per millilitre — a
+
+440
+00:28:39.806 --> 00:28:42.053
+relationship frequently miscalculated.
+
+441
+00:28:42.193 --> 00:28:45.799
+Errors in weight-based dosing arise if the wrong weight is used.
+
+442
+00:28:45.939 --> 00:28:50.782
+The defences are systematic: standardised prescribing conventions, clear labelling,
+
+443
+00:28:50.782 --> 00:28:53.817
+the use of full words rather than ambiguous symbols,
+
+444
+00:28:53.817 --> 00:28:56.268
+double-checking of high-risk calculations,
+
+445
+00:28:56.268 --> 00:29:00.061
+and familiarity with the standard concentrations and conversions.
+
+446
+00:29:00.201 --> 00:29:04.947
+So the common unit-related pitfalls are prefix confusion, decimal-point errors,
+
+447
+00:29:04.947 --> 00:29:08.791
+confusion between units of the same quantity, omission of units,
+
+448
+00:29:08.791 --> 00:29:13.236
+and concentration miscalculations — all preventable by careful prescribing
+
+449
+00:29:13.236 --> 00:29:17.801
+conventions, clear labelling, unambiguous notation and independent checking.
+
+450
+00:29:18.301 --> 00:29:22.995
+Briefly, what are fundamental physical constants, and do any matter clinically?
+
+451
+00:29:23.495 --> 00:29:28.059
+Fundamental physical constants are fixed quantities of nature that appear in
+
+452
+00:29:28.059 --> 00:29:30.521
+physical laws and that, in the modern SI,
+
+453
+00:29:30.521 --> 00:29:33.224
+are used to define the base units themselves,
+
+454
+00:29:33.224 --> 00:29:37.788
+and although mostly the concern of metrology, a few have clinical relevance.
+
+455
+00:29:37.928 --> 00:29:42.632
+A physical constant is a quantity whose value is the same everywhere and does not
+
+456
+00:29:42.632 --> 00:29:46.871
+change — examples include the speed of light, the gravitational constant,
+
+457
+00:29:46.871 --> 00:29:50.877
+the charge on the electron, Planck's constant, and Avogadro's number.
+
+458
+00:29:51.017 --> 00:29:55.762
+In the redefined SI, the base units are now anchored to such constants rather than
+
+459
+00:29:55.762 --> 00:29:59.697
+to physical artefacts: the second to a property of the caesium atom,
+
+460
+00:29:59.697 --> 00:30:03.805
+the metre to the speed of light, and the kilogram to Planck's constant,
+
+461
+00:30:03.805 --> 00:30:07.913
+which makes the units reproducible anywhere without a reference object.
+
+462
+00:30:08.053 --> 00:30:12.885
+Of direct clinical relevance, Avogadro's number underlies the mole and hence the
+
+463
+00:30:12.885 --> 00:30:16.992
+expression of concentrations and the behaviour of gases and solutes.
+
+464
+00:30:17.132 --> 00:30:22.063
+The universal gas constant, which appears in the ideal gas equation relating the
+
+465
+00:30:22.063 --> 00:30:25.145
+pressure, volume, amount and temperature of a gas,
+
+466
+00:30:25.145 --> 00:30:27.981
+is fundamental to understanding gas behaviour,
+
+467
+00:30:27.981 --> 00:30:31.063
+cylinder contents and the gas laws we apply daily.
+
+468
+00:30:31.203 --> 00:30:35.769
+The acceleration due to gravity underlies pressure measurement by liquid columns,
+
+469
+00:30:35.769 --> 00:30:40.504
+since the pressure of a column depends on its height, the fluid density and gravity.
+
+470
+00:30:40.644 --> 00:30:45.855
+So fundamental constants are fixed values of nature now used to define the SI base
+
+471
+00:30:45.855 --> 00:30:50.049
+units, and while chiefly a matter of metrology, Avogadro's number,
+
+472
+00:30:50.049 --> 00:30:55.133
+the gas constant and the acceleration due to gravity have practical relevance to
+
+473
+00:30:55.133 --> 00:30:58.564
+concentrations, the gas laws and pressure measurement.
+
+474
+00:31:10.077 --> 00:31:14.950
+Finally, draw together the relevance of units and physical quantities to
+
+475
+00:31:14.950 --> 00:31:16.371
+anaesthetic practice.
+
+476
+00:31:16.871 --> 00:31:21.241
+Drawing the station together, the system of units and physical quantities is the
+
+477
+00:31:21.241 --> 00:31:25.393
+framework within which the whole of measurement in anaesthesia is conducted,
+
+478
+00:31:25.393 --> 00:31:27.305
+and although it appears elementary,
+
+479
+00:31:27.305 --> 00:31:31.676
+a secure command of it underpins both physical understanding and patient safety.
+
+480
+00:31:31.816 --> 00:31:36.815
+The SI system provides a coherent, reproducible foundation of seven base units —
+
+481
+00:31:36.815 --> 00:31:39.564
+the metre, kilogram, second, ampere, kelvin,
+
+482
+00:31:39.564 --> 00:31:44.751
+mole and candela — from which all derived units, such as the newton, pascal, joule,
+
+483
+00:31:44.751 --> 00:31:49.437
+watt, volt and hertz, are logically built, with decimal prefixes for scale.
+
+484
+00:31:49.577 --> 00:31:53.189
+From this framework flow the practical themes of our practice.
+
+485
+00:31:53.189 --> 00:31:57.907
+Pressure, force per unit area, is measured in pascals but expressed clinically in
+
+486
+00:31:57.907 --> 00:32:01.751
+kilopascals, millimetres of mercury, centimetres of water and bar,
+
+487
+00:32:01.751 --> 00:32:03.615
+demanding fluency in conversion.
+
+488
+00:32:03.755 --> 00:32:07.377
+Energy and power, the joule and watt, recur in defibrillation,
+
+489
+00:32:07.377 --> 00:32:11.876
+nutrition and the work of breathing. The electrical units underpin safety and
+
+490
+00:32:11.876 --> 00:32:15.557
+equipment. The mole underlies concentrations and gas behaviour,
+
+491
+00:32:15.557 --> 00:32:18.069
+and the absolute kelvin scale the gas laws.
+
+492
+00:32:18.209 --> 00:32:22.616
+Accuracy and precision, and the systematic and random errors that degrade them,
+
+493
+00:32:22.616 --> 00:32:27.191
+govern the interpretation of every measurement and the assessment of every device.
+
+494
+00:32:27.331 --> 00:32:32.017
+And the correct, unambiguous use of units — above all the distinction of milligram
+
+495
+00:32:32.017 --> 00:32:35.160
+from microgram — is a genuine matter of patient safety.
+
+496
+00:32:35.300 --> 00:32:39.777
+So units and physical quantities are not a dry preliminary but the language of all
+
+497
+00:32:39.777 --> 00:32:42.180
+measurement and prescription in anaesthesia,
+
+498
+00:32:42.180 --> 00:32:46.329
+and fluency in that language is foundational to safe and competent practice.
+
+499
+00:32:46.829 --> 00:32:52.165
+Beyond accuracy and precision, what other characteristics describe a measurement
+
+500
+00:32:52.165 --> 00:32:52.632
+system?
+
+501
+00:32:53.132 --> 00:32:57.643
+A measuring instrument is described not only by its accuracy and precision but by a
+
+502
+00:32:57.643 --> 00:33:01.883
+set of further characteristics that determine how faithfully it represents the
+
+503
+00:33:01.883 --> 00:33:06.232
+quantity being measured, and these are important when selecting and interpreting
+
+504
+00:33:06.232 --> 00:33:07.319
+any clinical device.
+
+505
+00:33:07.459 --> 00:33:10.617
+The range is the span of values, from minimum to maximum,
+
+506
+00:33:10.617 --> 00:33:14.718
+that the instrument can measure; a reading near the extremes of the range,
+
+507
+00:33:14.718 --> 00:33:16.269
+or beyond it, is unreliable.
+
+508
+00:33:16.409 --> 00:33:21.125
+Linearity is the degree to which the output is directly proportional to the input
+
+509
+00:33:21.125 --> 00:33:24.793
+across the range — a linear device has a constant relationship,
+
+510
+00:33:24.793 --> 00:33:29.567
+so that a given change in the measured quantity produces the same change in output
+
+511
+00:33:29.567 --> 00:33:33.060
+everywhere, which simplifies calibration and interpretation;
+
+512
+00:33:33.060 --> 00:33:35.097
+non-linear devices need correction.
+
+513
+00:33:35.237 --> 00:33:39.702
+Drift is a slow change in the output over time when the measured quantity is
+
+514
+00:33:39.702 --> 00:33:43.637
+unchanged, usually from temperature change or ageing of components,
+
+515
+00:33:43.637 --> 00:33:48.101
+which degrades accuracy and necessitates periodic recalibration and zeroing.
+
+516
+00:33:48.241 --> 00:33:52.704
+Hysteresis is the property whereby the reading for a given value differs depending
+
+517
+00:33:52.704 --> 00:33:56.948
+on whether that value is being approached from above or below — the instrument
+
+518
+00:33:56.948 --> 00:34:01.084
+lagging behind changes — which introduces error in fluctuating measurements.
+
+519
+00:34:01.224 --> 00:34:04.308
+The response time, or the related frequency response,
+
+520
+00:34:04.308 --> 00:34:08.904
+describes how quickly the instrument follows a change in the measured quantity,
+
+521
+00:34:08.904 --> 00:34:13.268
+crucial for measuring rapidly changing signals such as a pressure waveform.
+
+522
+00:34:13.268 --> 00:34:16.584
+Sensitivity is the smallest change the device can detect.
+
+523
+00:34:16.724 --> 00:34:21.344
+So a measurement system is characterised by its range, its linearity, its drift,
+
+524
+00:34:21.344 --> 00:34:25.849
+its hysteresis, its response time and frequency response, and its sensitivity,
+
+525
+00:34:25.849 --> 00:34:28.390
+all of which, beyond accuracy and precision,
+
+526
+00:34:28.390 --> 00:34:33.184
+determine how faithfully it represents the measured quantity and must be considered
+
+527
+00:34:33.184 --> 00:34:35.263
+when choosing and trusting a device.
+
+528
+00:34:35.763 --> 00:34:39.219
+Explain calibration and why it is essential.
+
+529
+00:34:39.719 --> 00:34:44.215
+Calibration is the process of checking and adjusting a measuring instrument against
+
+530
+00:34:44.215 --> 00:34:47.519
+a known reference standard so that its readings are accurate,
+
+531
+00:34:47.519 --> 00:34:51.473
+and it is essential to the trustworthiness of every clinical measurement.
+
+532
+00:34:51.613 --> 00:34:55.904
+The principle is to expose the instrument to one or more known values of the
+
+533
+00:34:55.904 --> 00:35:00.421
+quantity it measures — values established by a reliable standard — and to adjust
+
+534
+00:35:00.421 --> 00:35:03.074
+the instrument so that its output matches them,
+
+535
+00:35:03.074 --> 00:35:07.421
+thereby correcting systematic error and confirming accuracy across the range.
+
+536
+00:35:07.561 --> 00:35:09.652
+Calibration takes several forms.
+
+537
+00:35:09.792 --> 00:35:13.773
+A single-point calibration sets the instrument correct at one value,
+
+538
+00:35:13.773 --> 00:35:18.573
+commonly the zero, which is why zeroing — setting the output to read zero when the
+
+539
+00:35:18.573 --> 00:35:23.315
+true value is zero, as when an arterial transducer is opened to atmosphere — is a
+
+540
+00:35:23.315 --> 00:35:24.896
+routine and important step.
+
+541
+00:35:25.036 --> 00:35:27.735
+A two-point calibration uses two known values,
+
+542
+00:35:27.735 --> 00:35:31.137
+typically the zero and a known full-scale value, the span,
+
+543
+00:35:31.137 --> 00:35:35.831
+to correct both the offset and the gain, which suffices for a linear instrument.
+
+544
+00:35:35.971 --> 00:35:39.780
+A multi-point calibration uses several values across the range,
+
+545
+00:35:39.780 --> 00:35:44.798
+needed for non-linear devices. Calibration must be repeated periodically because of
+
+546
+00:35:44.798 --> 00:35:47.277
+drift, and after maintenance or movement.
+
+547
+00:35:47.417 --> 00:35:52.223
+The reference standards used must themselves be traceable to recognised national or
+
+548
+00:35:52.223 --> 00:35:56.566
+international standards, forming a chain of traceability that underpins the
+
+549
+00:35:56.566 --> 00:35:59.172
+validity of measurement. Without calibration,
+
+550
+00:35:59.172 --> 00:36:02.820
+systematic errors go undetected and readings cannot be trusted.
+
+551
+00:36:02.960 --> 00:36:07.704
+So calibration is the adjustment of an instrument against known reference standards
+
+552
+00:36:07.704 --> 00:36:10.676
+— by zeroing, by two-point setting of zero and span,
+
+553
+00:36:10.676 --> 00:36:15.420
+or by multi-point correction — repeated periodically to counter drift and traceable
+
+554
+00:36:15.420 --> 00:36:20.050
+to recognised standards, and it is essential because it corrects systematic error
+
+555
+00:36:20.050 --> 00:36:22.736
+and is what allows a measurement to be trusted.
+
+556
+00:36:34.249 --> 00:36:38.217
+Thank you. An excellent and complete account. Let us stop there.
+
+557
+00:36:38.717 --> 00:36:42.195
+Before we close, here are the take-home messages.
+
+558
+00:36:42.335 --> 00:36:44.902
+First, The SI system is a coherent,
+
+559
+00:36:44.902 --> 00:36:50.476
+reproducible framework of seven base units (metre, kilogram, second, ampere,
+
+560
+00:36:50.476 --> 00:36:56.417
+kelvin, mole, candela) from which all derived units (newton, pascal, joule, watt,
+
+561
+00:36:56.417 --> 00:37:01.257
+volt, hertz) are logically built, with decimal prefixes for scale.
+
+562
+00:37:01.397 --> 00:37:06.690
+Second, Pressure is force per unit area (SI unit the pascal),
+
+563
+00:37:06.690 --> 00:37:12.851
+but clinical practice uses kilopascals, mmHg (blood and gas pressures),
+
+564
+00:37:12.851 --> 00:37:19.965
+cmH2O (airway and venous pressures) and bar (cylinders) - so fluency in conversion
+
+565
+00:37:19.965 --> 00:37:23.349
+is essential (1 kPa is about 7.5 mmHg).
+
+566
+00:37:23.489 --> 00:37:26.832
+Third, Accuracy is closeness to the true value;
+
+567
+00:37:26.832 --> 00:37:32.449
+precision is consistency of repeated readings - systematic errors (bias) reduce
+
+568
+00:37:32.449 --> 00:37:35.436
+accuracy and are corrected by calibration,
+
+569
+00:37:35.436 --> 00:37:40.129
+while random errors reduce precision and are reduced by averaging.
+
+570
+00:37:40.269 --> 00:37:45.462
+Fourth, Absolute temperature in kelvin (measured from absolute zero,
+
+571
+00:37:45.462 --> 00:37:51.572
+minus 273 degrees Celsius) must be used in physical calculations such as the gas
+
+572
+00:37:51.572 --> 00:37:57.146
+laws; the mole counts particles and underlies concentrations because many
+
+573
+00:37:57.146 --> 00:38:01.347
+biological effects depend on particle number, not mass.
+
+574
+00:38:01.487 --> 00:38:06.297
+Fifth, Correct, unambiguous use of units is a patient-safety issue:
+
+575
+00:38:06.297 --> 00:38:11.395
+prefix confusion (milligram versus microgram is a thousand-fold error),
+
+576
+00:38:11.395 --> 00:38:16.133
+decimal-point errors and concentration miscalculations cause harm,
+
+577
+00:38:16.133 --> 00:38:19.005
+prevented by clear notation, full words,
+
+578
+00:38:19.005 --> 00:38:22.308
+standard conventions and independent checking.
+
+579
+00:38:22.808 --> 00:38:25.283
+Thank you. That concludes the station.
+

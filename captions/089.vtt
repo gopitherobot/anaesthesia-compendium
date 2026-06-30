@@ -1,0 +1,2194 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.528
+Welcome to Anaesthesia Compendium. Today's viva station:
+
+2
+00:00:04.528 --> 00:00:10.070
+the gas laws and the behaviour of gases. I shall take the candidate through it,
+
+3
+00:00:10.070 --> 00:00:12.525
+question by question. Let us begin.
+
+4
+00:00:13.025 --> 00:00:18.776
+Let us begin. What is a gas, and why does the behaviour of gases matter so much in
+
+5
+00:00:18.776 --> 00:00:19.617
+anaesthesia?
+
+6
+00:00:20.117 --> 00:00:24.161
+A gas is a state of matter in which the molecules are widely separated,
+
+7
+00:00:24.161 --> 00:00:27.522
+move freely and rapidly at high speed in random directions,
+
+8
+00:00:27.522 --> 00:00:31.680
+and exert pressure by their collisions with the walls of their container,
+
+9
+00:00:31.680 --> 00:00:36.123
+having neither a fixed shape nor a fixed volume but expanding to fill whatever
+
+10
+00:00:36.123 --> 00:00:37.205
+space is available.
+
+11
+00:00:37.345 --> 00:00:41.962
+This molecular freedom distinguishes gases from liquids and solids and gives rise
+
+12
+00:00:41.962 --> 00:00:46.351
+to the relationships, the gas laws, that describe how their pressure, volume,
+
+13
+00:00:46.351 --> 00:00:48.631
+temperature and amount are interrelated.
+
+14
+00:00:48.771 --> 00:00:53.468
+The behaviour of gases matters profoundly in anaesthesia because our practice is
+
+15
+00:00:53.468 --> 00:00:57.050
+conducted largely through gases and vapours: we store oxygen,
+
+16
+00:00:57.050 --> 00:01:00.809
+nitrous oxide and air in cylinders and pipelines under pressure;
+
+17
+00:01:00.809 --> 00:01:03.216
+we deliver anaesthetic agents as vapours;
+
+18
+00:01:03.216 --> 00:01:06.446
+we measure gas pressures and concentrations constantly;
+
+19
+00:01:06.446 --> 00:01:11.320
+and the patient's own respiratory physiology is the movement and exchange of gases.
+
+20
+00:01:11.460 --> 00:01:15.867
+Understanding the gas laws allows us to predict how a gas will behave when its
+
+21
+00:01:15.867 --> 00:01:20.048
+conditions change — how the contents of a cylinder relate to its pressure,
+
+22
+00:01:20.048 --> 00:01:24.681
+how a gas cools when it expands, how the volume of a gas-filled space changes with
+
+23
+00:01:24.681 --> 00:01:28.975
+pressure or temperature, and how partial pressures relate to concentrations.
+
+24
+00:01:29.115 --> 00:01:33.199
+These principles underpin the safe storage and delivery of medical gases,
+
+25
+00:01:33.199 --> 00:01:35.326
+the function of anaesthetic equipment,
+
+26
+00:01:35.326 --> 00:01:38.907
+and the interpretation of respiratory and blood-gas measurement.
+
+27
+00:01:39.047 --> 00:01:43.630
+So a gas is matter whose freely moving molecules exert pressure by collision and
+
+28
+00:01:43.630 --> 00:01:48.328
+fill their container, and the gas laws describing its behaviour are fundamental to
+
+29
+00:01:48.328 --> 00:01:52.625
+anaesthesia because so much of our practice involves the storage, delivery,
+
+30
+00:01:52.625 --> 00:01:55.260
+measurement and exchange of gases and vapours.
+
+31
+00:01:55.760 --> 00:01:58.085
+State and explain Boyle's law.
+
+32
+00:01:58.585 --> 00:02:02.733
+Boyle's law describes the relationship between the pressure and the volume of a
+
+33
+00:02:02.733 --> 00:02:04.938
+fixed mass of gas at constant temperature,
+
+34
+00:02:04.938 --> 00:02:07.353
+and it is one of the three classical gas laws.
+
+35
+00:02:07.493 --> 00:02:11.109
+The law states that, for a fixed mass of gas at constant temperature,
+
+36
+00:02:11.109 --> 00:02:15.353
+the volume is inversely proportional to the pressure — so that if the pressure is
+
+37
+00:02:15.353 --> 00:02:19.440
+doubled, the volume halves, and if the pressure is halved, the volume doubles.
+
+38
+00:02:19.580 --> 00:02:23.724
+Expressed another way, the product of the pressure and the volume is a constant at
+
+39
+00:02:23.724 --> 00:02:24.785
+constant temperature.
+
+40
+00:02:24.925 --> 00:02:27.417
+The molecular explanation is straightforward:
+
+41
+00:02:27.417 --> 00:02:31.127
+pressure arises from molecular collisions with the container walls,
+
+42
+00:02:31.127 --> 00:02:33.896
+so if the gas is compressed into a smaller volume,
+
+43
+00:02:33.896 --> 00:02:38.215
+the same number of molecules collide with a smaller wall area more frequently,
+
+44
+00:02:38.215 --> 00:02:40.264
+raising the pressure proportionately.
+
+45
+00:02:40.404 --> 00:02:43.847
+Boyle's law has several practical applications in anaesthesia.
+
+46
+00:02:43.847 --> 00:02:48.456
+It underlies the relationship between the pressure and volume of gas in a cylinder,
+
+47
+00:02:48.456 --> 00:02:52.788
+allowing the estimation of cylinder contents — though this applies strictly to
+
+48
+00:02:52.788 --> 00:02:54.399
+gases that are not liquefied.
+
+49
+00:02:54.539 --> 00:02:58.964
+It governs the behaviour of a gas-filled space subjected to changing pressure,
+
+50
+00:02:58.964 --> 00:03:03.674
+such as the expansion of a gas pocket as ambient pressure falls at altitude or in a
+
+51
+00:03:03.674 --> 00:03:08.213
+hyperbaric chamber, and the compression of the lungs and of gas-filled cavities.
+
+52
+00:03:08.353 --> 00:03:12.663
+It also features in some methods of measuring lung volumes by gas compression.
+
+53
+00:03:12.803 --> 00:03:17.205
+So Boyle's law states that at constant temperature the volume of a fixed mass of
+
+54
+00:03:17.205 --> 00:03:21.387
+gas is inversely proportional to its pressure, their product being constant,
+
+55
+00:03:21.387 --> 00:03:25.625
+which underlies cylinder contents, the behaviour of gas spaces under changing
+
+56
+00:03:25.625 --> 00:03:28.376
+pressure, and certain measurements of lung volume.
+
+57
+00:03:28.876 --> 00:03:30.604
+Now Charles's law.
+
+58
+00:03:31.104 --> 00:03:35.581
+Charles's law describes the relationship between the volume and the temperature of
+
+59
+00:03:35.581 --> 00:03:39.893
+a fixed mass of gas at constant pressure, the second of the classical gas laws.
+
+60
+00:03:40.033 --> 00:03:43.718
+The law states that, for a fixed mass of gas at constant pressure,
+
+61
+00:03:43.718 --> 00:03:48.240
+the volume is directly proportional to the absolute temperature — so that heating
+
+62
+00:03:48.240 --> 00:03:52.093
+the gas expands it and cooling it contracts it, in direct proportion,
+
+63
+00:03:52.093 --> 00:03:55.777
+provided the temperature is measured on the absolute kelvin scale.
+
+64
+00:03:55.917 --> 00:04:00.372
+The molecular explanation is that raising the temperature increases the average
+
+65
+00:04:00.372 --> 00:04:02.741
+kinetic energy and speed of the molecules,
+
+66
+00:04:02.741 --> 00:04:06.012
+so that to keep the pressure constant the gas must expand,
+
+67
+00:04:06.012 --> 00:04:10.467
+increasing the volume over which the more energetic collisions are distributed.
+
+68
+00:04:10.607 --> 00:04:13.770
+It is essential that temperature be expressed in kelvin,
+
+69
+00:04:13.770 --> 00:04:17.046
+because the proportionality holds only from absolute zero;
+
+70
+00:04:17.046 --> 00:04:19.588
+using Celsius would give nonsensical results,
+
+71
+00:04:19.588 --> 00:04:24.221
+since the volume does not double when the Celsius temperature doubles but when the
+
+72
+00:04:24.221 --> 00:04:25.689
+absolute temperature does.
+
+73
+00:04:25.829 --> 00:04:30.305
+Charles's law explains why a gas expands on warming and contracts on cooling,
+
+74
+00:04:30.305 --> 00:04:34.838
+relevant to the changes in volume of gases as they are warmed from cylinder or
+
+75
+00:04:34.838 --> 00:04:37.221
+pipeline temperature to body temperature,
+
+76
+00:04:37.221 --> 00:04:41.638
+and to the calibration and correction of gas-volume measurements to standard
+
+77
+00:04:41.638 --> 00:04:42.277
+conditions.
+
+78
+00:04:42.417 --> 00:04:46.892
+It is part of the reasoning behind expressing gas volumes at a defined temperature
+
+79
+00:04:46.892 --> 00:04:47.601
+and pressure.
+
+80
+00:04:47.741 --> 00:04:52.580
+So Charles's law states that at constant pressure the volume of a fixed mass of gas
+
+81
+00:04:52.580 --> 00:04:55.670
+is directly proportional to its absolute temperature,
+
+82
+00:04:55.670 --> 00:04:58.760
+reflecting the increased molecular energy on heating,
+
+83
+00:04:58.760 --> 00:05:03.541
+and it requires the use of the kelvin scale and explains the thermal expansion and
+
+84
+00:05:03.541 --> 00:05:04.765
+contraction of gases.
+
+85
+00:05:16.279 --> 00:05:20.076
+And the third gas law, relating pressure and temperature.
+
+86
+00:05:20.576 --> 00:05:25.113
+The third classical gas law, sometimes called Gay-Lussac's law or the pressure law,
+
+87
+00:05:25.113 --> 00:05:29.651
+describes the relationship between the pressure and the temperature of a fixed mass
+
+88
+00:05:29.651 --> 00:05:31.072
+of gas at constant volume.
+
+89
+00:05:31.212 --> 00:05:35.134
+The law states that, for a fixed mass of gas held at constant volume,
+
+90
+00:05:35.134 --> 00:05:39.852
+the pressure is directly proportional to the absolute temperature — so that heating
+
+91
+00:05:39.852 --> 00:05:43.432
+the gas raises its pressure and cooling it lowers its pressure,
+
+92
+00:05:43.432 --> 00:05:47.468
+in direct proportion, again provided temperature is measured in kelvin.
+
+93
+00:05:47.608 --> 00:05:52.199
+The molecular explanation is that raising the temperature increases the speed and
+
+94
+00:05:52.199 --> 00:05:56.734
+kinetic energy of the molecules, so that in a fixed volume they strike the walls
+
+95
+00:05:56.734 --> 00:05:59.228
+harder and more often, raising the pressure.
+
+96
+00:05:59.228 --> 00:06:03.139
+This law has direct and important safety implications in anaesthesia.
+
+97
+00:06:03.279 --> 00:06:07.938
+The pressure within a sealed, fixed-volume container of gas — such as a cylinder —
+
+98
+00:06:07.938 --> 00:06:11.234
+rises if the cylinder is heated and falls if it is cooled;
+
+99
+00:06:11.234 --> 00:06:14.131
+thus a full cylinder exposed to heat, as in a fire,
+
+100
+00:06:14.131 --> 00:06:16.461
+will develop a dangerously high pressure,
+
+101
+00:06:16.461 --> 00:06:21.007
+and conversely the pressure read from a cylinder is affected by its temperature.
+
+102
+00:06:21.147 --> 00:06:25.851
+It also explains the cooling and the pressure changes associated with the filling
+
+103
+00:06:25.851 --> 00:06:30.555
+and emptying of cylinders. The three classical laws together are special cases of
+
+104
+00:06:30.555 --> 00:06:33.691
+the more general combined and ideal gas relationships.
+
+105
+00:06:33.831 --> 00:06:38.541
+So the pressure law states that at constant volume the pressure of a fixed mass of
+
+106
+00:06:38.541 --> 00:06:41.816
+gas is directly proportional to its absolute temperature,
+
+107
+00:06:41.816 --> 00:06:46.584
+with the important safety implication that the pressure in a fixed-volume container
+
+108
+00:06:46.584 --> 00:06:49.916
+rises with heating, as when a cylinder is exposed to fire.
+
+109
+00:06:50.416 --> 00:06:53.915
+How are these combined into the ideal gas law?
+
+110
+00:06:54.415 --> 00:06:58.314
+The three classical gas laws, each holding one variable constant,
+
+111
+00:06:58.314 --> 00:07:00.774
+can be combined into a single expression,
+
+112
+00:07:00.774 --> 00:07:05.453
+and with the introduction of the amount of gas this becomes the ideal gas law,
+
+113
+00:07:05.453 --> 00:07:09.412
+the fundamental equation describing the behaviour of an ideal gas.
+
+114
+00:07:09.552 --> 00:07:13.970
+Combining Boyle's, Charles's and the pressure law gives the combined gas law:
+
+115
+00:07:13.970 --> 00:07:18.732
+for a fixed mass of gas, the product of pressure and volume divided by the absolute
+
+116
+00:07:18.732 --> 00:07:23.437
+temperature is constant, so that any change in two of the variables determines the
+
+117
+00:07:23.437 --> 00:07:23.781
+third.
+
+118
+00:07:23.921 --> 00:07:26.457
+Incorporating the amount of gas, in moles,
+
+119
+00:07:26.457 --> 00:07:30.140
+and the universal gas constant yields the ideal gas equation,
+
+120
+00:07:30.140 --> 00:07:35.152
+which states that the pressure multiplied by the volume equals the amount of gas in
+
+121
+00:07:35.152 --> 00:07:39.559
+moles multiplied by the universal gas constant multiplied by the absolute
+
+122
+00:07:39.559 --> 00:07:40.284
+temperature.
+
+123
+00:07:40.424 --> 00:07:45.007
+This single equation relates all four properties of a gas — pressure, volume,
+
+124
+00:07:45.007 --> 00:07:49.708
+amount and temperature — and contains the three classical laws as special cases
+
+125
+00:07:49.708 --> 00:07:52.029
+obtained by holding one variable fixed.
+
+126
+00:07:52.169 --> 00:07:56.781
+Its value is that it allows the complete prediction of how a gas will behave under
+
+127
+00:07:56.781 --> 00:07:59.930
+any change of conditions, and it underlies, for example,
+
+128
+00:07:59.930 --> 00:08:02.011
+the calculation of cylinder contents,
+
+129
+00:08:02.011 --> 00:08:05.891
+the relationship between the moles of gas and the volume it occupies,
+
+130
+00:08:05.891 --> 00:08:08.084
+and the standardisation of gas volumes.
+
+131
+00:08:08.224 --> 00:08:13.228
+An ideal gas is a theoretical gas whose molecules have negligible volume and no
+
+132
+00:08:13.228 --> 00:08:16.395
+intermolecular forces, which the equation assumes.
+
+133
+00:08:16.535 --> 00:08:19.996
+So the combined and ideal gas laws unite pressure, volume,
+
+134
+00:08:19.996 --> 00:08:24.650
+amount and temperature in a single relationship — pressure times volume equals
+
+135
+00:08:24.650 --> 00:08:29.126
+moles times the gas constant times absolute temperature — that predicts gas
+
+136
+00:08:29.126 --> 00:08:33.900
+behaviour under any conditions and contains the classical laws as special cases.
+
+137
+00:08:34.400 --> 00:08:38.667
+Real gases depart from ideal behaviour. When and why?
+
+138
+00:08:39.167 --> 00:08:41.501
+An ideal gas is a theoretical construct,
+
+139
+00:08:41.501 --> 00:08:45.527
+and real gases deviate from ideal behaviour under certain conditions,
+
+140
+00:08:45.527 --> 00:08:49.845
+which is clinically important because some of the gases we use most depart
+
+141
+00:08:49.845 --> 00:08:53.929
+significantly from the ideal, particularly when stored under pressure.
+
+142
+00:08:54.069 --> 00:08:58.742
+The ideal gas law assumes two things that are not strictly true of real gases:
+
+143
+00:08:58.742 --> 00:09:02.037
+that the molecules themselves occupy negligible volume,
+
+144
+00:09:02.037 --> 00:09:05.991
+and that there are no attractive or repulsive forces between them.
+
+145
+00:09:05.991 --> 00:09:10.304
+Real molecules do have a finite size and do exert intermolecular forces.
+
+146
+00:09:10.444 --> 00:09:14.725
+These assumptions hold well when the gas is dilute — at low pressure and high
+
+147
+00:09:14.725 --> 00:09:17.116
+temperature, where molecules are far apart,
+
+148
+00:09:17.116 --> 00:09:20.897
+their own volume is negligible and the forces between them are weak.
+
+149
+00:09:21.037 --> 00:09:24.935
+Deviation becomes significant at high pressure and low temperature,
+
+150
+00:09:24.935 --> 00:09:27.669
+where the molecules are crowded close together:
+
+151
+00:09:27.669 --> 00:09:31.393
+their finite volume becomes a appreciable fraction of the total,
+
+152
+00:09:31.393 --> 00:09:34.883
+and the intermolecular attractive forces become significant,
+
+153
+00:09:34.883 --> 00:09:38.723
+so the gas no longer obeys the ideal law and may begin to liquefy.
+
+154
+00:09:38.863 --> 00:09:40.996
+The clinical relevance is considerable.
+
+155
+00:09:41.136 --> 00:09:45.281
+Nitrous oxide in a cylinder is stored under such pressure that it is partly
+
+156
+00:09:45.281 --> 00:09:49.812
+liquefied — it is a real gas behaving very non-ideally — which is why its cylinder
+
+157
+00:09:49.812 --> 00:09:54.343
+pressure does not reflect its contents in the way Boyle's law would predict for an
+
+158
+00:09:54.343 --> 00:09:54.896
+ideal gas.
+
+159
+00:09:55.036 --> 00:09:59.729
+The critical temperature concept formalises when a gas can be liquefied by pressure.
+
+160
+00:09:59.869 --> 00:10:04.616
+So real gases deviate from ideal behaviour at high pressure and low temperature,
+
+161
+00:10:04.616 --> 00:10:07.939
+where molecular volume and intermolecular forces matter,
+
+162
+00:10:07.939 --> 00:10:11.678
+and this is clinically crucial for understanding the non-ideal,
+
+163
+00:10:11.678 --> 00:10:15.891
+partly-liquefied behaviour of gases such as nitrous oxide in cylinders.
+
+164
+00:10:27.404 --> 00:10:31.969
+Explain critical temperature and its relevance to medical gases.
+
+165
+00:10:32.469 --> 00:10:36.684
+The critical temperature is a fundamental property of any gas that determines
+
+166
+00:10:36.684 --> 00:10:39.201
+whether it can be liquefied by pressure alone,
+
+167
+00:10:39.201 --> 00:10:42.923
+and it is central to understanding how the medical gases are stored.
+
+168
+00:10:43.063 --> 00:10:47.337
+The critical temperature is defined as the temperature above which a substance
+
+169
+00:10:47.337 --> 00:10:50.953
+cannot be liquefied by the application of pressure, however great;
+
+170
+00:10:50.953 --> 00:10:54.953
+below the critical temperature, sufficient pressure will liquefy the gas,
+
+171
+00:10:54.953 --> 00:10:59.063
+but above it the substance remains gaseous no matter how high the pressure.
+
+172
+00:10:59.203 --> 00:11:03.901
+The related critical pressure is the pressure required to liquefy the gas at its
+
+173
+00:11:03.901 --> 00:11:08.364
+critical temperature. This concept explains the contrasting behaviour of our
+
+174
+00:11:08.364 --> 00:11:09.187
+medical gases.
+
+175
+00:11:09.327 --> 00:11:12.826
+Oxygen has a critical temperature far below room temperature,
+
+176
+00:11:12.826 --> 00:11:16.038
+at about minus one hundred and eighteen degrees Celsius,
+
+177
+00:11:16.038 --> 00:11:20.742
+so at room temperature oxygen cannot be liquefied by pressure and remains a gas in
+
+178
+00:11:20.742 --> 00:11:23.036
+the cylinder, however highly compressed;
+
+179
+00:11:23.036 --> 00:11:26.535
+its cylinder pressure therefore falls steadily as it empties,
+
+180
+00:11:26.535 --> 00:11:28.313
+in accordance with Boyle's law.
+
+181
+00:11:28.453 --> 00:11:33.213
+Nitrous oxide, by contrast, has a critical temperature of about thirty-six point
+
+182
+00:11:33.213 --> 00:11:36.843
+five degrees Celsius, which is above normal room temperature,
+
+183
+00:11:36.843 --> 00:11:40.532
+so at room temperature it can be and is liquefied by pressure,
+
+184
+00:11:40.532 --> 00:11:44.816
+and a nitrous oxide cylinder contains liquid in equilibrium with vapour.
+
+185
+00:11:44.956 --> 00:11:49.535
+Carbon dioxide similarly has a critical temperature around thirty-one degrees.
+
+186
+00:11:49.535 --> 00:11:53.997
+To store oxygen as a liquid, it must be kept below its critical temperature,
+
+187
+00:11:53.997 --> 00:11:58.694
+which is why liquid oxygen is stored at very low temperature in vacuum-insulated
+
+188
+00:11:58.694 --> 00:11:59.164
+vessels.
+
+189
+00:11:59.304 --> 00:12:03.456
+So the critical temperature is the temperature above which a gas cannot be
+
+190
+00:12:03.456 --> 00:12:07.888
+liquefied by pressure, and it explains why oxygen is stored as a compressed gas
+
+191
+00:12:07.888 --> 00:12:11.927
+while nitrous oxide, with a critical temperature above room temperature,
+
+192
+00:12:11.927 --> 00:12:14.003
+is stored as a liquid under pressure.
+
+193
+00:12:14.503 --> 00:12:20.334
+Why does the pressure gauge of a nitrous oxide cylinder not indicate its contents,
+
+194
+00:12:20.334 --> 00:12:22.396
+whereas an oxygen gauge does?
+
+195
+00:12:22.896 --> 00:12:27.444
+The contrasting behaviour of the oxygen and nitrous oxide cylinder gauges is a
+
+196
+00:12:27.444 --> 00:12:31.933
+direct and clinically important consequence of whether the gas is stored as a
+
+197
+00:12:31.933 --> 00:12:36.656
+compressed gas or as a liquid, which in turn depends on its critical temperature.
+
+198
+00:12:36.796 --> 00:12:39.957
+In an oxygen cylinder, the oxygen is entirely gaseous,
+
+199
+00:12:39.957 --> 00:12:43.645
+because its critical temperature is far below room temperature.
+
+200
+00:12:43.645 --> 00:12:48.329
+As oxygen is drawn off, the number of gas molecules in the fixed cylinder volume
+
+201
+00:12:48.329 --> 00:12:51.900
+falls, and by Boyle's law the pressure falls proportionately.
+
+202
+00:12:52.040 --> 00:12:54.702
+The pressure gauge therefore gives a reliable,
+
+203
+00:12:54.702 --> 00:12:57.249
+linear indication of the remaining contents:
+
+204
+00:12:57.249 --> 00:13:00.894
+a half-full oxygen cylinder reads about half its full pressure,
+
+205
+00:13:00.894 --> 00:13:02.920
+and the contents can be calculated.
+
+206
+00:13:03.060 --> 00:13:05.500
+In a nitrous oxide cylinder, by contrast,
+
+207
+00:13:05.500 --> 00:13:10.023
+the nitrous oxide is stored mostly as liquid in equilibrium with its vapour,
+
+208
+00:13:10.023 --> 00:13:13.535
+because its critical temperature is above room temperature.
+
+209
+00:13:13.675 --> 00:13:16.635
+As gas is drawn off, liquid evaporates to replace it,
+
+210
+00:13:16.635 --> 00:13:20.378
+keeping the vapour pressure constant as long as any liquid remains;
+
+211
+00:13:20.378 --> 00:13:24.623
+the gauge therefore reads a roughly constant pressure — the saturated vapour
+
+212
+00:13:24.623 --> 00:13:27.584
+pressure — and does not fall as the cylinder empties,
+
+213
+00:13:27.584 --> 00:13:31.661
+giving no indication of the contents until almost all the liquid is gone,
+
+214
+00:13:31.661 --> 00:13:33.728
+whereupon the pressure finally falls.
+
+215
+00:13:33.868 --> 00:13:38.151
+The contents of a nitrous oxide cylinder must therefore be determined by weighing
+
+216
+00:13:38.151 --> 00:13:42.593
+it, the weight of nitrous oxide being the difference from the empty cylinder weight.
+
+217
+00:13:42.733 --> 00:13:47.239
+So the oxygen gauge indicates contents because the gas is compressed and obeys
+
+218
+00:13:47.239 --> 00:13:52.034
+Boyle's law, whereas the nitrous oxide gauge reads a constant vapour pressure while
+
+219
+00:13:52.034 --> 00:13:54.865
+liquid remains and so does not indicate contents,
+
+220
+00:13:54.865 --> 00:13:57.176
+which must instead be found by weighing.
+
+221
+00:13:57.676 --> 00:14:00.940
+Describe Dalton's law of partial pressures.
+
+222
+00:14:01.440 --> 00:14:05.030
+Dalton's law of partial pressures concerns mixtures of gases,
+
+223
+00:14:05.030 --> 00:14:09.739
+and it is fundamental to the expression of gas concentrations and to respiratory
+
+224
+00:14:09.739 --> 00:14:11.211
+and blood-gas physiology.
+
+225
+00:14:11.351 --> 00:14:15.189
+The law states that in a mixture of gases that do not chemically react,
+
+226
+00:14:15.189 --> 00:14:19.677
+each gas exerts a partial pressure equal to the pressure it would exert if it alone
+
+227
+00:14:19.677 --> 00:14:24.110
+occupied the whole volume, and the total pressure of the mixture is the sum of the
+
+228
+00:14:24.110 --> 00:14:26.327
+partial pressures of its component gases.
+
+229
+00:14:26.467 --> 00:14:31.384
+Each gas behaves independently, contributing to the total pressure in proportion to
+
+230
+00:14:31.384 --> 00:14:36.065
+its fractional amount. Thus the partial pressure of any gas in a mixture is its
+
+231
+00:14:36.065 --> 00:14:39.501
+fractional concentration multiplied by the total pressure.
+
+232
+00:14:39.641 --> 00:14:43.706
+This law is indispensable in anaesthesia and respiratory physiology.
+
+233
+00:14:43.706 --> 00:14:46.994
+The partial pressure of oxygen in dry air, for example,
+
+234
+00:14:46.994 --> 00:14:51.418
+is its fractional concentration of about twenty-one per cent multiplied by
+
+235
+00:14:51.418 --> 00:14:55.663
+atmospheric pressure, giving about twenty-one kilopascals at sea level.
+
+236
+00:14:55.803 --> 00:15:00.221
+The partial pressures of oxygen and carbon dioxide in the alveoli and the blood,
+
+237
+00:15:00.221 --> 00:15:03.756
+which drive their diffusion and which we measure in blood gases,
+
+238
+00:15:03.756 --> 00:15:05.744
+are understood through Dalton's law.
+
+239
+00:15:05.884 --> 00:15:10.215
+It explains why the partial pressure of inspired oxygen falls at altitude,
+
+240
+00:15:10.215 --> 00:15:15.014
+where the total pressure falls although the fractional concentration is unchanged,
+
+241
+00:15:15.014 --> 00:15:18.876
+and conversely why partial pressures rise in a hyperbaric chamber.
+
+242
+00:15:19.016 --> 00:15:23.630
+It also underlies the calculation of the partial pressures of anaesthetic vapours
+
+243
+00:15:23.630 --> 00:15:24.541
+in gas mixtures.
+
+244
+00:15:24.681 --> 00:15:29.106
+So Dalton's law states that each gas in a mixture exerts a partial pressure
+
+245
+00:15:29.106 --> 00:15:31.526
+independently, the total being their sum,
+
+246
+00:15:31.526 --> 00:15:36.246
+with each partial pressure equal to the fractional concentration times the total
+
+247
+00:15:36.246 --> 00:15:41.025
+pressure — the basis of expressing gas concentrations as partial pressures and of
+
+248
+00:15:41.025 --> 00:15:45.332
+understanding alveolar and blood gas tensions and the effect of altitude.
+
+249
+00:15:56.845 --> 00:16:02.360
+Explain the universal gas constant and standard conditions for expressing gas
+
+250
+00:16:02.360 --> 00:16:02.861
+volume.
+
+251
+00:16:03.361 --> 00:16:07.781
+The universal gas constant and the convention of standard conditions are two
+
+252
+00:16:07.781 --> 00:16:12.492
+related ideas that allow gas quantities and volumes to be expressed precisely and
+
+253
+00:16:12.492 --> 00:16:13.132
+comparably.
+
+254
+00:16:13.272 --> 00:16:17.731
+The universal gas constant is the constant of proportionality in the ideal gas
+
+255
+00:16:17.731 --> 00:16:22.419
+equation, relating the product of pressure and volume to the product of the amount
+
+256
+00:16:22.419 --> 00:16:24.992
+of gas in moles and the absolute temperature;
+
+257
+00:16:24.992 --> 00:16:27.393
+it has the same value for all ideal gases,
+
+258
+00:16:27.393 --> 00:16:32.081
+which is the remarkable fact that gives the law its universality and reflects that
+
+259
+00:16:32.081 --> 00:16:36.826
+equal volumes of different gases at the same temperature and pressure contain equal
+
+260
+00:16:36.826 --> 00:16:39.341
+numbers of molecules — Avogadro's principle.
+
+261
+00:16:39.481 --> 00:16:44.380
+From it follows the result that one mole of an ideal gas occupies a fixed volume at
+
+262
+00:16:44.380 --> 00:16:46.446
+a defined temperature and pressure,
+
+263
+00:16:46.446 --> 00:16:51.345
+about twenty-two point four litres at zero degrees Celsius and standard atmospheric
+
+264
+00:16:51.345 --> 00:16:51.876
+pressure.
+
+265
+00:16:52.016 --> 00:16:55.848
+Because the volume of a gas depends on its temperature and pressure,
+
+266
+00:16:55.848 --> 00:16:59.848
+a stated gas volume is meaningless unless the conditions are specified,
+
+267
+00:16:59.848 --> 00:17:02.384
+which is why standard conditions are defined.
+
+268
+00:17:02.524 --> 00:17:06.327
+Several conventions exist: standard temperature and pressure, and,
+
+269
+00:17:06.327 --> 00:17:10.707
+in respiratory physiology, conventions such as body temperature and pressure
+
+270
+00:17:10.707 --> 00:17:15.433
+saturated with water vapour, used for expressing lung volumes as they exist in the
+
+271
+00:17:15.433 --> 00:17:20.273
+body, and standard temperature and pressure dry, used for expressing amounts of gas.
+
+272
+00:17:20.413 --> 00:17:24.054
+Converting volumes between these conditions, using the gas laws,
+
+273
+00:17:24.054 --> 00:17:26.899
+is necessary for accurate respiratory measurement.
+
+274
+00:17:27.039 --> 00:17:31.723
+So the universal gas constant is the common proportionality constant of the ideal
+
+275
+00:17:31.723 --> 00:17:35.019
+gas law for all gases, underlying the fixed molar volume,
+
+276
+00:17:35.019 --> 00:17:39.762
+and standard conditions are defined reference temperatures and pressures — such as
+
+277
+00:17:39.762 --> 00:17:43.868
+body temperature and pressure saturated — needed to express gas volumes
+
+278
+00:17:43.868 --> 00:17:46.239
+meaningfully and to convert between them.
+
+279
+00:17:46.739 --> 00:17:50.707
+What is the kinetic theory of gases, and what does it explain?
+
+280
+00:17:51.207 --> 00:17:56.072
+The kinetic theory of gases is the molecular model that underlies and explains the
+
+281
+00:17:56.072 --> 00:18:00.938
+gas laws, accounting for the macroscopic behaviour of gases in terms of the motion
+
+282
+00:18:00.938 --> 00:18:02.065
+of their molecules.
+
+283
+00:18:02.205 --> 00:18:05.421
+The theory makes several assumptions about an ideal gas:
+
+284
+00:18:05.421 --> 00:18:10.015
+that a gas consists of a very large number of tiny molecules in constant, rapid,
+
+285
+00:18:10.015 --> 00:18:14.206
+random motion; that these molecules are so small that their own volume is
+
+286
+00:18:14.206 --> 00:18:16.905
+negligible compared with the space they occupy;
+
+287
+00:18:16.905 --> 00:18:20.695
+that they exert no forces on one another except during collisions;
+
+288
+00:18:20.695 --> 00:18:25.288
+and that collisions between molecules and with the container walls are perfectly
+
+289
+00:18:25.288 --> 00:18:26.781
+elastic, losing no energy.
+
+290
+00:18:26.921 --> 00:18:31.715
+From these assumptions the theory derives the gas laws and explains their molecular
+
+291
+00:18:31.715 --> 00:18:36.509
+basis. Pressure is explained as the result of the countless collisions of molecules
+
+292
+00:18:36.509 --> 00:18:40.148
+with the container walls, each collision exerting a tiny force.
+
+293
+00:18:40.288 --> 00:18:44.478
+Temperature is explained as a measure of the average kinetic energy of the
+
+294
+00:18:44.478 --> 00:18:47.989
+molecules — the hotter the gas, the faster its molecules move.
+
+295
+00:18:48.129 --> 00:18:52.676
+From this, Boyle's law follows because compressing the gas increases the frequency
+
+296
+00:18:52.676 --> 00:18:56.779
+of wall collisions; Charles's and the pressure laws follow because heating
+
+297
+00:18:56.779 --> 00:19:00.716
+increases molecular speed and so the force and frequency of collisions.
+
+298
+00:19:00.856 --> 00:19:02.916
+The theory also explains diffusion,
+
+299
+00:19:02.916 --> 00:19:06.035
+the gradual mixing of gases through molecular motion,
+
+300
+00:19:06.035 --> 00:19:09.213
+and the relationship between molecular mass and speed,
+
+301
+00:19:09.213 --> 00:19:11.096
+lighter molecules moving faster.
+
+302
+00:19:11.236 --> 00:19:16.008
+So the kinetic theory models a gas as many tiny molecules in rapid random motion,
+
+303
+00:19:16.008 --> 00:19:20.486
+with pressure arising from their collisions and temperature reflecting their
+
+304
+00:19:20.486 --> 00:19:24.846
+average kinetic energy, and from this it explains the gas laws, diffusion,
+
+305
+00:19:24.846 --> 00:19:27.556
+and the dependence of molecular speed on mass.
+
+306
+00:19:28.056 --> 00:19:33.475
+Describe the adiabatic process and where it is relevant in anaesthesia.
+
+307
+00:19:33.975 --> 00:19:38.612
+An adiabatic process is a change in the state of a gas that occurs without any
+
+308
+00:19:38.612 --> 00:19:40.931
+exchange of heat with the surroundings,
+
+309
+00:19:40.931 --> 00:19:45.569
+and it is relevant in anaesthesia because it explains temperature changes that
+
+310
+00:19:45.569 --> 00:19:48.780
+accompany the rapid compression or expansion of gases.
+
+311
+00:19:48.920 --> 00:19:52.454
+In an adiabatic process, because no heat enters or leaves,
+
+312
+00:19:52.454 --> 00:19:57.085
+any work done on or by the gas changes its internal energy and therefore its
+
+313
+00:19:57.085 --> 00:19:57.816
+temperature.
+
+314
+00:19:57.956 --> 00:20:00.763
+When a gas is rapidly compressed adiabatically,
+
+315
+00:20:00.763 --> 00:20:05.005
+the work done on it increases its internal energy and the gas heats up;
+
+316
+00:20:05.005 --> 00:20:07.454
+when a gas rapidly expands adiabatically,
+
+317
+00:20:07.454 --> 00:20:11.993
+it does work and its internal energy and temperature fall, so the gas cools.
+
+318
+00:20:12.133 --> 00:20:16.805
+The qualifier rapid is important, because a slow process would allow heat to be
+
+319
+00:20:16.805 --> 00:20:21.595
+exchanged with the surroundings, keeping the temperature constant — an isothermal
+
+320
+00:20:21.595 --> 00:20:25.616
+process — whereas a sufficiently rapid change behaves adiabatically.
+
+321
+00:20:25.756 --> 00:20:28.700
+This principle has several anaesthetic relevances.
+
+322
+00:20:28.840 --> 00:20:33.378
+The rapid opening of a cylinder valve causes adiabatic compression of the gas
+
+323
+00:20:33.378 --> 00:20:38.269
+downstream, which can generate enough heat to ignite any contaminant such as oil or
+
+324
+00:20:38.269 --> 00:20:41.982
+grease in the presence of oxygen — a fire and explosion hazard,
+
+325
+00:20:41.982 --> 00:20:46.696
+which is why oxygen equipment must be kept free of oil and valves opened slowly.
+
+326
+00:20:46.836 --> 00:20:51.517
+Conversely, the rapid expansion of a gas as it leaves a cylinder or regulator
+
+327
+00:20:51.517 --> 00:20:56.563
+causes adiabatic cooling, which can cause frosting of regulators and is part of the
+
+328
+00:20:56.563 --> 00:20:58.569
+cooling seen with high gas flows.
+
+329
+00:20:58.709 --> 00:21:02.226
+So an adiabatic process is a change without heat exchange,
+
+330
+00:21:02.226 --> 00:21:06.348
+in which rapid compression heats a gas and rapid expansion cools it,
+
+331
+00:21:06.348 --> 00:21:11.259
+relevant to the ignition hazard of rapidly pressurising oxygen and to the cooling
+
+332
+00:21:11.259 --> 00:21:12.896
+and frosting of regulators.
+
+333
+00:21:24.409 --> 00:21:28.100
+What is the Joule-Thomson effect, and where does it feature?
+
+334
+00:21:28.600 --> 00:21:32.306
+The Joule-Thomson effect, sometimes called the Joule-Kelvin effect,
+
+335
+00:21:32.306 --> 00:21:36.620
+describes the temperature change that occurs when a real gas expands through a
+
+336
+00:21:36.620 --> 00:21:40.989
+restriction from a region of high pressure to one of low pressure without doing
+
+337
+00:21:40.989 --> 00:21:45.027
+external work, and it features in the handling and liquefaction of gases.
+
+338
+00:21:45.167 --> 00:21:49.613
+When a real gas expands through a narrow orifice or porous plug in this way,
+
+339
+00:21:49.613 --> 00:21:54.059
+most gases cool, because energy is expended in overcoming the intermolecular
+
+340
+00:21:54.059 --> 00:21:58.506
+attractive forces as the molecules move apart — a property of real gases not
+
+341
+00:21:58.506 --> 00:22:02.425
+predicted for an ideal gas, which would show no temperature change.
+
+342
+00:22:02.565 --> 00:22:07.294
+The size and even the direction of the effect depend on the gas and its starting
+
+343
+00:22:07.294 --> 00:22:11.019
+temperature relative to a characteristic inversion temperature.
+
+344
+00:22:11.019 --> 00:22:15.984
+The effect is distinct from simple adiabatic expansion, though both produce cooling.
+
+345
+00:22:16.124 --> 00:22:20.671
+Its principal relevance is industrial and clinical in the liquefaction of gases:
+
+346
+00:22:20.671 --> 00:22:25.276
+the repeated expansion and cooling of a gas by the Joule-Thomson effect is one of
+
+347
+00:22:25.276 --> 00:22:28.686
+the methods used to cool gases sufficiently to liquefy them,
+
+348
+00:22:28.686 --> 00:22:33.291
+as in the production of liquid oxygen and the liquefaction of air to separate its
+
+349
+00:22:33.291 --> 00:22:33.916
+components.
+
+350
+00:22:34.056 --> 00:22:38.170
+It also contributes to the cooling observed when compressed gases are released
+
+351
+00:22:38.170 --> 00:22:39.752
+through regulators and valves.
+
+352
+00:22:39.892 --> 00:22:43.267
+So the Joule-Thomson effect is the cooling, in most gases,
+
+353
+00:22:43.267 --> 00:22:48.097
+that accompanies their expansion through a restriction without doing external work,
+
+354
+00:22:48.097 --> 00:22:51.180
+arising from the intermolecular forces of real gases,
+
+355
+00:22:51.180 --> 00:22:55.894
+and it is used in the liquefaction of gases such as oxygen and contributes to the
+
+356
+00:22:55.894 --> 00:22:58.047
+cooling of released compressed gases.
+
+357
+00:22:58.547 --> 00:23:03.773
+Apply the gas laws to the contents and behaviour of an oxygen cylinder.
+
+358
+00:23:04.273 --> 00:23:08.462
+The oxygen cylinder provides a clear practical application of the gas laws,
+
+359
+00:23:08.462 --> 00:23:12.819
+and being able to work with its contents and behaviour is an everyday clinical
+
+360
+00:23:12.819 --> 00:23:13.489
+requirement.
+
+361
+00:23:13.629 --> 00:23:17.338
+Oxygen, having a critical temperature far below room temperature,
+
+362
+00:23:17.338 --> 00:23:19.564
+is stored entirely as a compressed gas,
+
+363
+00:23:19.564 --> 00:23:24.186
+typically at a pressure of around one hundred and thirty-seven bar when full in a
+
+364
+00:23:24.186 --> 00:23:25.213
+standard cylinder.
+
+365
+00:23:25.353 --> 00:23:28.338
+Because the oxygen is gaseous, Boyle's law applies,
+
+366
+00:23:28.338 --> 00:23:32.786
+so the pressure is directly proportional to the contents: as oxygen is used,
+
+367
+00:23:32.786 --> 00:23:37.585
+the pressure falls in proportion, and the gauge gives a reliable indication of the
+
+368
+00:23:37.585 --> 00:23:38.580
+remaining volume.
+
+369
+00:23:38.720 --> 00:23:43.015
+The volume of gas available at atmospheric pressure can be estimated from the
+
+370
+00:23:43.015 --> 00:23:45.469
+cylinder's internal volume and its pressure,
+
+371
+00:23:45.469 --> 00:23:49.875
+since the product of pressure and volume is constant — a small cylinder at high
+
+372
+00:23:49.875 --> 00:23:54.059
+pressure holds a large volume of gas when expanded to atmospheric pressure.
+
+373
+00:23:54.199 --> 00:23:58.922
+This allows the practical calculation of how long a cylinder will last at a given
+
+374
+00:23:58.922 --> 00:24:03.530
+flow rate: dividing the available volume of gas by the flow gives the duration,
+
+375
+00:24:03.530 --> 00:24:06.679
+an essential calculation during transfer of a patient.
+
+376
+00:24:06.819 --> 00:24:11.090
+The pressure law reminds us that the gauge pressure varies with temperature,
+
+377
+00:24:11.090 --> 00:24:14.463
+and that heating a cylinder raises its pressure dangerously.
+
+378
+00:24:14.463 --> 00:24:19.128
+The rapid opening of the valve risks adiabatic heating and the oil ignition hazard.
+
+379
+00:24:19.268 --> 00:24:21.867
+So the oxygen cylinder applies Boyle's law,
+
+380
+00:24:21.867 --> 00:24:26.580
+its pressure indicating contents and allowing calculation of the available gas
+
+381
+00:24:26.580 --> 00:24:29.602
+volume and the duration of supply at a given flow,
+
+382
+00:24:29.602 --> 00:24:34.618
+with the pressure law and adiabatic heating governing its safe handling — practical
+
+383
+00:24:34.618 --> 00:24:38.788
+gas-law reasoning used routinely, especially during patient transfer.
+
+384
+00:24:39.288 --> 00:24:45.624
+Now contrast the behaviour of a nitrous oxide cylinder, including the filling ratio.
+
+385
+00:24:46.124 --> 00:24:50.634
+The nitrous oxide cylinder behaves quite differently from the oxygen cylinder,
+
+386
+00:24:50.634 --> 00:24:54.508
+and understanding it requires the concepts of critical temperature,
+
+387
+00:24:54.508 --> 00:24:56.705
+vapour pressure and the filling ratio.
+
+388
+00:24:56.845 --> 00:25:00.853
+Because nitrous oxide has a critical temperature above room temperature,
+
+389
+00:25:00.853 --> 00:25:03.971
+it is stored as a liquid in equilibrium with its vapour.
+
+390
+00:25:04.111 --> 00:25:08.626
+The pressure in the cylinder is the saturated vapour pressure of nitrous oxide,
+
+391
+00:25:08.626 --> 00:25:11.026
+around forty-four bar at room temperature,
+
+392
+00:25:11.026 --> 00:25:14.170
+and this pressure remains constant as gas is withdrawn,
+
+393
+00:25:14.170 --> 00:25:18.685
+because liquid evaporates to maintain the vapour as long as any liquid remains;
+
+394
+00:25:18.685 --> 00:25:22.457
+only when the liquid is exhausted does the pressure begin to fall.
+
+395
+00:25:22.597 --> 00:25:25.744
+Hence, as noted, the gauge does not indicate contents,
+
+396
+00:25:25.744 --> 00:25:29.765
+which must be found by weighing. Two further phenomena are important.
+
+397
+00:25:29.905 --> 00:25:32.009
+First, as nitrous oxide is drawn off,
+
+398
+00:25:32.009 --> 00:25:36.672
+the latent heat of vaporisation needed to evaporate the liquid cools the cylinder,
+
+399
+00:25:36.672 --> 00:25:40.708
+which can lower the vapour pressure and cause frosting of the cylinder,
+
+400
+00:25:40.708 --> 00:25:43.324
+reducing the delivered pressure at high flows.
+
+401
+00:25:43.464 --> 00:25:48.079
+Second, the filling ratio: cylinders are deliberately not filled completely with
+
+402
+00:25:48.079 --> 00:25:52.809
+liquid but to a defined filling ratio — the weight of nitrous oxide divided by the
+
+403
+00:25:52.809 --> 00:25:57.367
+weight of water that would fill the cylinder — typically about seventy-five per
+
+404
+00:25:57.367 --> 00:26:00.424
+cent in temperate climates and lower in hot climates.
+
+405
+00:26:00.564 --> 00:26:04.884
+This is a safety measure, because if a cylinder were overfilled and then warmed,
+
+406
+00:26:04.884 --> 00:26:09.205
+the expanding liquid could fill the cylinder completely and generate dangerously
+
+407
+00:26:09.205 --> 00:26:10.015
+high pressures.
+
+408
+00:26:10.155 --> 00:26:14.719
+So the nitrous oxide cylinder holds liquid at its saturated vapour pressure,
+
+409
+00:26:14.719 --> 00:26:19.644
+which stays constant until the liquid is gone, cools by latent heat as it empties,
+
+410
+00:26:19.644 --> 00:26:24.629
+and is filled only to a defined filling ratio to prevent dangerous pressure rise on
+
+411
+00:26:24.629 --> 00:26:25.109
+warming.
+
+412
+00:26:36.623 --> 00:26:39.526
+What is the latent heat of vaporisation,
+
+413
+00:26:39.526 --> 00:26:42.937
+and how does it affect gas and vapour delivery?
+
+414
+00:26:43.437 --> 00:26:48.395
+The latent heat of vaporisation is the energy required to convert a substance from
+
+415
+00:26:48.395 --> 00:26:52.324
+the liquid to the vapour state without any change in temperature,
+
+416
+00:26:52.324 --> 00:26:57.221
+and it is important in anaesthesia because the vaporisation of liquid anaesthetic
+
+417
+00:26:57.221 --> 00:27:01.272
+agents and of liquefied gases cools them, affecting their delivery.
+
+418
+00:27:01.412 --> 00:27:05.859
+When a liquid evaporates, the molecules that escape into the vapour are the most
+
+419
+00:27:05.859 --> 00:27:10.306
+energetic, and energy must be supplied to break the intermolecular bonds holding
+
+420
+00:27:10.306 --> 00:27:14.308
+them in the liquid; this energy, taken from the remaining liquid and its
+
+421
+00:27:14.308 --> 00:27:17.032
+surroundings, is the latent heat of vaporisation,
+
+422
+00:27:17.032 --> 00:27:21.145
+and because it is drawn from the liquid the liquid cools as it evaporates.
+
+423
+00:27:21.285 --> 00:27:25.139
+This cooling has direct consequences. In a nitrous oxide cylinder,
+
+424
+00:27:25.139 --> 00:27:29.518
+as the liquid evaporates to supply gas, the latent heat cools the cylinder,
+
+425
+00:27:29.518 --> 00:27:33.371
+lowering the vapour pressure and the delivered flow at high usage,
+
+426
+00:27:33.371 --> 00:27:34.597
+and causing frosting.
+
+427
+00:27:34.737 --> 00:27:39.379
+In an anaesthetic vaporiser, the volatile agent evaporating from the liquid cools
+
+428
+00:27:39.379 --> 00:27:44.021
+the liquid, which would progressively reduce the amount of vapour produced and so
+
+429
+00:27:44.021 --> 00:27:48.548
+the delivered concentration; vaporisers are therefore designed with temperature
+
+430
+00:27:48.548 --> 00:27:52.903
+compensation and are constructed of materials with high thermal capacity and
+
+431
+00:27:52.903 --> 00:27:57.602
+conductivity to draw heat from the surroundings and maintain a stable temperature,
+
+432
+00:27:57.602 --> 00:27:59.207
+keeping the output constant.
+
+433
+00:27:59.347 --> 00:28:04.317
+The latent heat is also the principle behind cooling by evaporation more generally.
+
+434
+00:28:04.457 --> 00:28:09.413
+So the latent heat of vaporisation is the energy needed to turn liquid into vapour,
+
+435
+00:28:09.413 --> 00:28:12.458
+drawn from the liquid so that evaporation cools it,
+
+436
+00:28:12.458 --> 00:28:16.816
+which lowers the output of nitrous oxide cylinders at high flow and would
+
+437
+00:28:16.816 --> 00:28:21.533
+destabilise vaporiser output were it not for the temperature compensation built
+
+438
+00:28:21.533 --> 00:28:22.847
+into vaporiser design.
+
+439
+00:28:23.347 --> 00:28:27.368
+Comment on the flow of gases through the equipment we use,
+
+440
+00:28:27.368 --> 00:28:29.448
+in relation to gas properties.
+
+441
+00:28:29.948 --> 00:28:34.377
+The flow of gases through anaesthetic equipment depends on the properties of the
+
+442
+00:28:34.377 --> 00:28:38.640
+gas and on the nature of the passage, and although flow is a topic in itself,
+
+443
+00:28:38.640 --> 00:28:41.020
+certain gas properties bear directly on it.
+
+444
+00:28:41.160 --> 00:28:44.047
+Gases flow from regions of higher to lower pressure,
+
+445
+00:28:44.047 --> 00:28:48.655
+and the relationship between the driving pressure and the resulting flow depends on
+
+446
+00:28:48.655 --> 00:28:50.931
+whether the flow is laminar or turbulent.
+
+447
+00:28:51.071 --> 00:28:55.261
+Laminar flow, occurring at lower flow rates and in smooth tubes, is orderly,
+
+448
+00:28:55.261 --> 00:28:59.561
+and its rate is governed by the driving pressure and the viscosity of the gas.
+
+449
+00:28:59.701 --> 00:29:03.764
+Turbulent flow, occurring at higher flow rates, through constrictions,
+
+450
+00:29:03.764 --> 00:29:06.898
+or in branching and irregular passages, is disorderly,
+
+451
+00:29:06.898 --> 00:29:10.091
+and its rate depends instead on the density of the gas.
+
+452
+00:29:10.231 --> 00:29:13.473
+The two relevant gas properties are therefore viscosity,
+
+453
+00:29:13.473 --> 00:29:17.527
+which governs laminar flow, and density, which governs turbulent flow.
+
+454
+00:29:17.667 --> 00:29:20.324
+This distinction has practical consequences:
+
+455
+00:29:20.324 --> 00:29:23.706
+in conditions of turbulent flow through a narrow airway,
+
+456
+00:29:23.706 --> 00:29:27.934
+a low-density gas mixture such as helium with oxygen can improve flow,
+
+457
+00:29:27.934 --> 00:29:30.893
+because turbulent flow improves as density falls.
+
+458
+00:29:31.033 --> 00:29:35.952
+The behaviour of flowmeters, the bobbin or float of the rotameter depending on both
+
+459
+00:29:35.952 --> 00:29:40.633
+viscosity and density at different flow ranges, also reflects these properties.
+
+460
+00:29:40.773 --> 00:29:45.198
+The nature of the flow through an orifice, where flow depends largely on density,
+
+461
+00:29:45.198 --> 00:29:47.109
+contrasts with that through a tube.
+
+462
+00:29:47.249 --> 00:29:51.827
+So the flow of gases through our equipment depends on the gas's viscosity in
+
+463
+00:29:51.827 --> 00:29:54.658
+laminar flow and its density in turbulent flow,
+
+464
+00:29:54.658 --> 00:29:59.296
+which explains the benefit of low-density helium mixtures in turbulent airway
+
+465
+00:29:59.296 --> 00:30:02.609
+obstruction and the design and behaviour of flowmeters.
+
+466
+00:30:14.123 --> 00:30:19.648
+How do the gas laws explain the effects of altitude and hyperbaric conditions?
+
+467
+00:30:20.148 --> 00:30:24.968
+The gas laws explain the physiological and equipment effects of changes in ambient
+
+468
+00:30:24.968 --> 00:30:28.613
+pressure, as occur at altitude and in hyperbaric environments,
+
+469
+00:30:28.613 --> 00:30:31.787
+and this has practical relevance for patient transfer,
+
+470
+00:30:31.787 --> 00:30:33.609
+flight and hyperbaric medicine.
+
+471
+00:30:33.749 --> 00:30:36.708
+At altitude, the total atmospheric pressure falls,
+
+472
+00:30:36.708 --> 00:30:41.441
+although the fractional concentration of oxygen in air remains the same at about
+
+473
+00:30:41.441 --> 00:30:42.624
+twenty-one per cent.
+
+474
+00:30:42.764 --> 00:30:47.067
+By Dalton's law, since the partial pressure of oxygen is its fractional
+
+475
+00:30:47.067 --> 00:30:49.916
+concentration multiplied by the total pressure,
+
+476
+00:30:49.916 --> 00:30:54.401
+the partial pressure of inspired oxygen falls as the total pressure falls,
+
+477
+00:30:54.401 --> 00:30:58.887
+which is the cause of the hypoxia of altitude despite the unchanged oxygen
+
+478
+00:30:58.887 --> 00:30:59.553
+percentage.
+
+479
+00:30:59.693 --> 00:31:04.091
+By Boyle's law, the fall in ambient pressure causes any enclosed gas space to
+
+480
+00:31:04.091 --> 00:31:08.717
+expand — relevant to gas trapped in body cavities, in the middle ear, in the gut,
+
+481
+00:31:08.717 --> 00:31:11.744
+in a pneumothorax, or in the cuff of a tracheal tube,
+
+482
+00:31:11.744 --> 00:31:16.370
+all of which expand as pressure falls during ascent or flight and may cause harm;
+
+483
+00:31:16.370 --> 00:31:20.996
+this is why a pneumothorax is dangerous in flight and why tracheal cuffs may need
+
+484
+00:31:20.996 --> 00:31:21.624
+adjustment.
+
+485
+00:31:21.764 --> 00:31:26.671
+Conversely, in a hyperbaric chamber the raised total pressure increases the partial
+
+486
+00:31:26.671 --> 00:31:31.518
+pressure of inspired oxygen, allowing very high oxygen tensions to be achieved for
+
+487
+00:31:31.518 --> 00:31:34.829
+therapy, while by Boyle's law gas spaces are compressed,
+
+488
+00:31:34.829 --> 00:31:38.553
+relevant to the management of decompression and of trapped gas.
+
+489
+00:31:38.693 --> 00:31:43.298
+So the gas laws explain that altitude lowers the partial pressure of inspired
+
+490
+00:31:43.298 --> 00:31:45.989
+oxygen through Dalton's law, causing hypoxia,
+
+491
+00:31:45.989 --> 00:31:48.561
+and expands gas spaces through Boyle's law,
+
+492
+00:31:48.561 --> 00:31:53.524
+while hyperbaric conditions raise oxygen partial pressure and compress gas spaces —
+
+493
+00:31:53.524 --> 00:31:57.531
+all of direct relevance to transfer, flight and hyperbaric therapy.
+
+494
+00:31:58.031 --> 00:32:03.492
+Finally, draw together the relevance of the gas laws to anaesthetic practice.
+
+495
+00:32:03.992 --> 00:32:08.039
+Drawing the station together, the gas laws and the behaviour of gases are
+
+496
+00:32:08.039 --> 00:32:12.530
+foundational to anaesthesia because our specialty is conducted so largely through
+
+497
+00:32:12.530 --> 00:32:16.356
+the storage, delivery, measurement and exchange of gases and vapours,
+
+498
+00:32:16.356 --> 00:32:20.902
+and a secure grasp of these principles underlies the safe use of our equipment and
+
+499
+00:32:20.902 --> 00:32:23.064
+the interpretation of our measurements.
+
+500
+00:32:23.204 --> 00:32:26.366
+The classical laws — Boyle's relating pressure and volume,
+
+501
+00:32:26.366 --> 00:32:28.655
+Charles's relating volume and temperature,
+
+502
+00:32:28.655 --> 00:32:33.179
+and the pressure law relating pressure and temperature — combine into the ideal gas
+
+503
+00:32:33.179 --> 00:32:36.123
+law relating pressure, volume, amount and temperature,
+
+504
+00:32:36.123 --> 00:32:39.503
+while the kinetic theory explains them at the molecular level.
+
+505
+00:32:39.643 --> 00:32:41.733
+From these flow the practical themes.
+
+506
+00:32:41.873 --> 00:32:46.508
+The contrasting storage of oxygen as a compressed gas and nitrous oxide as a
+
+507
+00:32:46.508 --> 00:32:49.557
+liquid, determined by their critical temperatures,
+
+508
+00:32:49.557 --> 00:32:54.619
+explains why the oxygen gauge indicates contents while the nitrous oxide gauge does
+
+509
+00:32:54.619 --> 00:32:59.559
+not, and underlies the filling ratio and the cooling of cylinders by latent heat.
+
+510
+00:32:59.699 --> 00:33:04.539
+Dalton's law of partial pressures underlies the expression of gas concentrations,
+
+511
+00:33:04.539 --> 00:33:06.750
+the tensions that drive gas exchange,
+
+512
+00:33:06.750 --> 00:33:11.112
+and the effects of altitude and hyperbaric conditions on inspired oxygen.
+
+513
+00:33:11.252 --> 00:33:16.425
+The adiabatic and Joule-Thomson effects explain temperature changes and the oxygen
+
+514
+00:33:16.425 --> 00:33:18.696
+ignition hazard. Real-gas behaviour,
+
+515
+00:33:18.696 --> 00:33:23.049
+viscosity and density govern the flow of gases through our equipment.
+
+516
+00:33:23.189 --> 00:33:27.626
+So the gas laws are not abstract physics but the working principles behind
+
+517
+00:33:27.626 --> 00:33:30.684
+cylinders and pipelines, vaporisers and flowmeters,
+
+518
+00:33:30.684 --> 00:33:35.541
+blood gases and the effects of pressure — indispensable to safe and understanding
+
+519
+00:33:35.541 --> 00:33:36.800
+anaesthetic practice.
+
+520
+00:33:37.300 --> 00:33:41.268
+Thank you. An excellent and complete account. Let us stop there.
+
+521
+00:33:41.768 --> 00:33:45.245
+Before we close, here are the take-home messages.
+
+522
+00:33:45.385 --> 00:33:50.588
+First, The classical gas laws - Boyle's (pressure inversely proportional to volume
+
+523
+00:33:50.588 --> 00:33:55.855
+at constant temperature), Charles's (volume proportional to absolute temperature at
+
+524
+00:33:55.855 --> 00:34:00.550
+constant pressure) and the pressure law (pressure proportional to absolute
+
+525
+00:34:00.550 --> 00:34:04.674
+temperature at constant volume) - combine into the ideal gas law:
+
+526
+00:34:04.674 --> 00:34:09.243
+pressure times volume equals moles times the gas constant times absolute
+
+527
+00:34:09.243 --> 00:34:10.004
+temperature.
+
+528
+00:34:10.144 --> 00:34:14.968
+Second, Critical temperature is the temperature above which a gas cannot be
+
+529
+00:34:14.968 --> 00:34:20.242
+liquefied by pressure: oxygen (critical temperature far below room temperature) is
+
+530
+00:34:20.242 --> 00:34:24.873
+stored as a compressed gas whose gauge indicates contents (Boyle's law),
+
+531
+00:34:24.873 --> 00:34:29.890
+whereas nitrous oxide (critical temperature 36.5 degrees Celsius) is stored as
+
+532
+00:34:29.890 --> 00:34:32.141
+liquid at constant vapour pressure,
+
+533
+00:34:32.141 --> 00:34:35.936
+so its gauge does not indicate contents - weigh it instead.
+
+534
+00:34:36.076 --> 00:34:41.742
+Third, Dalton's law: each gas in a mixture exerts a partial pressure equal to its
+
+535
+00:34:41.742 --> 00:34:45.239
+fractional concentration times the total pressure,
+
+536
+00:34:45.239 --> 00:34:51.044
+and the total is their sum - the basis of partial pressures, gas-exchange tensions,
+
+537
+00:34:51.044 --> 00:34:56.710
+and why altitude lowers inspired oxygen partial pressure though the percentage is
+
+538
+00:34:56.710 --> 00:34:57.409
+unchanged.
+
+539
+00:34:57.549 --> 00:34:58.317
+4.
+
+540
+00:34:58.457 --> 00:35:04.504
+Latent heat of vaporisation cools a liquid as it evaporates - cooling nitrous oxide
+
+541
+00:35:04.504 --> 00:35:10.332
+cylinders at high flow and necessitating temperature compensation in vaporisers;
+
+542
+00:35:10.332 --> 00:35:16.379
+adiabatic compression heats gas (the oxygen-plus-oil ignition hazard) and adiabatic
+
+543
+00:35:16.379 --> 00:35:19.001
+and Joule-Thomson expansion cool it.
+
+544
+00:35:19.141 --> 00:35:25.604
+Fourth, Gas flow depends on viscosity in laminar flow and density in turbulent flow
+
+545
+00:35:25.604 --> 00:35:30.977
+(hence low-density helium-oxygen helps turbulent airway obstruction);
+
+546
+00:35:30.977 --> 00:35:37.206
+the nitrous oxide filling ratio (about 0.75) prevents dangerous pressure rise on
+
+547
+00:35:37.206 --> 00:35:37.829
+warming.
+
+548
+00:35:49.343 --> 00:35:51.817
+Thank you. That concludes the station.
+

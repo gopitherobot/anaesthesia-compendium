@@ -1,0 +1,2470 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.505
+Welcome to Anaesthesia Compendium. Today's viva station: gas analysis.
+
+2
+00:00:05.505 --> 00:00:10.691
+I shall take the candidate through it, question by question. Let us begin.
+
+3
+00:00:11.191 --> 00:00:17.057
+Let us begin. What is meant by gas analysis in anaesthesia, and why does it matter?
+
+4
+00:00:17.557 --> 00:00:22.275
+Gas analysis in anaesthesia refers to the measurement of the composition of the
+
+5
+00:00:22.275 --> 00:00:26.932
+respired and anaesthetic gases — the concentrations of oxygen, carbon dioxide,
+
+6
+00:00:26.932 --> 00:00:31.888
+nitrous oxide and the volatile anaesthetic agents in the inspired and expired gas —
+
+7
+00:00:31.888 --> 00:00:36.665
+and it matters because the continuous knowledge of what the patient is breathing
+
+8
+00:00:36.665 --> 00:00:40.427
+and exhaling is fundamental to the safe conduct of anaesthesia.
+
+9
+00:00:40.567 --> 00:00:44.944
+During anaesthesia the patient breathes a mixture of gases delivered by the
+
+10
+00:00:44.944 --> 00:00:47.337
+anaesthetic machine and breathing system,
+
+11
+00:00:47.337 --> 00:00:52.006
+and the safe management of the anaesthetic depends on knowing the composition of
+
+12
+00:00:52.006 --> 00:00:56.325
+that mixture: the inspired oxygen concentration, to guarantee an adequate,
+
+13
+00:00:56.325 --> 00:01:00.935
+non-hypoxic supply; the carbon dioxide, to monitor ventilation and rebreathing;
+
+14
+00:01:00.935 --> 00:01:04.671
+the concentration of the volatile agent, inspired and end-tidal,
+
+15
+00:01:04.671 --> 00:01:09.281
+to titrate the depth of anaesthesia against the minimum alveolar concentration;
+
+16
+00:01:09.281 --> 00:01:12.375
+and the nitrous oxide concentration where it is used.
+
+17
+00:01:12.515 --> 00:01:17.731
+Continuous gas analysis therefore underpins several mandatory monitoring functions
+
+18
+00:01:17.731 --> 00:01:21.738
+— oxygen analysis to prevent the delivery of a hypoxic mixture,
+
+19
+00:01:21.738 --> 00:01:26.445
+agent analysis to control anaesthetic depth and prevent both awareness and
+
+20
+00:01:26.445 --> 00:01:29.816
+overdose, and carbon dioxide analysis as capnography.
+
+21
+00:01:29.956 --> 00:01:32.914
+It also allows the safe use of low-flow anaesthesia,
+
+22
+00:01:32.914 --> 00:01:37.636
+in which the inspired concentrations differ from the fresh-gas settings and must be
+
+23
+00:01:37.636 --> 00:01:38.148
+measured.
+
+24
+00:01:38.288 --> 00:01:42.826
+The measurement of these gases relies on a range of physical principles exploiting
+
+25
+00:01:42.826 --> 00:01:46.203
+the distinctive physical and chemical properties of each gas.
+
+26
+00:01:46.343 --> 00:01:51.000
+So gas analysis is the continuous measurement of the oxygen, carbon dioxide,
+
+27
+00:01:51.000 --> 00:01:55.167
+nitrous oxide and volatile-agent concentrations in the respired gas,
+
+28
+00:01:55.167 --> 00:01:59.272
+and it matters because it guarantees a non-hypoxic inspired oxygen,
+
+29
+00:01:59.272 --> 00:02:01.540
+monitors ventilation and rebreathing,
+
+30
+00:02:01.540 --> 00:02:05.829
+allows the titration of anaesthetic depth against the minimum alveolar
+
+31
+00:02:05.829 --> 00:02:10.732
+concentration, and enables the safe conduct of low-flow anaesthesia — relying on
+
+32
+00:02:10.732 --> 00:02:13.244
+physical principles specific to each gas.
+
+33
+00:02:13.744 --> 00:02:17.648
+What physical properties can be exploited to measure a gas?
+
+34
+00:02:18.148 --> 00:02:22.326
+A gas can be measured by exploiting any physical or chemical property that
+
+35
+00:02:22.326 --> 00:02:26.221
+distinguishes it from the others and that varies in proportion to its
+
+36
+00:02:26.221 --> 00:02:30.173
+concentration, and surveying these properties provides a framework for
+
+37
+00:02:30.173 --> 00:02:34.745
+understanding the various analysers, each of which is suited to particular gases.
+
+38
+00:02:34.885 --> 00:02:37.616
+The properties exploited fall into several groups.
+
+39
+00:02:37.756 --> 00:02:39.960
+Optical properties are widely used:
+
+40
+00:02:39.960 --> 00:02:44.495
+the absorption of infrared radiation by molecules with dissimilar atoms,
+
+41
+00:02:44.495 --> 00:02:48.463
+used for carbon dioxide, nitrous oxide and the volatile agents;
+
+42
+00:02:48.463 --> 00:02:51.738
+and the absorption or scattering of other radiation,
+
+43
+00:02:51.738 --> 00:02:54.887
+as in ultraviolet absorption and Raman scattering.
+
+44
+00:02:55.027 --> 00:02:57.901
+Magnetic properties are exploited for oxygen,
+
+45
+00:02:57.901 --> 00:03:03.074
+which is unusual in being strongly paramagnetic, attracted into a magnetic field,
+
+46
+00:03:03.074 --> 00:03:05.181
+a property few other gases share.
+
+47
+00:03:05.321 --> 00:03:08.311
+Chemical and electrochemical properties are used:
+
+48
+00:03:08.311 --> 00:03:12.215
+the oxygen of a sample can be measured by electrochemical cells,
+
+49
+00:03:12.215 --> 00:03:15.022
+the fuel cell and the polarographic electrode,
+
+50
+00:03:15.022 --> 00:03:18.804
+in which oxygen takes part in a reaction generating a current.
+
+51
+00:03:18.944 --> 00:03:23.133
+Physical properties such as the differing thermal conductivity, density,
+
+52
+00:03:23.133 --> 00:03:27.264
+viscosity and solubility of gases, and the speed of sound through them,
+
+53
+00:03:27.264 --> 00:03:29.184
+can be used to distinguish gases.
+
+54
+00:03:29.324 --> 00:03:32.219
+Mass, or more precisely the mass-to-charge ratio,
+
+55
+00:03:32.219 --> 00:03:36.177
+is exploited in mass spectrometry, which can measure all the gases.
+
+56
+00:03:36.177 --> 00:03:40.962
+Each analyser selects a property by which its target gas can be distinguished and
+
+57
+00:03:40.962 --> 00:03:41.612
+quantified.
+
+58
+00:03:41.752 --> 00:03:45.611
+So a gas can be measured by exploiting its optical absorption,
+
+59
+00:03:45.611 --> 00:03:49.906
+as for carbon dioxide, nitrous oxide and volatile agents by infrared;
+
+60
+00:03:49.906 --> 00:03:53.391
+its magnetic susceptibility, as for paramagnetic oxygen;
+
+61
+00:03:53.391 --> 00:03:58.246
+its electrochemical reactivity, as for oxygen by fuel and polarographic cells;
+
+62
+00:03:58.246 --> 00:04:01.545
+its physical properties such as thermal conductivity,
+
+63
+00:04:01.545 --> 00:04:06.711
+density and the speed of sound; and its mass-to-charge ratio in mass spectrometry —
+
+64
+00:04:06.711 --> 00:04:11.192
+each analyser using the property that best distinguishes its target gas.
+
+65
+00:04:11.692 --> 00:04:15.767
+Describe the paramagnetic analysis of oxygen.
+
+66
+00:04:16.267 --> 00:04:21.194
+The paramagnetic analyser is the principal physical method for measuring oxygen,
+
+67
+00:04:21.194 --> 00:04:24.890
+exploiting the unusual paramagnetism of the oxygen molecule,
+
+68
+00:04:24.890 --> 00:04:28.401
+and it is important because it provides a fast, accurate,
+
+69
+00:04:28.401 --> 00:04:32.651
+continuous measurement of oxygen suited to breath-by-breath analysis.
+
+70
+00:04:32.791 --> 00:04:37.413
+The principle rests on the fact that oxygen is strongly paramagnetic — it is
+
+71
+00:04:37.413 --> 00:04:42.157
+attracted into a magnetic field — because of the two unpaired electrons in its
+
+72
+00:04:42.157 --> 00:04:45.989
+molecular structure, a property shared by very few other gases,
+
+73
+00:04:45.989 --> 00:04:48.969
+while most respiratory gases, including nitrogen,
+
+74
+00:04:48.969 --> 00:04:54.017
+carbon dioxide and the anaesthetic agents, are weakly diamagnetic and are repelled.
+
+75
+00:04:54.157 --> 00:04:58.979
+Oxygen is therefore almost uniquely identifiable by its magnetic behaviour.
+
+76
+00:04:59.119 --> 00:05:01.448
+In the modern fast paramagnetic analyser,
+
+77
+00:05:01.448 --> 00:05:05.710
+the sample gas and a reference gas are passed on either side of a sensitive
+
+78
+00:05:05.710 --> 00:05:09.687
+pressure transducer, and a rapidly switched magnetic field is applied;
+
+79
+00:05:09.687 --> 00:05:12.414
+the paramagnetic oxygen is drawn into the field,
+
+80
+00:05:12.414 --> 00:05:15.937
+and because the oxygen concentrations on the two sides differ,
+
+81
+00:05:15.937 --> 00:05:20.369
+a pulsating pressure difference is generated in time with the switching of the
+
+82
+00:05:20.369 --> 00:05:24.517
+field, the magnitude of which is proportional to the difference in oxygen
+
+83
+00:05:24.517 --> 00:05:28.153
+concentration, and so to the oxygen concentration of the sample.
+
+84
+00:05:28.293 --> 00:05:33.454
+This is measured by the transducer. The fast paramagnetic analyser responds rapidly
+
+85
+00:05:33.454 --> 00:05:36.937
+enough to follow the breath-by-breath changes in oxygen,
+
+86
+00:05:36.937 --> 00:05:41.725
+allowing the display of inspired and end-tidal oxygen and an oxygen waveform.
+
+87
+00:05:41.725 --> 00:05:45.083
+An older form used a dumb-bell suspended in the field.
+
+88
+00:05:45.223 --> 00:05:49.906
+So the paramagnetic analyser measures oxygen by its strong paramagnetism — its
+
+89
+00:05:49.906 --> 00:05:53.809
+attraction into a magnetic field owing to two unpaired electrons,
+
+90
+00:05:53.809 --> 00:05:58.672
+unlike the diamagnetic other gases — the modern form applying a switched magnetic
+
+91
+00:05:58.672 --> 00:06:03.475
+field and detecting the resulting pressure difference proportional to the oxygen
+
+92
+00:06:03.475 --> 00:06:08.098
+concentration, fast enough to display breath-by-breath inspired and end-tidal
+
+93
+00:06:08.098 --> 00:06:08.519
+oxygen.
+
+94
+00:06:20.032 --> 00:06:24.405
+Describe the electrochemical methods of measuring oxygen.
+
+95
+00:06:24.905 --> 00:06:28.176
+Oxygen may also be measured by electrochemical methods,
+
+96
+00:06:28.176 --> 00:06:32.755
+of which there are two principal types — the fuel cell and the polarographic,
+
+97
+00:06:32.755 --> 00:06:36.918
+or Clark, electrode — and these are important because they are simple,
+
+98
+00:06:36.918 --> 00:06:41.795
+robust devices long used to monitor inspired oxygen and to measure oxygen in blood
+
+99
+00:06:41.795 --> 00:06:42.271
+and gas.
+
+100
+00:06:42.411 --> 00:06:46.797
+The fuel cell, or galvanic cell, is a self-powered electrochemical device
+
+101
+00:06:46.797 --> 00:06:51.663
+resembling a battery: it contains a lead anode and a precious-metal cathode in an
+
+102
+00:06:51.663 --> 00:06:55.869
+electrolyte, separated from the gas by a membrane permeable to oxygen;
+
+103
+00:06:55.869 --> 00:06:58.633
+oxygen diffusing in is reduced at the cathode,
+
+104
+00:06:58.633 --> 00:07:03.620
+and the resulting chemical reaction generates an electrical current proportional to
+
+105
+00:07:03.620 --> 00:07:06.624
+the partial pressure of oxygen, which is measured.
+
+106
+00:07:06.764 --> 00:07:11.841
+The fuel cell requires no external power but is consumed by the reaction and so has
+
+107
+00:07:11.841 --> 00:07:15.450
+a limited life, becoming exhausted and needing replacement.
+
+108
+00:07:15.450 --> 00:07:20.222
+Its response is relatively slow, so it is used to measure the average inspired
+
+109
+00:07:20.222 --> 00:07:22.913
+oxygen rather than breath-by-breath changes.
+
+110
+00:07:23.053 --> 00:07:27.543
+The polarographic, or Clark, electrode also has a cathode and anode in an
+
+111
+00:07:27.543 --> 00:07:30.496
+electrolyte behind an oxygen-permeable membrane,
+
+112
+00:07:30.496 --> 00:07:35.231
+but it requires an external polarising voltage applied across the electrodes;
+
+113
+00:07:35.231 --> 00:07:38.860
+under this voltage, oxygen reaching the cathode is reduced,
+
+114
+00:07:38.860 --> 00:07:43.043
+generating a current proportional to the partial pressure of oxygen.
+
+115
+00:07:43.183 --> 00:07:48.464
+The Clark electrode is used in blood-gas analysers to measure the oxygen tension of
+
+116
+00:07:48.464 --> 00:07:53.617
+a blood sample, and in some gas analysers. Both depend on the partial pressure of
+
+117
+00:07:53.617 --> 00:07:54.063
+oxygen.
+
+118
+00:07:54.203 --> 00:07:57.635
+So oxygen is measured electrochemically by the fuel cell,
+
+119
+00:07:57.635 --> 00:08:02.031
+a self-powered galvanic device generating a current as oxygen is reduced,
+
+120
+00:08:02.031 --> 00:08:05.343
+simple but consumed and slow, used for inspired oxygen;
+
+121
+00:08:05.343 --> 00:08:07.812
+and by the polarographic Clark electrode,
+
+122
+00:08:07.812 --> 00:08:12.811
+which uses an applied voltage to reduce oxygen and generate a proportional current,
+
+123
+00:08:12.811 --> 00:08:17.387
+used to measure the oxygen tension in blood and gas — both responding to the
+
+124
+00:08:17.387 --> 00:08:19.013
+partial pressure of oxygen.
+
+125
+00:08:19.513 --> 00:08:24.761
+Why is the inspired oxygen analyser so important, and where is it placed?
+
+126
+00:08:25.261 --> 00:08:29.878
+The continuous analysis of the inspired oxygen concentration is one of the most
+
+127
+00:08:29.878 --> 00:08:32.392
+important safety functions of gas analysis,
+
+128
+00:08:32.392 --> 00:08:37.126
+because its purpose is to guarantee that the patient is never delivered a hypoxic
+
+129
+00:08:37.126 --> 00:08:41.626
+gas mixture, and the placement and behaviour of the analyser follow from this
+
+130
+00:08:41.626 --> 00:08:42.093
+purpose.
+
+131
+00:08:42.233 --> 00:08:46.832
+The fundamental hazard it guards against is the delivery to the patient of a gas
+
+132
+00:08:46.832 --> 00:08:51.602
+mixture containing too little oxygen — a hypoxic mixture — which could arise from a
+
+133
+00:08:51.602 --> 00:08:55.971
+fault in the gas supply, a misconnection, an error in the flow settings, or,
+
+134
+00:08:55.971 --> 00:09:00.626
+in a low-flow circle system, from the inspired oxygen falling below the fresh-gas
+
+135
+00:09:00.626 --> 00:09:02.351
+setting as oxygen is consumed.
+
+136
+00:09:02.491 --> 00:09:07.696
+Such a hypoxic mixture, if undetected, rapidly causes catastrophic hypoxaemia.
+
+137
+00:09:07.836 --> 00:09:12.756
+The oxygen analyser continuously measures the oxygen concentration of the gas the
+
+138
+00:09:12.756 --> 00:09:17.189
+patient is actually breathing and sounds an alarm if it falls below a set
+
+139
+00:09:17.189 --> 00:09:21.684
+threshold, conventionally around twenty-five to thirty per cent or as set,
+
+140
+00:09:21.684 --> 00:09:25.996
+providing the essential last line of defence against a hypoxic mixture,
+
+141
+00:09:25.996 --> 00:09:29.276
+independent of the machine's own anti-hypoxia devices.
+
+142
+00:09:29.416 --> 00:09:32.349
+For this reason it is placed in the inspiratory limb,
+
+143
+00:09:32.349 --> 00:09:36.830
+measuring the gas being delivered to the patient — either in the inspiratory limb
+
+144
+00:09:36.830 --> 00:09:41.091
+of the breathing system or at the common gas outlet — so that it measures the
+
+145
+00:09:41.091 --> 00:09:43.304
+inspired rather than the expired oxygen.
+
+146
+00:09:43.444 --> 00:09:46.836
+A low inspired-oxygen alarm must always be enabled.
+
+147
+00:09:46.976 --> 00:09:51.623
+So the inspired oxygen analyser is essential because it guarantees against the
+
+148
+00:09:51.623 --> 00:09:55.437
+delivery of a hypoxic mixture from supply faults, misconnection,
+
+149
+00:09:55.437 --> 00:09:58.654
+flow errors or oxygen consumption in low-flow systems;
+
+150
+00:09:58.654 --> 00:10:03.600
+it is placed in the inspiratory limb or at the common gas outlet to measure the gas
+
+151
+00:10:03.600 --> 00:10:08.366
+actually delivered to the patient, with a low-oxygen alarm always enabled as the
+
+152
+00:10:08.366 --> 00:10:10.571
+last line of defence against hypoxia.
+
+153
+00:10:22.084 --> 00:10:26.073
+Explain the infrared analysis of carbon dioxide,
+
+154
+00:10:26.073 --> 00:10:29.231
+nitrous oxide and the volatile agents.
+
+155
+00:10:29.731 --> 00:10:34.526
+Infrared absorption is the principle underlying the analysis of carbon dioxide,
+
+156
+00:10:34.526 --> 00:10:39.565
+nitrous oxide and the volatile anaesthetic agents in the modern multi-gas analyser,
+
+157
+00:10:39.565 --> 00:10:44.482
+and understanding it explains how a single technique measures several of the most
+
+158
+00:10:44.482 --> 00:10:45.453
+important gases.
+
+159
+00:10:45.593 --> 00:10:48.241
+The principle, as discussed for capnography,
+
+160
+00:10:48.241 --> 00:10:52.092
+is that molecules composed of dissimilar atoms — carbon dioxide,
+
+161
+00:10:52.092 --> 00:10:54.378
+nitrous oxide and the volatile agents,
+
+162
+00:10:54.378 --> 00:10:58.831
+but not the symmetrical oxygen and nitrogen — absorb infrared radiation at
+
+163
+00:10:58.831 --> 00:11:01.478
+wavelengths characteristic of each molecule,
+
+164
+00:11:01.478 --> 00:11:05.931
+the absorption being proportional to the concentration by the Beer-Lambert
+
+165
+00:11:05.931 --> 00:11:06.713
+relationship.
+
+166
+00:11:06.853 --> 00:11:11.510
+Each of these gases has its own characteristic absorption wavelength or band:
+
+167
+00:11:11.510 --> 00:11:14.716
+carbon dioxide at about four point three micrometres,
+
+168
+00:11:14.716 --> 00:11:17.800
+nitrous oxide at about four point five micrometres,
+
+169
+00:11:17.800 --> 00:11:22.095
+and the volatile agents in a band around three point three micrometres,
+
+170
+00:11:22.095 --> 00:11:24.453
+where the carbon-hydrogen bonds absorb.
+
+171
+00:11:24.593 --> 00:11:28.998
+The multi-gas analyser passes infrared radiation through the gas sample and
+
+172
+00:11:28.998 --> 00:11:32.286
+measures the absorption at several selected wavelengths,
+
+173
+00:11:32.286 --> 00:11:35.340
+using filters or a spectrum, so that carbon dioxide,
+
+174
+00:11:35.340 --> 00:11:40.096
+nitrous oxide and the volatile agent are each measured by the absorption at their
+
+175
+00:11:40.096 --> 00:11:41.447
+respective wavelengths.
+
+176
+00:11:41.587 --> 00:11:44.768
+The volatile agents share a similar absorption band,
+
+177
+00:11:44.768 --> 00:11:48.623
+so a simple analyser may measure the total agent concentration,
+
+178
+00:11:48.623 --> 00:11:50.764
+while more sophisticated analysers,
+
+179
+00:11:50.764 --> 00:11:53.762
+measuring at several wavelengths across the band,
+
+180
+00:11:53.762 --> 00:11:57.678
+can identify which agent is present and measure each separately,
+
+181
+00:11:57.678 --> 00:12:00.125
+allowing automatic agent identification.
+
+182
+00:12:00.265 --> 00:12:03.676
+Oxygen, being diamagnetic and not absorbing infrared,
+
+183
+00:12:03.676 --> 00:12:08.116
+is measured separately by the paramagnetic or electrochemical method.
+
+184
+00:12:08.256 --> 00:12:12.557
+So infrared absorption measures carbon dioxide at about four point three
+
+185
+00:12:12.557 --> 00:12:16.380
+micrometres, nitrous oxide at about four point five micrometres,
+
+186
+00:12:16.380 --> 00:12:20.621
+and the volatile agents in a band around three point three micrometres,
+
+187
+00:12:20.621 --> 00:12:23.010
+the absorption indicating concentration;
+
+188
+00:12:23.010 --> 00:12:27.490
+a multi-gas analyser measures several wavelengths to quantify each gas and,
+
+189
+00:12:27.490 --> 00:12:31.074
+with sufficient wavelengths, to identify the volatile agent,
+
+190
+00:12:31.074 --> 00:12:33.045
+oxygen being measured separately.
+
+191
+00:12:33.545 --> 00:12:38.687
+How can the analyser distinguish and identify the volatile agents?
+
+192
+00:12:39.187 --> 00:12:42.634
+The identification of the specific volatile agent present,
+
+193
+00:12:42.634 --> 00:12:45.070
+and the measurement of its concentration,
+
+194
+00:12:45.070 --> 00:12:48.398
+is an important capability of the modern agent analyser,
+
+195
+00:12:48.398 --> 00:12:53.271
+because the agents differ greatly in potency and the correct interpretation of the
+
+196
+00:12:53.271 --> 00:12:58.204
+concentration in terms of the minimum alveolar concentration requires knowing which
+
+197
+00:12:58.204 --> 00:13:03.077
+agent it is, and explaining how this is achieved illustrates the sophistication of
+
+198
+00:13:03.077 --> 00:13:04.147
+infrared analysis.
+
+199
+00:13:04.287 --> 00:13:07.078
+The volatile agents — for example isoflurane,
+
+200
+00:13:07.078 --> 00:13:12.103
+sevoflurane and desflurane — all contain carbon-hydrogen and carbon-halogen bonds
+
+201
+00:13:12.103 --> 00:13:16.569
+and absorb infrared radiation in a similar band around three point three
+
+202
+00:13:16.569 --> 00:13:21.532
+micrometres, so that a simple single-wavelength analyser can detect the presence
+
+203
+00:13:21.532 --> 00:13:25.812
+and total amount of volatile agent but cannot tell which agent it is.
+
+204
+00:13:25.952 --> 00:13:28.563
+However, although their absorption bands overlap,
+
+205
+00:13:28.563 --> 00:13:32.773
+the detailed shape of each agent's absorption spectrum across the band differs,
+
+206
+00:13:32.773 --> 00:13:37.089
+each agent having a characteristic pattern of absorption at different wavelengths
+
+207
+00:13:37.089 --> 00:13:37.941
+within the band.
+
+208
+00:13:38.081 --> 00:13:42.918
+A more sophisticated analyser measures the absorption at several wavelengths across
+
+209
+00:13:42.918 --> 00:13:47.754
+this band and compares the pattern with the known spectra of the individual agents,
+
+210
+00:13:47.754 --> 00:13:52.124
+thereby identifying which agent is present and measuring its concentration;
+
+211
+00:13:52.124 --> 00:13:56.087
+some analysers can even detect and quantify a mixture of two agents.
+
+212
+00:13:56.227 --> 00:14:00.841
+Once the agent is identified, the analyser can express the concentration as a
+
+213
+00:14:00.841 --> 00:14:04.198
+fraction of that agent's minimum alveolar concentration,
+
+214
+00:14:04.198 --> 00:14:09.112
+correcting for the patient's age, which directly informs the depth of anaesthesia.
+
+215
+00:14:09.252 --> 00:14:14.779
+Automatic agent identification also prevents errors when an agent is changed or the
+
+216
+00:14:14.779 --> 00:14:16.377
+wrong vaporiser is used.
+
+217
+00:14:16.517 --> 00:14:21.374
+So the analyser identifies the volatile agent by measuring infrared absorption at
+
+218
+00:14:21.374 --> 00:14:26.351
+several wavelengths across the shared band and matching the characteristic spectral
+
+219
+00:14:26.351 --> 00:14:29.648
+pattern to the known agents, distinguishing isoflurane,
+
+220
+00:14:29.648 --> 00:14:32.407
+sevoflurane and desflurane and measuring each;
+
+221
+00:14:32.407 --> 00:14:37.323
+this allows the concentration to be expressed as a fraction of the agent's minimum
+
+222
+00:14:37.323 --> 00:14:40.261
+alveolar concentration and prevents agent errors.
+
+223
+00:14:40.761 --> 00:14:44.793
+What other methods of multi-gas analysis have been used?
+
+224
+00:14:45.293 --> 00:14:47.515
+Besides the combination of infrared,
+
+225
+00:14:47.515 --> 00:14:51.650
+paramagnetic and electrochemical analysers used in modern monitors,
+
+226
+00:14:51.650 --> 00:14:55.292
+several other methods of multi-gas analysis have been used,
+
+227
+00:14:55.292 --> 00:14:59.057
+principally the mass spectrometer and the Raman spectrometer,
+
+228
+00:14:59.057 --> 00:15:03.994
+and a knowledge of these illustrates alternative principles and the evolution of
+
+229
+00:15:03.994 --> 00:15:04.920
+gas monitoring.
+
+230
+00:15:05.060 --> 00:15:09.826
+The mass spectrometer is a powerful instrument that can measure all the respiratory
+
+231
+00:15:09.826 --> 00:15:11.951
+and anaesthetic gases simultaneously.
+
+232
+00:15:12.091 --> 00:15:14.238
+It works by ionising the sample gas,
+
+233
+00:15:14.238 --> 00:15:19.130
+accelerating the resulting ions through a magnetic or electric field that deflects
+
+234
+00:15:19.130 --> 00:15:23.843
+them according to their mass-to-charge ratio, and detecting the separated ions,
+
+235
+00:15:23.843 --> 00:15:28.197
+the amount of each indicating the concentration of each gas of that mass.
+
+236
+00:15:28.337 --> 00:15:32.713
+The mass spectrometer is accurate and comprehensive but large and expensive,
+
+237
+00:15:32.713 --> 00:15:34.901
+and was historically used as a shared,
+
+238
+00:15:34.901 --> 00:15:39.450
+multiplexed system serving several theatres in turn through a sampling network,
+
+239
+00:15:39.450 --> 00:15:40.775
+with an inherent delay.
+
+240
+00:15:40.915 --> 00:15:44.326
+The Raman spectrometer measures gases by Raman scattering:
+
+241
+00:15:44.326 --> 00:15:46.679
+when laser light passes through the gas,
+
+242
+00:15:46.679 --> 00:15:51.090
+a small fraction is scattered at shifted wavelengths characteristic of each
+
+243
+00:15:51.090 --> 00:15:53.737
+molecule's vibrational and rotational energy,
+
+244
+00:15:53.737 --> 00:15:57.972
+the Raman shift identifying the gas and the intensity its concentration;
+
+245
+00:15:57.972 --> 00:16:02.854
+the Raman analyser could measure all the gases including oxygen and nitrogen from a
+
+246
+00:16:02.854 --> 00:16:03.677
+single sample.
+
+247
+00:16:03.817 --> 00:16:08.152
+Both have largely been superseded for routine clinical use by the compact
+
+248
+00:16:08.152 --> 00:16:12.486
+combination of infrared and paramagnetic analysers in the modern monitor,
+
+249
+00:16:12.486 --> 00:16:14.801
+which is smaller, cheaper and adequate,
+
+250
+00:16:14.801 --> 00:16:18.601
+but they illustrate comprehensive analysis from a single sample.
+
+251
+00:16:18.741 --> 00:16:22.330
+So besides the standard infrared-plus-paramagnetic monitor,
+
+252
+00:16:22.330 --> 00:16:25.371
+multi-gas analysis has used the mass spectrometer,
+
+253
+00:16:25.371 --> 00:16:30.054
+which separates ionised gases by mass-to-charge ratio and measures all gases,
+
+254
+00:16:30.054 --> 00:16:34.311
+historically multiplexed between theatres; and the Raman spectrometer,
+
+255
+00:16:34.311 --> 00:16:39.055
+which identifies gases by the wavelength shift of scattered laser light — both
+
+256
+00:16:39.055 --> 00:16:43.616
+comprehensive but now largely superseded by the compact modern combination.
+
+257
+00:16:55.129 --> 00:16:58.841
+How is nitrogen measured, and why might that be useful?
+
+258
+00:16:59.341 --> 00:17:03.783
+The measurement of nitrogen, although not a routine function of the standard
+
+259
+00:17:03.783 --> 00:17:06.413
+anaesthetic gas monitor, has particular uses,
+
+260
+00:17:06.413 --> 00:17:11.147
+and understanding how it is measured and why illustrates a further application of
+
+261
+00:17:11.147 --> 00:17:11.907
+gas analysis.
+
+262
+00:17:12.047 --> 00:17:16.843
+Nitrogen, like oxygen, is a symmetrical molecule that does not absorb infrared
+
+263
+00:17:16.843 --> 00:17:20.593
+radiation, so it cannot be measured by the infrared analyser;
+
+264
+00:17:20.593 --> 00:17:25.328
+it was measurable by the comprehensive mass spectrometer and Raman analysers,
+
+265
+00:17:25.328 --> 00:17:30.185
+and historically by a dedicated nitrogen meter using the emission of light from
+
+266
+00:17:30.185 --> 00:17:32.399
+nitrogen in an electrical discharge.
+
+267
+00:17:32.539 --> 00:17:36.912
+The clinical usefulness of measuring nitrogen lies chiefly in two areas.
+
+268
+00:17:37.052 --> 00:17:40.291
+First, the detection of air entrainment or embolism:
+
+269
+00:17:40.291 --> 00:17:44.651
+the appearance of nitrogen in the expired gas of a patient breathing a
+
+270
+00:17:44.651 --> 00:17:49.821
+nitrogen-free mixture indicates that air has entered the system or the circulation,
+
+271
+00:17:49.821 --> 00:17:54.057
+so a sudden rise in expired nitrogen can signal venous air embolism,
+
+272
+00:17:54.057 --> 00:17:57.233
+complementing the fall in end-tidal carbon dioxide.
+
+273
+00:17:57.373 --> 00:18:01.337
+Second, the monitoring of denitrogenation, or nitrogen washout,
+
+274
+00:18:01.337 --> 00:18:06.370
+during pre-oxygenation: as a patient breathes one hundred per cent oxygen before
+
+275
+00:18:06.370 --> 00:18:10.459
+induction, the nitrogen is progressively washed out of the lungs,
+
+276
+00:18:10.459 --> 00:18:14.234
+and the fall in expired nitrogen, or rise in expired oxygen,
+
+277
+00:18:14.234 --> 00:18:17.128
+indicates the completeness of pre-oxygenation.
+
+278
+00:18:17.268 --> 00:18:22.002
+Nitrogen washout has also been used to measure the functional residual capacity.
+
+279
+00:18:22.002 --> 00:18:25.908
+The disappearance of nitrogen confirms a fully oxygen-filled lung.
+
+280
+00:18:26.048 --> 00:18:31.018
+So nitrogen, not being infrared-absorbing, was measured by mass spectrometry,
+
+281
+00:18:31.018 --> 00:18:33.922
+Raman analysis or a dedicated nitrogen meter;
+
+282
+00:18:33.922 --> 00:18:39.149
+its measurement is useful to detect air entrainment or venous air embolism by the
+
+283
+00:18:39.149 --> 00:18:43.603
+appearance of expired nitrogen, and to monitor denitrogenation during
+
+284
+00:18:43.603 --> 00:18:49.024
+pre-oxygenation and to measure the functional residual capacity by nitrogen washout.
+
+285
+00:18:49.524 --> 00:18:54.367
+Compare the response times and suitability of the different analysers.
+
+286
+00:18:54.867 --> 00:18:59.193
+The different gas analysers vary considerably in their response times and other
+
+287
+00:18:59.193 --> 00:19:03.683
+characteristics, and comparing them according to whether they can follow the rapid
+
+288
+00:19:03.683 --> 00:19:06.202
+breath-by-breath changes in gas concentration,
+
+289
+00:19:06.202 --> 00:19:08.283
+and to their other practical features,
+
+290
+00:19:08.283 --> 00:19:12.061
+guides the understanding of which analyser is used for which purpose.
+
+291
+00:19:12.201 --> 00:19:14.897
+The key distinction is between fast analysers,
+
+292
+00:19:14.897 --> 00:19:19.642
+which respond quickly enough to display the inspired and end-tidal concentrations
+
+293
+00:19:19.642 --> 00:19:22.748
+and the waveform within a breath, and slow analysers,
+
+294
+00:19:22.748 --> 00:19:24.681
+which give only an average value.
+
+295
+00:19:24.821 --> 00:19:28.768
+The fast analysers are the infrared analysers for carbon dioxide,
+
+296
+00:19:28.768 --> 00:19:32.896
+nitrous oxide and the agents, the fast paramagnetic oxygen analyser,
+
+297
+00:19:32.896 --> 00:19:35.628
+the mass spectrometer and the Raman analyser;
+
+298
+00:19:35.628 --> 00:19:40.485
+these respond within a fraction of a second and so can show the breath-by-breath
+
+299
+00:19:40.485 --> 00:19:43.885
+waveform and distinguish inspired from end-tidal values,
+
+300
+00:19:43.885 --> 00:19:47.285
+which is essential for capnography and agent monitoring.
+
+301
+00:19:47.425 --> 00:19:52.289
+The slow analysers are the electrochemical oxygen cells — the fuel cell and the
+
+302
+00:19:52.289 --> 00:19:57.214
+Clark electrode — which respond over seconds and so give the average or inspired
+
+303
+00:19:57.214 --> 00:19:59.862
+concentration but cannot follow the breath;
+
+304
+00:19:59.862 --> 00:20:03.617
+the fuel cell is used to monitor the average inspired oxygen.
+
+305
+00:20:03.757 --> 00:20:08.575
+In a sidestream system, the overall response is also affected by the transit delay
+
+306
+00:20:08.575 --> 00:20:10.691
+and the mixing in the sampling line.
+
+307
+00:20:10.831 --> 00:20:15.995
+Other considerations are accuracy, specificity, the need for calibration, size,
+
+308
+00:20:15.995 --> 00:20:19.460
+cost, and consumption — the fuel cell being consumed,
+
+309
+00:20:19.460 --> 00:20:22.991
+the paramagnetic and infrared analysers being durable.
+
+310
+00:20:23.131 --> 00:20:28.084
+So the infrared, fast paramagnetic, mass-spectrometer and Raman analysers are fast,
+
+311
+00:20:28.084 --> 00:20:32.381
+displaying breath-by-breath inspired and end-tidal values and waveforms,
+
+312
+00:20:32.381 --> 00:20:35.604
+suited to carbon dioxide, agent and oxygen monitoring;
+
+313
+00:20:35.604 --> 00:20:40.200
+the electrochemical oxygen cells are slow, giving average or inspired oxygen;
+
+314
+00:20:40.200 --> 00:20:44.258
+and the sidestream transit delay, accuracy, calibration needs, size,
+
+315
+00:20:44.258 --> 00:20:47.899
+cost and consumption further distinguish them in suitability.
+
+316
+00:20:59.412 --> 00:21:04.639
+What are the sources of error and the calibration requirements in gas analysis?
+
+317
+00:21:05.139 --> 00:21:09.733
+Gas analysis is subject to a number of sources of error and requires appropriate
+
+318
+00:21:09.733 --> 00:21:14.384
+calibration, and an awareness of these ensures accurate readings and the safe use
+
+319
+00:21:14.384 --> 00:21:18.978
+of the monitors, since erroneous gas concentrations could mislead the conduct of
+
+320
+00:21:18.978 --> 00:21:19.667
+anaesthesia.
+
+321
+00:21:19.807 --> 00:21:22.815
+A first group of errors is interference between gases.
+
+322
+00:21:22.955 --> 00:21:27.350
+In infrared analysis, gases with overlapping absorption bands interfere:
+
+323
+00:21:27.350 --> 00:21:31.562
+nitrous oxide and water vapour can affect the carbon dioxide reading,
+
+324
+00:21:31.562 --> 00:21:36.384
+and the broadening of absorption bands by other gases — collision, or pressure,
+
+325
+00:21:36.384 --> 00:21:41.328
+broadening, notably the effect of nitrous oxide on carbon dioxide — causes error,
+
+326
+00:21:41.328 --> 00:21:43.648
+for which modern analysers compensate.
+
+327
+00:21:43.788 --> 00:21:48.812
+The presence of one agent can affect the reading of another unless the analyser
+
+328
+00:21:48.812 --> 00:21:51.927
+identifies them. In paramagnetic oxygen analysis,
+
+329
+00:21:51.927 --> 00:21:57.015
+water vapour and the small paramagnetism of other species can cause minor error.
+
+330
+00:21:57.155 --> 00:21:59.244
+A second group concerns the sample:
+
+331
+00:21:59.244 --> 00:22:03.006
+water vapour and condensation must be removed or accounted for,
+
+332
+00:22:03.006 --> 00:22:06.469
+since water absorbs infrared and can block sampling lines;
+
+333
+00:22:06.469 --> 00:22:11.066
+the partial pressure or concentration measured depends on the total pressure,
+
+334
+00:22:11.066 --> 00:22:15.544
+so changes in atmospheric or sampling-line pressure cause error and must be
+
+335
+00:22:15.544 --> 00:22:16.141
+corrected.
+
+336
+00:22:16.281 --> 00:22:21.303
+A third concerns the device: zero drift and gain drift require regular calibration
+
+337
+00:22:21.303 --> 00:22:25.773
+against known gas mixtures and zeroing against a gas free of the analyte,
+
+338
+00:22:25.773 --> 00:22:29.202
+and the non-linear infrared response must be linearised.
+
+339
+00:22:29.202 --> 00:22:32.815
+The fuel cell is consumed and must be checked and replaced.
+
+340
+00:22:32.955 --> 00:22:37.429
+So gas-analysis errors arise from interference between gases with overlapping
+
+341
+00:22:37.429 --> 00:22:40.044
+infrared bands and from collision broadening,
+
+342
+00:22:40.044 --> 00:22:44.867
+from water vapour and pressure effects on the sample, and from zero and gain drift;
+
+343
+00:22:44.867 --> 00:22:49.110
+they are managed by gas compensation, water removal, pressure correction,
+
+344
+00:22:49.110 --> 00:22:53.294
+regular calibration against known and analyte-free gases, linearisation,
+
+345
+00:22:53.294 --> 00:22:55.269
+and replacement of consumed cells.
+
+346
+00:22:55.769 --> 00:22:59.844
+How does gas analysis support low-flow anaesthesia?
+
+347
+00:23:00.344 --> 00:23:04.589
+Gas analysis is essential to the safe conduct of low-flow anaesthesia,
+
+348
+00:23:04.589 --> 00:23:09.561
+and explaining this relationship illustrates the practical importance of measuring
+
+349
+00:23:09.561 --> 00:23:14.230
+the inspired and expired gas concentrations and shows why low-flow techniques
+
+350
+00:23:14.230 --> 00:23:18.051
+became safe only once comprehensive gas analysis was available.
+
+351
+00:23:18.191 --> 00:23:22.736
+In low-flow anaesthesia, the fresh-gas flow delivered to the circle breathing
+
+352
+00:23:22.736 --> 00:23:25.864
+system is less than the patient's minute ventilation,
+
+353
+00:23:25.864 --> 00:23:30.527
+so that a large proportion of the expired gas, after carbon-dioxide absorption,
+
+354
+00:23:30.527 --> 00:23:31.353
+is rebreathed.
+
+355
+00:23:31.493 --> 00:23:35.915
+This economical and environmentally favourable technique has an important
+
+356
+00:23:35.915 --> 00:23:40.821
+consequence: because much of the gas is recirculated and the patient continuously
+
+357
+00:23:40.821 --> 00:23:43.668
+consumes oxygen and takes up anaesthetic agent,
+
+358
+00:23:43.668 --> 00:23:48.453
+the concentrations of oxygen and agent in the gas the patient actually inspires
+
+359
+00:23:48.453 --> 00:23:53.117
+differ from, and are lower than, the concentrations set on the flowmeters and
+
+360
+00:23:53.117 --> 00:23:53.723
+vaporiser.
+
+361
+00:23:53.863 --> 00:23:59.266
+At low flows the inspired oxygen concentration tends to fall as oxygen is consumed
+
+362
+00:23:59.266 --> 00:24:03.484
+and the inspired agent concentration lags the vaporiser setting.
+
+363
+00:24:03.624 --> 00:24:08.425
+Therefore the fresh-gas settings no longer reliably indicate what the patient is
+
+364
+00:24:08.425 --> 00:24:13.346
+breathing, and the only safe way to conduct low-flow anaesthesia is to measure the
+
+365
+00:24:13.346 --> 00:24:18.266
+inspired gas directly: continuous analysis of the inspired oxygen guards against a
+
+366
+00:24:18.266 --> 00:24:21.207
+hypoxic mixture developing as oxygen is consumed,
+
+367
+00:24:21.207 --> 00:24:25.948
+and continuous analysis of the inspired and end-tidal agent allows the depth of
+
+368
+00:24:25.948 --> 00:24:28.648
+anaesthesia to be controlled despite the lag.
+
+369
+00:24:28.788 --> 00:24:32.683
+Carbon dioxide analysis confirms the absorbent is working.
+
+370
+00:24:32.683 --> 00:24:36.041
+Thus gas analysis makes low-flow anaesthesia safe.
+
+371
+00:24:36.181 --> 00:24:41.205
+So gas analysis supports low-flow anaesthesia by directly measuring the inspired
+
+372
+00:24:41.205 --> 00:24:46.416
+gas, which at low flows differs from the fresh-gas settings as the patient consumes
+
+373
+00:24:46.416 --> 00:24:51.376
+oxygen and takes up agent: inspired-oxygen analysis guards against a developing
+
+374
+00:24:51.376 --> 00:24:56.462
+hypoxic mixture, inspired and end-tidal agent analysis controls depth despite the
+
+375
+00:24:56.462 --> 00:25:01.234
+lag, and carbon dioxide analysis confirms absorption — making the economical
+
+376
+00:25:01.234 --> 00:25:02.741
+low-flow technique safe.
+
+377
+00:25:14.255 --> 00:25:19.865
+Briefly, how are gases measured in blood, and how does that relate to gas analysis?
+
+378
+00:25:20.365 --> 00:25:24.984
+The measurement of gases dissolved in blood — the blood-gas analysis performed on
+
+379
+00:25:24.984 --> 00:25:29.203
+an arterial sample — is closely related to the analysis of respired gases,
+
+380
+00:25:29.203 --> 00:25:33.651
+sharing some principles, and a brief account relates the two and completes the
+
+381
+00:25:33.651 --> 00:25:36.045
+picture of gas measurement in anaesthesia.
+
+382
+00:25:36.185 --> 00:25:41.189
+The blood-gas analyser measures the partial pressures of oxygen and carbon dioxide
+
+383
+00:25:41.189 --> 00:25:44.057
+and the pH of a blood sample, using electrodes.
+
+384
+00:25:44.197 --> 00:25:48.340
+The oxygen tension is measured by the polarographic Clark electrode,
+
+385
+00:25:48.340 --> 00:25:51.568
+the same principle as the gas-phase oxygen electrode,
+
+386
+00:25:51.568 --> 00:25:55.527
+in which oxygen is reduced at a cathode under an applied voltage,
+
+387
+00:25:55.527 --> 00:25:58.939
+generating a current proportional to the oxygen tension.
+
+388
+00:25:59.079 --> 00:26:03.594
+The carbon dioxide tension is measured by the Severinghaus electrode,
+
+389
+00:26:03.594 --> 00:26:08.763
+in which carbon dioxide diffuses across a membrane into a bicarbonate solution,
+
+390
+00:26:08.763 --> 00:26:12.231
+changing its pH, which is measured by a pH electrode,
+
+391
+00:26:12.231 --> 00:26:15.633
+the pH change reflecting the carbon dioxide tension.
+
+392
+00:26:15.773 --> 00:26:19.011
+The pH itself is measured by a glass pH electrode.
+
+393
+00:26:19.011 --> 00:26:24.127
+From these measured values, the analyser calculates the derived bicarbonate and
+
+394
+00:26:24.127 --> 00:26:24.904
+base excess.
+
+395
+00:26:25.044 --> 00:26:27.996
+Modern analysers also incorporate a co-oximeter,
+
+396
+00:26:27.996 --> 00:26:32.363
+measuring the haemoglobin and its saturation and the dyshaemoglobins by
+
+397
+00:26:32.363 --> 00:26:34.516
+multi-wavelength spectrophotometry.
+
+398
+00:26:34.656 --> 00:26:39.357
+The relationship to respired-gas analysis is that both measure the same gases by
+
+399
+00:26:39.357 --> 00:26:44.175
+related principles — the oxygen electrode and infrared and electrochemical methods
+
+400
+00:26:44.175 --> 00:26:48.993
+— and the respired end-tidal values are interpreted against the arterial blood-gas
+
+401
+00:26:48.993 --> 00:26:52.107
+values, the gradients between them being informative.
+
+402
+00:26:52.247 --> 00:26:56.929
+So blood-gas analysis measures the oxygen tension by the polarographic Clark
+
+403
+00:26:56.929 --> 00:27:01.980
+electrode, the carbon dioxide tension by the Severinghaus electrode through its pH
+
+404
+00:27:01.980 --> 00:27:06.970
+change, and the pH by a glass electrode, calculating bicarbonate and base excess,
+
+405
+00:27:06.970 --> 00:27:11.960
+with co-oximetry for saturation; it shares principles with respired-gas analysis,
+
+406
+00:27:11.960 --> 00:27:15.841
+and the end-tidal and arterial values are interpreted together.
+
+407
+00:27:16.341 --> 00:27:22.251
+Summarise the clinical applications and the configuration of the modern gas monitor.
+
+408
+00:27:22.751 --> 00:27:27.243
+Drawing the applications together, the modern anaesthetic gas monitor combines
+
+409
+00:27:27.243 --> 00:27:31.736
+several analysers to provide continuous measurement of all the relevant gases,
+
+410
+00:27:31.736 --> 00:27:36.402
+and summarising its configuration and uses shows how the principles discussed are
+
+411
+00:27:36.402 --> 00:27:38.879
+integrated into a single essential monitor.
+
+412
+00:27:39.019 --> 00:27:42.177
+The modern monitor is typically a sidestream device,
+
+413
+00:27:42.177 --> 00:27:47.217
+aspirating a continuous sample from the patient connection through a sampling line,
+
+414
+00:27:47.217 --> 00:27:49.829
+with a water trap, to a bench of analysers:
+
+415
+00:27:49.829 --> 00:27:52.622
+an infrared analyser measuring carbon dioxide,
+
+416
+00:27:52.622 --> 00:27:57.116
+nitrous oxide and the volatile agent, with automatic agent identification;
+
+417
+00:27:57.116 --> 00:28:01.185
+a fast paramagnetic analyser, or sometimes an electrochemical cell,
+
+418
+00:28:01.185 --> 00:28:04.768
+measuring oxygen; and the necessary processing and display.
+
+419
+00:28:04.908 --> 00:28:08.570
+From these it displays, continuously and breath by breath,
+
+420
+00:28:08.570 --> 00:28:11.727
+the inspired and end-tidal oxygen, carbon dioxide,
+
+421
+00:28:11.727 --> 00:28:14.190
+nitrous oxide and agent concentrations,
+
+422
+00:28:14.190 --> 00:28:18.547
+the agent identity and its value in fractions of the minimum alveolar
+
+423
+00:28:18.547 --> 00:28:20.631
+concentration, and the capnogram.
+
+424
+00:28:20.771 --> 00:28:25.325
+Its clinical applications are: guaranteeing a non-hypoxic inspired oxygen;
+
+425
+00:28:25.325 --> 00:28:28.772
+capnography for ventilation, the airway and circulation;
+
+426
+00:28:28.772 --> 00:28:33.572
+titration of anaesthetic depth by the end-tidal agent against the age-adjusted
+
+427
+00:28:33.572 --> 00:28:37.942
+minimum alveolar concentration, preventing both awareness and overdose;
+
+428
+00:28:37.942 --> 00:28:42.620
+the safe conduct of low-flow anaesthesia; detection of agent and gas errors;
+
+429
+00:28:42.620 --> 00:28:45.389
+and detection of events such as air embolism.
+
+430
+00:28:45.529 --> 00:28:48.068
+With its alarms, it is a mandatory monitor.
+
+431
+00:28:48.208 --> 00:28:53.170
+So the modern gas monitor is a sidestream device combining infrared analysis of
+
+432
+00:28:53.170 --> 00:28:58.006
+carbon dioxide, nitrous oxide and agents with paramagnetic or electrochemical
+
+433
+00:28:58.006 --> 00:29:02.152
+oxygen analysis, displaying inspired and end-tidal concentrations,
+
+434
+00:29:02.152 --> 00:29:07.051
+agent identity and minimum-alveolar-concentration fractions and the capnogram;
+
+435
+00:29:07.051 --> 00:29:11.636
+it guarantees a non-hypoxic oxygen, monitors ventilation, titrates depth,
+
+436
+00:29:11.636 --> 00:29:16.284
+enables low-flow anaesthesia and detects errors and events — an essential,
+
+437
+00:29:16.284 --> 00:29:17.477
+integrated monitor.
+
+438
+00:29:17.977 --> 00:29:21.796
+What safety considerations attend gas analysis?
+
+439
+00:29:22.296 --> 00:29:26.964
+The safe use of gas analysis depends on appreciating both the safety functions it
+
+440
+00:29:26.964 --> 00:29:31.747
+serves and the hazards of the equipment, and a brief account completes the station.
+
+441
+00:29:31.887 --> 00:29:36.052
+The foremost safety point is that gas analysis provides several essential
+
+442
+00:29:36.052 --> 00:29:38.505
+protections that must be active and heeded:
+
+443
+00:29:38.505 --> 00:29:43.183
+the inspired-oxygen analyser with its low-oxygen alarm is the last line of defence
+
+444
+00:29:43.183 --> 00:29:46.207
+against a hypoxic mixture and must always be enabled;
+
+445
+00:29:46.207 --> 00:29:50.315
+the agent analyser guards against both awareness, from too little agent,
+
+446
+00:29:50.315 --> 00:29:53.567
+and overdose, from too much, and against the wrong agent;
+
+447
+00:29:53.567 --> 00:29:56.420
+and capnography guards the airway and ventilation.
+
+448
+00:29:56.560 --> 00:30:00.933
+Failing to enable the alarms, or ignoring them, removes these protections.
+
+449
+00:30:01.073 --> 00:30:04.756
+The equipment has minor hazards: the aspirated sidestream sample,
+
+450
+00:30:04.756 --> 00:30:09.289
+containing anaesthetic agents, must be scavenged or returned and not vented into
+
+451
+00:30:09.289 --> 00:30:12.065
+theatre; the continuous aspiration of sample gas,
+
+452
+00:30:12.065 --> 00:30:16.201
+often around one hundred and fifty to two hundred millilitres per minute,
+
+453
+00:30:16.201 --> 00:30:20.734
+can affect ventilation in neonates and in low-flow systems and must be accounted
+
+454
+00:30:20.734 --> 00:30:24.927
+for; water and condensation must be managed to prevent blockage and error;
+
+455
+00:30:24.927 --> 00:30:29.063
+and the analysers require calibration and maintenance to remain accurate.
+
+456
+00:30:29.203 --> 00:30:33.022
+Infection control requires appropriate sampling lines and filters.
+
+457
+00:30:33.022 --> 00:30:35.568
+The readings must be interpreted in context,
+
+458
+00:30:35.568 --> 00:30:39.677
+allowing for the transit delay and for the conditions that cause error.
+
+459
+00:30:39.817 --> 00:30:43.990
+So the key safety considerations are that the protective functions — the
+
+460
+00:30:43.990 --> 00:30:46.192
+inspired-oxygen alarm against hypoxia,
+
+461
+00:30:46.192 --> 00:30:48.858
+agent analysis against awareness and overdose,
+
+462
+00:30:48.858 --> 00:30:53.610
+and capnography — must be enabled and heeded; while the equipment's minor hazards,
+
+463
+00:30:53.610 --> 00:30:57.609
+the scavenging of sample gas, the aspirated volume in small patients,
+
+464
+00:30:57.609 --> 00:31:01.897
+water management, calibration, and infection control, are readily managed.
+
+465
+00:31:13.411 --> 00:31:15.757
+Finally, draw the station together.
+
+466
+00:31:16.257 --> 00:31:20.737
+Drawing the station together, gas analysis is the continuous measurement of the
+
+467
+00:31:20.737 --> 00:31:23.572
+composition of the respired and anaesthetic gases,
+
+468
+00:31:23.572 --> 00:31:27.201
+and it is fundamental to the safe conduct of modern anaesthesia.
+
+469
+00:31:27.341 --> 00:31:32.263
+Each gas is measured by a method exploiting its distinctive physical or chemical
+
+470
+00:31:32.263 --> 00:31:37.308
+property: oxygen by its paramagnetism or by electrochemical fuel and polarographic
+
+471
+00:31:37.308 --> 00:31:41.553
+cells; carbon dioxide, nitrous oxide and the volatile agents by their
+
+472
+00:31:41.553 --> 00:31:43.706
+characteristic infrared absorption,
+
+473
+00:31:43.706 --> 00:31:48.013
+the multi-wavelength analyser identifying the agent and expressing its
+
+474
+00:31:48.013 --> 00:31:52.320
+concentration in fractions of the minimum alveolar concentration; and,
+
+475
+00:31:52.320 --> 00:31:55.949
+comprehensively, by mass spectrometry and Raman scattering.
+
+476
+00:31:56.089 --> 00:32:00.473
+The infrared and fast paramagnetic analysers respond breath by breath,
+
+477
+00:32:00.473 --> 00:32:03.040
+displaying inspired and end-tidal values,
+
+478
+00:32:03.040 --> 00:32:06.735
+while the electrochemical oxygen cells give average values.
+
+479
+00:32:06.875 --> 00:32:10.955
+The measurements guarantee a non-hypoxic inspired oxygen through the
+
+480
+00:32:10.955 --> 00:32:15.635
+inspired-oxygen alarm, monitor ventilation and the airway through capnography,
+
+481
+00:32:15.635 --> 00:32:19.355
+titrate anaesthetic depth, and make low-flow anaesthesia safe,
+
+482
+00:32:19.355 --> 00:32:24.155
+while the related blood-gas analysis measures the dissolved gases by electrodes.
+
+483
+00:32:24.295 --> 00:32:26.813
+Errors from gas interference, water vapour,
+
+484
+00:32:26.813 --> 00:32:30.503
+pressure and drift are managed by compensation and calibration.
+
+485
+00:32:30.643 --> 00:32:35.179
+So gas analysis unites a range of physical principles — magnetic, optical,
+
+486
+00:32:35.179 --> 00:32:40.144
+electrochemical and mass-based — to measure each respiratory and anaesthetic gas,
+
+487
+00:32:40.144 --> 00:32:44.742
+providing the continuous knowledge of inspired and expired composition that
+
+488
+00:32:44.742 --> 00:32:47.868
+guarantees oxygenation, controls anaesthetic depth,
+
+489
+00:32:47.868 --> 00:32:51.178
+monitors ventilation and enables low-flow anaesthesia,
+
+490
+00:32:51.178 --> 00:32:55.837
+making it one of the indispensable foundations of safe anaesthetic practice.
+
+491
+00:32:56.337 --> 00:33:00.796
+Describe the sampling system of a sidestream gas analyser.
+
+492
+00:33:01.296 --> 00:33:05.809
+The sampling system of the sidestream gas analyser — the arrangement by which a
+
+493
+00:33:05.809 --> 00:33:10.436
+continuous sample of gas is drawn from the patient to the remote analyser — is an
+
+494
+00:33:10.436 --> 00:33:14.606
+important practical aspect, because its design governs the response time,
+
+495
+00:33:14.606 --> 00:33:17.747
+the handling of water, and the fate of the sampled gas,
+
+496
+00:33:17.747 --> 00:33:20.432
+all of which affect the measurement and safety.
+
+497
+00:33:20.572 --> 00:33:23.969
+The system begins at a sampling port at the patient connection,
+
+498
+00:33:23.969 --> 00:33:28.444
+near the tracheal tube or airway, from which a fine-bore sampling tube conducts the
+
+499
+00:33:28.444 --> 00:33:29.468
+gas to the monitor.
+
+500
+00:33:29.608 --> 00:33:33.800
+A pump within the monitor aspirates the sample continuously at a defined rate,
+
+501
+00:33:33.800 --> 00:33:37.939
+typically around one hundred and fifty to two hundred millilitres per minute,
+
+502
+00:33:37.939 --> 00:33:40.680
+drawing gas through the line to the analyser cells.
+
+503
+00:33:40.820 --> 00:33:44.686
+Because expired gas is warm and fully saturated with water vapour,
+
+504
+00:33:44.686 --> 00:33:49.490
+water management is essential: the sampling line is made of a material that allows
+
+505
+00:33:49.490 --> 00:33:52.537
+some water vapour to permeate out, and a water trap,
+
+506
+00:33:52.537 --> 00:33:57.165
+or a section of permeable tubing, removes condensed water before it reaches and
+
+507
+00:33:57.165 --> 00:33:59.508
+damages the analyser or blocks the line.
+
+508
+00:33:59.648 --> 00:34:02.861
+The continuous aspiration of gas must be accounted for,
+
+509
+00:34:02.861 --> 00:34:07.594
+since in a neonate or a low-flow circle it represents a significant proportion of
+
+510
+00:34:07.594 --> 00:34:11.801
+the gas flow and can affect ventilation or the circuit; the sampled gas,
+
+511
+00:34:11.801 --> 00:34:16.300
+containing anaesthetic agents, is then either scavenged or, in some monitors,
+
+512
+00:34:16.300 --> 00:34:19.104
+returned to the breathing system to conserve it.
+
+513
+00:34:19.244 --> 00:34:23.496
+The transit time through the line introduces a delay between the breath and its
+
+514
+00:34:23.496 --> 00:34:23.980
+analysis.
+
+515
+00:34:24.120 --> 00:34:28.650
+So the sidestream sampling system draws gas through a fine line from a port at the
+
+516
+00:34:28.650 --> 00:34:32.903
+patient, aspirated continuously at about one hundred and fifty to two hundred
+
+517
+00:34:32.903 --> 00:34:37.488
+millilitres per minute by a pump; a water trap or permeable tubing removes water to
+
+518
+00:34:37.488 --> 00:34:41.907
+protect the analyser, the aspirated volume must be accounted for in neonates and
+
+519
+00:34:41.907 --> 00:34:45.830
+low-flow systems, the agent-containing sample is scavenged or returned,
+
+520
+00:34:45.830 --> 00:34:49.144
+and the transit through the line causes a measurement delay.
+
+521
+00:34:49.644 --> 00:34:55.383
+Distinguish gas concentration from partial pressure, and the effect of water vapour.
+
+522
+00:34:55.883 --> 00:34:59.612
+The distinction between the concentration, or fractional content,
+
+523
+00:34:59.612 --> 00:35:03.915
+of a gas and its partial pressure, and the effect of water vapour on these,
+
+524
+00:35:03.915 --> 00:35:06.325
+is conceptually important in gas analysis,
+
+525
+00:35:06.325 --> 00:35:11.088
+because the analyser may report either quantity and the two behave differently with
+
+526
+00:35:11.088 --> 00:35:15.104
+changes in pressure and humidity, which can cause confusion and error.
+
+527
+00:35:15.244 --> 00:35:19.526
+The partial pressure of a gas is the pressure it exerts within the mixture,
+
+528
+00:35:19.526 --> 00:35:24.207
+equal to the total pressure multiplied by its fractional content, by Dalton's law;
+
+529
+00:35:24.207 --> 00:35:26.547
+the concentration, or fractional content,
+
+530
+00:35:26.547 --> 00:35:29.573
+is the proportion of the mixture made up of that gas,
+
+531
+00:35:29.573 --> 00:35:31.628
+expressed as a fraction or per cent.
+
+532
+00:35:31.768 --> 00:35:34.261
+The two are related through the total pressure,
+
+533
+00:35:34.261 --> 00:35:38.503
+so a given fractional content corresponds to a higher partial pressure at higher
+
+534
+00:35:38.503 --> 00:35:39.299
+total pressure.
+
+535
+00:35:39.439 --> 00:35:44.044
+This matters because some analysers fundamentally respond to partial pressure — the
+
+536
+00:35:44.044 --> 00:35:48.538
+infrared and the paramagnetic analysers respond to the number of molecules in the
+
+537
+00:35:48.538 --> 00:35:53.033
+light path or field, that is, to partial pressure — while the clinically familiar
+
+538
+00:35:53.033 --> 00:35:57.416
+value is often the concentration; the conversion depends on the total pressure,
+
+539
+00:35:57.416 --> 00:36:00.579
+so the analyser must know or assume the ambient pressure,
+
+540
+00:36:00.579 --> 00:36:03.631
+and a change in pressure causes error if not corrected.
+
+541
+00:36:03.771 --> 00:36:08.203
+Water vapour exerts its own partial pressure and dilutes the other gases:
+
+542
+00:36:08.203 --> 00:36:13.243
+saturated expired gas contains water vapour at about six point three kilopascals at
+
+543
+00:36:13.243 --> 00:36:18.282
+body temperature, which lowers the partial pressures and fractional contents of the
+
+544
+00:36:18.282 --> 00:36:20.347
+other gases compared with dry gas.
+
+545
+00:36:20.487 --> 00:36:23.576
+Analysers may report values on a wet or dry basis,
+
+546
+00:36:23.576 --> 00:36:28.209
+and the removal or accounting of water vapour is necessary for consistency.
+
+547
+00:36:28.349 --> 00:36:32.475
+So partial pressure is the total pressure times the fractional content,
+
+548
+00:36:32.475 --> 00:36:34.741
+the two related through total pressure,
+
+549
+00:36:34.741 --> 00:36:39.157
+with infrared and paramagnetic analysers responding fundamentally to partial
+
+550
+00:36:39.157 --> 00:36:41.830
+pressure and so requiring pressure correction;
+
+551
+00:36:41.830 --> 00:36:46.072
+water vapour exerts its own partial pressure and dilutes the other gases,
+
+552
+00:36:46.072 --> 00:36:49.675
+so its presence lowers their values and must be accounted for,
+
+553
+00:36:49.675 --> 00:36:52.755
+the analyser reporting on a defined wet or dry basis.
+
+554
+00:37:04.268 --> 00:37:09.857
+How does gas analysis contribute to occupational and environmental safety?
+
+555
+00:37:10.357 --> 00:37:15.043
+Gas analysis contributes importantly to occupational and environmental safety in
+
+556
+00:37:15.043 --> 00:37:18.616
+the operating theatre, beyond its role in patient monitoring,
+
+557
+00:37:18.616 --> 00:37:23.478
+and an account of this completes the picture of why measuring the anaesthetic gases
+
+558
+00:37:23.478 --> 00:37:23.947
+matters.
+
+559
+00:37:24.087 --> 00:37:28.738
+The first contribution is to the control of theatre pollution by waste anaesthetic
+
+560
+00:37:28.738 --> 00:37:29.079
+gases.
+
+561
+00:37:29.219 --> 00:37:34.123
+Anaesthetic agents and nitrous oxide leaking or vented into the theatre atmosphere
+
+562
+00:37:34.123 --> 00:37:38.251
+expose staff to low concentrations chronically, which is undesirable,
+
+563
+00:37:38.251 --> 00:37:41.720
+and occupational exposure limits are set for these agents.
+
+564
+00:37:41.860 --> 00:37:46.432
+Gas analysis allows the monitoring of the concentrations of agents and nitrous
+
+565
+00:37:46.432 --> 00:37:51.121
+oxide in the theatre atmosphere, verifying that scavenging is effective and that
+
+566
+00:37:51.121 --> 00:37:54.169
+exposure remains within limits, and detecting leaks.
+
+567
+00:37:54.309 --> 00:37:58.575
+The second contribution is to the efficiency and environmental impact of
+
+568
+00:37:58.575 --> 00:38:02.841
+anaesthesia: the volatile agents and nitrous oxide are greenhouse gases,
+
+569
+00:38:02.841 --> 00:38:07.640
+and the accurate measurement of inspired and expired agent concentrations enables
+
+570
+00:38:07.640 --> 00:38:09.892
+low-flow and minimal-flow anaesthesia,
+
+571
+00:38:09.892 --> 00:38:13.565
+which greatly reduces the quantity of agent used and released,
+
+572
+00:38:13.565 --> 00:38:16.113
+lessening both cost and environmental harm;
+
+573
+00:38:16.113 --> 00:38:20.675
+agent analysis is essential to conducting these economical techniques safely,
+
+574
+00:38:20.675 --> 00:38:21.445
+as discussed.
+
+575
+00:38:21.585 --> 00:38:25.884
+The third is the proper functioning of the sampling and scavenging of the
+
+576
+00:38:25.884 --> 00:38:30.712
+analyser's own sample gas, which must be scavenged or returned rather than vented.
+
+577
+00:38:30.712 --> 00:38:34.833
+Thus gas analysis supports a safe and sustainable theatre environment.
+
+578
+00:38:34.973 --> 00:38:39.970
+So gas analysis contributes to occupational and environmental safety by monitoring
+
+579
+00:38:39.970 --> 00:38:44.844
+theatre pollution with anaesthetic agents and nitrous oxide to verify scavenging
+
+580
+00:38:44.844 --> 00:38:47.159
+and keep staff exposure within limits,
+
+581
+00:38:47.159 --> 00:38:51.668
+by enabling low-flow anaesthesia that reduces the use and release of these
+
+582
+00:38:51.668 --> 00:38:56.542
+greenhouse agents, and by ensuring its own sample gas is scavenged or returned —
+
+583
+00:38:56.542 --> 00:38:59.101
+supporting a safe and sustainable theatre.
+
+584
+00:38:59.601 --> 00:39:03.761
+Thank you. A thorough and accomplished account. Let us stop there.
+
+585
+00:39:04.261 --> 00:39:07.739
+Before we close, here are the take-home messages.
+
+586
+00:39:07.879 --> 00:39:13.607
+First, Gas analysis continuously measures the inspired and expired oxygen,
+
+587
+00:39:13.607 --> 00:39:19.877
+carbon dioxide, nitrous oxide and volatile agents - each by a method exploiting a
+
+588
+00:39:19.877 --> 00:39:26.148
+distinctive property: OXYGEN by paramagnetism (strongly attracted into a magnetic
+
+589
+00:39:26.148 --> 00:39:32.495
+field, owing to two unpaired electrons - the modern fast paramagnetic analyser) or
+
+590
+00:39:32.495 --> 00:39:38.920
+by electrochemical cells; CO2, N2O and AGENTS by characteristic infrared absorption
+
+591
+00:39:38.920 --> 00:39:42.481
+(CO2 ~4.3, N2O ~4.5, agents ~3.3 micrometres).
+
+592
+00:39:42.621 --> 00:39:48.461
+Second, Electrochemical oxygen cells: the FUEL (galvanic) cell is self-powered,
+
+593
+00:39:48.461 --> 00:39:53.784
+generates a current as oxygen is reduced - simple but consumed and slow,
+
+594
+00:39:53.784 --> 00:39:59.403
+used for average inspired oxygen; the polarographic CLARK electrode needs an
+
+595
+00:39:59.403 --> 00:40:03.912
+applied voltage and measures oxygen tension in blood and gas.
+
+596
+00:40:04.052 --> 00:40:09.520
+Third, The INSPIRED OXYGEN analyser (in the inspiratory limb/common gas outlet,
+
+597
+00:40:09.520 --> 00:40:15.058
+with a low-oxygen alarm) is the essential last line of defence against a hypoxic
+
+598
+00:40:15.058 --> 00:40:20.526
+mixture; multi-wavelength infrared agent analysis IDENTIFIES the volatile agent
+
+599
+00:40:20.526 --> 00:40:25.995
+(isoflurane/sevoflurane/desflurane by their spectral pattern) and expresses its
+
+600
+00:40:25.995 --> 00:40:31.532
+end-tidal concentration as a fraction of the age-adjusted MAC - guarding against
+
+601
+00:40:31.532 --> 00:40:33.471
+both awareness and overdose.
+
+602
+00:40:33.611 --> 00:40:38.489
+Fourth, Fast analysers (infrared, fast paramagnetic, mass spectrometer,
+
+603
+00:40:38.489 --> 00:40:43.230
+Raman) show breath-by-breath inspired/end-tidal values and waveforms;
+
+604
+00:40:43.230 --> 00:40:46.460
+slow electrochemical cells give average values;
+
+605
+00:40:46.460 --> 00:40:51.750
+mass spectrometry (separates ionised gases by mass-to-charge ratio) and Raman
+
+606
+00:40:51.750 --> 00:40:56.835
+scattering measure ALL gases including oxygen and nitrogen but are largely
+
+607
+00:40:56.835 --> 00:41:00.683
+superseded by the compact infrared+paramagnetic monitor.
+
+608
+00:41:00.823 --> 00:41:05.672
+Nitrogen measurement detects air embolism and monitors
+
+609
+00:41:05.672 --> 00:41:08.545
+denitrogenation/pre-oxygenation.
+
+610
+00:41:08.685 --> 00:41:14.655
+Fifth, Gas analysis makes LOW-FLOW anaesthesia safe because at low flows the
+
+611
+00:41:14.655 --> 00:41:20.624
+inspired concentrations differ from the fresh-gas settings (oxygen consumed,
+
+612
+00:41:20.624 --> 00:41:26.044
+agent taken up): inspired-oxygen analysis prevents a hypoxic mixture,
+
+613
+00:41:26.044 --> 00:41:31.149
+inspired/end-tidal agent analysis controls depth despite the lag.
+
+614
+00:41:31.289 --> 00:41:38.138
+Errors arise from gas interference/collision broadening (N2O on CO2), water vapour,
+
+615
+00:41:38.138 --> 00:41:42.923
+pressure and drift - managed by compensation, water traps,
+
+616
+00:41:42.923 --> 00:41:48.121
+calibration against known/analyte-free gases and linearisation.
+
+617
+00:41:59.635 --> 00:42:02.109
+Thank you. That concludes the station.
+
